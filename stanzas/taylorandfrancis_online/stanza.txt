@@ -1,0 +1,15 @@
+T -hide DOI System
+U http://dx.doi.org
+Domain doi.org
+
+HTTPHeader Access-Token
+ProxyHostnameEdit www.tandfonline.com$ www-tandfonline-com
+T Taylor & Francis
+U http://www.tandfonline.com
+HJ journalsonline.tandf.co.uk
+HJ afs.tandfonline.com
+HJ tandfonline.com
+HJ www.journalsonline.tandf.co.uk
+DJ tandfonline.com
+HJ tandfprod.literatumonline.com
+DJ literatumonline.com

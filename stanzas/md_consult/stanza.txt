@@ -1,0 +1,6 @@
+U http://home.mdconsult.com
+HJ home.mdconsult.com
+HJ www.mdconsult.com
+HJ personal.mdconsult.com
+HJ m.mdconsult.com
+DJ mdconsult.com

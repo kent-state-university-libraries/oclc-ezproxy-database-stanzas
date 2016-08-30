@@ -1,0 +1,6 @@
+Title Book24x7.com
+URL http://library.books24x7.com/library.asp?^B
+Books24x7Site ABC123
+TokenKey SomethingYouPickAndDontTellAnyone
+TokenSignatureKey YouGetThisFromBooks24x7
+DJ books24x7.com

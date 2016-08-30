@@ -1,0 +1,16 @@
+HTTPHeader X-Requested-With
+Option DomainCookieOnly
+Title JSTOR
+URL http://www.jstor.org/
+HJ https://www.jstor.org
+HJ www.jstor.org
+HJ www.jstore.org
+HJ jstor.org
+HJ jstore.org
+HJ links.jstor.org
+HJ mobile.jstor.org
+HJ about.jstor.org
+HJ plants.jstor.org
+HJ uk.jstor.org
+DJ jstor.org
+Option Cookie

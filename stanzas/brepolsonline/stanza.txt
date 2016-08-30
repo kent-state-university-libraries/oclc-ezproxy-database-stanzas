@@ -1,0 +1,5 @@
+Title Brepols Online
+URL http://www.brepolsonline.net
+Host brepolsonline.net
+Host www.brepolsonline.net
+Domain brepolsonline.net

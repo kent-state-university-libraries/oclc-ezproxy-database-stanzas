@@ -1,0 +1,5 @@
+Title A-to-Z
+URL http://atoz.ebsco.com
+Domain atoz.ebsco.com
+HJ atoz.ebsco.com
+HJ https://atoz.ebsco.com

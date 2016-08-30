@@ -1,0 +1,10 @@
+T Emerald Insight
+URL http://www.emeraldinsight.com
+HJ emeraldinsight.com
+HJ https://emeraldinsight.com
+HJ https://www.emeraldinsight.com
+HJ www.emerald-library.com
+HJ www.emeraldinsight.com
+HJ xtra.emeraldinsight.com
+DJ emerald-library.com
+DJ emeraldinsight.com

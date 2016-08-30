@@ -1,0 +1,14 @@
+HTTPHeader X-NFB-Referer
+HTTPHeader X-Requested-With
+Title National Film Board of Canada
+URL https://www.nfb.ca/
+Domain nfb.ca
+NeverProxy media1.nfb.ca
+NeverProxy media1.onf.ca
+HTTPHeader X-ONF-Referer
+HTTPHeader X-Requested-With
+Title Office national du film du Canada
+URL https://www.onf.ca/
+Domain onf.ca
+NeverProxy media1.nfb.ca
+NeverProxy media1.onf.ca

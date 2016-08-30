@@ -1,0 +1,4 @@
+Title Columbia Earthscape
+URL http://www.earthscape.org/
+Host usearch.cc.columbia.edu
+DJ earthscape.org

@@ -1,0 +1,17 @@
+T EIU Portal
+U http://www.eiu.com/default.aspx
+H www.eiu.com
+HJ https://portal.eiu.com
+HJ eiu.com
+HJ country.eiu.com
+HJ portal.eiu.com
+HJ search.eiu.com
+HJ data.eiu.com
+HJ graphics.eiu.com
+HJ gfs.eiu.com
+HJ pages.eiu.com
+HJ service.eiu.com
+HJ [For clients with corporate landing pages, the unique, full URL of EIU corporate landing page goes here.  URL example:  http://www.eiu.com/site_info.asp?info_name=corporate_landing_account_name  -- see techsupport@eiu.comfor assistance]
+HJ [For clients with corporate landing pages, the shortcut URL the landing page goes here. URL example: http://eiu.com/client_name-- see techsupport@eiu.comfor assistance]
+D eiu.com
+DJ EIU.com

@@ -1,0 +1,7 @@
+Title Nutrition Care Manual of the American Dietetic Association
+URL http://nutritioncaremanual.org/
+DJ nutritioncaremanual.org
+Find (thisHref.length < 45)
+Replace true
+Find 'ip/nopage.cfm?turl=' + thisHref
+Replace 'ip/nopage.cfm?turl=http://^Anutritioncaremanual.org' + window.location.pathname

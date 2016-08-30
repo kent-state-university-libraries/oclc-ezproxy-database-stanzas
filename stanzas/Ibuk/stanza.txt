@@ -1,0 +1,10 @@
+HTTPHeader Access-Control-Allow-*
+HTTPHeader Origin
+Option Cookie
+Title Ibuk.pl
+URL http://libra.ibuk.pl/
+DJ ibuk.pl
+HJ libra.ibuk.pl
+HJ reader.ibuk.pl
+HJ czytapi.ibuk.pl
+HJ *.ibuk.pl

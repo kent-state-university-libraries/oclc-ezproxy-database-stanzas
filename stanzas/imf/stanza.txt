@@ -1,0 +1,18 @@
+Option DomainCookieOnly
+HTTPHeader X-ST
+Title IMF eLibrary Statistics
+URL http://elibrary-data.imf.org/
+DJ imf.org
+HJ data.imf.org
+HJ datahelp.imf.org
+HJ www.elibrary.imf.org
+HJ elibrary-data.imf.org
+HJ elibrary.imf.org
+HJ www.imfstatistics.org
+HJ www.imf.org
+HJ www.imfbookstore.org
+HJ elibrary.imf.org
+DJ imfstatistics.org
+NeverProxy by.uservoice.com
+NeverProxy widget.uservoice.com
+Option Cookie

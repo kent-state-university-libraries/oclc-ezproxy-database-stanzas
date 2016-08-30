@@ -1,0 +1,5 @@
+Title Global Access
+URL http://www.primark.com
+Domain primark.com
+Host 206.181.209.21
+Host 206.181.209.22

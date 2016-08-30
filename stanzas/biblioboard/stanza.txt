@@ -1,0 +1,16 @@
+# Requires v5.2 (Aug 2009)
+HTTPHeader X-Biblio-*
+HTTPHeader X-Auth-Token
+HTTPHeader X-Total-Count
+HTTPHeader Origin
+HTTPHeader Access-Control-*
+
+HTTPMethod PATCH
+HTTPMethod PUT
+HTTPMethod DELETE
+HTTPMethod OPTIONS
+
+Option HttpsHyphens
+Title BiblioBoard Library (library.biblioboard.com)
+URL https://library.biblioboard.com
+DJ library.biblioboard.com

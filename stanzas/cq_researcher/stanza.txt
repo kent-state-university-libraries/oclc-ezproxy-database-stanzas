@@ -1,0 +1,20 @@
+Title CQ Researcher
+HTTPHeader Wicket-Ajax
+HTTPHeader Wicket-FocusedElementId
+HTTPHeader Wicket-Ajax-BaseURL
+HTTPMethod wicketAjaxGet
+URL http://library.cqpress.com/cqresearcher/
+HJ library.cqpress.com
+HJ library2.cqpress.com
+DJ library.cqpress.com
+DJ cqpress.com
+HJ www.thecqresearcher.com
+HJ thecqresearcher.com
+HJ politicalmoneyline.cq.com
+HJ www.cq.com
+DJ cq.com
+DJ thecqresearcher.com
+Find &url=http://
+Replace &url=http://^A
+Find &url=https://
+Replace &url=https://^A

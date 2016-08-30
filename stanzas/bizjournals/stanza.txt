@@ -1,0 +1,9 @@
+Option CookiePassThrough
+AnonymousURL http://assets.bizjournals.com/*
+Title BizJournals
+URL http://www.bizjournals.com/
+DJ bizjournals.com
+Find "//www.bizjournals.com"
+Replace "//^pwww.bizjournals.com^"
+AnonymousURL -*
+Option Cookie

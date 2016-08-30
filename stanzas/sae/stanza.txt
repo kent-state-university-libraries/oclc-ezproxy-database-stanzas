@@ -1,0 +1,22 @@
+Title SAE International
+URL http://www.saejournals.org/
+HJ digitallibrary.sae.org
+HJ ev.sae.org
+HJ https://ev.sae.org/
+HJ https://magazine.sae.org
+HJ https://saemobilus.sae.org
+HJ magazine.sae.org
+HJ saeaero.saejournals.org
+HJ saealtpow.saejournals.org
+HJ saecomveh.saejournals.org
+HJ saeeng.saejournals.org
+HJ saefuel.saejournals.org
+HJ saejournals.org
+HJ saematman.saejournals.org
+HJ saemobilus.sae.org
+HJ saepcelec.saejournals.org
+HJ saepcmech.saejournals.org
+HJ saetransaf.saejournals.org
+HJ www.saejournals.org
+DJ sae.org
+DJ saejournals.org

@@ -1,0 +1,8 @@
+Option DomainCookieOnly
+T MIT Press
+U http://www.mitpressjournals.org
+HJ www.mitpressjournals.org
+DJ mitpressjournals.org
+HJ www.atypon.com
+DJ atypon.com
+Option Cookie

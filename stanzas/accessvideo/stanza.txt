@@ -1,0 +1,7 @@
+Title Access Video on Demand
+URL http://avod.infobase.com
+H https://avod.infobase.com
+H avod.films.com
+H https://secure.films.com
+D infobase.com
+D films.com

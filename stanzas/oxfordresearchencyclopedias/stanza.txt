@@ -1,0 +1,27 @@
+Title Oxford Research Encyclopedia
+URL http://oxfordre.com
+HJ africanhistory.oxfordre.com
+HJ americanhistory.oxfordre.com
+HJ asianhistory.oxfordre.com
+HJ business.oxfordre.com
+HJ classics.oxfordre.com
+HJ climatescience.oxfordre.com
+HJ communication.oxfordre.com
+HJ criminology.oxfordre.com
+HJ economics.oxfordre.com
+HJ education.oxfordre.com
+HJ environmentalscience.oxfordre.com
+HJ latinamericanhistory.oxfordre.com
+HJ linguistics.oxfordre.com
+HJ literature.oxfordre.com
+HJ naturalhazardscience.oxfordre.com
+HJ neuroscience.oxfordre.com
+HJ planetaryscience.oxfordre.com
+HJ politics.oxfordre.com
+HJ psychology.oxfordre.com
+HJ publichealth.oxfordre.com
+HJ religion.oxfordre.com
+HJ socialwork.oxfordre.com
+DJ oxfordre.com
+
+Note: This stanza will provide access to all Oxford Research Encyclopedia resources to which your institution subscribes. You can omit any HJ lines for resources you do not subscribe to, but this is not necessary.

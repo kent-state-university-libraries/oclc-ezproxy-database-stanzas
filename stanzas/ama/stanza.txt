@@ -1,0 +1,9 @@
+Title American Marketing Association
+URL https://www.ama.org/
+HJ ama.org
+HJ archive.ama.org
+HJ https://ama.org
+HJ https://archive.ama.org
+HJ journals.ama.org
+HJ www.ama.org
+DJ ama.org

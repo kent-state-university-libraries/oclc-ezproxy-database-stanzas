@@ -1,0 +1,9 @@
+Title INGENTAconnect
+U http://www.ingenta.com/
+H www.ingenta.com
+H www.ingentaconnect.com
+DJ ingenta.com
+DJ ingentaconnect.com
+H openurl.ingenta.com
+H www.publishingtechnology.com
+DJ publishingtechnology.com

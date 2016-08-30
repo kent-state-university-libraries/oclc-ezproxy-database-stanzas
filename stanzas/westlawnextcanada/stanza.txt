@@ -1,0 +1,13 @@
+Option DomainCookieOnly
+HTTPHeader x-cobalt-*
+HTTPHeader X-Requested-With
+HTTPMethod DELETE
+HTTPMethod PUT
+HTTPMethod PATCH
+T WestlawNext Canada
+MimeFilter application/json .* javascript
+U http://www.westlaw.com/search/home.html?rs=WLNC1.0&vr=3.0&sp=U%5FWindsor%2D4000
+HJ 1.next.westlaw.com
+HJ ia-nextcanada.westlaw.com
+DJ nextcanada.westlaw.com
+Option Cookie

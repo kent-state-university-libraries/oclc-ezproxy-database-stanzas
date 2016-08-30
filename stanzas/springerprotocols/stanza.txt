@@ -1,0 +1,8 @@
+Title Springer Protocols
+URL http://www.springerprotocols.com
+HJ springerprotocols.com
+HJ www.springerprotocols.com
+HJ m.springerprotocols.com
+DJ springerprotocols.com
+Find "m.springerprotocols.com"
+Replace "^pm.springerprotocols.com^"

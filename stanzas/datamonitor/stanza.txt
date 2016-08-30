@@ -1,0 +1,16 @@
+Option DomainCookieOnly
+Title Datamonitor
+URL https://service.datamonitorhealthcare.com/hkc/login
+HJ 360.datamonitor.com
+HJ datamonitor.com
+HJ datamonitorhealthcare.com
+HJ https://service.datamonitorhealthcare.com
+HJ https://www.datamonitor.com
+HJ pla.datamonitor.com
+HJ service.datamonitorhealthcare.com
+HJ www.datamonitor.com
+HJ www.datamonitorhealthcare.com
+HJ www.productscan.com
+DJ datamonitor.com
+DJ datamonitorhealthcare.com
+Option Cookie

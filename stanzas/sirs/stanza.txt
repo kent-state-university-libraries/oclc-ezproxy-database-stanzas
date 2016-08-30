@@ -1,0 +1,16 @@
+Title SIRS
+URL http://sks.sirs.com
+HJ sks.sirs.com
+HJ ars.sirs.com
+HJ discoverer.sirs.com
+HJ researcher.sirs.com
+HJ decades.sirs.com
+HJ discoverer.prod.sirs.com
+HJ www.sirs.com
+HJ m.sirs.com
+HJ sirs.com
+DJ sirs.com
+HJ www.proquestk12.com
+HJ auth.proquestk12.com
+HJ proquestk12.com
+DJ proquestk12.com

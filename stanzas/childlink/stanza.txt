@@ -1,0 +1,14 @@
+Title Childlink
+URL http://www.childlink.co.uk/
+HJ childlink.co.uk
+HJ hse.nscph.com
+HJ https://childlink.co.uk
+HJ https://members.childlink.co.uk
+HJ https://www.childlink.co.uk
+HJ members.childlink.co.uk
+HJ members.nscph.com
+HJ nscph.com
+HJ www.childlink.co.uk
+HJ www.nscph.com
+DJ childlink.co.uk
+DJ nscph.com

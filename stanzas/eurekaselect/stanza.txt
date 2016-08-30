@@ -1,0 +1,7 @@
+Title EurekaSelect
+URL http://www.eurekaselect.com/
+HJ beta.eurekaselect.com
+HJ bsp-cms.eurekaselect.com
+HJ eurekaselect.com
+HJ www.eurekaselect.com
+DJ eurekaselect.com

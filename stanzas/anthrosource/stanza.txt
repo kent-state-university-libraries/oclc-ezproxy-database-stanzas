@@ -1,0 +1,4 @@
+T AnthroSource
+U http://www.anthrosource.net
+HJ www.anthrosource.net
+DJ anthrosource.net

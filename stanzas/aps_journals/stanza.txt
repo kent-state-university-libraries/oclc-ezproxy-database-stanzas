@@ -1,0 +1,22 @@
+Title APS Journals
+MimeFilter application/json .* javascript
+URL http://publish.aps.org
+HJ archive.aps.org
+HJ focus.aps.org
+HJ journals.aps.org
+HJ link.aps.org
+HJ physics.aps.org
+HJ pra.aps.org
+HJ prb.aps.org
+HJ prc.aps.org
+HJ prd.aps.org
+HJ pre.aps.org
+HJ prl.aps.org
+HJ prola.aps.org
+HJ prst-ab.aps.org
+HJ prst-per.aps.org
+HJ publish.aps.org
+HJ rmp.aps.org
+HJ searchapi.aps.org
+HJ www.aps.org
+DJ aps.org

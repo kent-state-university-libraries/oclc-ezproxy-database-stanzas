@@ -1,0 +1,5 @@
+NeverProxy news.morningstar.com
+T Morningstar Investment Research Center
+U http://library.morningstar.com
+DJ morningstar.com
+HJ library.morningstar.com

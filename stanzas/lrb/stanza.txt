@@ -1,0 +1,12 @@
+Title London Review of Books
+URL http://www.lrb.co.uk
+HJ cdn.enquirer.lrb.co.uk
+HJ cdn.lrb.co.uk
+HJ cdn.thespace.lrb.co.uk
+HJ enquirer.lrb.co.uk
+HJ https://lrb.co.uk
+HJ https://www.lrb.co.uk
+HJ lrb.co.uk
+HJ thespace.lrb.co.uk
+HJ www.lrb.co.uk
+DJ lrb.co.uk

@@ -1,0 +1,8 @@
+Title Hogrefe eLibrary
+HTTPHeader X-Requested-With
+URL https://elibrary.hogrefe.de/content/bibliothek
+HJ elibrary.hogrefe.de
+HJ https://elibrary.hogrefe.de
+DJ hogrefe.de
+Find href=\"https:\/\/elibrary.hogrefe.de
+Replace href=\"https:\/\/^Selibrary.hogrefe.de^

@@ -1,0 +1,37 @@
+Option DomainCookieOnly
+Title Canadian Pharmacists Association e-CPS English
+URL -Form=post -RewriteHost ecps https://www.e-therapeutics.ca/wps/portal/!ut/p/.cmd/li
+FormVariable loginname= yourusername
+FormVariable loginpassword= yourpassword
+FormVariable product=ECPS
+DJ e-therapeutics.ca
+Option Cookie
+
+Option DomainCookieOnly
+Title Canadian Pharmacists Association e-CPS French
+URL -Form=post -RewriteHost ecpsf https://www.e-therapeutics.ca/wps/portal/!ut/p/.cmd/li
+FormVariable loginname= yourusername
+FormVariable loginpassword= yourpassword
+FormVariable product=ECPSF
+DJ e-therapeutics.ca
+Option Cookie
+
+Option DomainCookieOnly
+Title Canadian Pharmacists Association e-Therapeutics
+URL -Form=post -RewriteHost et https://www.e-therapeutics.ca/wps/portal/!ut/p/.cmd/li
+FormVariable loginname= yourusername
+FormVariable loginpassword= yourpassword
+FormVariable product=ET
+DJ e-therapeutics.ca
+DJ lexi.com
+Option Cookie
+
+Option DomainCookieOnly
+Title Canadian Pharmacists Association e-Therapeutics+
+URL -Form=post -RewriteHost etphttps://www.e-therapeutics.ca/wps/portal/!ut/p/.cmd/li
+FormVariable loginname= yourusername
+FormVariable loginpassword= yourpassword
+FormVariable product=ETP
+DJ e-therapeutics.ca
+DJ lexi.com
+Option Cookie

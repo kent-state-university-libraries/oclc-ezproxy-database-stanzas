@@ -1,0 +1,13 @@
+Title SPIE Digital Library
+URL http://spiedigitallibrary.org/
+Find http://${FullSiteURL}
+Replace http://${FullSiteURL}.^H
+HJ biomedicaloptics.spiedigitallibrary.org
+HJ electronicimaging.spiedigitallibrary.org
+HJ nanolithography.spiedigitallibrary.org
+HJ opticalengineering.spiedigitallibrary.org
+HJ ebooks.spiedigitallibrary.org
+HJ datacoll.spie.org
+HJ proceedings.spiedigitallibrary.org
+DJ spiedigitallibrary.org
+DJ spie.org

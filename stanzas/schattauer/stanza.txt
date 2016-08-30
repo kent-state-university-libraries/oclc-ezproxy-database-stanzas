@@ -1,0 +1,27 @@
+Title Schattauer Publishers
+URL http://www.schattauer.com/
+HJ aci.schattauer.de
+HJ haemo.schattauer.de
+HJ https://aci.schattauer.de
+HJ https://haemo.schattauer.de
+HJ https://methods.schattauer.de
+HJ https://nuk.schattauer.de
+HJ https://phlebo.schattauer.de
+HJ https://schattauer.de
+HJ https://th.schattauer.de
+HJ https://tpg.schattauer.de
+HJ https://tpk.schattauer.de
+HJ https://vcot.schattauer.de
+HJ https://www.schattauer.de
+HJ methods.schattauer.de
+HJ nuk.schattauer.de
+HJ phlebo.schattauer.de
+HJ schattauer.com
+HJ schattauer.de
+HJ th.schattauer.de
+HJ tpg.schattauer.de
+HJ tpk.schattauer.de
+HJ vcot.schattauer.de
+HJ www.schattauer.de
+DJ schattauer.com
+DJ schattauer.de

@@ -1,0 +1,23 @@
+Title JAMA Network
+URL http://jamanetwork.com
+DJ jamanetwork.com
+DJ jamanetwork.org
+HJ jamanetwork.com
+HJ jamanetwork.org
+HJ www.jamanetwork.com
+HJ www.jamanetwork.org
+HJ jama.jamanetwork.com
+HJ https://jama.jamanetwork.com
+HJ archderm.jamanetwork.com
+HJ archfaci.jamanetwork.com
+HJ archpsyc.jamanetwork.com
+HJ archinte.jamanetwork.com
+HJ archneur.jamanetwork.com
+HJ archneupsy.jamanetwork.com
+HJ archopht.jamanetwork.com
+HJ archotol.jamanetwork.com
+HJ archpedi.jamanetwork.com
+HJ archsurg.jamanetwork.com
+HJ cardiology.jamanetwork.com
+HJ jama.ama-assn.org
+DJ ama-assn.org

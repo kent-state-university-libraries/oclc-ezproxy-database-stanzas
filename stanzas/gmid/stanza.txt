@@ -1,0 +1,6 @@
+Title Passport (Euromonitor International)
+URL http://www.portal.euromonitor.com/
+HJ portal.euromonitor.com
+HJ www.portal.euromonitor.com
+HJ https://www.portal.euromonitor.com
+DJ portal.euromonitor.com

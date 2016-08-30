@@ -1,0 +1,8 @@
+Title Treaty of Waitangi
+URL https://collections.bwb.co.nz/acfs/bookstore/AAAA0478/
+H collections.bwb.co.nz
+DJ bwb.co.nz
+DJ piwikpro.com
+DJ infogridpacific.com
+Find var acf_domain = "collections.bwb.co.nz";
+Replace var acf_domain = "collections.bwb.co.nz.^H";

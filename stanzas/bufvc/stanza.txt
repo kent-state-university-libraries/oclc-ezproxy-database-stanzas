@@ -1,0 +1,12 @@
+Title British Universities Film & Video Council
+URL http://bufvc.ac.uk/
+HJ bufvc.ac.uk
+HJ chronicle.bufvc.ac.uk
+HJ https://bufvc.ac.uk
+HJ https://chronicle.bufvc.ac.uk
+HJ media.bufvc.ac.uk
+HJ trilt.ac.uk
+HJ www.bufvc.ac.uk
+HJ www.trilt.ac.uk
+DJ bufvc.ac.uk
+DJ trilt.ac.uk

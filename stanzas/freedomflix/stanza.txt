@@ -1,0 +1,9 @@
+Title FreedomFlix
+URL http://freedomflix.digital.scholastic.com
+DJ scholastic.com
+Find document.domain = "scholastic.com"
+Replace document.domain = "^d"
+Find fflixServerHost = "freedomflix.digital.scholastic.com"
+Replace fflixServerHost = "^pfreedomflix.digital.scholastic.com^"
+Find limelightHost = "limelight.digital.scholastic.com"
+Replace limelightHost = "^plimelight.digital.scholastic.com^"

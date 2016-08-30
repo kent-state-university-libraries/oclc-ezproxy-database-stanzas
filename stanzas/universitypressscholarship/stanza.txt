@@ -1,0 +1,7 @@
+Title University Press Scholarship Online
+URL http://www.universitypressscholarship.com/
+H chicago.universitypressscholarship.com
+H stanford.universitypressscholarship.com
+H policypress.universitypressscholarship.com
+HJ universitypressscholarship.com
+DJ universitypressscholarship.com

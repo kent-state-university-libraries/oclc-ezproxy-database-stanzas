@@ -1,0 +1,23 @@
+ProxyHostnameEdit www.google.com$ www-google-com
+T Value Line
+MimeFilter application/json .* javascript
+U https://research.valueline.com/secure/research
+HJ research.valueline.com
+HJ www.valueline.com
+HJ www3.valueline.com
+HJ jump.valueline.com
+HJ skip.valueline.com
+HJ https://jump.valueline.com
+DJ valueline.com
+DJ www.google.com
+DJ googleapis.com
+Find name="RelayState" value="https://
+Replace name="RelayState" value="https://^A
+Find name='RelayState' value='https://
+Replace name='RelayState' value='https://^A
+Find 'http:\x2F\x2F
+Replace 'http://
+Find "//www.google.com/
+Replace "https://www.google.com/
+Find googleSearchDomain = "www.google.com";
+Replace googleSearchDomain = "^pwww.google.com^";

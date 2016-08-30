@@ -1,0 +1,8 @@
+Option DomainCookieOnly
+Title IOS Press
+URL http://content.iospress.com
+HJ content.iospress.com
+HJ www.iospress.nl
+DJ iospress.com
+DJ iospress.nl
+Option Cookie

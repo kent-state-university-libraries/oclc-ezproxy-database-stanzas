@@ -1,0 +1,9 @@
+Option DomainCookieOnly
+Title Chicago Manual of Style Online
+URL http://www.chicagomanualofstyle.org/contents.html
+HJ www.chicagomanualofstyle.org
+HJ chicagomanualofstyle.org
+HJ login.chicagomanualofstyle.org
+DJ chicagomanualofstyle.org
+DJ login.chicagomanualofstyle.org
+Option Cookie

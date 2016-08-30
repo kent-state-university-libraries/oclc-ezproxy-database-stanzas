@@ -1,0 +1,18 @@
+Title Ovid
+URL http://ovidsp.ovid.com/autologin.html
+Host https://ovidsp.ovid.com
+Host ovidsp.ovid.com
+Host ovidsp.tx.ovid.com
+Host gateway.ovid.com
+Host gateway.tx.ovid.com
+Host www.anatomy.tv
+Host anatomy.tv
+Host nursing.ovid.com
+Host https://anatomy.tv
+Host https://secure.anatomy.tv
+DJ ovid.com
+DJ anatomy.tv
+Find returnUrl=http://
+Replace returnUrl=http://^A
+Find id="returnUrl" value="http://
+Replace id="returnUrl" value="http://^A

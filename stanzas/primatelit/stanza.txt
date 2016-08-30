@@ -1,0 +1,5 @@
+Title PrimateLit
+URL http://primatelit.library.wisc.edu/
+DJ primatelit.library.wisc.edu
+Find ";domain=.library.wisc.edu"
+Replace ";domain=^l"

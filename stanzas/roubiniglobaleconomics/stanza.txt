@@ -1,0 +1,10 @@
+Option DomainCookieOnly
+## Roubini Global Economics
+Title Roubini Global Economics
+URL http://www.roubini.com
+DJ roubini.com
+HJ www.roubini.com
+DJ hitbox.com
+HJ ehg-roubiniglobaleconomics.hitbox.com
+Option Cookie
+NeverProxy static.roubini.com

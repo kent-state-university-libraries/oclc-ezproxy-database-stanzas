@@ -1,0 +1,9 @@
+Title Going Global
+URL http://online.goinglobal.com/default.aspx
+HJ goinglobal.com
+HJ https://online.goinglobal.com
+HJ online.goinglobal.com
+HJ online.usacareerguides.com
+HJ www.goinglobal.com
+DJ goinglobal.com
+DJ usacareerguides.com

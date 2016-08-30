@@ -1,0 +1,14 @@
+Option DomainCookieOnly
+Title BREPOLiS
+URL http://apps.brepolis.net/LTool/Entrance.aspx?w=1
+Host brepolis.net
+Host www.brepolis.net
+Host clt.brepolis.net
+Host apps.brepolis.net
+Host cpps.brepolis.net
+DJ brepolis.net
+DJ www.brepolis.net
+DJ clt.brepolis.net
+DJ apps.brepolis.net
+DJ cpps.brepolis.net
+Option Cookie

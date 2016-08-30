@@ -1,0 +1,14 @@
+Option DomainCookieOnly
+Title Westlaw
+URL http://www.westlaw.com/(the-rest-of-your-westlaw-url)
+HJ legalresearch.westlaw.co.uk
+HJ login.westlaw.co.uk
+HJ login.westlaw.ie
+HJ westlaw.co.uk
+HJ westlaw.ie
+HJ www.westlaw.co.uk
+HJ www.westlaw.ie
+DJ westlaw.com
+DJ westlaw.co.uk
+DJ westlaw.ie
+Option Cookie

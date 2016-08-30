@@ -1,0 +1,16 @@
+NeverProxy viewer.artstor.org
+NeverProxy viewer2.artstor.org
+AnonymousUrl +*.jar
+AnonymousUrl +*.gif
+AnonymousUrl +*.class
+AnonymousUrl +*.jpg
+T ARTstor
+U http://library.artstor.org
+H artstor.org
+H library.artstor.org
+H mobile.artstor.org
+H web2.artstor.org
+H www.artstor.org
+H www.library.artstor.org
+D artstor.org
+AnonymousUrl -*

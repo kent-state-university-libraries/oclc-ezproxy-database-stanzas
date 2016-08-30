@@ -1,0 +1,8 @@
+Title MyiLibrary
+URL http://lib.myilibrary.com/home.aspx
+HJ https://lib.myilibrary.com
+HJ https://www.myilibrary.com
+HJ lib.myilibrary.com
+HJ myilibrary.com
+HJ www.myilibrary.com
+DJ myilibrary.com

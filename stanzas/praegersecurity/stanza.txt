@@ -1,0 +1,6 @@
+Title Praeger Security International Online
+URL http://psi.praeger.com
+DJ praeger.com
+DJ greenwood.com
+DJ abc-clio.com
+OPTION NOREDIRECTPATCH

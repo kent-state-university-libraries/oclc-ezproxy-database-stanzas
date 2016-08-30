@@ -1,0 +1,5 @@
+Title John Benjamins e-Platform
+URL http://www.jbe-platform.com/content/journals
+Host www.jbe-platform.com
+Host jbe-platform.com
+Domain jbe-platform.com

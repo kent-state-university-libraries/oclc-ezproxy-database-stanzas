@@ -1,0 +1,9 @@
+Title Peeters Publishers
+URL http://www.peeters-leuven.be/
+HJ https://secure.peeters-leuven.be
+HJ peeters-leuven.be
+HJ pob.peeters-leuven.be
+HJ poj.peeters-leuven.be
+HJ secure.peeters-leuven.be
+HJ www.peeters-leuven.be
+DJ peeters-leuven.be

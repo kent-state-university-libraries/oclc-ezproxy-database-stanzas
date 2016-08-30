@@ -1,0 +1,5 @@
+Title DawsonEra
+URL http://www.dawsonera.com/depp/EZproxy/EZproxyLogin.html?^B
+TokenKey YouGetThisFromDawsonEra
+TokenSignatureKey YouGetThisFromDawsonEra
+DJ www.dawsonera.com

@@ -1,0 +1,32 @@
+Option DomainCookieOnly
+Title LexisNexis Legal AU
+URL http://www.lexisnexis.com/au/legal
+DJ lexis-nexis.com
+DJ lexisnexis.com
+DJ lexis.com
+DJ lexiscn.com
+DJ cispubs.com
+#DJ lexisnexis.com.au
+#HJ www.lexisnexis.com.au
+HJ web.lexis-nexis.com
+HJ web.lexisnexis.com
+HJ www.lexis-nexis.com
+HJ www.lexisnexis.com
+HJ www.lexis.com
+HJ www.lexiscn.com
+HJ w3.lexis.com
+Find location.hostname
+Replace location.host
+Find = "www.lexisnexis.com.au"
+Replace = "^pwww.lexisnexis.com.au^"
+Find = "www.lexisnexis.com"
+Replace = "^pwww.lexisnexis.com^"
+Find &unix=http://
+Replace &unix=http://^A
+Find GetCookie("LNAUTH")
+Replace "LNAUTH-IP"
+Find NAME="_PRIORREFERER" VALUE="http://
+Replace NAME="_PRIORREFERER" VALUE="http://^A
+Find NAME="_PRIORREFERER" VALUE="https://
+Replace NAME="_PRIORREFERER" VALUE="https://^A
+Option Cookie

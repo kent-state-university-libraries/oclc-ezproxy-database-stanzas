@@ -1,0 +1,9 @@
+Option DomainCookieOnly
+Title nachschlage.NET
+URL http://www.nachschlage.net
+DJ nachschlage.net
+DJ klg.etk-muenchen.de
+DJ produktregistrierung.de
+Find login.do?redirect=http://
+Replace login.do?redirect=http://^A
+Option Cookie

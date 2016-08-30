@@ -1,0 +1,5 @@
+Title Oxford Dictionary of National Biography
+URL http://www.oxforddnb.com/
+HJ oxforddnb.com
+HJ www.oxforddnb.com
+DJ oxforddnb.com

@@ -1,0 +1,10 @@
+Title American Society of Clinical Oncology (ASCO)
+URL http://www.ascopubs.org
+HJ www.ascopubs.org
+HJ jco.ascopubs.org
+HJ jop.ascopubs.org
+HJ jgo.ascopubs.org
+HJ www.globaloncologyjournal.org
+HJ globaloncologyjournal.org
+DJ globaloncologyjournal.org
+DJ ascopubs.org

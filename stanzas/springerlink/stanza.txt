@@ -1,0 +1,17 @@
+Title SpringerLink
+URL http://link.springer.com
+HJ aa.springer.de
+HJ download.springer.com
+HJ ebooks.springerlink.com
+HJ link.springer.com
+HJ link.springer.de
+HJ link.springer-ny.com
+HJ rd.springer.com
+HJ springerlink.metapress.com
+HJ www.link.springer.com
+HJ www.springerlink.com
+DJ springer.de
+DJ springerlink.com
+DJ springer.com
+DJ sprn.gr
+DJ springer-ny.com

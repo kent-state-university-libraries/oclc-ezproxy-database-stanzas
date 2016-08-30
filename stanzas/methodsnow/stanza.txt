@@ -1,0 +1,9 @@
+Option X-Forwarded-For
+HTTPHeader x-cas-*
+HTTPMethod DELETE
+Title CAS MethodsNow
+URL https://www.methodsnow.com
+D methodsnow.com
+DJ cas.org
+H sso.cas.org
+Option NoX-Forwarded-For

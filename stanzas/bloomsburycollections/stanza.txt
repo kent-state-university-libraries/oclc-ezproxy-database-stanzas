@@ -1,0 +1,7 @@
+Title Bloomsbury Collections
+URL https://www.bloomsburycollections.com/
+HJ bloomsburycollections.com
+HJ https://bloomsburycollections.com
+HJ https://www.bloomsburycollections.com
+HJ www.bloomsburycollections.com
+DJ bloomsburycollections.com

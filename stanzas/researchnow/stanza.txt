@@ -1,0 +1,11 @@
+Title ResearchNow
+URL http://researchnow.bepress.com
+HJ bepress.com
+HJ www.bepress.com
+DJ bepress.com
+Find =http://
+Replace =http://^A
+Find value="http://
+Replace value="http://^A
+Find value='http://
+Replace value='http://^A 

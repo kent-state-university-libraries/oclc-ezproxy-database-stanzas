@@ -1,0 +1,6 @@
+Title JHU Guide to Literary Theory and Criticism
+URL http://litguide.press.jhu.edu
+HJ litguide.press.jhu.edu
+HJ www.litguide.press.jhu.edu
+HJ www.press.jhu.edu
+DJ press.jhu.edu

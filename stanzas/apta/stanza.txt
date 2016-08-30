@@ -1,0 +1,13 @@
+Title American Physical Therapy Association
+URL http://www.apta.org/
+H apta.org
+H aptaeducation.org
+H learningcenter.apta.org
+H ptjournal.org
+H ptjournal.apta.org
+H www.apta.org
+H www.aptaeducation.org
+H www.ptjournal.org
+DJ apta.org
+DJ aptaeducation.org
+DJ ptjournal.org

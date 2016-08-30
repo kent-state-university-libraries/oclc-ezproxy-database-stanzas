@@ -1,0 +1,4 @@
+Title New Left Review
+URL http://newleftreview.org/search
+Host www.newleftreview.org
+Domain newleftreview.org

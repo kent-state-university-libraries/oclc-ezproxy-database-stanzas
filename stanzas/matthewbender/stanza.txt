@@ -1,0 +1,5 @@
+Title Matthew Bender
+URL http://bender.lexisnexis.com/us/lpgateway.dll?f=templates&fn=main-h.htm&2.0
+DJ bender.lexisnexis.com
+Find location.hostname
+Replace location.host

@@ -1,0 +1,11 @@
+Title IGI Global
+URL http://www.igi-global.com/gateway
+HJ https://www.igi-global.com
+HJ igi-global.com
+HJ infosci-journals.com
+HJ journals.igi-online.com
+HJ reference.igi-online.com
+HJ www.igi-global.com
+HJ www.infosci-journals.com
+DJ igi-global.com
+DJ infosci-journals.com

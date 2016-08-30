@@ -1,0 +1,5 @@
+Title ESG Manager
+URL https://esgoncampus.msci.com/
+DJ msci.com
+HJ https://esgoncampus.msci.com
+HJ esgoncampus.msci.com

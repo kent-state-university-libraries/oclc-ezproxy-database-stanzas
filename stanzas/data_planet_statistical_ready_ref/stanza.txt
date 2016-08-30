@@ -1,0 +1,6 @@
+HTTPHeader X-Requested-With
+HTTPHeader X-GWT-*
+T Ready Reference
+U http://readyreference.data-planet.com
+DJ data-planet.com
+DJ conquestsystems.com

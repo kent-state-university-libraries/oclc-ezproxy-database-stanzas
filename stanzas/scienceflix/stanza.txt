@@ -1,0 +1,6 @@
+Title ScienceFlix
+URL http://scienceflix.digital.scholastic.com/
+HJ auth.digital.scholastic.com
+HJ digital.scholastic.com
+DJ scholastic.com
+DJ digital.scholastic.com

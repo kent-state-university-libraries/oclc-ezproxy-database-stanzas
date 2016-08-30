@@ -1,0 +1,7 @@
+Title Films on Demand
+URL http://fod.infobase.com
+H https://fod.infobase.com
+H digital.films.com
+H https://secure.films.com
+D infobase.com
+D films.com

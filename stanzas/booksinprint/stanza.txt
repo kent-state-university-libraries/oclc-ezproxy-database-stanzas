@@ -1,0 +1,6 @@
+Title Books in Print
+URL http://www.booksinprint.com
+HJ www.booksinprint.com
+DJ booksinprint.com
+HJ www.bowker.com
+DJ bowker.com

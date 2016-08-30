@@ -1,0 +1,6 @@
+Title Africa Knowledge Project
+URL http://www.africaknowledgeproject.org
+HJ www.africaknowledgeproject.org
+DJ africaknowledgeproject.org
+Find file=http%3A%2F%2Fwww.africaknowledgeproject.org%2F
+Replace file=http%3A%2F%2F^pwww.africaknowledgeproject.org^%2F

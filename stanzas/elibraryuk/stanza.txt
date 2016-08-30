@@ -1,0 +1,8 @@
+Title Elsevier eLibrary UK
+URL https://elsevierelibrary.co.uk
+HJ elsevierelibrary.co.uk
+HJ elsevieruk.pdn.ipublishcentral.com
+HJ https://elsevierelibrary.co.uk
+HJ https://www.elsevierelibrary.co.uk
+HJ www.elsevierelibrary.co.uk
+DJ elsevierelibrary.co.uk

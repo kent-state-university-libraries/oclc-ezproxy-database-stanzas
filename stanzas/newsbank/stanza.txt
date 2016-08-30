@@ -1,0 +1,12 @@
+Title Newsbank/Readex Databases
+URL http://infoweb.newsbank.com
+HJ docs.newsbank.com
+HJ infoweb1.newsbank.com
+HJ infoweb2.newsbank.com
+HJ opac.newsbank.com
+HJ products.newsbank.com
+HJ stats.newsbank.com
+DJ newsbank.com
+NeverProxy ns01.newsbank.com
+Find document.domain =
+Replace document.domain = "^h"; ezproxyignore =

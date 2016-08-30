@@ -1,0 +1,10 @@
+Title Orbis
+URL https://orbis.bvdinfo.com/ip
+HJ orbis.bvdinfo.com
+HJ orbis.bvdep.com
+HJ orbis2.bvdep.com
+HJ https://orbis.bvdinfo.com
+HJ https://orbis.bvdep.com
+HJ https://orbis2.bvdep.com
+DJ bvdep.com
+DJ bvdinfo.com

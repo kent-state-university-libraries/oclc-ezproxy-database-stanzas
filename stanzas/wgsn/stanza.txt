@@ -1,0 +1,9 @@
+Option CookiePassThrough
+Title WGSN
+MimeFilter application/json .* javascript
+URL https://www.wgsn.com/home/
+H www.wgsn.com
+HJ https://www.wgsn.com
+DJ wgsn.com
+DJ google.com
+Option Cookie

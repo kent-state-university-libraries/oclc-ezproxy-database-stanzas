@@ -1,0 +1,4 @@
+Title Nederlandse Artikelendatabank voor de Zorg
+URL https://naz.vakliteratuur.info/
+Host naz.vakliteratuur.info
+Domain vakliteratuur.info

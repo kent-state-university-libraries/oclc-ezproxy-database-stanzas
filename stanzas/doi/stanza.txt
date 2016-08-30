@@ -1,0 +1,6 @@
+Title DOI System
+URL http://doi.org
+Host https://doi.org
+Host dx.doi.org
+Host https://dx.doi.org
+Domain doi.org

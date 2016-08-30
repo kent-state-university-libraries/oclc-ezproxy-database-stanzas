@@ -1,0 +1,4 @@
+Title GIDEON Online
+URL http://search.ebscohost.com/login.aspx?site=gideon&return=y
+DJ http://www.gideononline.net
+DJ http://web.gideononline.com

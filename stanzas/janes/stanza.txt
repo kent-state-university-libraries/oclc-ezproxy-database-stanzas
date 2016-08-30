@@ -1,0 +1,13 @@
+Title Jane's Online Service
+MimeFilter application/json .* javascript
+URL https://janes.ihs.com
+HJ https://janes.com
+HJ client.janes.com
+HJ janes.ihs.com
+HJ https://www.ihs.com
+HJ https://globalsso.ihs.com
+HJ https://my.ihs.com
+DJ ihs.com
+DJ janes.com
+Find "RedirectUrl":"https://janes.ihs.com
+Replace "RedirectUrl":"https://^Sjanes.ihs.com^

@@ -1,0 +1,8 @@
+# Allow AJAX requests
+HTTPHeader X-Requested-With
+T Oxford English Dictionary (OED)
+U http://www.oed.com
+HJ www.oed.com
+HJ dictionary.oed.com
+HJ english.oxforddictionaries.com
+DJ oed.com

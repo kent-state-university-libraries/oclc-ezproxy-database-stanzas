@@ -1,0 +1,19 @@
+RedirectSafe http://XXXX.axis360.baker-taylor.com
+RedirectSafe http://m.XXXX.axis360.baker-taylor.com
+
+Title Axis360
+URL -Form=post Axis360 http://XXXX.axis360.baker-taylor.com/Account/EZproxy
+FormVariable -expr username=session:user
+FormVariable returnPage
+FormVariable returnAction
+FormVariable returnItemID
+FormVariable flag
+FormVariable bookFlag
+FormVariable bookItemID
+FormVariable token
+
+Title Axis360 Mobile
+URL -Form=post Axis360Mobile http://m.XXXX.axis360.baker-taylor.com/Account/EZproxy
+FormVariable -expr username=session:user
+FormVariable returnPage
+FormVariable token

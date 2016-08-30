@@ -1,0 +1,5 @@
+Option DomainCookieOnly
+T SpringerMaterials
+U http://www.springermaterials.com
+Domain springer.com
+Option Cookie

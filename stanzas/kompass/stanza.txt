@@ -1,0 +1,4 @@
+T Kompass
+URL -Form=POST kompass http://us.kompass.com/MarketingViewWeb/appmanager/kim/USA_Portal?_nfpb=true&_windowLabel=login_header_page_kompass&login_header_page_kompass_actionOverride=%2Fflows%2Fhome%2Fheader%2Flogin
+FormVariable login_header_page_kompass{actionForm.login}=UTILISATEUR1
+FormVariable login_header_page_kompass{actionForm.password}=UTILISATEUR1

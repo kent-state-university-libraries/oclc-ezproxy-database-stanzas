@@ -1,0 +1,11 @@
+Title Proceedings of the National Academy of Sciences
+URL http://www.pnas.org
+HJ anthropology.pnas.org
+HJ chemistry.pnas.org
+HJ frontmatter.pnas.org
+HJ intl.pnas.org
+HJ physics.pnas.org
+HJ pnas.org
+HJ sustainability.pnas.org
+HJ teachingresources.pnas.org
+DJ pnas.org

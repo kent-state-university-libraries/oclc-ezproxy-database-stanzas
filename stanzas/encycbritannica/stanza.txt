@@ -1,0 +1,46 @@
+Title Britannica - Academic
+URL http://academic.eb.com
+DJ eb.com
+HJ www.academic.eb.com
+HJ www.library.eb.com
+HJ library.eb.com
+HJ quest.eb.com
+HJ www.quest.eb.com
+HJ global.eb.com
+HJ www.global.eb.com
+HJ search.eb.com
+HJ www.search.eb.com
+HJ spanish.eb.com
+HJ www.spanish.eb.com
+HJ sources.eb.com
+HJ www.sources.eb.com
+HJ america.eb.com
+HJ www.america.eb.com
+HJ world.eb.com
+HJ www.world.eb.com
+HJ school.eb.com
+HJ www.school.eb.com
+HJ archive.school.eb.com
+HJ school.eb.co.uk
+HJ https://school.eb.com
+HJ world.britannica.com
+HJ www.world.britannica.com
+HJ https://secure.eb.com
+HJ secure.eb.com
+HJ learningzone.eb.com
+HJ escolar.eb.com
+HJ moderna.eb.com
+HJ www.moderna.eb.com
+NeverProxy media.web.britannica.com
+NeverProxy cache-media.britannica.com
+NeverProxy media-1.web.britannica.com
+NeverProxy media-2.web.britannica.com
+NeverProxy media-3.web.britannica.com
+NeverProxy atlas.eb.com
+
+T Britannica - Consumer
+U http://britannica.com
+HJ eb.com
+HJ www.eb.com
+HJ www.britannica.com
+DJ britannica.com

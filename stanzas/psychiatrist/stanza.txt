@@ -1,0 +1,15 @@
+ProxyHostnameEdit www.psychiatrist.com www-psychiatrist-com
+Title Journal of Clinical Psychiatry
+URL http://www.psychiatrist.com
+HJ www.psychiatrist.com
+HJ psychiatrist.com
+HJ https://sts.psychiatrist.com
+HJ sts.psychiatrist.com
+DJ psychiatrist.com
+DJ cmeinstitute.com
+Find RequestSecurityTokenResponseCollection
+Replace -state=SecurityToken RequestSecurityTokenResponseCollection
+Find -state=SecurityToken http://
+Replace http://^A
+Find -state=SecurityToken https://
+Replace https://^A

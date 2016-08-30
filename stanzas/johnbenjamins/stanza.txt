@@ -1,0 +1,11 @@
+Title John Benjamins
+URL https://benjamins.com/
+HJ antiq.benjamins.com
+HJ benjamins.com
+HJ benjamins.nl
+HJ https://antiq.benjamins.com
+HJ https://benjamins.com
+HJ https://www.benjamins.com
+HJ www.benjamins.com
+HJ www.benjamins.nl
+DJ benjamins.com

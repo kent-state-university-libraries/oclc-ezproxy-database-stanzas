@@ -1,0 +1,4 @@
+T IGAKU-SHOIN Library
+URL https://top.islib.jp/bcs/li/"Your-ID"/
+DJ islib.jp
+#Please replace "Your-ID" with your organization's ID.

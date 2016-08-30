@@ -1,0 +1,8 @@
+Title Standards New Zealand
+URL http://shop.standards.co.nz/
+H http://shop.standards.govt.nz/
+H https://shop.standards.govt.nz/
+H http://www.standards.govt.nz/
+H https://www.standards.govt.nz/
+DJ standards.co.nz
+DJ standards.govt.nz

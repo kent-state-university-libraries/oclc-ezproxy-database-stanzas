@@ -1,0 +1,5 @@
+Title Torpedo Ultra
+URL http://torpedo.nrl.navy.mil/tu/ps/
+HJ torpedo.nrl.navy.mil
+Find domain=.nrl.navy.mil
+Replace domain=^l

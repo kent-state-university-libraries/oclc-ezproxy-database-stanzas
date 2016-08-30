@@ -1,0 +1,4 @@
+Title RIA Checkpoint Tax
+URL https://checkpoint.riag.com/login?iploc=youraccountID
+Host checkpoint.riag.com
+DJ checkpoint.riag.com

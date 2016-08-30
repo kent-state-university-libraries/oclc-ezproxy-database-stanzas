@@ -1,0 +1,13 @@
+T Tumblebooks
+U https://www.tumblebooks.com/
+HJ www.tumblebooks.com
+HJ cdn.tumblebooks.com
+DJ tumblebooks.com
+HJ www.tumblebooklibrary.com
+DJ tumblebooklibrary.com
+HJ www.tbcjr.com
+DJ tbcjr.com
+HJ www.tumblebookcloud.com
+DJ tumblebookcloud.com
+HJ www.audiobookcloud.com
+DJ audiobookcloud.com

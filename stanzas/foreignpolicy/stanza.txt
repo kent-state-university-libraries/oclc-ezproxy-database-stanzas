@@ -1,0 +1,5 @@
+Title Foreign Policy
+URL http://foreignpolicy.com
+DJ foreignpolicy.com
+
+Note: In order for certain features on this content provider's website to proxy, you will need to coordinate with Foreign Policy directly and provide additional information for them to set up access.

@@ -1,0 +1,8 @@
+HTTPHeader Wicket-*
+PHE kbs.mycrowdwisdom.com$ kbs-mycrowdwisdom-com
+Title Kiss, Bow, or Shake Hands
+URL http://kbs.mycrowdwisdom.com
+HJ kbs.mycrowdwisdom.com
+HJ kbs.precrowdwisdom.com
+DJ mycrowdwisdom.com
+DJ precrowdwisdom.com

@@ -1,0 +1,8 @@
+T American Botanical Council
+U http://cms.herbalgram.org
+HJ cms.herbalgram.org
+HJ abc.herbalgram.org
+HJ content.herbalgram.org
+DJ herbalgram.org
+Find document.title += ('RF[+key1+']')
+Replace document.title += ('RF[+key1+']')^A

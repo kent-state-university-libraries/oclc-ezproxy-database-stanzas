@@ -1,0 +1,12 @@
+Title Copac
+URL http://copac.jisc.ac.uk/
+HJ copac.ac.uk
+HJ copac.jisc.ac.uk
+HJ https://copac.ac.uk
+HJ https://copac.jisc.ac.uk
+HJ https://jisc.ac.uk
+HJ https://www.jisc.ac.uk
+HJ jisc.ac.uk
+HJ www.copac.ac.uk
+HJ www.jisc.ac.uk
+DJ jisc.ac.uk

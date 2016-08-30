@@ -1,0 +1,5 @@
+Option UTF16
+Title Siku Quanshu
+URL http://skqs.yourlib.org
+DJ skqs.yourlib.org
+Option NoUTF16

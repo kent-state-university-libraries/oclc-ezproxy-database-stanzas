@@ -1,0 +1,7 @@
+Title F1000
+MimeFilter application/json .* javascript
+URL https://f1000.com
+D f1000.com
+D f1000research.com
+DJ f1000.com
+DJ f1000research.com

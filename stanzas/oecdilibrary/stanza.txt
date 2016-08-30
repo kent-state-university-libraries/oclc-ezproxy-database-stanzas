@@ -1,0 +1,24 @@
+HTTPHeader X-Requested-With
+Title OECD iLibrary (formerly SourceOECD)
+URL http://www.oecd-ilibrary.org/
+DJ oecd.org
+DJ oecdilibrary.org
+DJ oecd-ilibrary.org
+DJ norden-ilibrary.org
+DJ thecommonwealth-ilibrary.org
+HJ www.oecd.org
+HJ stats.oecd.org
+HJ data.oecd.org
+HJ www.oecdilibrary.org
+HJ www.oecd-ilibrary.org
+HJ www.norden-ilibrary.org
+HJ www.thecommonwealth-ilibrary.org
+Find xmlns=\"http://
+Replace xmlns=\"http://^A
+Find LENS_BASE_URI = "http://
+Replace LENS_BASE_URI = "http://^A
+Find CONTENT_BASE_URI = "http://
+Replace CONTENT_BASE_URI = "http://^A
+Find param="http://
+Replace param="http://^A
+NeverProxy oecd.metastore.ingenta.com

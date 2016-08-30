@@ -1,0 +1,12 @@
+Title Radiological Society of North America
+URL http://pubs.rsna.org
+HJ https://pubs.rsna.org
+HJ pubs.rsna.org
+HJ radiographics.rsnajnls.org
+HJ rsna.org
+HJ rsnajnls.org
+HJ www.rsna.org
+HJ www.rsnajnls.org
+HJ www2.rsna.org
+DJ rsna.org
+DJ rsnajnls.org

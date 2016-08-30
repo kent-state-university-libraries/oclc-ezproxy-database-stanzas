@@ -1,0 +1,5 @@
+Title British History Online
+URL https://www.british-history.ac.uk
+HJ british-history.ac.uk
+HJ www.british-history.ac.uk
+DJ british-history.ac.uk

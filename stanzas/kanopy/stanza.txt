@@ -1,0 +1,5 @@
+T Kanopy Videostreaming
+U http://.kanopystreaming.com
+HJ https://.kanopystreaming.com
+HJ .kanopystreaming.com
+DJ kanopystreaming.com

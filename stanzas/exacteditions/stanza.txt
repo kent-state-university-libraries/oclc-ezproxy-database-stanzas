@@ -1,0 +1,12 @@
+ProxyHostnameEdit ^exacteditions.com$ exacteditions-com
+ProxyHostnameEdit .exacteditions.com$ -exacteditions-com
+Title Exact Editions
+URL http://www.exacteditions.com/
+HJ exacteditions.com
+HJ https://exacteditions.com
+HJ https://login.exacteditions.com
+HJ https://reader.exacteditions.com
+HJ https://www.exacteditions.com
+HJ login.exacteditions.com
+HJ reader.exacteditions.com
+DJ exacteditions.com

@@ -1,0 +1,6 @@
+Option HideEZproxy
+Title The Source Magpies Magazine
+URL http://www.magpies.net.au/magpies/nologin/?MIval=m_member
+DJ magpies.net.au
+HJ www.magpies.net.au
+Option NoHideEZproxy

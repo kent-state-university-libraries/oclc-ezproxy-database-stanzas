@@ -1,0 +1,2 @@
+IncludeIP 0.0.0.0-255.255.255.255
+SSO -Secret=somesecret -URL=http://www.freegalmusic.com/users/sso?libname=site freegalmusic

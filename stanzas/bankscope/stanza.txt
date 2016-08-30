@@ -1,0 +1,12 @@
+Title Bankscope
+URL http://bankscope.bvdep.com/ip
+HJ bankscope.bvdep.com
+HJ bankscope.bvdinfo.com
+HJ bankscope2.bvdep.com
+HJ bankscope2.bvdinfo.com
+HJ https://bankscope.bvdep.com
+HJ https://bankscope.bvdinfo.com
+HJ https://bankscope2.bvdep.com
+HJ https://bankscope2.bvdinfo.com
+DJ bvdep.com
+DJ bvdinfo.com

@@ -1,0 +1,31 @@
+HTTPHeader X-Requested-With
+Option X-Forwarded-For
+Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
+Title Wiley Online
+URL http://onlinelibrary.wiley.com
+HJ aasldpubs.onlinelibrary.wiley.com
+HJ agupubs.onlinelibrary.wiley.com
+HJ anthrosource.onlinelibrary.wiley.com
+HJ api.wiley.com
+HJ ascpt.onlinelibrary.wiley.com
+HJ aslopubs.onlinelibrary.wiley.com
+HJ doi.wiley.com
+HJ esajournals.onlinelibrary.wiley.com
+HJ www.esajournals.org
+DJ esajournals.org
+HJ febs.onlinelibrary.wiley.com
+HJ interscience.wiley.com
+HJ mrw.interscience.wiley.com
+HJ physoc.onlinelibrary.wiley.com
+HJ wileyonlinelibrary.com
+HJ www.interscience.wiley.com
+HJ www.mrw.interscience.wiley.com
+HJ www.onlinelibrary.wiley.com
+HJ www.wiley.com
+HJ www.wileyonlinelibrary.com
+HJ www.wileyopenaccess.com
+HJ www3.interscience.wiley.com
+HJ obgyn.onlinelibrary.wiley.com
+DJ wiley.com
+DJ wileyopenaccess.com
+Option NoX-Forwarded-For

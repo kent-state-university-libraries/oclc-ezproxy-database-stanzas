@@ -1,0 +1,25 @@
+Title Factiva
+URL http://global.factiva.com
+Host https://global.factiva.com
+Host www.factiva.com
+DJ factiva.com
+DJ wsj.com
+DJ wsj.net
+DJ allthingsd.com
+DJ barrons.com
+DJ efinancialnews.com
+DJ marketwatch.com
+DJ smartmoney.com
+DJ wsjradio.com
+DJ dowjones.com
+DJ fins.com
+DJ wsjstudent.com
+DJ wsjwine.com
+Find targetsite=http://
+Replace targetsite=http://^A
+Find name="landingPage" value="http://
+Replace name="landingPage" value="http://^A
+Find name='LandingPage' value='http://
+Replace name='LandingPage' value='http://^A
+Find name="targetsite" value="http://
+Replace name="targetsite" value="http://^A

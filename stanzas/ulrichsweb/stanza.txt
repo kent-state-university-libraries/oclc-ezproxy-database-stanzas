@@ -1,0 +1,16 @@
+Title Ulrichsweb
+URL http://ulrichsweb.serialssolutions.com/
+HJ ulrichsweb.serialssolutions.com
+HJ https://ulrichsweb.serialssolutions.com
+HJ www.ulrichsweb.serialssolutions.com
+DJ serialssolutions.com
+HJ ulrichsweb.serialssolutions.com
+HJ www.ulrichsweb.serialssolutions.com
+HJ https://clientcenter.serialssolutions.com
+HJ clientcenter.serialssolutions.com
+HJ www.serialssolutions.com
+HJ serialssolutions.com
+DJ serialssolutions.com
+HJ www.ulrichsweb.com
+HJ ulrichsweb.com
+DJ ulrichsweb.com

@@ -1,0 +1,12 @@
+Title Britannica Global Reference Center
+URL http://global.eb.com
+HJ britannica.co.kr
+HJ escolar.eb.com
+HJ japan.eb.com
+HJ moderna.eb.com
+HJ pocket.china.eb.com
+HJ universalis-edu.com
+HJ www.mwu.eb.com
+DJ britannica.co.kr
+DJ eb.com
+DJ universalis-edu.com

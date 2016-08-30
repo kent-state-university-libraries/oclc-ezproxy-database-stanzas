@@ -1,0 +1,6 @@
+Title Cambridge Companions Online
+URL http://universitypublishingonline.org/cambridge/companions
+Host universitypublishingonline.org
+Host cco.cambridge.org
+Host stahlonline.cambridge.org
+DJ universitypublishingonline.org

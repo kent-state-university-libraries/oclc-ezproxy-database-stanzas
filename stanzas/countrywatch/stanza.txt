@@ -1,0 +1,8 @@
+Title CountryWatch
+URL http://www.countrywatch.com/ip
+HJ www.countrywatch.com
+HJ search.countrywatch.com
+HJ data.countrywatch.com
+HJ youthedition.countrywatch.com
+HJ forecast.countrywatch.com
+DJ countrywatch.com

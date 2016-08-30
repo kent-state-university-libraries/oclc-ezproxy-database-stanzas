@@ -1,0 +1,7 @@
+Title The Literary Encyclopedia
+URL http://www.litencyc.com/
+HJ https://litencyc.com
+HJ https://www.litencyc.com
+HJ litencyc.com
+HJ www.litencyc.com
+DJ litencyc.com

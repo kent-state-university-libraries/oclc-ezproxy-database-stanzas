@@ -1,0 +1,12 @@
+Title Statista
+URL https://www.statista.com
+HJ www.statista.com
+HJ https://www.statista.com
+DJ statista.com
+NeverProxy cdn*.statista.com
+NeverProxy static*.statista.com
+NeverProxy cloudfront.net
+NeverProxy Api.userlike.com
+NeverProxy Ajax.googleapis.com
+NeverProxy Bat.bing.com
+NeverProxy Bat.r.msn.com

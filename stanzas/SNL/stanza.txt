@@ -1,0 +1,7 @@
+Title SNL
+URL https://www.snl.com/interactivex/
+DJ snl.com
+HJ https://www.snl.com
+HJ www.snl.com
+Find && currentDomain != "localhost"
+Replace && 0

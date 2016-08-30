@@ -1,0 +1,5 @@
+AnonymousURL +https://iiif.riksarkivet.se/*
+Title SVAR
+URL https://sok.riksarkivet.se
+DJ riksarkivet.se
+AnonymousURL -*

@@ -1,0 +1,7 @@
+Title Taylor & Francis eBooks
+URL http://www.tandfebooks.com
+HJ tandfebooks.com
+HJ www.tandfebooks.com
+HJ https://tandfebooks.com/
+HJ https://www.tandfebooks.com
+DJ tandfebooks.com

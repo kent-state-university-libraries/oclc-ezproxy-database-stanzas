@@ -1,0 +1,4 @@
+HTTPHeader X-Requested-With
+Title Thesaurus Linguae Graecae
+URL http://stephanus.tlg.uci.edu/
+DJ tlg.uci.edu

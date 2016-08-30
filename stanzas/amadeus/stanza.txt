@@ -1,0 +1,10 @@
+Title Amadeus
+URL https://amadeus.bvdinfo.com/ip
+HJ https://amadeus.bvdep.com
+HJ https://amadeus.bvdinfo.com
+HJ https://amadeus2.bvdep.com
+HJ amadeus.bvdep.com
+HJ amadeus.bvdinfo.com
+HJ amadeus2.bvdep.com
+DJ bvdep.com
+DJ bvdinfo.com

@@ -1,0 +1,17 @@
+Title Kluwer navigator
+URL https://navigator.kluwer.nl/
+HJ broker.kluwer.nl
+HJ https://broker.kluwer.nl
+HJ https://cp.kluwer.nl
+HJ https://homepage.navigator.kluwer.nl
+HJ https://idp.kluwer.nl
+HJ https://m.navigator.kluwer.nl
+HJ https://navigator.kluwer.nl
+HJ https://www.navigator.nl
+HJ navigator.kluwer.nl
+HJ m.navigator.kluwer.nl
+HJ valet.navigator.kluwer.nl
+HJ velvet.kluwer.nl
+DJ kluwer.nl
+Find action="https://broker.kluwer.nl
+Replace action="https://^sbroker.kluwer.nl^

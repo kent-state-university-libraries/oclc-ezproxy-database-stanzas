@@ -1,0 +1,48 @@
+Title Chadwyck
+URL http://www.chadwyck.com
+HJ www.chadwyck.com
+DJ chadwyck.com
+HJ www.chadwyck.co.uk
+DJ chadwyck.co.uk
+
+Title Chadwyck African American Biographical Database
+URL http://aabd.chadwyck.com
+HJ aabd.chadwyck.com
+
+Title Chadwyck American Film Institute Catalog
+URL http://afi.chadwyck.com
+HJ afi.chadwyck.com
+HJ afi.chadwyck.co.uk
+
+Title Chadwyck Black Studies Center, Abolitionist Papers, History Makers, and BSC Dissertations
+URL http://bsc.chadwyck.com/
+HJ bsc.chadwyck.com
+HJ bsc.chadwyck.co.uk
+
+Title Chadwyck Colonial State Papers Collection
+URL http://colonial.chadwyck.com/
+HJ colonial.chadwyck.com
+HJ colonial.chadwyck.co.uk
+
+Title Chadwyck Digital National Security Archive
+URL http://nsarchive.chadwyck.com/
+HJ nsarchive.chadwyck.com
+
+Title Chadwyck Early European Books
+URL http://eeb.chadwyck.com
+HJ eeb.chadwyck.com
+HJ eeb.chadwyck.co.uk
+
+Title Chadwyck Early English Books Online
+URL http://eebo.chadwyck.com
+HJ eebo.chadwyck.com
+
+Title Chadwyck FIAF International Index to Film Periodicals
+URL http://fiaf.chadwyck.com/
+HJ fiaf.chadwyck.com
+HJ fiaf.chadwyck.co.uk
+
+Title Chadwyck Film Index International
+URL http://fii.chadwyck.com
+HJ fii.chadwyck.com
+HJ fii.chadwyck.co.uk

@@ -1,0 +1,11 @@
+Title Palgrave Journals
+URL https://www.palgrave.com/gp/journals
+HJ https://palgrave.com
+HJ https://www.palgrave.com
+HJ palgrave-journals.com
+HJ palgrave.com
+HJ www.palgrave-journals.com
+HJ www.palgrave.com
+DJ palgrave-journals.com
+DJ palgrave.com
+NeverProxy static.springer.com

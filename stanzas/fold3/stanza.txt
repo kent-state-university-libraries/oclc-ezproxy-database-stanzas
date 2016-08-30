@@ -1,0 +1,8 @@
+Title Fold3
+MimeFilter application/json .* javascript
+URL https://fold3library.proquest.com
+HJ go.fold3.com
+HJ www.fold3.com
+HJ img.fold3.com
+DJ fold3library.proquest.com
+DJ fold3.com 

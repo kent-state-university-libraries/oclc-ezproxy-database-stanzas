@@ -1,0 +1,7 @@
+T Pediatrics
+U http://pediatrics.aappublications.org
+H pediatrics.org
+H pediatrics.aappublications.org
+H www.pediatrics.org
+D pediatrics.org
+D aappublications.org

@@ -1,0 +1,8 @@
+T Clinical Pharmacology
+U http://www.clinicalpharmacology-ip.com
+HJ www.clinicalpharmacology-ip.com
+DJ clinicalpharmacology-ip.com
+HJ www.clinicalpharmacology.com
+DJ clinicalpharmacology.com
+HJ www.cpmobile.mobi
+DJ cpmobile.mobi

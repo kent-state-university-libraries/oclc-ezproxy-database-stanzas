@@ -1,0 +1,5 @@
+Option ebraryUnencodedTokens
+ebrarySite xxxxx
+Host site.ebrary.com
+URL http://site.ebrary.com/lib/xxxxx
+Neverproxy *.ebrary.com 

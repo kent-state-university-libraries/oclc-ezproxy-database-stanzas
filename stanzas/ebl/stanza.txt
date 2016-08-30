@@ -1,0 +1,7 @@
+Title EBL
+AllowVars u
+EncryptVar u astringyoupick 
+EBLSecret ###____#### 
+URL http://www.INSTITUTION_ID.eblib.com
+URL http://INSTITUTION_ID.eblib.com
+DJ eblib.com

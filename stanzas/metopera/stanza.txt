@@ -1,0 +1,6 @@
+Title Metropolitan Opera on Demand
+URL http://metopera.org/ondemand/index.aspx
+NeverProxy http://link.metoperafamily.org:90
+HJ www.metopera.org
+HJ metopera.org
+DJ metopera.org

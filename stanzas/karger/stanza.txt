@@ -1,0 +1,14 @@
+Title Karger Publishers
+URL http://www.karger.com
+DJ karger.com
+HJ www.karger.com
+HJ karger.com
+HJ content.karger.com
+HJ search.karger.com
+HJ online.karger.com
+HJ www.karger.ch
+DJ karger.ch
+HJ karger.ch
+HJ content.karger.ch
+DJ mag.digitalpc.co.uk
+HJ mag.digitalpc.co.uk

@@ -1,0 +1,20 @@
+Title Kluwer Online (Kluwer Academic Publishers)
+URL http://www.kluweronline.com
+HJ kluweronline.com
+DJ kluweronline.com
+DJ wkap.nl
+DJ lwwonline.com
+Find document.domain="lwwonline.com"
+Replace document.domain="lwwonline.com.^h"
+Find domain=.lwwonline.com
+Replace domain=.lwwonline.com.^h
+Find document.domain = ".kluweronline.com"
+Replace document.domain = ".kluweronline.com.^h"
+Find document.domain = "kluweronline.com"
+Replace document.domain = "kluweronline.com.^h"
+Find domain=.kluweronline.com
+Replace domain=.kluweronline.com.^h
+Find document.domain="kluweronline.com"
+Replace document.domain="kluweronline.com.^h"
+Find document.domain = thisDomain
+Replace document.domain = "kluweronline.com.^h"; // thisDomain

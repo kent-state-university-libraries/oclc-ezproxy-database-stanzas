@@ -1,0 +1,19 @@
+AnonymousURL +http://clinicalevidence.bmj.com/x/rest/search/*
+Option DomainCookieOnly
+Title Clinical Evidence (BMJ)
+HTTPHeader -response -edit Access-Control-Allow-Origin "*"
+URL http://www.clinicalevidence.com/ceweb/index.jsp
+HJ col.eum-appdynamics.com
+HJ resources.bmj.com
+HJ www.clinicalevidence.com
+HJ www.clinicalevidence.bmj.com
+DJ eum-appdynamics.com
+DJ clinicalevidence.com
+DJ clinicalevidence.bmj.com
+DJ bmj.com
+Find 'clinicalevidence.bmj.com'
+Replace '^pclinicalevidence.bmj.com^'
+Find "clinicalevidence.bmj.com"
+Replace "^pclinicalevidence.bmj.com^"
+Option Cookie
+AnonymousURL -*

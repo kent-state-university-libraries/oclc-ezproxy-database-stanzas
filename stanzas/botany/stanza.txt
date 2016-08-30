@@ -1,0 +1,14 @@
+Title Botanical Society of America
+URL http://www.botany.org
+HJ ajbreviews.botany.org
+HJ amjbot.org
+HJ bioone.org
+HJ botany.org
+HJ cms.botany.org
+HJ planted.botany.org
+HJ www.amjbot.org
+HJ www.bioone.org
+HJ www.botany.org
+DJ amjbot.org
+DJ bioone.org
+DJ botany.org

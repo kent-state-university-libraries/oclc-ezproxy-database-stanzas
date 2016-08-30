@@ -1,0 +1,5 @@
+HTTPHeader X-GWT-*
+Title IBFD Tax Research Online
+URL http://online.ibfd.org/kbase/
+HJ www.online.ibfd.org
+DJ ibfd.org

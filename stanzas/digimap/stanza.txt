@@ -1,0 +1,5 @@
+Title Edina Digimap
+URL http://digimap.edina.ac.uk
+H edina.ac.uk
+H www.edina.ac.uk
+DJ edina.ac.uk

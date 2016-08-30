@@ -1,0 +1,7 @@
+Title Nederlands Tijdschrift voor Geneeskunde
+URL https://www.ntvg.nl/
+HJ https://ntvg.nl/
+HJ ntvg.nl
+HJ vereniging.ntvg.nl
+HJ www.ntvg.nl
+DJ ntvg.nl 

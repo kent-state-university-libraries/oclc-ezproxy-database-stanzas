@@ -1,0 +1,12 @@
+Title Ancestry Library
+URL http://ancestrylibrary.proquest.com
+HJ https://ancestrylibrary.proquest.com
+HJ ancestrylibrary.proquest.com
+HJ www.ancestrylibrary.com
+HJ ancestrylibrary.custhelp.com
+HJ ancestrylibrary.com
+HJ rootsweb.com
+HJ ancestryinstitution.com
+DJ ancestrylibrary.com
+NeverProxy ajax.googleapis.com
+NeverProxy yui.yahooapis.com

@@ -1,0 +1,17 @@
+Title American Society for Biochemistry and Molecular Biology
+URL http://www.asbmb.org
+HJ asbmb.org
+HJ https://mem.asbmb.org
+HJ https://www.asbmb.org
+HJ jbc.org
+HJ jlr.org
+HJ mcponline.org
+HJ mem.asbmb.org
+HJ www.asbmb.org
+HJ www.jbc.org
+HJ www.jlr.org
+HJ www.mcponline.org
+DJ asbmb.org
+DJ jbc.org
+DJ jlr.org
+DJ mcponline.org

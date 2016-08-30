@@ -1,0 +1,8 @@
+Title Plant Management Network
+URL https://www.plantmanagementnetwork.org/pub/trial/pdmr/
+HJ https://www.plantmanagementnetwork.org
+HJ www.plantmanagementnetwork.org
+HJ https://identityserver.scisoc.org
+HJ identityserver.scisoc.org
+DJ scisoc.org
+DJ plantmanagementnetwork.org

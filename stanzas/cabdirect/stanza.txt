@@ -1,0 +1,10 @@
+Title CAB Direct
+URL https://www.cabdirect.org/
+H cabdirect.org
+H cabi.org
+H https://cabdirect.org
+H https://www.cabdirect.org
+H www.cabdirect.org
+H www.cabi.org
+D cabdirect.org
+D cabi.org

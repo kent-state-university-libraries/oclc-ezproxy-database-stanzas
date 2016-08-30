@@ -1,0 +1,7 @@
+Title Thomson ONE Banker
+URL http://banker.thomsonib.com/ta/
+DJ thomsonib.com
+Find document.cookie.indexOf("TFSSO") < 0
+Replace 0
+Find initURL = "vx.thomsonib.com"
+Replace initURL = "^pvx.thomsonib.com^"

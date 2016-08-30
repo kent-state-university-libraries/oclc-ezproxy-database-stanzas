@@ -1,0 +1,18 @@
+Title European Mathematical Information Service
+URL http://www.emis.de/
+HJ emis.de
+HJ https://www.zbmath.org/
+HJ https://www.zentralblatt-math.org
+HJ https://zbmath.org/
+HJ https://zentralblatt-math.org
+HJ io-port.net
+HJ www.emis.de
+HJ www.io-port.net
+HJ www.zbmath.org
+HJ www.zentralblatt-math.org
+HJ zbmath.org
+HJ zentralblatt-math.org
+DJ emis.de
+DJ io-port.net
+DJ zbmath.org
+DJ zentralblatt-math.org

@@ -1,0 +1,8 @@
+Title Classroom Video on Demand
+URL http://cvod.infobase.com
+H https://cvod.infobase.com
+H streaming.factsonfile.com
+H digital.films.com
+H https://secure.films.com
+D infobase.com
+D films.com

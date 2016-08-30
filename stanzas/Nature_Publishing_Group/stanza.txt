@@ -1,0 +1,16 @@
+Title Nature Publishing
+URL http://www.nature.com
+DJ nature.com
+DJ natureasia.com
+DJ nexus.ensighten.com
+DJ ensignten.com
+DJ scientificamerican.com
+HJ www.naturesj.com
+HJ www.npgjournals.com
+HJ search.nature.com
+HJ ad.doubleclick.net
+HJ nature.com
+DJ naturesj.com
+DJ npgjournals.com
+Find nexus.ensighten.com
+Replace ^pnexus.ensighten.com^

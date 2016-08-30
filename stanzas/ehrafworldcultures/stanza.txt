@@ -1,0 +1,5 @@
+Title eHRAF World Cultures
+URL http://ehrafworldcultures.yale.edu
+DJ yale.edu
+HJ hraf01.its.yale.edu
+HJ 132.130.52.51

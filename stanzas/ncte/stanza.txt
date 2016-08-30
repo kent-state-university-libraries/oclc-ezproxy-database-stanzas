@@ -1,0 +1,6 @@
+Title National Council of Teachers of English
+URL http://www.ncte.org/
+H https://secure.ncte.org
+H ncte.org
+H www.ncte.org
+DJ ncte.org

@@ -1,0 +1,17 @@
+Option DomainCookieOnly
+Title OneSource Global Business Browser
+URL https://logon.onesource.com/?LogonUserID=RollingUserID
+Host app.avention.com
+Host globalbb.onesource.com
+Host https://app.avention.com/
+Host https://ps.onesource.com
+Host logon.onesource.com
+Host ps.onesource.com
+DJ app.avention.com
+DJ avention.com
+DJ globalbb.onesource.com
+DJ logon.onesource.com
+DJ onesource.com
+Option Cookie
+HTTPMethod PUT
+HTTPMethod DELETE

@@ -1,0 +1,21 @@
+Title Endocrine Society
+URL http://press.endocrine.org/
+HJ edrv.endojournals.org
+HJ endo.endojournals.org
+HJ endocrine.org
+HJ endojournals.org
+HJ hoca.endojournals.org
+HJ https://endocrine.org/
+HJ https://press.endocrine.org/
+HJ https://www.endocrine.org/
+HJ intl-endo.endojournals.org
+HJ intl-jcem.endojournals.org
+HJ intl-mend.endojournals.org
+HJ jcem.endojournals.org
+HJ mend.endojournals.org
+HJ press.endocrine.org
+HJ rphr.endojournals.org
+HJ www.endocrine.org
+HJ www.endojournals.org
+DJ endocrine.org
+DJ endojournals.org

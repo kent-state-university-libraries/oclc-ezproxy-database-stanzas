@@ -1,0 +1,6 @@
+Title Frost & Sullivan
+URL http://www.frost.com
+Host www.frost.com
+DJ frost.com
+Find e.href = "http:"+e.href.substr(6)
+Replace e.href = "http://^pwww.frost.com^/"; + e.pathname + e.search

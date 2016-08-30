@@ -1,0 +1,6 @@
+Title Digital National Security Archive
+U http://nsarchive.chadwyck.com/
+DJ chadwyck.com
+HJ nsarchive.chadwyck.com
+DJ proquest.com
+HJ gateway.proquest.com

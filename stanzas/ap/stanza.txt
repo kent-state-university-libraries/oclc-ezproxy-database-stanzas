@@ -1,0 +1,7 @@
+Title AP Images
+URL http://apimages.ap.org/unsecured/logip.aspx
+Domain ap.org
+DJ accuweather.com
+DJ apimages.com
+Host apimages.ap.org
+Host apimages.org

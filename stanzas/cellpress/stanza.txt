@@ -1,0 +1,8 @@
+Title Cell Press
+URL http://www.cell.com
+HJ www.cell.com
+HJ www.cellpress.com
+HJ cell.com
+DJ cell.com
+Host https://secure.jbs.elsevierhealth.com
+DJ elsevierhealth.com

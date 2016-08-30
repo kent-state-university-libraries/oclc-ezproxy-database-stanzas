@@ -1,0 +1,6 @@
+HTTPHeader X-Requested-With
+HTTPHeader X-GWT-*
+T Data-Planet
+U http://data-planet.conquestsystems.com/statistical/ip
+DJ data-planet.com
+DJ conquestsystems.com

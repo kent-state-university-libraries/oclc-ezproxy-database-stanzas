@@ -1,0 +1,9 @@
+Title ACLS Humanities E-Book
+URL http://www.humanitiesebook.org/
+DJ humanitiesebook.org
+HJ ets.umdl.umich.edu
+HJ hdl.handle.net
+HJ hdl.lib.umich.edu
+HJ name.umdl.umich.edu
+HJ www.hti.umich.edu
+HJ quod.lib.umich.edu

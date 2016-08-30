@@ -1,0 +1,15 @@
+Option HideEZproxy
+T ImageQuest
+U http://quest.eb.com
+HTTPMethod PUT
+HJ search.eb.com
+HJ m.search.eb.com
+DJ eb.com
+HJ www.britannica.com
+DJ britannica.com
+Find Config.individualLoginDomain = "individual.eb.com"
+Replace Config.individualLoginDomain = "^pindividual.eb.com^"
+Find loginHost += _getProxyAppendix();
+Replace loginHost = loginHost;
+NeverProxy webstats.eb.com
+Option NoHideEZproxy

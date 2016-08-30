@@ -1,0 +1,7 @@
+Option DomainCookieOnly
+T University of Chicago Press Journals
+U http://www.journals.uchicago.edu
+HJ www.journals.uchicago.edu
+HJ journals.uchicago.edu
+DJ uchicago.edu
+Option Cookie

@@ -1,0 +1,15 @@
+Option DomainCookieOnly
+Title IEEE Xplore
+URL http://ieeexplore.ieee.org/xpl/bkBrowse.jsp
+HJ ieeexplore.ieee.org
+HJ m.ieeexplore.ieee.org
+HJ opac.ieeecomputersociety.org
+HJ search.ieeexplore.ieee.org
+HJ www.computer.org
+HJ www.ieeexplore.ieee.org
+HJ www.ieee.org
+HJ xplorestaging.ieee.org
+DJ computer.org
+DJ ieee.org
+DJ ieeecomputersociety.org
+Option Cookie

@@ -1,0 +1,8 @@
+Title CHEST Publications
+URL http://publications.chestnet.org
+HJ journal.publications.chestnet.org
+HJ book.publications.chestnet.org
+HJ chestjournal.org
+HJ chestjournal.chestpubs.org
+HJ www.chestjournal.org
+DJ chestnet.org

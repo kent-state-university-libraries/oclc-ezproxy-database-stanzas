@@ -1,0 +1,14 @@
+Title PsychiatryOnline (American Journal of Psychiatry)
+URL http://psychiatryonline.org
+HJ www.psychiatryonline.org
+HJ www.psychiatryonline.com
+HJ psychiatryonline.com
+DJ psychiatryonline.com
+HJ ajp.psychiatryonline.org
+HJ dsm.psychiatryonline.org
+HJ ps.psychiatryonline.org
+HJ neuro.psychiatryonline.org
+HJ psychnews.psychiatryonline.org
+DJ psychiatryonline.org
+HJ www.appi.org
+DJ appi.org

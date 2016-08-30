@@ -1,0 +1,34 @@
+Option CookiePassThrough
+Title ASTM Compass
+URL http://compass.astm.org
+DJ compass.astm.org
+Find .indexOf("compass") > -1
+Replace .indexOf(".") > -1
+Find .indexOf("compass.astm.org") > -1
+Replace .indexOf(".") > -1
+Find domain=.astm.org
+Replace domain=^d
+Find host=.astm.org
+Replace host=^d
+Find imgloc != ""
+Replace false
+
+Title -hide MyASTM
+URL http://myastm.astm.org
+DJ myastm.astm.org
+Find .indexOf("myastm") > -1
+Replace .indexOf(".") > -1
+Find domain=.astm.org
+Replace domain=^d
+Find host=.astm.org
+Replace host=^d
+
+Title -hide ASTM
+URL http://www.astm.org
+DJ astm.org
+DJ micronexx.com
+Find domain=.astm.org
+Replace domain=^d
+Find host=.astm.org
+Replace host=^d
+Option Cookie

@@ -1,0 +1,7 @@
+Title Mergent Archives
+URL http://www.mergentarchives.com/
+DJ mergentarchives.com
+Find szURL+= Encode( szReportURL );
+Replace szURL+= Encode( szReportURL.replace(/.^h/, "" ));
+Find name='url' value='http://
+Replace name='url' value='http://^A

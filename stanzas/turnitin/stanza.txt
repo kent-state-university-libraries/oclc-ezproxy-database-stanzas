@@ -1,0 +1,6 @@
+T Turnitin.com
+U http://turnitin.com
+DJ turnitin.com
+HJ turnitin.com
+Find "turnitin.com/
+Replace "^pturnitin.com^/

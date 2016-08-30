@@ -1,0 +1,4 @@
+T Medcom Trainex
+U http://www.medcomrn.com/
+HJ www.medcomrn.com
+DJ medcomrn.com

@@ -1,0 +1,8 @@
+Title Philosophy Documentation Center
+URL http://www.pdcnet.org/
+HJ cas.pdcnet.org
+HJ https://www.pdcnet.org
+HJ www.pdcnet.org
+DJ pdcnet.org
+Find var urlNeu=urlAlt.replace(/http:/, "https:");
+Replace var urlNeu=urlAlt.replace(/http:\/\/www.pdcnet.org.*?(\/.*)$/, "https://^swww.pdcnet.org^$1");

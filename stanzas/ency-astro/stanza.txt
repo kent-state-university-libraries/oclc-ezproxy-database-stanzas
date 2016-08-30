@@ -1,0 +1,7 @@
+Title Encyclopedia of Astronomy and Astrophysics - EAA (ebooks)
+URL http://eaa.crcpress.com/
+Domain crcpress.com
+# The next two Host lines support redirects from the old URL
+# for this resource to the new URL
+Host www.ency-astro.com
+Host eaa.iop.org

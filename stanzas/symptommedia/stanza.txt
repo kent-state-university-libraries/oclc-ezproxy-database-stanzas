@@ -1,0 +1,6 @@
+Title Symptom Media
+URL -Form=post SymptomMedia http://symptommedia.com/wp-login.php
+FormVariable log=someuser
+FormVariable pwd=somepass
+FormVariable wp-submit=Login
+FormVariable wlm_redirect_to=wishlistmember

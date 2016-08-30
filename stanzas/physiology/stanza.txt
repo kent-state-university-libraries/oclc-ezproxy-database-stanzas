@@ -1,0 +1,22 @@
+Title American Physiological Society
+URL http://www.physiology.org/
+H advan.physiology.org
+H ajpcell.physiology.org
+H ajpendo.physiology.org
+H ajpgi.physiology.org
+H ajpheart.physiology.org
+H ajplegacy.physiology.org
+H ajplung.physiology.org
+H ajpregu.physiology.org
+H ajprenal.physiology.org
+H apsselect.physiology.org
+H jap.physiology.org
+H jappl.physiology.org
+H jn.physiology.org
+H physiolgenomics.physiology.org
+H physiologyonline.physiology.org
+H physreports.physiology.org
+H physrev.physiology.org
+H www.the-aps.org
+DJ physiology.org
+DJ the-aps.org

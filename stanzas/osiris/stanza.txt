@@ -1,0 +1,8 @@
+Title Osiris
+URL https://osiris.bvdinfo.com/ip
+HJ osiris.bvdep.com
+HJ osiris.bvdinfo.com
+HJ www.osiris.bvdep.com
+HJ https://osiris.bvdep.com
+DJ bvdep.com
+DJ bvdinfo.com

@@ -1,0 +1,8 @@
+HTTPHeader X-GWT-*
+Title CCH Intelliconnect
+URL https://intelliconnect.cch.com/scion/auth.jsp?&wksso=false
+HJ prod.resource.cch.com
+HJ intelliconnect.cch.com
+HJ https://login.wolterskluwer.com
+DJ cch.com
+DJ wolterskluwer.com

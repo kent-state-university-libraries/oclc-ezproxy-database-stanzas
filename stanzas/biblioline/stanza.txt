@@ -1,0 +1,8 @@
+Title BiblioLine
+URL http://biblioline.nisc.com/
+DJ nisc.com
+DJ 207.86.25.*
+Find 'biblioline.nisc.com'
+Replace '^pbiblioline.nisc.com^'
+Find ExpressImport.asp?vendor=NISC&url=http://
+Replace ExpressImport.asp?vendor=NISC&url=http://^A

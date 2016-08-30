@@ -1,0 +1,7 @@
+Title University of Toronto Press Journals
+URL http://www.utpjournals.press
+HJ jvme.utpjournals.press
+HJ utpjournals.press
+HJ champlainsociety.utpjournals.press
+HJ jmvfh.utpjournals.press
+DJ utpjournals.press

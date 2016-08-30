@@ -1,0 +1,8 @@
+Title APA PsycNET
+URL http://psycnet.apa.org
+HJ psycnet.apa.org
+HJ my.apa.org
+HJ psycnet.apa.org
+HJ proxies.apa.org
+DJ apa.org
+DJ psycinfo.com

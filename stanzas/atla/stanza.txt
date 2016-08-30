@@ -1,0 +1,14 @@
+Title ATLA Religion and ATLA Serials (ATLAS)
+URL http://search.atlaonline.com
+Domain atlaonline.com
+# ATLA previously pointed its URLs to purl.org. This
+# "Host purl.org" insures that if any sites have starting
+# point URLs that point to purl.org, they will continue to work
+Host purl.org
+Domain purl.org
+Host 63.136.1.22
+Host 63.136.1.23
+# The 66. hosts may no longer be needed, but this has not been verified
+# and their presence will not impair functionality
+Host 66.77.30.29
+Host 66.77.43.9

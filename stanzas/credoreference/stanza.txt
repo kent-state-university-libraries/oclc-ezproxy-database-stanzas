@@ -1,0 +1,22 @@
+Option Cookie
+Title Credo Reference
+URL http://search.credoreference.com
+DJ credoreference.com
+HJ cdn.credoreference.com
+HJ credoreference.com
+HJ homework.credoreference.com
+HJ literati.credoreference.com
+HJ login.credoreference.com
+HJ school.credoreference.com
+HJ search.credoreference.com
+HJ support.credoreference.com
+HJ vle.credoreference.com
+HJ www.credoreference.com
+HJ https://cdn.credoreference.com
+HJ https://homework.credoreference.com
+HJ https://literati.credoreference.com
+HJ https://school.credoreference.com
+HJ https://search.credoreference.com
+HJ https://support.credoreference.com
+HJ https://vle.credoreference.com
+NeverProxy media.credoreference.com

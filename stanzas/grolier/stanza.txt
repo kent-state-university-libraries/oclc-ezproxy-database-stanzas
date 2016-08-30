@@ -1,0 +1,23 @@
+Title Grolier Online
+URL http://go.grolier.com/
+HJ go.grolier.com
+HJ bkflix.grolier.com
+HJ tfx.grolier.com
+HJ go-passport.grolier.com
+HJ go-high.grolier.com
+HJ go-elem.grolier.com
+HJ go-middle.grolier.com
+HJ nec.grolier.com
+DJ grolier.com
+Find document.domain = "grolier.com";
+Replace document.domain = "^d"; //
+Find omain = ".grolier.com"
+Replace omain = "^l"
+Find "/", ".grolier.com", null
+Replace "/", "^l", null
+Find domain=.grolier.com
+Replace domain=^l
+Find setTimeout( "checkForActivity()", 1000 );
+Replace setTimeout( "checkForActivity()", 5000 );
+Find ((domain) ? "; domain=" + domain : "") +
+Replace ((domain) ? "; domain=^l" : "") +

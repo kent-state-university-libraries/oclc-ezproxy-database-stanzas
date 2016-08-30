@@ -1,0 +1,11 @@
+Title The Arabidopsis Information Resource
+URL https://www.arabidopsis.org/
+HJ arabidopsis.org
+HJ gbrowse.arabidopsis.org
+HJ https://arabidopsis.org
+HJ https://gbrowse.arabidopsis.org
+HJ https://seqviewer.arabidopsis.org
+HJ https://www.arabidopsis.org
+HJ seqviewer.arabidopsis.org
+HJ www.arabidopsis.org
+DJ arabidopsis.org

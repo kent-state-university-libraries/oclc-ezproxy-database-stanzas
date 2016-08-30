@@ -1,0 +1,4 @@
+Title New York Review of Books
+URL http://www.nybooks.com
+HJ www.nybooks.com
+DJ nybooks.com

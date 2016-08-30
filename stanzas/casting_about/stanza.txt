@@ -1,0 +1,6 @@
+Option DomainCookieOnly
+Title Casting About
+URL https://www.castingabout.com
+DJ castingabout.com
+HJ www.castingabout.com
+Option Cookie
