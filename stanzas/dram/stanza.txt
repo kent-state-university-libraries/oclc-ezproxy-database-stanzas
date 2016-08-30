@@ -1,1 +1,5 @@
 Title DRAMOnline
+NeverProxy www.dramonline.org
+NeverProxy login.dramonline.org
+NeverProxy media.dramonline.org
+URL http://proxy.dramonline.org

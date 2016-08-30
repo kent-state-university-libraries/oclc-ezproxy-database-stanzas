@@ -1,1 +1,16 @@
-Title British Standards Online URL http://bsol.bsigroup.com/ HJ https://bsol.bsigroup.com HJ bsol.bsigroup.com DJ bsi-global.com DJ bsigroup.com Find &lt;Address>https:// Replace &lt;Address>https://^A Find &lt;Audience>https:// Replace &lt;Audience>https://^A Find &lt;Attribute Name=&quot;http:// Replace &lt;Attribute Name=&quot;http://^A Find a:OriginalIssuer=&quot;https:// Replace a:OriginalIssuer=&quot;https://^A Find &lt;AuthnContextClassRef>http:// Replace &lt;AuthnContextClassRef>http://^A
+Title British Standards Online
+URL http://bsol.bsigroup.com/
+HJ https://bsol.bsigroup.com
+HJ bsol.bsigroup.com
+DJ bsi-global.com
+DJ bsigroup.com
+Find &lt;Address>https://
+Replace &lt;Address>https://^A
+Find &lt;Audience>https://
+Replace &lt;Audience>https://^A
+Find &lt;Attribute Name=&quot;http://
+Replace &lt;Attribute Name=&quot;http://^A
+Find a:OriginalIssuer=&quot;https://
+Replace a:OriginalIssuer=&quot;https://^A
+Find &lt;AuthnContextClassRef>http://
+Replace &lt;AuthnContextClassRef>http://^A
