@@ -1,0 +1,61 @@
+# ACM Digital Library
+** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/acm.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/acm.en.html) **
+
+## Some of OCLC's notes for this stanza
+
+Option X-Forwarded-For
+ Title ACM Digital Library
+ URL http://dl.acm.org
+ HJ acm.org
+ HJ acmtecs.acm.org
+ HJ books.acm.org
+ HJ cacm.acm.org
+ HJ campus.acm.org
+ HJ delivery.acm.org
+ HJ doi.acm.org
+ HJ interactions.acm.org
+ HJ jacm.acm.org
+ HJ jdiq.acm.org
+ HJ jetc.acm.org
+ HJ jocch.acm.org
+ HJ networker.acm.org
+ HJ portal.acm.org
+ HJ surveys.acm.org
+ HJ taas.acm.org
+ HJ taco.acm.org
+ HJ talg.acm.org
+ HJ talip.acm.org
+ HJ teac.acm.org
+ HJ technews.acm.org
+ HJ tiis.acm.org
+ HJ tissec.acm.org
+ HJ tist.acm.org
+ HJ tmis.acm.org
+ HJ tochi.acm.org
+ HJ toce.acm.org
+ HJ tocl.acm.org
+ HJ tocs.acm.org
+ HJ toct.acm.org
+ HJ todaes.acm.org
+ HJ tods.acm.org
+ HJ tog.acm.org
+ HJ tois.acm.org
+ HJ toit.acm.org
+ HJ tomacs.acm.org
+ HJ tomm.acm.org
+ HJ toms.acm.org
+ HJ topc.acm.org
+ HJ toplas.acm.org
+ HJ tos.acm.org
+ HJ tosem.acm.org
+ HJ tosn.acm.org
+ HJ tsas.acm.org
+ HJ tslp.acm.org
+ HJ tweb.acm.org
+ HJ www.acm.org
+ HJ www.jea.acm.org
+ HJ xrds.acm.org
+ DJ acm.org
+ Option NoX-Forwarded-For
+
+ 
