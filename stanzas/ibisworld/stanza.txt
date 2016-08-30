@@ -1,0 +1,16 @@
+Title IBISWorld
+URL http://www.ibisworld.com
+HJ www.ibisworld.com
+HJ clients1.ibisworld.com
+DJ ibisworld.com
+HJ clients.ibisworld.com.cn
+DJ ibisworld.com.cn
+HJ www.ibisworld.co.uk
+HJ clients1.ibisworld.co.uk
+HJ www.ibisworld.com.au
+HJ clients1.ibisworld.com.au
+HJ www.ibisworld.ca
+HJ clients1.ibisworld.ca
+DJ ibisworld.co.uk
+DJ ibisworld.com.au
+DJ ibisworld.ca
