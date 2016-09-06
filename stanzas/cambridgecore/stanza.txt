@@ -1,0 +1,7 @@
+Title Cambridge Core
+MimeFilter application/html .* html
+URL https://www.cambridge.org/core
+HJ cambridge.org
+DJ cambridge.org
+Find globalNav('//www.cambridge.org/tools/packages/cambridge_themes/
+Replace globalNav('/tools/packages/cambridge_themes/
