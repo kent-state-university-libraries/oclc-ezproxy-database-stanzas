@@ -1,7 +1,20 @@
 Title Cambridge Core
 MimeFilter application/html .* html
 URL https://www.cambridge.org/core
+HJ https://cambridge.org
 HJ cambridge.org
+HJ www.cambridge.org
+HJ africabibliography.cambridge.org
+HJ dib.cambridge.org
+HJ ebooks.cambridge.org
+HJ journals.cambridge.org
+HJ orlando.cambridge.org
+HJ universitypublishingonline.org
+HJ www.africabibliography.cambridge.org
+HJ www.cambridge.org
+HJ www.dib.cambridge.org
+HJ www.journals.cambridge.org
+HJ www.orlando.cambridge.org
 DJ cambridge.org
 Find globalNav('//www.cambridge.org/tools/packages/cambridge_themes/
 Replace globalNav('/tools/packages/cambridge_themes/
