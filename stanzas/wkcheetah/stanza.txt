@@ -3,7 +3,7 @@ ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
 HTTPHeader X-GWT-*
 HTTPHeader X-ApiKey
 HTTPHeader X-CPID
-Title CCH Intelliconnect
+Title Wolters Kluwer Cheetah
 URL http://intelliconnect.cch.com
 HJ https://intelliconnect.cch.com
 HJ https://login.intelliconnect.cch.com

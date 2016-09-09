@@ -4,5 +4,6 @@ HJ www.cell.com
 HJ www.cellpress.com
 HJ cell.com
 DJ cell.com
-Host https://secure.jbs.elsevierhealth.com
+H https://secure.jbs.elsevierhealth.com
+H acw.elsevier.com
 DJ elsevierhealth.com

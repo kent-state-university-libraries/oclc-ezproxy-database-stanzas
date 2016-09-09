@@ -29,6 +29,7 @@ HJ images.webofknowledge.com
 HJ incites.isiknowledge.com
 HJ isi01.isiknowledge.com
 HJ isiknowledge.com
+HJ https://isiknowledge.com
 HJ isiwebofknowledge.com
 HJ links.webofknowledge.com
 HJ login.webofknowledge.com
