@@ -1,6 +1,9 @@
 Title Thieme Connect
 URL https://www.thieme-connect.com/
 HJ https://ebooks.thieme.com
+HJ https://eneurosurgery.thieme.com
+HJ https://science-of-synthesis.thieme.com
+HJ https://sos.thieme.com
 HJ https://thieme-connect.com
 HJ https://thieme-connect.de
 HJ https://thieme.com
@@ -12,6 +15,9 @@ HJ https://www.thieme.com
 HJ https://www.thieme.co.uk
 HJ https://www.thieme.de
 HJ ebooks.thieme.com
+HJ eneurosurgery.thieme.com
+HJ science-of-synthesis.thieme.com
+HJ sos.thieme.com
 HJ thieme-connect.com
 HJ thieme-connect.de
 HJ thieme.com
