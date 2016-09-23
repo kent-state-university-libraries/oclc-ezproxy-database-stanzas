@@ -1,0 +1,9 @@
+Option CookiePassThrough
+Title WWD.com (Women's Wear Daily)
+URL http://wwd.com/
+D wwd.com
+DJ wwd.com
+Find "cookie_domain":"wwd.com"
+Replace "cookie_domain":"^D" Find "detect_cookie=js; path=\/; domain=.wwd.com"
+Replace "detect_cookie=js; path=\/; domain=.^D"
+Option Cookie
