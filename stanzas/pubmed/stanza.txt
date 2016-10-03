@@ -16,8 +16,8 @@ DJ linkinghub.elsevier.com
 DJ wkhealth.com
 Find &url=http://
 Replace &url=http://^A
-Find &url=http://
-Replace &url=http://^A
+Find &amp;url=http://
+Replace &amp;url=http://^A
 Find fref.fcgi?http://
 Replace fref.fcgi?http://^A
 Find 'https://' + window.location.hostname
