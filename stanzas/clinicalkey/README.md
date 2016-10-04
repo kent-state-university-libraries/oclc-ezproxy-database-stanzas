@@ -3,5 +3,4 @@
 
 ## Some of OCLC's notes for this stanza
 
-Please note: ClinicalKey requires EZproxy 5.7 or above to function properly. ClinicalKey and ClinicalKey Australia require SSL to be enabled. Use the information on OCLC's SSL Configuration page to enable https (SSL) proxying.
- 
+All ClinicalKey resources require at minimum EZproxy version 6.1.13, TLS 1.2 compatibility, SSL Configuration and the corresponding database stanza for any of your subscribed resources, as shown below.

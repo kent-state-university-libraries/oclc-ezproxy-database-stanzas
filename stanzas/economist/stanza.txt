@@ -1,12 +1,14 @@
+Option DomainCookieOnly
 PHE www.economist.com$ www-economist-com
 Title Economist.com
 URL http://www.economist.com/
-HJ www.economist.com
-HJ audiovideo.economist.com
 DJ economist.com
 DJ www.google.com
+HJ audiovideo.economist.com
 HJ google.com
 HJ https://google.com
+HJ www.economist.com
+DJ cse.google.com
 DJ static-economist.com
 DJ www.googleapis.com
 NeverProxy apis.google.com
@@ -14,3 +16,6 @@ Find gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
 Replace gcse.src = (document.location.protocol == 'https:' ? 'https://^swww.google.com^' : 'http://^pwww.google.com^') + '/cse/cse.js?cx=' + cx ,
 Find "protocol":"http","uds":"www.google.com"
 Replace "protocol":"http","uds":"^pwww.google.com^"
+Find "protocol":"https","uds":"www.google.com"
+Replace "protocol":"https","uds":"^swww.google.com^"
+Option Cookie

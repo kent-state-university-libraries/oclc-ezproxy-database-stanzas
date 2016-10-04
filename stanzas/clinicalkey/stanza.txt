@@ -6,8 +6,7 @@ HTTPHeader X-CkApp-Request-Locale
 Title ClinicalKey
 MimeFilter application/json .* javascript
 URL https://www.clinicalkey.com
-HJ www.clinicalkey.com
-HJ www.clinicalkey.es
+HJ https://www.clinicalkey.com
 HJ https://www.clinicalkey.es
 DJ clinicalkey.es
 DJ clinicalkey.com
