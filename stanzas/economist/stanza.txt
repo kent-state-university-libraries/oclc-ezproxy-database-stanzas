@@ -2,14 +2,14 @@ Option DomainCookieOnly
 PHE www.economist.com$ www-economist-com
 Title Economist.com
 URL http://www.economist.com/
-DJ economist.com
-DJ www.google.com
 HJ audiovideo.economist.com
 HJ google.com
 HJ https://google.com
 HJ www.economist.com
 DJ cse.google.com
+DJ economist.com
 DJ static-economist.com
+DJ www.google.com
 DJ www.googleapis.com
 NeverProxy apis.google.com
 Find gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
@@ -18,4 +18,10 @@ Find "protocol":"http","uds":"www.google.com"
 Replace "protocol":"http","uds":"^pwww.google.com^"
 Find "protocol":"https","uds":"www.google.com"
 Replace "protocol":"https","uds":"^swww.google.com^"
+Find domain: 'horizon.economist.com',
+Replace domain: '^phorizon.economist.com^',
+Find "http:\/\/www.economist.com\/
+Replace "http:\/\/^pwww.economist.com^\/
+Find "https:\/\/www.economist.com\/
+Replace "https:\/\/^swww.economist.com^\/
 Option Cookie

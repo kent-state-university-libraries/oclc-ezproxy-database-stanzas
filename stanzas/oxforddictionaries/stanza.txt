@@ -1,11 +1,6 @@
-Title Oxford Dictionaries
-URL http://www.oxforddictionaries.com
-HJ www.oxforddictionaries.com
-HJ oxforddictionaries.com
-DJ oxforddictionaries.com
+TITLE Oxford Dictionaries Premium
+URL https://premium.oxforddictionaries.com
+Domain premium.oxforddictionaries.com
+HJ premium.oxforddictionaries.com
 DJ ouptag.scholarlyiq.com
-DJ www.googletagservices.com
 DJ www.google-analytics.com
-DJ partner.googleadservices.com
-Find var source = "http://app.eu.readspeaker.com/cgi-bin/rsent?
-Replace var source = "http://app.eu.readspeaker.com/cgi-bin/rsent?url=" + encodeURIComponent(location.protocol + "//www.oxforddictionaries.com" + location.pathname + location.search) + "&
