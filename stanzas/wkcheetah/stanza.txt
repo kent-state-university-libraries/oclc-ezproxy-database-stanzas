@@ -4,8 +4,8 @@ HTTPHeader X-GWT-*
 HTTPHeader X-ApiKey
 HTTPHeader X-CPID
 Title Wolters Kluwer Cheetah
-URL http://intelliconnect.cch.com
-HJ https://intelliconnect.cch.com
+URL http://wkcheetah.com
+HJ https://wkcheetah.com
 HJ https://login.intelliconnect.cch.com
 HJ https://login.wolterskluwer.com
 DJ wkcheetah.com
