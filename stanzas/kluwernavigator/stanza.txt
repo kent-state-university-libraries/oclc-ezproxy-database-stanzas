@@ -1,5 +1,11 @@
-Title Kluwer navigator
-URL https://navigator.kluwer.nl/
+AnonymousURL -OPTIONS +https://broker.kluwer.nl/*
+AnonymousURL +https://idp.kluwer.nl/userpassword/rest/alternative-idps
+Title Kluwer Navigator
+HTTPHeader X-ApiKey
+HTTPHeader X-Authorization
+HTTPHeader X-CPID
+HTTPHeader X-Tunnel-Status-Code
+URL https://www.navigator.nl
 HJ broker.kluwer.nl
 HJ https://broker.kluwer.nl
 HJ https://cp.kluwer.nl
@@ -13,5 +19,4 @@ HJ m.navigator.kluwer.nl
 HJ valet.navigator.kluwer.nl
 HJ velvet.kluwer.nl
 DJ kluwer.nl
-Find action="https://broker.kluwer.nl
-Replace action="https://^sbroker.kluwer.nl^
+AnonymousURL -*
