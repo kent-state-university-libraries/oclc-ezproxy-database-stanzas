@@ -1,0 +1,5 @@
+HTTPHeader X-TUGG-CODE
+T Tugg Streaming
+U https://LOCATION.tugg.com
+H LOCATION.tugg.com
+DJ tugg.com
