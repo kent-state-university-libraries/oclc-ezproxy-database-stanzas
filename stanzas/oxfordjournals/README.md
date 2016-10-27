@@ -3,7 +3,14 @@
 
 ## Some of OCLC's notes for this stanza
 
-Oxford Journals provides the configuration needed for EZproxy at http://www.oxfordjournals.org/en/help/tech-info/ezproxyconfig.txt which includes current entries for all of the oxfordjournals.org hostnames as well as compatibility entries for the older oupjournals.org hostnames. This file is maintained by Oxford Journals.
+October 2016: Oxford Journals will be migrating to a new platform from mid-November 2016 through January 2017. To accommodate the new platform, you will need to have an SSL certificate configured for your EZproxy server and add the new stanza below to your config.txt file.
 
-When you are creating starting point URLs to use as links on your library webpages, please ensure that the URLs you are using as target URLs are included in this database stanza. If you do not see the target URL you are using, you will need to add it manually as a Host or HJ statement to the Oxford Journals stanza in your config.txt. For more information on this topic, please see Starting Point URLs and Starting Point URLs and config.txt.
- 
+All lines referencing the older subdomain URLs (e.g. abbs.oxfordjournals.org) and your existing Oxford Journals stanza should be maintained until migration is complete and you have an opportunity to update all starting point URLs for these resources.
+
+Oxford Journals requires SSL configuration and the following database stanza in config.txt:
+
+Title Oxford Journals (new platform Fall 2016)
+ URL https://academic.oup.com/
+ DJ oup.com
+
+OCLC has partially tested this stanza and will continue to test during migration. Any necessary updates will be made following migration. The stanza has been tested by OUP with a small group of EZproxy users.
