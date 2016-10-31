@@ -11,6 +11,7 @@ HJ doc.chemnetbase.com
 HJ dod.chemnetbase.com
 HJ poc.chemnetbase.com
 HJ www.hbcpnetbase.com
+HJ hbcpnetbase.com
 HJ www.polymersdatabase.com
 HJ www.hbcponline.com
 DJ chemnetbase.com

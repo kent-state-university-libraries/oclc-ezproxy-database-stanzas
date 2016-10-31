@@ -1,4 +1,4 @@
-Title Rockefeller University Press
+Title Rockefeller University Press
 URL http://www.rupress.org
 HJ www.rupress.org
 HJ intl-jcb.rupress.org
@@ -10,3 +10,4 @@ HJ jem.rupress.org
 HJ jgp.rupress.org
 HJ rupress.org
 DJ rupress.org
+DJ jem.org
