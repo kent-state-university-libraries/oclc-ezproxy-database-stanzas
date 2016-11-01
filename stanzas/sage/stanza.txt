@@ -1,4 +1,4 @@
-# This file is sage.txt as of 2016-09-26.
+# This file is sage.txt as of 2016-11-01.
 # 
 # If you download this file directly into the directory where
 # EZproxy is installed, you can reference it from config.txt/ezproxy.cfg
@@ -28,6 +28,9 @@ Replace url =  "http://^Aonline.sagepub.com"
 # You can omit the Host lines if you always enter SAGE through
 # online.sagepub.com.
 #
+
+HJ https://uk.sagepub.com
+HJ https://us.sagepub.com
 Host aaf.sagepub.com
 Host aan.sagepub.com
 Host aas.sagepub.com
@@ -1044,6 +1047,27 @@ Host yec.sagepub.com
 Host yjj.sagepub.com
 Host you.sagepub.com
 Host yvj.sagepub.com
+Host alj.sagepub.com
+Host bna.sagepub.com
+Host ccn.sagepub.com
+Host cjk.sagepub.com
+Host csa.sagepub.com
+Host csd.sagepub.com
+Host css.sagepub.com
+Host fao.sagepub.com
+Host jco.sagepub.com
+Host lsr.sagepub.com
+Host opn.sagepub.com
+Host osj.sagepub.com
+Host pdp.sagepub.com
+Host pul.sagepub.com
+Host rpr.sagepub.com
+Host sea.sagepub.com
+Host tor.sagepub.com
+Host trc.sagepub.com
+Host waf.sagepub.com
+HJ https://m.uk.sagepub.com
+HJ https://m.us.sagepub.com
 Host m.aaf.sagepub.com
 Host m.aan.sagepub.com
 Host m.aas.sagepub.com
@@ -2060,3 +2084,22 @@ Host m.yec.sagepub.com
 Host m.yjj.sagepub.com
 Host m.you.sagepub.com
 Host m.yvj.sagepub.com
+Host m.alj.sagepub.com
+Host m.bna.sagepub.com
+Host m.ccn.sagepub.com
+Host m.cjk.sagepub.com
+Host m.csa.sagepub.com
+Host m.csd.sagepub.com
+Host m.css.sagepub.com
+Host m.fao.sagepub.com
+Host m.jco.sagepub.com
+Host m.lsr.sagepub.com
+Host m.opn.sagepub.com
+Host m.osj.sagepub.com
+Host m.pdp.sagepub.com
+Host m.pul.sagepub.com
+Host m.rpr.sagepub.com
+Host m.sea.sagepub.com
+Host m.tor.sagepub.com
+Host m.trc.sagepub.com
+Host m.waf.sagepub.com

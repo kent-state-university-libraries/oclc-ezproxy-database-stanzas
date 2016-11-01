@@ -1,0 +1,4 @@
+Title Vanderbilt Television News Archive
+URL https://tvnews.vanderbilt.edu/
+HJ classic.tvnews.vanderbilt.edu
+DJ vanderbilt.edu
