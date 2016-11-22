@@ -14,6 +14,7 @@ HJ differences.dukejournals.org
 HJ dukejournals.org
 HJ easts.dukejournals.org
 HJ ecl.dukejournals.org
+HJ environmentalhumanities.dukejournals.org
 HJ ethnohistory.dukejournals.org
 HJ fhs.dukejournals.org
 HJ genre.dukejournals.org
@@ -42,16 +43,13 @@ HJ rhr.dukejournals.org
 HJ saq.dukejournals.org
 HJ smallaxe.dukejournals.org
 HJ socialtext.dukejournals.org
-HJ ssh.dukejournals.org
 HJ tcl.dukejournals.org
 HJ theater.dukejournals.org
 HJ tikkun.dukejournals.org
 HJ tsq.dukejournals.org
+HJ wpj.dukejournals.org
 HJ www.dukejournals.org
 DJ dukejournals.org
-HJ www.aslo.org
-HJ aslo.org
-DJ aslo.org
 HJ www.carlyleletters.org
 HJ carlyleletters.org
 DJ carlyleletters.org
