@@ -6,3 +6,7 @@ HJ global.practicallaw.com
 HJ uk.practicallaw.com
 HJ us.practicallaw.com
 DJ practicallaw.com
+Find domain=practicallaw.com;
+Replace domain=^d;
+Find domain="practicallaw.com";
+Replace domain="^d";
