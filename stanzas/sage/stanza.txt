@@ -1,4 +1,4 @@
-# This file is sage.txt as of 2016-11-01.
+# This file is sage.txt as of 2016-12-01.
 # 
 # If you download this file directly into the directory where
 # EZproxy is installed, you can reference it from config.txt/ezproxy.cfg
@@ -28,7 +28,8 @@ Replace url =  "http://^Aonline.sagepub.com"
 # You can omit the Host lines if you always enter SAGE through
 # online.sagepub.com.
 #
-
+HJ https://m.uk.sagepub.com
+HJ https://m.us.sagepub.com
 HJ https://uk.sagepub.com
 HJ https://us.sagepub.com
 Host aaf.sagepub.com
@@ -76,6 +77,7 @@ Host ajs.sagepub.com
 Host ala.sagepub.com
 Host ale.sagepub.com
 Host alh.sagepub.com
+Host alj.sagepub.com
 Host alt.sagepub.com
 Host alx.sagepub.com
 Host ame.sagepub.com
@@ -129,6 +131,7 @@ Host bjr.sagepub.com
 Host bmc.sagepub.com
 Host bmo.sagepub.com
 Host bms.sagepub.com
+Host bna.sagepub.com
 Host bod.sagepub.com
 Host bos.sagepub.com
 Host bpi.sagepub.com
@@ -157,6 +160,7 @@ Host cch.sagepub.com
 Host ccj.sagepub.com
 Host ccl.sagepub.com
 Host ccm.sagepub.com
+Host ccn.sagepub.com
 Host ccp.sagepub.com
 Host ccr.sagepub.com
 Host ccs.sagepub.com
@@ -181,6 +185,7 @@ Host cie.sagepub.com
 Host cin.sagepub.com
 Host cis.sagepub.com
 Host cjb.sagepub.com
+Host cjk.sagepub.com
 Host cjn.sagepub.com
 Host cjo.sagepub.com
 Host cjp.sagepub.com
@@ -225,11 +230,14 @@ Host crr.sagepub.com
 Host crs.sagepub.com
 Host crw.sagepub.com
 Host crx.sagepub.com
+Host csa.sagepub.com
 Host csc.sagepub.com
+Host csd.sagepub.com
 Host cse.sagepub.com
 Host csi.sagepub.com
 Host csp.sagepub.com
 Host csr.sagepub.com
+Host css.sagepub.com
 Host cst.sagepub.com
 Host csx.sagepub.com
 Host ctj.sagepub.com
@@ -331,6 +339,7 @@ Host evi.sagepub.com
 Host evp.sagepub.com
 Host ext.sagepub.com
 Host fai.sagepub.com
+Host fao.sagepub.com
 Host fap.sagepub.com
 Host fas.sagepub.com
 Host fbr.sagepub.com
@@ -515,6 +524,7 @@ Host jci.sagepub.com
 Host jcl.sagepub.com
 Host jcm.sagepub.com
 Host jcn.sagepub.com
+Host jco.sagepub.com
 Host jcp.sagepub.com
 Host jcr.sagepub.com
 Host jcs.sagepub.com
@@ -672,6 +682,7 @@ Host lrs.sagepub.com
 Host lrt.sagepub.com
 Host lrx.sagepub.com
 Host lsj.sagepub.com
+Host lsr.sagepub.com
 Host ltj.sagepub.com
 Host ltr.sagepub.com
 Host lup.sagepub.com
@@ -749,10 +760,12 @@ Host obm.sagepub.com
 Host ocs.sagepub.com
 Host ojs.sagepub.com
 Host ome.sagepub.com
+Host opn.sagepub.com
 Host opp.sagepub.com
 Host opr.sagepub.com
 Host org.sagepub.com
 Host orm.sagepub.com
+Host osj.sagepub.com
 Host oss.sagepub.com
 Host otj.sagepub.com
 Host oto.sagepub.com
@@ -768,6 +781,7 @@ Host pch.sagepub.com
 Host pcp.sagepub.com
 Host pdj.sagepub.com
 Host pdk.sagepub.com
+Host pdp.sagepub.com
 Host pds.sagepub.com
 Host pec.sagepub.com
 Host ped.sagepub.com
@@ -835,6 +849,7 @@ Host pss.sagepub.com
 Host psw.sagepub.com
 Host psx.sagepub.com
 Host ptx.sagepub.com
+Host pul.sagepub.com
 Host pun.sagepub.com
 Host pus.sagepub.com
 Host pvs.sagepub.com
@@ -863,6 +878,7 @@ Host rme.sagepub.com
 Host rmi.sagepub.com
 Host roa.sagepub.com
 Host rop.sagepub.com
+Host rpr.sagepub.com
 Host rps.sagepub.com
 Host rre.sagepub.com
 Host rrn.sagepub.com
@@ -894,6 +910,7 @@ Host scv.sagepub.com
 Host scx.sagepub.com
 Host sdi.sagepub.com
 Host sdj.sagepub.com
+Host sea.sagepub.com
 Host sed.sagepub.com
 Host sel.sagepub.com
 Host ser.sagepub.com
@@ -987,6 +1004,7 @@ Host tjx.sagepub.com
 Host tmt.sagepub.com
 Host too.sagepub.com
 Host top.sagepub.com
+Host tor.sagepub.com
 Host tou.sagepub.com
 Host tpa.sagepub.com
 Host tpj.sagepub.com
@@ -994,6 +1012,7 @@ Host tpp.sagepub.com
 Host tps.sagepub.com
 Host tpx.sagepub.com
 Host tra.sagepub.com
+Host trc.sagepub.com
 Host tre.sagepub.com
 Host trj.sagepub.com
 Host trn.sagepub.com
@@ -1025,6 +1044,7 @@ Host vik.sagepub.com
 Host vis.sagepub.com
 Host vmj.sagepub.com
 Host vod.sagepub.com
+Host waf.sagepub.com
 Host wcx.sagepub.com
 Host wes.sagepub.com
 Host wfr.sagepub.com
@@ -1047,27 +1067,6 @@ Host yec.sagepub.com
 Host yjj.sagepub.com
 Host you.sagepub.com
 Host yvj.sagepub.com
-Host alj.sagepub.com
-Host bna.sagepub.com
-Host ccn.sagepub.com
-Host cjk.sagepub.com
-Host csa.sagepub.com
-Host csd.sagepub.com
-Host css.sagepub.com
-Host fao.sagepub.com
-Host jco.sagepub.com
-Host lsr.sagepub.com
-Host opn.sagepub.com
-Host osj.sagepub.com
-Host pdp.sagepub.com
-Host pul.sagepub.com
-Host rpr.sagepub.com
-Host sea.sagepub.com
-Host tor.sagepub.com
-Host trc.sagepub.com
-Host waf.sagepub.com
-HJ https://m.uk.sagepub.com
-HJ https://m.us.sagepub.com
 Host m.aaf.sagepub.com
 Host m.aan.sagepub.com
 Host m.aas.sagepub.com
@@ -1113,6 +1112,7 @@ Host m.ajs.sagepub.com
 Host m.ala.sagepub.com
 Host m.ale.sagepub.com
 Host m.alh.sagepub.com
+Host m.alj.sagepub.com
 Host m.alt.sagepub.com
 Host m.alx.sagepub.com
 Host m.ame.sagepub.com
@@ -1166,6 +1166,7 @@ Host m.bjr.sagepub.com
 Host m.bmc.sagepub.com
 Host m.bmo.sagepub.com
 Host m.bms.sagepub.com
+Host m.bna.sagepub.com
 Host m.bod.sagepub.com
 Host m.bos.sagepub.com
 Host m.bpi.sagepub.com
@@ -1194,6 +1195,7 @@ Host m.cch.sagepub.com
 Host m.ccj.sagepub.com
 Host m.ccl.sagepub.com
 Host m.ccm.sagepub.com
+Host m.ccn.sagepub.com
 Host m.ccp.sagepub.com
 Host m.ccr.sagepub.com
 Host m.ccs.sagepub.com
@@ -1218,6 +1220,7 @@ Host m.cie.sagepub.com
 Host m.cin.sagepub.com
 Host m.cis.sagepub.com
 Host m.cjb.sagepub.com
+Host m.cjk.sagepub.com
 Host m.cjn.sagepub.com
 Host m.cjo.sagepub.com
 Host m.cjp.sagepub.com
@@ -1262,11 +1265,14 @@ Host m.crr.sagepub.com
 Host m.crs.sagepub.com
 Host m.crw.sagepub.com
 Host m.crx.sagepub.com
+Host m.csa.sagepub.com
 Host m.csc.sagepub.com
+Host m.csd.sagepub.com
 Host m.cse.sagepub.com
 Host m.csi.sagepub.com
 Host m.csp.sagepub.com
 Host m.csr.sagepub.com
+Host m.css.sagepub.com
 Host m.cst.sagepub.com
 Host m.csx.sagepub.com
 Host m.ctj.sagepub.com
@@ -1368,6 +1374,7 @@ Host m.evi.sagepub.com
 Host m.evp.sagepub.com
 Host m.ext.sagepub.com
 Host m.fai.sagepub.com
+Host m.fao.sagepub.com
 Host m.fap.sagepub.com
 Host m.fas.sagepub.com
 Host m.fbr.sagepub.com
@@ -1552,6 +1559,7 @@ Host m.jci.sagepub.com
 Host m.jcl.sagepub.com
 Host m.jcm.sagepub.com
 Host m.jcn.sagepub.com
+Host m.jco.sagepub.com
 Host m.jcp.sagepub.com
 Host m.jcr.sagepub.com
 Host m.jcs.sagepub.com
@@ -1709,6 +1717,7 @@ Host m.lrs.sagepub.com
 Host m.lrt.sagepub.com
 Host m.lrx.sagepub.com
 Host m.lsj.sagepub.com
+Host m.lsr.sagepub.com
 Host m.ltj.sagepub.com
 Host m.ltr.sagepub.com
 Host m.lup.sagepub.com
@@ -1786,10 +1795,12 @@ Host m.obm.sagepub.com
 Host m.ocs.sagepub.com
 Host m.ojs.sagepub.com
 Host m.ome.sagepub.com
+Host m.opn.sagepub.com
 Host m.opp.sagepub.com
 Host m.opr.sagepub.com
 Host m.org.sagepub.com
 Host m.orm.sagepub.com
+Host m.osj.sagepub.com
 Host m.oss.sagepub.com
 Host m.otj.sagepub.com
 Host m.oto.sagepub.com
@@ -1805,6 +1816,7 @@ Host m.pch.sagepub.com
 Host m.pcp.sagepub.com
 Host m.pdj.sagepub.com
 Host m.pdk.sagepub.com
+Host m.pdp.sagepub.com
 Host m.pds.sagepub.com
 Host m.pec.sagepub.com
 Host m.ped.sagepub.com
@@ -1872,6 +1884,7 @@ Host m.pss.sagepub.com
 Host m.psw.sagepub.com
 Host m.psx.sagepub.com
 Host m.ptx.sagepub.com
+Host m.pul.sagepub.com
 Host m.pun.sagepub.com
 Host m.pus.sagepub.com
 Host m.pvs.sagepub.com
@@ -1900,6 +1913,7 @@ Host m.rme.sagepub.com
 Host m.rmi.sagepub.com
 Host m.roa.sagepub.com
 Host m.rop.sagepub.com
+Host m.rpr.sagepub.com
 Host m.rps.sagepub.com
 Host m.rre.sagepub.com
 Host m.rrn.sagepub.com
@@ -1931,6 +1945,7 @@ Host m.scv.sagepub.com
 Host m.scx.sagepub.com
 Host m.sdi.sagepub.com
 Host m.sdj.sagepub.com
+Host m.sea.sagepub.com
 Host m.sed.sagepub.com
 Host m.sel.sagepub.com
 Host m.ser.sagepub.com
@@ -2024,6 +2039,7 @@ Host m.tjx.sagepub.com
 Host m.tmt.sagepub.com
 Host m.too.sagepub.com
 Host m.top.sagepub.com
+Host m.tor.sagepub.com
 Host m.tou.sagepub.com
 Host m.tpa.sagepub.com
 Host m.tpj.sagepub.com
@@ -2031,6 +2047,7 @@ Host m.tpp.sagepub.com
 Host m.tps.sagepub.com
 Host m.tpx.sagepub.com
 Host m.tra.sagepub.com
+Host m.trc.sagepub.com
 Host m.tre.sagepub.com
 Host m.trj.sagepub.com
 Host m.trn.sagepub.com
@@ -2062,6 +2079,7 @@ Host m.vik.sagepub.com
 Host m.vis.sagepub.com
 Host m.vmj.sagepub.com
 Host m.vod.sagepub.com
+Host m.waf.sagepub.com
 Host m.wcx.sagepub.com
 Host m.wes.sagepub.com
 Host m.wfr.sagepub.com
@@ -2084,22 +2102,3 @@ Host m.yec.sagepub.com
 Host m.yjj.sagepub.com
 Host m.you.sagepub.com
 Host m.yvj.sagepub.com
-Host m.alj.sagepub.com
-Host m.bna.sagepub.com
-Host m.ccn.sagepub.com
-Host m.cjk.sagepub.com
-Host m.csa.sagepub.com
-Host m.csd.sagepub.com
-Host m.css.sagepub.com
-Host m.fao.sagepub.com
-Host m.jco.sagepub.com
-Host m.lsr.sagepub.com
-Host m.opn.sagepub.com
-Host m.osj.sagepub.com
-Host m.pdp.sagepub.com
-Host m.pul.sagepub.com
-Host m.rpr.sagepub.com
-Host m.sea.sagepub.com
-Host m.tor.sagepub.com
-Host m.trc.sagepub.com
-Host m.waf.sagepub.com

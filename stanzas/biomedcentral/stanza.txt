@@ -307,3 +307,15 @@ HJ womensmidlifehealthjournal.biomedcentral.com
 HJ zoologicalletters.biomedcentral.com
 HJ biomedcentral.com
 DJ biomedcentral.com
+HJ www.eurjmedres.com
+HJ eurjmedres.com
+DJ eurjmedres.com
+HJ www.aricjournal.com
+HJ aricjournal.com
+DJ aricjournal.com
+HJ www.archpublichealth.com
+HJ archpublichealth.com
+DJ archpublichealth.com
+HJ biotechnologyforbiofuels.com
+HJ www.biotechnologyforbiofuels.com
+DJ biotechnologyforbiofuels.com
