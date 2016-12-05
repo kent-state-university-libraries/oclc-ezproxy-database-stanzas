@@ -9,6 +9,7 @@ HJ literati.credoreference.com
 HJ login.credoreference.com
 HJ school.credoreference.com
 HJ search.credoreference.com
+HJ search.help.credoreference.com
 HJ support.credoreference.com
 HJ vle.credoreference.com
 HJ www.credoreference.com
@@ -20,3 +21,4 @@ HJ https://search.credoreference.com
 HJ https://support.credoreference.com
 HJ https://vle.credoreference.com
 NeverProxy media.credoreference.com
+NeverProxy assets.credoreference.com
