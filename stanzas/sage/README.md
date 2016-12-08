@@ -7,7 +7,8 @@ December 2016: Sage is in the process of migrating to a new platform. The new si
 
 At your earliest convenience, please add the new stanza below the current one (either the IncludeFile line or your local Sage stanza):
 
-Title Sage Journals
+HTTPHeader X-Requested-With
+ Title Sage Journals
  URL http://journals.sagepub.com
  HJ https://journals.sagepub.com
  HJ businessresearcher.sagepub.com
