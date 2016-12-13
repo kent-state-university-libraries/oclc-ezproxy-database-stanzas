@@ -1,12 +1,11 @@
 Title GeoScienceWorld
-U http://www.geoscienceworld.org/
+URL http://www.geoscienceworld.org/
 HJ www.geoscienceworld.org
 HJ aapgbull.geoscienceworld.org
 HJ ammin.geoscienceworld.org
 HJ bsgf.geoscienceworld.org
 HJ bcpg.geoscienceworld.org
 HJ bssa.geoscienceworld.org
-HJ bulletin.geoscienceworld.org
 HJ canmin.geoscienceworld.org
 HJ cjes.geoscienceworld.org
 HJ claymin.geoscienceworld.org
@@ -18,12 +17,15 @@ HJ eg.geoscienceworld.org
 HJ elements.geoscienceworld.org
 HJ emg.geoscienceworld.org
 HJ eurjmin.geoscienceworld.org
+HJ gsa.geoscienceworld.org
 HJ perspectives.geoscienceworld.org
 HJ geea.geoscienceworld.org
 HJ geolmag.geoscienceworld.org
 HJ geology.geoscienceworld.org
 HJ geophysics.geoscienceworld.org
+HJ geoscienceworld.org
 HJ geosphere.geoscienceworld.org
+HJ bulletin.geoscienceworld.org
 HJ interpretation.geoscienceworld.org
 HJ italianjgeo.geoscienceworld.org
 HJ jeeg.geoscienceworld.org
@@ -51,5 +53,4 @@ HJ jm.geoscienceworld.org
 HJ geoscienceworld.org
 DJ geoscienceworld.org
 HJ nagt-jge.org
-DJ nagt-jge.org
- 
+DJ nagt-jge.org  
