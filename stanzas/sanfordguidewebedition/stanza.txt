@@ -1,0 +1,6 @@
+Option X-Forwarded-For
+Title Sanford Guide Web Edition
+URL http://webedition.sanfordguide.com
+HJ webedition.sanfordguide.com
+DJ webedition.sanfordguide.com
+Option NoX-Forwarded-For

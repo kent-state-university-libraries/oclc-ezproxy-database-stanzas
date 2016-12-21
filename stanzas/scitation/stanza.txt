@@ -1,13 +1,17 @@
 Title Scitation
-URL http://scitation.aip.org
+URL http://www.scitation.org
 HJ aapt.scitation.org
 HJ aca.scitation.org
+HJ advances.aip.org
 HJ aip.org
 HJ aip.scitation.org
 HJ aipadvances.aip.org
 HJ ajp.aapt.org
 HJ apl-oep.aip.org
 HJ apl.aip.org
+HJ aplmaterials.aip.org
+HJ aplphotonics.aip.org
+HJ apr.aip.org
 HJ asa.scitation.org
 HJ avs.scitation.org
 HJ avspublications.org
@@ -30,6 +34,7 @@ HJ jrse.aip.org
 HJ lia.scitation.org
 HJ link.aip.org
 HJ ltp.aip.org
+HJ mmm.aip.org
 HJ ojps.aip.org
 HJ physicstoday.scitation.org
 HJ pof.aip.org
@@ -39,6 +44,7 @@ HJ ptonline.aip.org
 HJ pubster.aip.org
 HJ rsi.aip.org
 HJ scitation.aip.org
+HJ sd.aip.org
 HJ sor.scitation.org
 HJ taml.aip.org
 HJ www.aip.org
