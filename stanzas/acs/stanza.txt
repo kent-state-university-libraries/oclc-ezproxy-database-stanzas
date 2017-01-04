@@ -1,8 +1,8 @@
 Title American Chemical Society
 URL http://pubs.acs.org
 HJ acs.org
-HJ cen.acs.org
-HJ https://cen.acs.org
+HJ cenglobal.acs.org
+HJ https://cenglobal.acs.org
 HJ https://pubs.acs.org
 HJ pubs.acs.org
 HJ www.acs.org

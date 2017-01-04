@@ -4,6 +4,7 @@ Title ReferenceUSA
 URL http://www.referenceusa.com
 HJ www.referenceusa.com
 HJ https://www.referenceusa.com
+HJ labs.referenceusa.com
 HJ referenceusa.com
 DJ referenceusa.com
 Option Cookie

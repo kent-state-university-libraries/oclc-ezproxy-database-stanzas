@@ -1,3 +1,10 @@
 Title Swank Digital Campus
-URL http://digitalcampus.swankmp.net/
+URL https://digitalcampus.swankmp.net/
 H digitalcampus.swankmp.net
+H digitalcampus.swankmp.com
+H dc.swankmp.com
+H https://digitalcampus.swankmp.net
+H https://digitalcampus.swankmp.com
+H https://dc.swankmp.com
+D swankmp.com
+D swankmp.net
