@@ -5,7 +5,9 @@ HJ adbank.dossiers.knipselkranten.nl
 HJ dossiers.knipselkranten.nl
 HJ knipselkranten.nl
 HJ literom.knipselkranten.nl
+HJ literom.nbdbiblion.nl
 HJ mom.biblion.nl
+HJ thuis.literom.nbdbiblion.nl
 DJ biblion.nl
 DJ knipselkranten.nl
 DJ nbdbiblion.nl

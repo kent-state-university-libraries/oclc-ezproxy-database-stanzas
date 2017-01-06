@@ -1,17 +1,7 @@
-Title American Chemical Society
-URL http://pubs.acs.org
-HJ acs.org
-HJ cenglobal.acs.org
-HJ https://cenglobal.acs.org
-HJ https://pubs.acs.org
-HJ pubs.acs.org
-HJ www.acs.org
-HJ www.chemistry.org
-HJ www.pubs.acs.org
-DJ acs.org
-Find hostdev="pubsdev.acs.org"
-Replace hostdev="^ppubsdev.acs.org^"
-Find hosttest="pubstest.acs.org"
-Replace hosttest="^ppubstest.acs.org^"
-Find hostprod="pubs.acs.org"
-Replace hostprod="^ppubs.acs.org^"
+Title American Concrete Institute
+URL https://www.concrete.org/securedsignin.aspx
+DJ concrete.org
+Find name="dnn$ctr11973$Login$txtUsername"
+Replace name="dnn$ctr11973$Login$txtUsername" value="USERNAMEHERE"
+Find name="dnn$ctr11973$Login$txtPassword"
+Replace name="dnn$ctr11973$Login$txtPassword" value="PASSWORDHERE"
