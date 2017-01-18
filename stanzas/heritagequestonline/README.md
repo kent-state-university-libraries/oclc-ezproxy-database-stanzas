@@ -3,6 +3,8 @@
 
 ## Some of OCLC's notes for this stanza
 
+HeritageQuest Online requires the following database stanza in config.txt :
+
 PROXY BY PORT
 
 PROXY BY HOST NAME

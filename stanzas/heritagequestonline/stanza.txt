@@ -16,4 +16,4 @@ DJ archives.ancestry.com
 DJ www.ancestry.com (www.ancestry.com)
 DJ ancestryheritagequest.com
 Find search.ancestryheritagequest.com/cgi-bin/
-Replace search.ancestryheritagequest.com.^H:{PORTNUMBER}/cgi-bin/
+Replace ^Psearch.ancestryheritagequest.com^/cgi-bin/

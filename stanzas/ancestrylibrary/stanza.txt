@@ -28,4 +28,4 @@ HJ fpdownload.adobe.com
 HJ qualtrics.com
 HJ code.jquery.com
 Find search.ancestrylibrary.com/cgi-bin/
-Replace search.ancestrylibrary.com.^H:PORTNUMBER/cgi-bin/
+Replace ^Psearch.ancestrylibrary.com^/cgi-bin/

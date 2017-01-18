@@ -1,0 +1,10 @@
+Title Hogrefe eContent
+URL http://econtent.hogrefe.com
+HJ econtent.hogrefe.com
+HJ https://econtent.hogrefe.com
+HJ econtent.hogrefe-prod.literatumonline.com
+HJ hogrefe-prod.literatumonline.com
+HJ literatumonline.com
+HJ www.literatumonline.com
+DJ hogrefe.com
+DJ literatumonline.com

@@ -1,0 +1,7 @@
+Title Sabinet ePublications
+URL http://www.journals.co.za/
+HJ https://journals.co.za
+HJ https://www.journals.co.za
+HJ journals.co.za
+HJ www.journals.co.za
+DJ journals.co.za

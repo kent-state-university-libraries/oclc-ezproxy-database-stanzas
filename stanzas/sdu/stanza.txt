@@ -12,6 +12,7 @@ HJ caoweb.sdu.nl
 HJ chemicalsalert.sdu.nl
 HJ chemiekaarten.sdu.nl
 HJ chemiezone.sdu.nl
+HJ decentraleregelgeving.nl
 HJ douaneportal.sdu.nl
 HJ esbonline.sdu.nl
 HJ europmaat.sdu.nl
@@ -20,6 +21,8 @@ HJ fysibel.sdu.nl
 HJ gidsgemeentebesturen.sdu.nl
 HJ hoactonl.sdu.nl
 HJ https://caoweb-cms.sdu.nl
+HJ https://decentraleregelgeving.nl
+HJ https://www.decentraleregelgeving.nl
 HJ https://www.sdu.nl
 HJ idp.sdu.nl
 HJ ienl-kennisbanken.sdu.nl
@@ -67,6 +70,9 @@ HJ warenwet.sdu.nl
 HJ wettenbank.sdu.nl
 HJ wpnr.sdu.nl
 HJ www.arbozone.nl
+HJ www.decentraleregelgeving.nl
 HJ www.opmaat.sdu.nl
 HJ www.wettenbank.sdu.nl
+DJ arbozone.nl
+DJ decentraleregelgeving.nl
 DJ sdu.nl
