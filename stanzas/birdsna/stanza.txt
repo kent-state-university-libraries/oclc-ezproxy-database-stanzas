@@ -1,0 +1,9 @@
+Option DomainCookieOnly
+Title Birds of North America
+URL https://birdsna.org
+HJ birdsna.org
+HJ https://birdsna.org
+H www.googlesyndicatedsearch.com
+H www.google.com
+DJ birdsna.org
+Option Cookie

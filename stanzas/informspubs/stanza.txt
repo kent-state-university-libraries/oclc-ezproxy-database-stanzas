@@ -1,11 +1,13 @@
-T INFORMS PubsOnline
-U http://pubsonline.informs.org/
+Title INFORMS PubsOnline
+URL http://pubsonline.informs.org/
+HJ https://www.informs.org/
 HJ da.journal.informs.org
 HJ deca.informs.org
 HJ ijoc.informs.org
 HJ inte.informs.org
 HJ interfaces.journal.informs.org
 HJ isr.journal.informs.org
+HJ ite.journal.informs.org
 HJ ited.informs.org
 HJ joc.journal.informs.org
 HJ journals.informs.org
