@@ -12,3 +12,9 @@ The current (https://www.reaxys.com) and new (https://new.reaxys.com) Reaxys pla
 When using both current and new Reaxys, the stanza for current Reaxys will need to be updated as below:
 
 The line DJ www.reaxys.com formerly read DJ reaxys.com.
+
+If you have registered your link resolver with Reaxys, the Replace statement in the new stanza will need to be modified as below:
+
+If you have registered your link resolver with Reaxys, please use the following stanza for current Reaxys:
+
+Replace "linkresolver.library.edu" with the URL of your link resolver.
