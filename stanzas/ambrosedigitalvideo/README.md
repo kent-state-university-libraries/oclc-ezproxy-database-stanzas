@@ -3,9 +3,8 @@
 
 ## Some of OCLC's notes for this stanza
 
-Title Ambrose Digital Video
- URL http://videos.ambrosedigital.com
- HJ videos.ambrosedigital.com
- HJ dma.iriseducation.org
- DJ ambrosedigital.com
- DJ iriseducation.org 
+Ambrose Digital Video requires the following database stanza in config.txt :
+
+The stanza formerly contained the following lines. After an update in Februray 2017 these lines will prevent Ambrose Digital Video and Alexander Street Press Video Platform from functioning correctly.
+
+ 
