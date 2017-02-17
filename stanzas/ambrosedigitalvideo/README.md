@@ -5,6 +5,6 @@
 
 Ambrose Digital Video requires the following database stanza in config.txt :
 
-The stanza formerly contained the following lines. After an update in Februray 2017 these lines will prevent Ambrose Digital Video and Alexander Street Press Video Platform from functioning correctly.
+The stanza formerly contained the following lines. After an update in February 2017 these lines will prevent Ambrose Digital Video and Alexander Street Press Video Platform from functioning correctly.
 
  
