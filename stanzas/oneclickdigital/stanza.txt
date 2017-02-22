@@ -1,0 +1,6 @@
+Title OneClickdigital Audiobooks and Ebooks
+URL https://{yourlibraryname}.oneclickdigital.com
+HJ https://{yourlibraryname}.oneclickdigital.com/#register
+DJ oneclickdigital.com
+neverproxy api.oneclickdigital.com
+neverproxy auth.oneclickdigital.com
