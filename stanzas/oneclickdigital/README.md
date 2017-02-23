@@ -3,6 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
-OneClickdigital Audiobooks and Ebooks requires SSL configuration and the following database definition in config.txt :
+OneClickdigital Audiobooks and Ebooks requires SSL configuration and the following database stanza in config.txt :
 
 You must replace {yourlibraryname} in the URL and HJ lines with the appropriate value supplied to you by OneClickdigital.
