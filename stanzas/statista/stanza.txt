@@ -19,3 +19,4 @@ NeverProxy Api.userlike.com
 NeverProxy Ajax.googleapis.com
 NeverProxy Bat.bing.com
 NeverProxy Bat.r.msn.com
+NeverProxy infographic.statista.com
