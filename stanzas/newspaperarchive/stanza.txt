@@ -1,5 +1,5 @@
 Title Newspaper Archive
-URL http://access.newspaperarchive.com/
+URL https://access.newspaperarchive.com/
 HJ access.newspaperarchive.com
 HJ www.newspaperarchive.com
 HJ newspaperarchive.com
