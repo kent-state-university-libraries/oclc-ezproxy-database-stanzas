@@ -1,7 +1,8 @@
-Option Cookie
 Title Credo Reference
 URL http://search.credoreference.com
 DJ credoreference.com
+HJ api.credoreference.com
+HJ beagle.credoreference.com
 HJ cdn.credoreference.com
 HJ credoreference.com
 HJ homework.credoreference.com
@@ -13,6 +14,7 @@ HJ search.help.credoreference.com
 HJ support.credoreference.com
 HJ vle.credoreference.com
 HJ www.credoreference.com
+HJ https://credoreference.com
 HJ https://cdn.credoreference.com
 HJ https://homework.credoreference.com
 HJ https://literati.credoreference.com

@@ -1,5 +1,5 @@
 Title Financial Times
-URL http://www.ft.com/home/us
+URL https://www.ft.com/
 HJ www.ft.com
 HJ ft.com
 HJ markets.ft.com
@@ -41,6 +41,13 @@ HJ www.businessesforsale.com
 HJ https://commerce.uk.reuters.com
 HJ commerce.uk.reuters.com
 HJ www.propertysales.com
+HJ im.ft-static.com
+HJ mostpopular.sp.ft-static.com
+HJ https://reg.ft-static.com
+HJ https://accounts.ft.com
+HJ https://ftepaper.ft.com
+HJ https://join.ft.com
+HJ https://registration.ft.com
 DJ ft.com
 DJ thebanker.com
 DJ thebankerdatabase.com
@@ -61,6 +68,3 @@ DJ ftchinaconfidential.com
 DJ exec-appointments.com
 DJ non-execs.com
 DJ businessesforsale.com
-HJ im.ft-static.com
-HJ mostpopular.sp.ft-static.com
-HJ https://reg.ft-static.com
