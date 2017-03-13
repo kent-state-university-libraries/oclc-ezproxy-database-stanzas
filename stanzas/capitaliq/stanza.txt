@@ -1,0 +1,16 @@
+Capital IQ (NetAdvantage)
+Option CookiePassThrough
+Title *S&P Global NetAdvantage*
+URL https://na.capitaliq.com/ip/NPVPL
+HJ https://www.capitaliq.com
+HJ http://www.capitaliq.com
+Host https://na.capitaliq.com
+Host https://capitaliq.com
+D na.capitaliq.com
+D capitaliq.com
+DJ na.capitaliq.com
+DJ capitaliq.com
+DJ ciqimg.com
+DJ mhfi.com
+Find location.hostname
+Replace location.host
