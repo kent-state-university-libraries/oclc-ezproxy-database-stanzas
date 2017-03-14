@@ -1,13 +1,15 @@
 Title Science - AAAS
 URL http://www.sciencemag.org
 HJ advances.sciencemag.org
-HJ sageke.sciencemag.org
-HJ science.sciencemag.org
-HJ stke.sciencemag.org
-HJ sciencecareers.sciencemag.org
-HJ stm.sciencemag.org
-HJ www.sciencemag.org
-HJ news.sciencemag.org
 HJ classic.sciencemag.org
 HJ https://www.sciencemag.org
+HJ news.sciencemag.org
+HJ nextwave.sciencemag.org
+HJ sageke.sciencemag.org
+HJ science.sciencemag.org
+HJ sciencecareers.sciencemag.org
+HJ sciencemag.org
+HJ stke.sciencemag.org
+HJ stm.sciencemag.org
+HJ www.sciencemag.org
 DJ sciencemag.org
