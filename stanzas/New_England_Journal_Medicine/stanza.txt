@@ -1,4 +1,7 @@
-T New England Journal of Medicine
-U http://www.nejm.org/
+Title New England Journal of Medicine
+URL http://www.nejm.org/
+HJ nejm.org
+HJ content.nejm.org
+HJ resident360.nejm.org
+HJ response.nejm.org
 DJ nejm.org
-HJ www.nejm.org

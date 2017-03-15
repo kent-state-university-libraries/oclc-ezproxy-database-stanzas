@@ -11,6 +11,7 @@ HJ bjo.bmj.com
 HJ bjo.bmjjournals.com
 HJ bjsm.bmj.com
 HJ bjsm.bmjjournals.com
+HJ bmj.com
 HJ bmjopen.bmj.com
 HJ bmjopengastro.bmj.com
 HJ bmjopenrespres.bmj.com
@@ -28,6 +29,7 @@ HJ ebmh.bmjjournals.com
 HJ ebn.bmj.com
 HJ ebn.bmjjournals.com
 HJ ejhp.bmj.com
+HJ emails.bmj.com
 HJ emj.bmj.com
 HJ emj.bmjjournals.com
 HJ ep.bmj.com
@@ -81,6 +83,7 @@ HJ qir.bmj.com
 HJ qshc.bmj.com
 HJ qshc.bmjjournals.com
 HJ qualitysafety.bmj.com
+HJ rmdopen.bmj.com
 HJ spcare.bmj.com
 HJ stel.bmj.com
 HJ sti.bmj.com
@@ -89,6 +92,7 @@ HJ student.bmj.com
 HJ thorax.bmj.com
 HJ thorax.bmjjournals.com
 HJ tobaccocontrol.bmj.com
+HJ us.bestpractice.bmj.com
 HJ veterinaryrecord.bmj.com
 HJ veterinaryrecord.bvapublications.com
 HJ vetrecordcasereports.bmj.com
@@ -102,3 +106,4 @@ HJ www.jnnp.com
 HJ www.jmedethics.com
 HJ www.jmedgenet.com
 DJ bmj.com
+HJ openurl.highwire.org
