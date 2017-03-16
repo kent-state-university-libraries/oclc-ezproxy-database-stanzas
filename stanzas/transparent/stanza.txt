@@ -2,5 +2,6 @@ Title Transparent Language
 URL https://library.transparent.com/[yourTLOnickname]
 HJ library.transparent.com
 DJ transparent.com
-
-Replace [yourTLOnickname] with the name given to you by Transparent Language.
+Domain transparent.com
+NeverProxy transparent.com
+NeverProxy library.transparent.com
