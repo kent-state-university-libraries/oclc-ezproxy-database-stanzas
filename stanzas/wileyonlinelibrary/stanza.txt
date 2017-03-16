@@ -3,6 +3,7 @@ Option X-Forwarded-For
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
 Title Wiley Online
 URL http://onlinelibrary.wiley.com
+HJ https://onlinelibrary.wiley.com
 HJ aapm.onlinelibrary.wiley.com
 HJ aasldpubs.onlinelibrary.wiley.com
 HJ agupubs.onlinelibrary.wiley.com
@@ -14,6 +15,7 @@ HJ doi.wiley.com
 HJ esajournals.onlinelibrary.wiley.com
 HJ febs.onlinelibrary.wiley.com
 HJ interscience.wiley.com
+HJ iubmb.onlinelibrary.wiley.com
 HJ mrw.interscience.wiley.com
 HJ obgyn.onlinelibrary.wiley.com
 HJ physoc.onlinelibrary.wiley.com
@@ -38,6 +40,7 @@ HJ https://doi.wiley.com
 HJ https://esajournals.onlinelibrary.wiley.com
 HJ https://febs.onlinelibrary.wiley.com
 HJ https://interscience.wiley.com
+HJ https://iubmb.onlinelibrary.wiley.com
 HJ https://mrw.interscience.wiley.com
 HJ https://obgyn.onlinelibrary.wiley.com
 HJ https://physoc.onlinelibrary.wiley.com

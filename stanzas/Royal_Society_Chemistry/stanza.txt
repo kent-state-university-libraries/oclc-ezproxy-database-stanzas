@@ -1,5 +1,5 @@
-T Royal Society of Chemistry
-U http://pubs.rsc.org/
+Title Royal Society of Chemistry
+URL http://pubs.rsc.org/
 H ebook.rsc.org
 H https://pubs.rsc.org
 H https://rsc.org
@@ -9,3 +9,10 @@ H rsc.org
 H www.rsc.org
 H xlink.rsc.org
 DJ rsc.org
+
+Title Chemistry World
+URL https://www.chemistryworld.com/
+H https://www.chemistryworld.com
+H www.chemistryworld.com
+H chemistryworld.com
+DJ chemistryworld.com
