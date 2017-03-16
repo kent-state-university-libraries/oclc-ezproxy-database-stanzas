@@ -1,7 +1,7 @@
 Capital IQ (NetAdvantage)
 Option CookiePassThrough
 Title *S&P Global NetAdvantage*
-URL https://na.capitaliq.com/ip/NPVPL
+URL https://na.capitaliq.com/ip/[SITEID]
 HJ https://www.capitaliq.com
 HJ http://www.capitaliq.com
 Host https://na.capitaliq.com
