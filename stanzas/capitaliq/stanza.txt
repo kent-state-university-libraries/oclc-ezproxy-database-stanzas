@@ -1,4 +1,3 @@
-Capital IQ (NetAdvantage)
 Option CookiePassThrough
 Title *S&P Global NetAdvantage*
 URL https://na.capitaliq.com/ip/[SITEID]
