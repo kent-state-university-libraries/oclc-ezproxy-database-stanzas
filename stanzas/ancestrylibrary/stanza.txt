@@ -29,3 +29,5 @@ HJ qualtrics.com
 HJ code.jquery.com
 Find search.ancestrylibrary.com/cgi-bin/
 Replace ^Psearch.ancestrylibrary.com^/cgi-bin/
+Find https://mediasvc.ancestrylibrary.com
+Replace http://mediasvc.ancestrylibrary.com

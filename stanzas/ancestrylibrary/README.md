@@ -3,7 +3,7 @@
 
 ## Some of OCLC's notes for this stanza
 
-Ancestry Library Edition requires the following database stanza in config.txt :
+Ancestry Library Edition requires SSL configuration and the the following database stanza in config.txt :
 
 PROXY BY PORT
 

@@ -1,5 +1,5 @@
 Option DomainCookieOnly
-Title -hide EBSCO LinkSource
-URL http://linksource.ebsco.com
-HJ linksource.ebsco.com
+Title -hide EBSCO Full Text Finder
+URL http://resolver.ebscohost.com
+HJ resolver.ebscohost.com
 Option Cookie
