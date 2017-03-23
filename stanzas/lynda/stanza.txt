@@ -1,7 +1,7 @@
 ProxyHostnameEdit ^lynda.com$ lynda-com
 ProxyHostnameEdit .lynda.com$ -lynda-com
 Title Lynda.com
-URL http://iplogin.lynda.com
+URL https://iplogin.lynda.com
 HJ iplogin.lynda.com
 HJ www.lynda.com
 HJ lynda.com
