@@ -10,5 +10,8 @@ URL https://1.next.westlaw.com/Search/Home.html?rs=IWLN1.0&vr=3.0&sp=YOURSPONSOR
 DJ westlaw.com
 Option Cookie
 NeverProxy c1.next.westlaw.com:443
+NeverProxy ca.next.westlaw.com:443
 NeverProxy i1.next.westlaw.com:443
-NeverProxy j1.next.westlaw.com:443 
+NeverProxy ia.next.westlaw.com:443
+NeverProxy j1.next.westlaw.com:443
+NeverProxy ja.next.westlaw.com:443

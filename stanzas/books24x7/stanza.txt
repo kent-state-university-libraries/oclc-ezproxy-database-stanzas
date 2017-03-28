@@ -4,3 +4,7 @@ Books24x7Site ABC123
 TokenKey SomethingYouPickAndDontTellAnyone
 TokenSignatureKey YouGetThisFromBooks24x7
 DJ books24x7.com
+H secure.books24x7.com
+H mobile.skillport.books24x7.com
+H mobile.books24x7.com
+NeverProxy secure.books24x7.com:443

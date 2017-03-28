@@ -3,7 +3,7 @@
 
 ## Some of OCLC's notes for this stanza
 
-WestLawNext requires the following configuration in config.txt :
+WestLawNext requires the following database stanza in config.txt :
 
 Replace "YOURSPONSORSHIP" with the code provided specifically for your institution by Westlaw.
 
