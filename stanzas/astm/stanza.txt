@@ -12,6 +12,8 @@ Find host=.astm.org
 Replace host=^d
 Find imgloc != ""
 Replace false
+Find "url":"http://
+Replace "url":"http://^A
 
 Title -hide MyASTM
 URL http://myastm.astm.org
