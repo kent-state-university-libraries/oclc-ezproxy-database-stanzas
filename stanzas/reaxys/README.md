@@ -3,7 +3,7 @@
 
 ## Some of OCLC's notes for this stanza
 
-Effective January 28, 2017, Reaxys made changes to its new platform which will allow improved access via EZproxy. The new platform requires SSL Configuration and the following database stanza in config.txt:
+Effective January 28, 2017, Reaxys made changes to its new platform which will allow improved access via EZproxy. The new platform requires EZproxy 6.2.2, SSL Configuration and the following database stanza in config.txt:
 
 Please note that this stanza was developed in a test environment and may require some adjustments as the migration continues.
 

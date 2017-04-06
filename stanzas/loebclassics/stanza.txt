@@ -1,6 +1,3 @@
-T Loeb Classics
-U http://www.loebclassics.com/
-HJ https://www.loebclassics.com
+Title Loeb Classics
+URL https://www.loebclassics.com
 DJ loebclassics.com
-HJ www.hup.harvard.edu
-DJ hup.harvard.edu
