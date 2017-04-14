@@ -1,7 +1,8 @@
 Title PiCarta
-URL http://picarta.pica.nl
+URL http://picarta.nl
 HJ picarta.nl
 HJ picarta.pica.nl
 HJ www.picarta.nl
+HJ ppwww.pica.nl
 DJ pica.nl
 DJ picarta.nl

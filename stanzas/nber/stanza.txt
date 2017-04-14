@@ -1,4 +1,4 @@
-Title National Buruea of Economic Research
+Title National Bureau of Economic Research
 URL http://www.nber.org/
 HJ nber.org
 HJ papers.nber.org
