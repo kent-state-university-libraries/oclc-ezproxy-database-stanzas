@@ -1,4 +1,4 @@
-Title APA Style Central
+Title APA Style CENTRAL
 URL http://apastylecentral.apa.org
 HJ apastylecentral.apa.org
 HJ apa.org
@@ -7,16 +7,3 @@ HJ https://apastylecentral.apa.org
 HJ https://apa.org
 HJ https://my.apa.org
 DJ apa.org
-HJ fonts.googleapis.com
-HJ https://fonts.googleapis.com
-HJ ajax.googleapis.com
-HJ https://ajax.googleapis.com
-DJ googleapis.com
-HJ netdna.bootstrapcdn.com
-HJ https://netdna.bootstrapcdn.com
-HJ maxcdn.bootstrapcdn.com
-HJ https://maxcdn.bootstrapcdn.com
-DJ bootstrapcdn.com
-HJ cdnjs.cloudflare.com
-HJ https://cdnjs.cloudflare.com
-DJ cloudflare.com          

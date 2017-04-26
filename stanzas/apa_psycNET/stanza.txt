@@ -1,8 +1,12 @@
 Title APA PsycNET
 URL http://psycnet.apa.org
 HJ psycnet.apa.org
+HJ content.apa.org
 HJ my.apa.org
 HJ psycnet.apa.org
 HJ proxies.apa.org
+HJ doi.apa.org
 DJ apa.org
+HJ www.psycinfo.com
+HJ psycinfo.com
 DJ psycinfo.com
