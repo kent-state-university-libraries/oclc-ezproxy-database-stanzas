@@ -1,7 +1,12 @@
 Title Economisch Statistische Berichten
-URL http://www.economie.nl/
+URL https://esb.nu/
 HJ economie.nl
+HJ esb.nu
 HJ esbonline.nl
+HJ https://esb.nu
+HJ https://www.esb.nu
 HJ www.economie.nl
+HJ www.esb.nu
 HJ www.esbonline.nl
 DJ economie.nl
+DJ esb.nu
