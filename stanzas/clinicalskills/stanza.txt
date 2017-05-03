@@ -17,8 +17,6 @@ DJ mcstrategies.com
 DJ webinservice.com
 DJ educode.com
 DJ collegeofdirectsupport.com
-DJ jwpsrv.com
-DJ jwpcdn.com
 Find ":"//lms.elsevierperformancemanager.com/
 Replace ":"//^slms.elsevierperformancemanager.com^/
 Find ":"//lms.cert.boca.mcstrategies.com/
