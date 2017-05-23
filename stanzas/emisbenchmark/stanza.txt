@@ -1,17 +1,7 @@
-Title BPR - Benchmark
-URL http://bck.securities.com/?sv=BCK&pc=ZZ
-H securities.com
-H https://securities.com
-H bck.securities.com
-H https://bck.securities.com
-H https://auth.securities.com
-H bpr.securities.com
-H https://bpr.securities.com
-H auth-dev.securities.com
-H https://auth-dev.securities.com
-#RedirectSafe bck.securities.com
-Domain securities.com
-Domain bck.securities.com
-Domain auth.securities.com
-Domain auth-dev.securities.com
-Domain bpr.securities.com
+Title EMIS
+URL https://www.emis.com
+HJ https://auth.emis.com
+DJ emis.com
+NeverProxy https://static-emis.emis.com
+NeverProxy https://cdn.emis.com
+NeverProxy https://*.cdn.emis.com
