@@ -1,3 +1,4 @@
+PHE www.lexisnexis.com$ www-lexisnexis-com
 Option DomainCookieOnly
 Title LexisNexis
 URL http://www.lexisnexis.com/hottopics/lnacademic
@@ -11,12 +12,16 @@ DJ lexis.com
 DJ lexiscn.com
 DJ cispubs.com
 DJ nexis.com
+DJ lexis-nexis.com
+HJ https://www.lexisnexis.com
 HJ web.lexis-nexis.com
 HJ web.lexisnexis.com
 HJ widgetserver.lexisnexis.nl
 HJ www.lexis-nexis.com
 HJ www.lexisnexis.com
 HJ https://www.lexisnexis.com
+HJ https://www.nexis.com
+HJ https://academic.lexisnexis.nl
 HJ www.lexis.com
 HJ www.lexiscn.com
 HJ w3.lexis.com
