@@ -1,6 +1,5 @@
 Title Factiva
-URL http://global.factiva.com
-Host https://global.factiva.com
+URL https://global.factiva.com/en/sess/login.asp?XSID={value_from_proquest}
 Host www.factiva.com
 DJ factiva.com
 DJ wsj.com
