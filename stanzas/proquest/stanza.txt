@@ -19,6 +19,7 @@ HJ hngraphical.proquest.com
 HJ hv.conquestsystems.com
 HJ hv.proquest.com
 HJ indianclaims.proquest.com
+HJ li.proquest.com
 HJ literature.proquest.com
 HJ m.search.proquest.com
 HJ media2.proquest.com
@@ -34,6 +35,7 @@ HJ search.proquest.com
 HJ statab.conquestsystems.com
 HJ statabs.proquest.com
 HJ statistical.proquest.com
+HJ supremecourt.proquest.com
 HJ trials.proquest.com
 HJ wt3.proquest.com
 HJ www.proquest.com
@@ -54,6 +56,7 @@ HJ https://hngraphical.proquest.com
 HJ https://hv.conquestsystems.com
 HJ https://hv.proquest.com
 HJ https://indianclaims.proquest.com
+HJ https://li.proquest.com
 HJ https://literature.proquest.com
 HJ https://m.search.proquest.com
 HJ https://media2.proquest.com
@@ -69,6 +72,7 @@ HJ https://search.proquest.com
 HJ https://statab.conquestsystems.com
 HJ https://statabs.proquest.com
 HJ https://statistical.proquest.com
+HJ https://supremecourt.proquest.com
 HJ https://trials.proquest.com
 HJ https://wt3.proquest.com
 HJ https://www.proquest.com
