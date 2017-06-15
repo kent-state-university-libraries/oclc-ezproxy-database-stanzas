@@ -1,4 +1,9 @@
-Title -hide Ebook Central reroute
+Title Ebook Central SSO
+Option ebraryUnencodedTokens
+ebrarySite -URL=http://ebookcentral.proquest.com:80 YOURSITE
+URL https://ebookcentral.proquest.com/lib/YOURSITE
+HJ ebookcentral.proquest.com
+DJ ebookcentral.proquest.com
 NeverProxy ebookcentral.proquest.com
 NeverProxy YOURSITE.ebookcentral.proquest.com
 NeverProxy acs.ebookcentral.proquest.com
