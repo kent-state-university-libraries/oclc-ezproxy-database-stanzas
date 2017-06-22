@@ -50,7 +50,6 @@ HJ https://digitalmicrofilm1.proquest.com
 HJ https://ebookcentral.proquest.com
 HJ https://fedsearch.proquest.com
 HJ https://fold3library.proquest.com
-HJ https://gateway.proquest.com
 HJ https://historicmapworks.proquest.com
 HJ https://hngraphical.proquest.com
 HJ https://hv.conquestsystems.com
