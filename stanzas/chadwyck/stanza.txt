@@ -33,9 +33,15 @@ URL http://eeb.chadwyck.com
 HJ eeb.chadwyck.com
 HJ eeb.chadwyck.co.uk
 
-Title Chadwyck Early English Books Online
+Option CookiePassThrough
+Title Early English Books Online
 URL http://eebo.chadwyck.com
-HJ eebo.chadwyck.com
+DJ eebo.chadwyck.com
+Find &url=http://
+Replace &url=http://^A
+Find "eebo.chadwyck.com" == document.location.host
+Replace true
+Option Cookie
 
 Title Chadwyck FIAF International Index to Film Periodicals
 URL http://fiaf.chadwyck.com/

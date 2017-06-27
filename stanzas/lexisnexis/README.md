@@ -3,4 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
+LexisNexis requires SSL configuration and the following database stanza in config.txt :
+
 If EZproxy is used with other LexisNexis products, please enter the URLs below as the URL entry in the configuration file.

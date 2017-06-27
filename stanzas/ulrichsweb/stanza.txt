@@ -1,5 +1,5 @@
 Title Ulrichsweb
-URL http://ulrichsweb.serialssolutions.com/
+URL https://ulrichsweb.serialssolutions.com/
 HJ ulrichsweb.serialssolutions.com
 HJ https://ulrichsweb.serialssolutions.com
 HJ www.ulrichsweb.serialssolutions.com

@@ -1,5 +1,6 @@
 PHE www.lexisnexis.com$ www-lexisnexis-com
-Option DomainCookieOnly
+PHE www.nexis.com www-nexis-com
+Option CookiePassThrough
 Title LexisNexis
 URL http://www.lexisnexis.com/hottopics/lnacademic
 DJ lexis-nexis.com
@@ -25,6 +26,8 @@ HJ https://academic.lexisnexis.nl
 HJ www.lexis.com
 HJ www.lexiscn.com
 HJ w3.lexis.com
+HJ w3.nexis.com
+HJ https://w3.nexis.com
 HJ www.nexis.com
 HJ nexis.com
 HJ companydashboard.lexisnexis.nl
@@ -40,6 +43,12 @@ Find NAME="_PRIORREFERER" VALUE="http://
 Replace NAME="_PRIORREFERER" VALUE="http://^A
 Find NAME="_PRIORREFERER" VALUE="https://
 Replace NAME="_PRIORREFERER" VALUE="https://^A
-Find domain = "www.nexis.com"
-Replace domain = "^pwww.nexis.com^"
+Find "www.nexis.com"
+Replace "^pwww.nexis.com^"
+Find window.location.replace(redirURL)
+Replace
+Find mq.set("rt", "https://
+Replace mq.set("rt", "https://^A
+Find mq.set("rt", "http://
+Replace mq.set("rt", "http://^A
 Option Cookie

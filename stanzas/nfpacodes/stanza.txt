@@ -1,6 +1,8 @@
-## NFPA Codes Online
-T NFPA Codes Online
-U http://www.codesonline.nfpa.org/
-D nfpa.org
+Title NFPA Codes Online
+URL https://www.codesonline.nfpa.org
+HJ http://www.codesonline.nfpa.org
+HJ www.codesonline.nfpa.org
+HJ codesonline.nfpa.org
+HJ www.nfpa.org
+HJ nfpa.org
 DJ nfpa.org
-DJ codesonline.nfpa.org
