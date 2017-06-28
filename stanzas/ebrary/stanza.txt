@@ -1,9 +1,8 @@
 Title Ebook Central SSO
 Option ebraryUnencodedTokens
-ebrarySite -URL=http://ebookcentral.proquest.com:80 YOUREBCENTRALSITE
+ebrarySite -URL=https://ebookcentral.proquest.com YOUREBCENTRALSITE
 URL https://ebookcentral.proquest.com/lib/YOUREBCENTRALSITE
-HJ ebookcentral.proquest.com
-DJ ebookcentral.proquest.com
+HJ http://ebookcentral.proquest.com
 NeverProxy ebookcentral.proquest.com
-NeverProxy YOUREBCENTRALSITE.ebookcentral.proquest.com
+NeverProxy YOUREBCENTRALSITE.ebookcentral.proquest.com
 NeverProxy acs.ebookcentral.proquest.com

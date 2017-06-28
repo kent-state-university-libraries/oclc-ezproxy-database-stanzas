@@ -1,4 +1,7 @@
-Title -hide Ebook Central reroute
-NeverProxy ebookcentral.proquest.com
-NeverProxy YOURSITE.ebookcentral.proquest.com
-NeverProxy acs.ebookcentral.proquest.com
+Title EBL
+AllowVars u
+EncryptVar u astringyoupick
+EBLSecret ###____####
+URL http://www.YOURSITE.eblib.com
+HJ http://YOURSITE.eblib.com
+DJ eblib.com
