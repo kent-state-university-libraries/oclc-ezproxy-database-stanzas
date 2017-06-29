@@ -1,9 +1,6 @@
 Title Kaltura
 URL http://www.kaltura.com/
-DJ kaltura.com
+DJ www.kaltura.com
+DJ cdnapi.kaltura.com
 Find "host":"cdnapi.kaltura.com"
 Replace "host":"^pcdnapi.kaltura.com^"
-Find "securedHost":"cdnapisec.kaltura.com"
-Replace "securedHost":"^scdnapisec.kaltura.com^"
-NeverProxy cfvod.kaltura.com
-NeverProxy stats.kaltura.com

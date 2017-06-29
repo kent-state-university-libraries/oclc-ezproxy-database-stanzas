@@ -1,5 +1,7 @@
 Title Project Euclid
-URL http://projecteuclid.org/
+URL https://projecteuclid.org/
 HJ projecteuclid.org
 HJ www.projecteuclid.org
+HJ https://projecteuclid.org
+HJ https://www.projecteuclid.org
 DJ projecteuclid.org
