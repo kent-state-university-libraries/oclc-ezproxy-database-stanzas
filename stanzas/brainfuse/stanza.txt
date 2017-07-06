@@ -1,5 +1,3 @@
 Title Brainfuse
-URL http://www.brainfuse.com/
-HJ home.brainfuse.com
-HJ www.brainfuse.com
-DJ brainfuse.com
+NeverProxy www.brainfuse.com
+URL {URL supplied to you by Brainfuse}
