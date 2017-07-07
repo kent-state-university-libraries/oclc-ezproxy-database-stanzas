@@ -1,0 +1,4 @@
+Title Medici TV EDU
+URL http://edu.medici.tv/
+DJ medici.tv
+NeverProxy medias.medici.tv
