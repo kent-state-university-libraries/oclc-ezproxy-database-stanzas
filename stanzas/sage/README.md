@@ -3,18 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
-December 2016: Sage is in the process of migrating to a new platform. The new site’s URL patterns are much simpler, and ultimately will eliminate the need for the lengthy sage.txt IncludeFile.
+July 2017: There were lines in SAGE’s stanza that prevented videos in SAGE Research Methods and SAGE Knowledge from loading. At your earliest convenience, please remove the lines “HJ brightcove.com” and “DJ brightcove.com” from SAGE’s stanza.
 
-At your earliest convenience, please add the new stanza above the current one (either the IncludeFile line or your local Sage stanza):
-
-Sage has requested that libraries not begin updating their Starting Point URLs until Tuesday December 6. Permanent redirects will be in place from the old URLs (e.g. aaf.sagepub.com) to the new platform to assure continued access during the transition period.
-
-The previous stanza information for Sage Publications is below.
-
-A configuration file for SAGE Publications that includes all of the SAGE journal hostnames is available for download. 
- 
-
-Once downloaded, save this file in your EZproxy directory and include the following line as the last line in your EZproxy config.txt :
-
-Whenever you download a new version of the sage.txt file and replace the old file in your EZproxy directory, make sure to restart your EZproxy server for the changes to take effect.
- 
+SAGE requires SSL configuration and the following database stanza in config.txt:
