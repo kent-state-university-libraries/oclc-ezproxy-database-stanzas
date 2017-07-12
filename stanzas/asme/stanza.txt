@@ -1,6 +1,7 @@
 Title ASME Digital Collection
 URL http://www.asmedigitalcollection.asme.org
 H asmedigitalcollection.asme.org
+H https://asmedigitalcollection.asme.org
 H asmedl.org
 H appliedmechanics.asmedigitalcollection.asme.org
 H appliedmechanicsreviews.asmedigitalcollection.asme.org
@@ -9,6 +10,7 @@ H computationalnonlinear.asmedigitalcollection.asme.org
 H computingengineering.asmedigitalcollection.asme.org
 H dynamicsystems.asmedigitalcollection.asme.org
 H ebooks.asmedigitalcollection.asme.org
+H electrochemical.asmedigitalcollection.asme.org
 H electronicpackaging.asmedigitalcollection.asme.org
 H energyresources.asmedigitalcollection.asme.org
 H fluidsengineering.asmedigitalcollection.asme.org
@@ -32,6 +34,7 @@ H solarenergyengineering.asmedigitalcollection.asme.org
 H thermalscienceapplication.asmedigitalcollection.asme.org
 H tribology.asmedigitalcollection.asme.org
 H turbomachinery.asmedigitalcollection.asme.org
+H verification.asmedigitalcollection.asme.org
 H vibrationacoustics.asmedigitalcollection.asme.org
 H www.asme.org
 H www.asmedl.org

@@ -1,5 +1,5 @@
 Title Nature Publishing
-URL http://www.nature.com
+URL https://www.nature.com
 HJ ad.doubleclick.net
 HJ ajandrology.com
 HJ labanimal.com

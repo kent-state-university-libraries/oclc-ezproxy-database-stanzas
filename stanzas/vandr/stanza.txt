@@ -1,0 +1,14 @@
+Title Vandenhoeck & Ruprecht
+URL http://www.v-r.de/
+HJ https://v-r.de
+HJ https://vr-elibrary.de
+HJ https://www.v-r.de
+HJ https://www.vr-elibrary.de
+HJ v-r.de
+HJ vandenhoeck-ruprecht.de
+HJ vr-elibrary.de
+HJ www.v-r.de
+HJ www.vandenhoeck-ruprecht.de
+HJ www.vr-elibrary.de
+DJ v-r.de
+DJ vr-elibrary.de

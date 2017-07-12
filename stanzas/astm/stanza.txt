@@ -1,6 +1,7 @@
 Option CookiePassThrough
 Title ASTM Compass
-URL http://compass.astm.org
+URL https://compass.astm.org
+HJ compass.astm.org
 DJ compass.astm.org
 Find .indexOf("compass") > -1
 Replace .indexOf(".") > -1
@@ -15,6 +16,18 @@ Replace false
 Find "url":"http://
 Replace "url":"http://^A
 
+Title Enterprise ASTM
+URL http://enterprise.astm.org
+DJ enterprise.astm.org
+Find .indexOf("enterprise") > -1
+Replace .indexOf(".") > -1
+Find .indexOf("enterprise.astm.org") > -1
+Replace .indexOf(".") > -1
+Find domain=.astm.org
+Replace domain=^d
+Find host=.astm.org
+Replace host=^d
+
 Title -hide MyASTM
 URL http://myastm.astm.org
 DJ myastm.astm.org
@@ -26,11 +39,11 @@ Find host=.astm.org
 Replace host=^d
 
 Title -hide ASTM
-URL http://www.astm.org
+URL https://www.astm.org
+HJ www.astm.org
 DJ astm.org
 DJ micronexx.com
 Find domain=.astm.org
 Replace domain=^d
 Find host=.astm.org
 Replace host=^d
-Option Cookie
