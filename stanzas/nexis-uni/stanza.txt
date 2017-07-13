@@ -1,0 +1,44 @@
+Title Nexis Uni
+HTTPMethod PUT
+HTTPMethod DELETE
+HTTPMethod PATCH
+HTTPHeader -request -unrewrite X-LN-PreviousRequestId
+HTTPHeader -request -unrewrite X-RequestedWith
+HTTPHeader -request -unrewrite X-LN-CurrentRequestId
+HTTPHeader -request -unrewrite X-RE-Ref
+HTTPHeader -request -unrewrite X-UA-Compatible
+HTTPHeader -request -unrewrite X-LN-InstanceId
+HTTPHeader -request -unrewrite X-LN-PageMode
+HTTPHeader -response -process X-LN-PreviousRequestId
+HTTPHeader -response -process X-RequestedWith
+HTTPHeader -response -process X-LN-CurrentRequestId
+HTTPHeader -response -process X-RE-Ref
+HTTPHeader -response -process X-UA-Compatible
+HTTPHeader -response -process X-LN-InstanceId
+HTTPHeader -response -process X-LN-PageMode
+HTTPHeader -response -process X-AspNetMvc-Version
+URL https://www.nexisuni.com
+DJ lexisnexis.com
+DJ lexis.com
+DJ advance.lexis.com
+DJ signin.lexisnexis.com
+DJ nexisuni.com
+HJ www.nexisuni.com
+HJ https://www.nexisuni.com
+HJ advance.lexis.com
+HJ signin.lexisnexis.com
+HJ lexis.com
+HJ lexisnexis.com
+Find location.hostname
+Replace location.host
+Find = "www.lexisnexis.com"
+Replace = "^pwww.lexisnexis.com^"
+Find &unix=https://
+Replace &unix=https://^A
+Find GetCookie("LNAUTH")
+Replace "LNAUTH-IP"
+Find NAME="_PRIORREFERER" VALUE="http://
+Replace NAME="_PRIORREFERER" VALUE="http://^A
+Find NAME="_PRIORREFERER" VALUE="https://
+Replace NAME="_PRIORREFERER" VALUE="https://^A
+Option Cookie
