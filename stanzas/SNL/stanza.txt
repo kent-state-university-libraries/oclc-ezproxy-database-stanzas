@@ -1,7 +1,16 @@
+HTTPHeader com-gmi-*
+HTTPHeader SNL-*
+Option CookiePassThrough
 Title SNL
-URL https://www.snl.com/interactivex/
+URL https://www.snl.com
 DJ snl.com
 HJ https://www.snl.com
 HJ www.snl.com
+HJ app.snl.com
+HJ app1.snl.com
+HJ app2.snl.com
 Find && currentDomain != "localhost"
 Replace && 0
+NeverProxy app.snl.com
+DJ mhfi.com
+Option Cookie

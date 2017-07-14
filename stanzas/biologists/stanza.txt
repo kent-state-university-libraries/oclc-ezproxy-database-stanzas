@@ -1,10 +1,11 @@
 Title The Company of Biologists
 URL http://www.biologists.org/
-HJ www.biologists.org
+HJ bio.biologists.org
+HJ biologists.org
 HJ dev.biologists.org
-HJ jcs.biologists.org
-HJ jeb.biologists.org
 HJ dmm.biologists.org
 HJ jcs.biologists.org
-HJ biologists.org
+HJ jcs.biologists.org
+HJ jeb.biologists.org
+HJ www.biologists.org
 DJ biologists.org
