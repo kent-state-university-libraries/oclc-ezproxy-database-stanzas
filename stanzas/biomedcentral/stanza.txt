@@ -1,5 +1,6 @@
 Title BioMed Central
-URL http://www.biomedcentral.com
+URL https://www.biomedcentral.com
+HJ https://www.biomedcentral.com
 HJ www.biomedcentral.com
 HJ aacijournal.biomedcentral.com
 HJ actaneurocomms.biomedcentral.com
