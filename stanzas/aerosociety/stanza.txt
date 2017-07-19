@@ -1,8 +1,9 @@
 Title Royal Aeronautical Society
-URL http://www.aerosociety.com/
+URL https://www.aerosociety.com/
 HJ aerosociety.com
-HJ raes.org.uk
-HJ www.raes.org.uk
+HJ https://aerosociety.com
+HJ https://portal.aerosociety.com
+HJ https://www.aerosociety.com
+HJ portal.aerosociety.com
 HJ www.aerosociety.com
 DJ aerosociety.com
-DJ raes.org.uk

@@ -9,6 +9,7 @@ HJ nature.com
 HJ search.nature.com
 HJ www.ajandrology.com
 HJ www.labanimal.com
+HJ www.nature.com
 HJ www.naturesj.com
 HJ www.npgjournals.com
 DJ ajandrology.com
