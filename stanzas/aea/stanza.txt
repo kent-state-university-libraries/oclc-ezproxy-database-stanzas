@@ -1,4 +1,5 @@
 HTTPHeader X-CSRF-Token
+HTTPHeader X-Key
 HTTPHeader X-Requested-With
 Title American Economic Association
 URL https://www.aeaweb.org/
