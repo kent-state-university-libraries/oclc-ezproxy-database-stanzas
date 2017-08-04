@@ -1,6 +1,6 @@
 MimeFilter application/json .* javascript
-T Loeb Classics
-U https://www.loebclassics.com/
+Title Loeb Classics
+URL https://www.loebclassics.com/
 HJ www.loebclassics.com
 HJ loebclassics.com
 DJ loebclassics.com
