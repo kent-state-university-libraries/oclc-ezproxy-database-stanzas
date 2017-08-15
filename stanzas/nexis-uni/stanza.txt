@@ -3,14 +3,14 @@ HTTPMethod PUT
 HTTPMethod DELETE
 HTTPMethod PATCH
 HTTPHeader -request -unrewrite X-LN-PreviousRequestId
-HTTPHeader -request -unrewrite X-RequestedWith
+HTTPHeader -request -unrewrite X-Requested-With
 HTTPHeader -request -unrewrite X-LN-CurrentRequestId
 HTTPHeader -request -unrewrite X-RE-Ref
 HTTPHeader -request -unrewrite X-UA-Compatible
 HTTPHeader -request -unrewrite X-LN-InstanceId
 HTTPHeader -request -unrewrite X-LN-PageMode
 HTTPHeader -response -process X-LN-PreviousRequestId
-HTTPHeader -response -process X-RequestedWith
+HTTPHeader -response -process X-Requested-With
 HTTPHeader -response -process X-LN-CurrentRequestId
 HTTPHeader -response -process X-RE-Ref
 HTTPHeader -response -process X-UA-Compatible
@@ -41,4 +41,3 @@ Find NAME="_PRIORREFERER" VALUE="http://
 Replace NAME="_PRIORREFERER" VALUE="http://^A
 Find NAME="_PRIORREFERER" VALUE="https://
 Replace NAME="_PRIORREFERER" VALUE="https://^A
-Option Cookie
