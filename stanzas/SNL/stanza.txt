@@ -13,4 +13,5 @@ Find && currentDomain != "localhost"
 Replace && 0
 NeverProxy app.snl.com
 DJ mhfi.com
+DJ spglobal.com
 Option Cookie
