@@ -1,5 +1,6 @@
+HTTPHeader Wicket-*
 Title IG Publishing eBook
-URL http://portal.igpublish.com
+URL http://portal.igpublish.com/
 DJ igpublish.com
 HJ igpublish.com
 HJ portal.igpublish.com
