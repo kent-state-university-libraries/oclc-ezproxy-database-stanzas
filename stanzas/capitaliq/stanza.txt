@@ -1,15 +1,11 @@
 Option CookiePassThrough
-Title *S&P Global NetAdvantage*
-URL https://na.capitaliq.com/ip/[SITEID]
+Title S&P Global Capital IQ
+URL https://www.capitaliq.com
 HJ https://www.capitaliq.com
 HJ http://www.capitaliq.com
-Host https://na.capitaliq.com
-Host https://capitaliq.com
-D na.capitaliq.com
-D capitaliq.com
-DJ na.capitaliq.com
+HJ https://capitaliq.com
+HJ http://capitaliq.com
 DJ capitaliq.com
-DJ ciqimg.com
-DJ mhfi.com
-Find location.hostname
-Replace location.host
+DJ sso.mhfi.com
+DJ sso.spglobal.com
+Option Cookie
