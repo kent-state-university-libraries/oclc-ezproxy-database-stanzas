@@ -1,5 +1,10 @@
 HTTPHeader X-TUGG-CODE
-T Tugg Streaming
-U https://LOCATION.tugg.com
-H LOCATION.tugg.com
+AnonymousURL *.otf
+AnonymousURL *.woff*
+Title Tugg Streaming
+URL https://SITENAME.tugg.com
+Host SITENAME.tugg.com
 DJ tugg.com
+Find "/assets/"+document.location.hostname
+Replace "/assets/SITENAME.tugg.com"
+AnonymousURL -*

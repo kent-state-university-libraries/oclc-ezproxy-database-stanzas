@@ -3,4 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
-Where LOCATION is replaced with the LOCATION CODE provided to you by Tugg.com. If you do not know this code, please contact Tugg.com.
+Tugg Streaming requires SSL configuration and the following database stanza in config.txt :
+
+Where SITENAME is replaced with the site name provided to you by Tugg.com. If you do not know your site name, please contact Tugg.com.
