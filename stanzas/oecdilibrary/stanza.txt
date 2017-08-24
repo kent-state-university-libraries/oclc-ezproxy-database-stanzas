@@ -14,7 +14,6 @@ HJ www.oecdilibrary.org
 HJ www.oecd-ilibrary.org
 HJ www.norden-ilibrary.org
 HJ www.thecommonwealth-ilibrary.org
-HJ www.sourceocde.org
 Find xmlns=\"http://
 Replace xmlns=\"http://^A
 Find LENS_BASE_URI = "http://
@@ -24,3 +23,5 @@ Replace CONTENT_BASE_URI = "http://^A
 Find param="http://
 Replace param="http://^A
 NeverProxy oecd.metastore.ingenta.com
+NeverProxy data.oecd.org
+NeverProxy stats.oecd.org
