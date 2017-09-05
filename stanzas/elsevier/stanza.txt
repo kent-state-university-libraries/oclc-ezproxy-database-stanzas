@@ -20,6 +20,6 @@ Find gsUrl%22%3A%22http%3A%2F%2Fwww.sciencedirect.com%2F
 Replace gsUrl%22%3A%22http%3A%2F%2F^pwww.sciencedirect.com^%2F
 Find pdfurl%3D%22http%3A%2F%2Fwww.sciencedirect.com%2F
 Replace pdfurl%3D%22http%3A%2F%2F^pwww.sciencedirect.com^%2F
-Find pdfurl="//www.sciencedirect.com/
-Replace pdfurl="//^pwww.sciencedirect.com^/
+Find //www.sciencedirect.com/
+Replace //^pwww.sciencedirect.com^/
 Option Cookie
