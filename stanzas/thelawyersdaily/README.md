@@ -3,6 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
-The Lawyer's Daily Academic requires SSL configuration and the following database stanza in config.txt :
+LexisNexis' The Lawyer's Daily Academic requires SSL configuration and the following database stanza in config.txt :
 
 This stanza should be placed below stanzas for any other LexisNexis products in config.txt.
