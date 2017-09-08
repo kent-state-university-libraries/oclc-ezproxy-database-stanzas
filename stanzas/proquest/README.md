@@ -3,7 +3,7 @@
 
 ## Some of OCLC's notes for this stanza
 
-ProQuest requires SSL configuration and the following database stanza in config.txt :
+ProQuest requires EZproxy 6.2.2, SSL configuration and the following database stanza in config.txt :
 
 Please note that previous versions of this stanza included the following line:
 

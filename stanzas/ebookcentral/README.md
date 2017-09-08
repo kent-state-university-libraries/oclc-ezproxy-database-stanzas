@@ -11,7 +11,7 @@ Single-Sign-On: This option will allow users to access Ebook Central and their p
 
 Patron Login + EZproxy: This option uses EZproxy to allow patrons to access Ebook Central and requires them to sign in with a separate Ebook Central username and password to access their personal bookshelves.
 
-Either remote access method requires SSL configuration.
+Either remote access method requires SSL configuration and EZproxy 6.2.2.
 
 Ebook Central single-sign-on requires the following database stanza in config.txt :
 

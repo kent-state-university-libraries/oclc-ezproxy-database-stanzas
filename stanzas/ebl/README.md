@@ -3,7 +3,7 @@
 
 ## Some of OCLC's notes for this stanza
 
-EBL customers are being upgraded to Ebook Central, which requires SSL configuration.
+EBL customers are being upgraded to Ebook Central, which requires SSL configuration and EZproxy 6.2.2.
 
 Please add these additional lines:
 
