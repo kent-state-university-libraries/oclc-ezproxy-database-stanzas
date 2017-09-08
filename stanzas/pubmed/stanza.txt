@@ -1,17 +1,18 @@
 ProxyHostnameEdit www.ncbi.nlm.nih.gov$ www-ncbi-nlm-nih-gov
-Option CookiePassThrough
 AnonymousURL http://www.ncbi.nlm.nih.gov/corehtml/query/static/pubmedsearch.xml*
+Option CookiePassThrough
 Title PubMed
 URL https://www.ncbi.nlm.nih.gov/pubmed
-HJ ncbi.nlm.nih.gov
-HJ https://ncbi.nlm.nih.gov
+HJ https.ncbi.nlm.nih.gov
 HJ https://blast.ncbi.nlm.nih.gov
 HJ https://europepmc.org
 HJ https://eutils.ncbi.nlm.nih.gov
+HJ https://ncbi.nlm.nih.gov
 HJ https://pubchem.ncbi.nlm.nih.gov
-HJ https://www.pubmedcentral.nih.gov
-HJ www.ncbi.nlm.nih.gov
 HJ https://www.ncbi.nlm.nih.gov
+HJ https://www.pubmedcentral.nih.gov
+HJ ncbi.nlm.nih.gov
+HJ www.ncbi.nlm.nih.gov
 DJ nih.gov
 DJ static.pubmed.gov
 # dx.doi.org provides linking Nature, Springer, Wiley, and others

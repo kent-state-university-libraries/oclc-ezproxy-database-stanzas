@@ -37,4 +37,6 @@ NeverProxy epmedia.ebscohost.com
 NeverProxy imageserver.ebscohost.com
 NeverProxy *.ebsco-content.com
 NeverProxy *.footnotelibrary.com
+NeverProxy pdc-evs.ebscohost.com
+NeverProxy sdc-evs.ebscohost.com
 Option AllowSendGZip
