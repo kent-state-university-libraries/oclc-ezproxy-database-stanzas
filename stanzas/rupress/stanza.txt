@@ -1,13 +1,14 @@
 Title Rockefeller University Press
 URL http://www.rupress.org
-HJ www.rupress.org
 HJ intl-jcb.rupress.org
 HJ intl-jem.rupress.org
 HJ intl-jgp.rupress.org
-HJ jcb.rupress.org
 HJ jcb-dataviewer.rupress.org
+HJ jcb.org
+HJ jcb.rupress.org
 HJ jem.rupress.org
 HJ jgp.rupress.org
 HJ rupress.org
+HJ www.jcb.org
+HJ www.rupress.org
 DJ rupress.org
-DJ jem.org

@@ -2,8 +2,8 @@ HTTPHeader X-Requested-With
 Option X-Forwarded-For
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
 Title Wiley Online
-URL http://onlinelibrary.wiley.com
-HJ https://onlinelibrary.wiley.com
+URL https://onlinelibrary.wiley.com
+H http://onlinelibrary.wiley.com
 HJ aapm.onlinelibrary.wiley.com
 HJ aasldpubs.onlinelibrary.wiley.com
 HJ agupubs.onlinelibrary.wiley.com
@@ -21,6 +21,7 @@ HJ obgyn.onlinelibrary.wiley.com
 HJ physoc.onlinelibrary.wiley.com
 HJ secure.onlinelibrary.wiley.com
 HJ wileyonlinelibrary.com
+HJ wires.wiley.com
 HJ www.esajournals.org
 HJ www.interscience.wiley.com
 HJ www.mrw.interscience.wiley.com
@@ -28,6 +29,7 @@ HJ www.onlinelibrary.wiley.com
 HJ www.wiley.com
 HJ www.wileyonlinelibrary.com
 HJ www.wileyopenaccess.com
+HJ www.wires.wiley.com
 HJ www3.interscience.wiley.com
 HJ https://aapm.onlinelibrary.wiley.com
 HJ https://aasldpubs.onlinelibrary.wiley.com
@@ -46,6 +48,7 @@ HJ https://obgyn.onlinelibrary.wiley.com
 HJ https://physoc.onlinelibrary.wiley.com
 HJ https://secure.onlinelibrary.wiley.com
 HJ https://wileyonlinelibrary.com
+HJ https://wires.wiley.com
 HJ https://www.esajournals.org
 HJ https://www.interscience.wiley.com
 HJ https://www.mrw.interscience.wiley.com
