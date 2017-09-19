@@ -1,4 +1,6 @@
 Title Film Platform
-URL http://filmplatform.net
+URL https://filmplatform.net
+Host filmplatform.net
+Host https://www.filmplatform.net
 Host www.filmplatform.net
 DJ filmplatform.net
