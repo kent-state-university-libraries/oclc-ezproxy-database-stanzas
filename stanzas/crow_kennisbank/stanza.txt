@@ -1,5 +1,5 @@
-T CROW Kennisbank
-U http://kennisbank.crow.nl
+Title CROW Kennisbank
+URL http://kennisbank.crow.nl
 HJ crow.nl
 HJ emvi.crow.nl
 HJ https://crow.nl
