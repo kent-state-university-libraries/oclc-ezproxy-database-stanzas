@@ -5,9 +5,4 @@
 
 September 2017: Taylor & Francis eBooks has launched a new platform, which requires SSL configuration and the following database stanza in config.txt :
 
-Title Taylor & Francis eBooks
- URL https://taylorfrancis.com
- DJ taylorfrancis.com
- DJ tandf.co.uk
-
 The new and legacy platforms will run in parallel until October 2017. The stanza for the legacy platform is below.

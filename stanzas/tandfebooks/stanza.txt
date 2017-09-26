@@ -1,4 +1,7 @@
-Title Taylor & Francis eBooks
-URL https://taylorfrancis.com
+Title Taylor Francis eBooks
+URL https://www.taylorfrancis.com
+HJ https://taylorfrancis.com
+HJ www.taylorfrancis.com
+HJ taylorfrancis.com
 DJ taylorfrancis.com
 DJ tandf.co.uk
