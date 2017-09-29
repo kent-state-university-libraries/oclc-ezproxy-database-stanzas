@@ -3,6 +3,10 @@
 
 ## Some of OCLC's notes for this stanza
 
-Elsevier ScienceDirect and Scopus require SSL configuration plus the following two database stanzas in config.txt .
+September 2017: OCLC and Elsevier have developed a stanza to support ScienceDirect’s upcoming HTTPS implementation, which will be rolled out starting on October 9, 2017.
 
-When you add either of these configurations to your existing config.txt  file, please remove any other existing database stanzas for Elsevier products. If you do not remove other copies, the other copies may prevent EZproxy from using these definitions.
+Please add the new stanza above the previous ScienceDirect stanza in config.txt prior to the HTTPS transition. Both stanzas should be used in parallel until the transition is complete (currently expected by the end of October), when the previous ScienceDirect stanza can be removed.
+
+Please note that this stanza was developed in a test environment and may require changes as the transition continues.
+
+The previous stanza information for ScienceDirect and Scopus is below. Please note that the Scopus stanza has not changed as a result of the ScienceDirect HTTPS migration.
