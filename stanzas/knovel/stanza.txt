@@ -1,6 +1,9 @@
-Option NoCookie
 Title Knovel
-URL http://www.knovel.com
+URL http://www.knovel.com/
+HJ http://app.knovel.com
+HJ https://app.knovel.com
+HJ https://www.knovel.com
 HJ app.knovel.com
 DJ knovel.com
+NeverProxy content.knovel.com
 Option Cookie
