@@ -6,4 +6,3 @@ HJ https://www.knovel.com
 HJ app.knovel.com
 DJ knovel.com
 NeverProxy content.knovel.com
-Option Cookie
