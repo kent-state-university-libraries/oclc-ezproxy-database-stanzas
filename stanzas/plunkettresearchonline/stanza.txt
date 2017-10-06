@@ -1,5 +1,6 @@
 Title Plunkett Research
-URL http://www.plunkettresearchonline.com
+URL https://www.plunkettresearchonline.com
+HJ http://www.plunkettresearchonline.com
 HJ www.plunkettresearchonline.com
 HJ plunkettresearchonline.com
 HJ https://www.plunkettresearch.com
