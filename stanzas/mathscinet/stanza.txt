@@ -1,5 +1,8 @@
 Title MathSciNet
-URL http://www.ams.org/mathscinet
+URL https://mathscinet.ams.org/mathscinet
+HJ http://www.ams.org/mathscinet
+HJ mathscinet.ams.org
+DJ mathscinet.ams.org
 H ams.rice.edu
 H ams.math.uni-bielefeld.de
 H ams.mathematik.uni-bielefeld.de
