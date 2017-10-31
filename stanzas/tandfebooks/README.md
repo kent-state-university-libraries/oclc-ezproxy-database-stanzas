@@ -3,6 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
-September 2017: Taylor & Francis eBooks has launched a new platform, which requires SSL configuration and the following database stanza in config.txt :
+October 2017: Taylor & Francis eBooks has launched a new platform, which requires SSL configuration and the following database stanza in config.txt :
 
-The new and legacy platforms will run in parallel until October 2017. The stanza for the legacy platform is below.
+The new and legacy platforms will run in parallel until early November, 2017. The stanza for the legacy platform is below.

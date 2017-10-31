@@ -1,7 +1,16 @@
+HTTPHeader authtoken
+AnonymousURL +https://api.taylorandfrancis.com/*
 Title Taylor Francis eBooks
 URL https://www.taylorfrancis.com
-HJ https://taylorfrancis.com
 HJ www.taylorfrancis.com
+HJ https://taylorfrancis.com
 HJ taylorfrancis.com
+HJ https://api.taylorandfrancis.com
+HJ api.taylorandfrancis.com
+HJ https://accounts.taylorfrancis.com
+HJ accounts.taylorfrancis.com
+DJ taylorandfrancis.com
 DJ taylorfrancis.com
-DJ tandf.co.uk
+Find http-equiv="Content-Security-Policy"
+Replace http-equiv="X-Content-Security-Policy"
+AnonymousURL -*
