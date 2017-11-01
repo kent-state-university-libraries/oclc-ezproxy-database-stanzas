@@ -21,6 +21,7 @@ HJ mitpress.universitypressscholarship.com
 HJ northcarolina.universitypressscholarship.com
 HJ nyu.universitypressscholarship.com
 HJ policypress.universitypressscholarship.com
+HJ princeton.universitypressscholarship.com
 HJ stanford.universitypressscholarship.com
 HJ universitypressscholarship.com
 HJ yale.universitypressscholarship.com
