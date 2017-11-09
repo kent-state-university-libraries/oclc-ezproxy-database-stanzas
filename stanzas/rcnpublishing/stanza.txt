@@ -16,6 +16,7 @@ HJ paediatricnursing.rcnpublishing.co.uk
 HJ primaryhealthcare.rcnpublishing.co.uk
 HJ rcnbulletinjobs.co.uk
 HJ rcni.com
+HJ www.rcni.com
 HJ rcnpublishing.co.uk
 HJ rcnpublishing.com
 HJ https://secure.nursing-standard.co.uk
@@ -26,5 +27,7 @@ HJ www.rcnbulletinjobs.co.uk
 HJ www.rcnpublishing.com
 HJ www.rcnpublishing.co.uk
 HJ https://rcni.com
+HJ https://www.rcni.com
 DJ rcnbulletinjobs.co.uk
 DJ rcnpublishing.com
+DJ rcni.com

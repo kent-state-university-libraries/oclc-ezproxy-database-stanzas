@@ -9,6 +9,10 @@ HJ www.snl.com
 HJ app.snl.com
 HJ app1.snl.com
 HJ app2.snl.com
+HJ platform.mi.spglobal.com
+HJ https://platform.mi.spglobal.com
+HJ platform.marketintelligence.spglobal.com
+HJ https://platform.marketintelligence.spglobal.com
 Find && currentDomain != "localhost"
 Replace && 0
 NeverProxy app.snl.com

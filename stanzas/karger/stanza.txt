@@ -1,5 +1,6 @@
 Title Karger Publishers
-URL http://www.karger.com
+URL https://www.karger.com
+HJ http://www.karger.com
 DJ karger.com
 HJ www.karger.com
 HJ karger.com
