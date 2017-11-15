@@ -3,4 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
-To use this configuration, EZproxy must also be configured for SSL. See SSL Configuration.
+SNL requires SSL configuration and the following database stanza in config.txt :
+
+Known Issue: the Audit Data feature of SNL is not compatible with EZproxy (November 2017).
