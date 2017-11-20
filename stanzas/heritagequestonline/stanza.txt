@@ -1,19 +1,5 @@
 Title HeritageQuest Online
-MimeFilter application/json .* javascript
-URL http://www.heritagequestonline.com
-DJ persi.heritagequestonline.com
+URL https://www.heritagequestonline.com
+HJ https://www.heritagequestonline.com
 DJ heritagequestonline.com
-DJ ancestryheritagequest.com
-DJ search.ancestryheritagequest.com
-DJ mfcreative.com
-DJ c.mfcreative.com
-DJ canary.mfcreative.com
-DJ interactive.ancestryheritagequest.com
-DJ mediasvc.ancestryheritagequest.com
-DJ placepfx.ancestry.com
-DJ ajax.ancestry.com
-DJ archives.ancestry.com
-DJ www.ancestry.com (www.ancestry.com)
-DJ ancestryheritagequest.com
-Find search.ancestryheritagequest.com/cgi-bin/
-Replace ^Psearch.ancestryheritagequest.com^/cgi-bin/
+NeverProxy ancestryheritagequest.com

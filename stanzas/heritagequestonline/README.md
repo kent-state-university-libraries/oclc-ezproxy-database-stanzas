@@ -3,8 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
-HeritageQuest Online requires the following database stanza in config.txt :
+HeritageQuest Online requires SSL configuration and the following database stanza in config.txt :
 
-PROXY BY PORT
-
-PROXY BY HOST NAME
+Please note that this stanza uses EZproxy for authentication only; after authenticating, users will (by design) drop out of the proxy.
