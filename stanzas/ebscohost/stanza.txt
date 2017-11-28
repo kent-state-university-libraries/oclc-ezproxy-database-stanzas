@@ -1,6 +1,17 @@
+#This section is required before any EBSCOhost stanza to prevent linking issues
+Option DomainCookieOnly
+Title -hide EBSCO LinkSource
+URL http://linksource.ebsco.com
+HJ linksource.ebsco.com
+HJ https://linksource.ebsco.com
+Option Cookie
+#
 Title EBSCOhost
 URL http://search.ebscohost.com/login.aspx
 HJ https://search.ebscohost.com
+HJ https://resolver.ebscohost.com
+HJ https://www.ebscohost.com
+HJ https://openurl.ebscohost.com
 HJ ebsco.smartimagebase.com
 HJ eds.a.ebscohost.com
 HJ eds.b.ebscohost.com
@@ -8,10 +19,12 @@ HJ eds.c.ebscohost.com
 HJ eds.d.ebscohost.com
 HJ eds.e.ebscohost.com
 HJ ehis.ebscohost.com
+HJ connection.ebscohost.com
 HJ eoncontent.ebscohost.com
 HJ m.ebscohost.com
 HJ openurl.ebscohost.com
 HJ resolver.ebscohost.com
+HJ search.ebscohost.mobi
 HJ search.epnet.com
 HJ web.a.ebscohost.com
 HJ web.b.ebscohost.com
@@ -20,14 +33,30 @@ HJ web.d.ebscohost.com
 HJ web.e.ebscohost.com
 HJ web.ebscohost.com
 HJ www.netlibrary.com
+HJ exports.ebscohost.com
+HJ therapy.ebscohost.com
+HJ support.ebscohost.com
+HJ flipster.ebsco.com
+HJ e.ebsco.com
 DJ ebscohost.com
+DJ ebscohost.mobi
 DJ epnet.com
+HJ support.ebsco.com
+HJ www.ebsconet.com
+DJ ebsco.com
 DJ netlibrary.com
 DJ smartimagebase.com
+HJ www.teacherreference.com
+DJ teacherreference.com
+HJ www.europeanamericana.com
 Find proxy.cfm?url=http://
 Replace proxy.cfm?url=http://^A
 Find /login?url=http://
 Replace /login?url=http://^A
+Find proxy.cfm?url=https://
+Replace proxy.cfm?url=https://^A
+Find /login?url=https://
+Replace /login?url=https://^A
 NeverProxy *.eoncontent.ebscohost.com
 NeverProxy content.ebscohost.com
 NeverProxy ebscovideos.ebscohost.com
@@ -35,8 +64,11 @@ NeverProxy rps2images.ebscohost.com
 NeverProxy rpsimages.ebscohost.com
 NeverProxy epmedia.ebscohost.com
 NeverProxy imageserver.ebscohost.com
-NeverProxy *.ebsco-content.com
 NeverProxy *.footnotelibrary.com
-NeverProxy pdc-evs.ebscohost.com
-NeverProxy sdc-evs.ebscohost.com
-Option AllowSendGZip
+NeverProxy *.ebsco-content.com
+NeverProxy app.rs.ebscohost com
+NeverProxy media.rs.ebscohost.com
+NeverProxy vttts.rs.ebscohost.com
+NeverProxy nvntts.rs.ebscohost.com
+NeverProxy ivotts.rs.ebscohost.com
+NeverProxy widgets.ebscohost.com
