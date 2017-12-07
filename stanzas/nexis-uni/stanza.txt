@@ -18,6 +18,7 @@ HTTPHeader -response -process X-LN-InstanceId
 HTTPHeader -response -process X-LN-PageMode
 HTTPHeader -response -process X-AspNetMvc-Version
 URL https://www.nexisuni.com
+HJ https://advance.lexis.com
 DJ lexisnexis.com
 DJ lexis.com
 DJ advance.lexis.com

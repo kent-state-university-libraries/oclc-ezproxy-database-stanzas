@@ -1,5 +1,9 @@
 Title American Society of Civil Engineers
-URL http://ascelibrary.org
+URL https://ascelibrary.org
+HJ https://asce.org
+HJ https://ascelibrary.org
+HJ https://www.asce.org
+HJ https://www.ascelibrary.org
 HJ asce.org
 HJ ascelibrary.org
 HJ cedb.asce.org
