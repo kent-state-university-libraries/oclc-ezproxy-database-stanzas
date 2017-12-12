@@ -1,12 +1,9 @@
+Title Artstor
+HTTPHeader -request -process Accept-Encoding
+URL http://library.artstor.org
+DJ artstor.org
+HJ library.artstor.org
+HJ https://library.artstor.org
+HJ proxy.library.artstor.org
 NeverProxy viewer.artstor.org
 NeverProxy viewer2.artstor.org
-Title Artstor
-URL http://library.artstor.org
-H artstor.org
-H library.artstor.org
-H mobile.artstor.org
-H web2.artstor.org
-H www.artstor.org
-H www.library.artstor.org
-H catalog.sharedshelf.artstor.org
-D artstor.org
