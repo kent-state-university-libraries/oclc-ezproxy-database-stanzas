@@ -1,0 +1,25 @@
+Title Oxford University Press Law
+URL http://www.oxfordlawreports.com/
+HJ ildc.oxfordlawreports.com
+HJ oxfordlawreports.com
+DJ oxfordlawreports.com
+HJ citator.ouplaw.com
+HJ olrl.ouplaw.com
+HJ opil.ouplaw.com
+HJ oxcat.ouplaw.com
+HJ oxia.ouplaw.com
+HJ oxcon.ouplaw.com
+HJ www.olrl.ouplaw.com
+HJ www.ouplaw.com
+HJ www.oxcat.ouplaw.com
+HJ www.oxia.ouplaw.com
+HJ www.oxcon.ouplaw.com
+HJ ouplaw.com
+DJ ouplaw.com
+HJ https://global.oup.com
+HJ https://www.oup.com
+HJ www.oup.com
+HJ https://academic.oup.com
+HJ academic.oup.com
+HJ oup.com
+DJ oup.com

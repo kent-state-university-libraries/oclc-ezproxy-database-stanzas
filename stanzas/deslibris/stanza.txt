@@ -1,3 +1,3 @@
 Title desLibris
-URL http://desLibris.ca/
-Domain desLibris.ca
+URL http://deslibris.ca/
+Domain: desLibris.ca
