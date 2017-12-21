@@ -1,5 +1,10 @@
 Title World Bank eLibrary
 URL http://elibrary.worldbank.org/
 HJ elibrary.worldbank.org
+HJ data.worldbank.org
 HJ www.worldbank.org
+HJ https://elibrary.worldbank.org
+HJ https://data.worldbank.org
+HJ https://www.worldbank.org
+HJ worldbank.org
 DJ worldbank.org
