@@ -1,13 +1,18 @@
-Title Ovid
+Title Ovid HTTPS
 URL http://ovidsp.ovid.com/autologin.html
-Host https://ovidsp.ovid.com
-Host ovidsp.tx.ovid.com
-Host gateway.ovid.com
-Host anatomy.tv
-Host https://anatomy.tv
-Host https://secure.anatomy.tv
+HJ https://ovidsp.ovid.com
+HJ ovidsp.tx.ovid.com
+HJ gateway.ovid.com
+HJ ovidsp.ovid.com
+HJ oce.ovid.com
+HJ gateway.tx.ovid.com
+HJ insights.ovid.com
+HJ auth.jbisumari.org
+HJ sumari-prod-1.srv.jbisumari.org
+HJ login.wolterskluwer.com
+DJ jbisumari.org
+DJ wolterskluwer.com
 DJ ovid.com
-DJ anatomy.tv
 Find returnUrl=http://
 Replace returnUrl=http://^A
 Find id="returnUrl" value="http://
