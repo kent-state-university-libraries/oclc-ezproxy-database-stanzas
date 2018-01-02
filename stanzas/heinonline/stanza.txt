@@ -2,7 +2,8 @@ Title HeinOnline
 URL http://www.heinonline.org/HOL/Welcome
 HJ heinonline.org
 HJ home.heinonline.org
-HJ https://heinonline.org
-HJ https://www.heinonline.org
 HJ www.heinonline.org
+HJ https://heinonline.org
+HJ https://home.heinonline.org
+HJ https://www.heinonline.org
 DJ heinonline.org

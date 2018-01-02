@@ -1,12 +1,14 @@
-Title De Gruyter Online
-URL http://www.degruyter.com
+Title De Gruyter
+URL https://www.degruyter.com
 HJ degruyter.com
 HJ degruyter.de
 HJ reference-global.com
+HJ wbis.degruyter.com
 HJ www.reference-global.com
 HJ www.degruyter.com
 HJ www.degruyter.de
-HJ https://degruyter.com
-HJ https://www.degruyter.com
 HJ www.rgz-rgst.degruyter.de
+HJ https://degruyter.com
+HJ https://wbis.degruyter.com
+HJ https://www.degruyter.com
 DJ degruyter.com

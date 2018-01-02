@@ -9,9 +9,9 @@ This stanza will provide access to the following collections, and any resources 
 
 Starting point URLs for each of these individual collections should be constructed using the collection's full URL.
 
-Nursery World requires the following database stanza in config.txt :
+Nursery World requires SSL configuration and the following database stanza in config.txt :
 
-Children & Young People Now requires the following database stanza in config.txt :
+Children & Young People Now requires SSL configuration and the following database stanza in config.txt :
 
 Optician requires SSL configuration and the following database stanza in config.txt :
 

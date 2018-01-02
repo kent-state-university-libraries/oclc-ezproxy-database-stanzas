@@ -1,0 +1,24 @@
+HTTPHeader X-Requested-With
+Option CookiePassThrough
+Title SAGE Journals
+URL http://journals.sagepub.com
+HJ https://journals.sagepub.com
+HJ businessresearcher.sagepub.com
+HJ www.sagepub.co.uk
+HJ data.sagepub.com
+HJ sk.sagepub.com
+HJ library.cqpress.com
+HJ uk.sagepub.com
+HJ methods.sagepub.com
+HJ sage.cnpereading.com
+DJ cnpereading.com
+DJ sagepub.com
+DJ sagepub.co.uk
+DJ cqpress.com
+Find url = "http://
+Replace url = "http://^A
+Find "google-analytics.com
+Replace "^pgoogle-analytics.com^
+Find url = document.location.protocol + "//" + document.location.host
+Replace url = "http://journals.sagepub.com/"
+Option Cookie

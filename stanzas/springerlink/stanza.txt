@@ -1,6 +1,5 @@
 Title SpringerLink
 URL https://link.springer.com
-HJ download.springer.com
 HJ link.springer.com
 HJ rd.springer.com
 HJ www.link.springer.com
@@ -10,4 +9,4 @@ HJ https://www.link.springer.com
 HJ https://www.springerlink.com
 DJ springerlink.com
 DJ springer.com
-DJ sprn.gr
+NeverProxy static-content.springer.com
