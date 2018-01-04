@@ -1,5 +1,6 @@
 Title -hide Gale/Infotrac/PowerSearch Databases
 URL http://infotrac.galegroup.com/
+HJ search.rdsinc.com
 HJ access.gale.com
 HJ auth.go.galegroup.com
 HJ bi.galegroup.com
@@ -35,7 +36,6 @@ HJ www.galenet.com
 HJ www.galepages.com
 HJ www.infotrac.london.galegroup.com
 HJ www.mygovernment.us
-HJ www.nelnetsolutions.com
 HJ https://access.gale.com
 HJ https://auth.go.galegroup.com
 HJ https://bi.galegroup.com
@@ -71,19 +71,15 @@ HJ https://www.galenet.com
 HJ https://www.galepages.com
 HJ https://www.infotrac.london.galegroup.com
 HJ https://www.mygovernment.us
-HJ https://www.nelnetsolutions.com
-HJ HJ https://api.cyber-anatomy.com
+HJ https://api.cyber-anatomy.com
 DJ chiltonlibrary.com
 DJ galegroup.com
 DJ galenet.com
 DJ galepages.com
 DJ galesites.com
 DJ galesupport.com
-DJ ggimg.com
 DJ gofullstack.net
-DJ google.com
 DJ mygovernment.us
-DJ nelnetsolutions.com
 DJ readspeaker.com
 DJ tinygaleurl.com
 DJ readspeaker.com
