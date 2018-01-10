@@ -1,8 +1,14 @@
-Option DomainCookieOnly
-T MIT Press
-U http://www.mitpressjournals.org
-HJ www.mitpressjournals.org
+Title MIT Press Journals
+URL https://www.mitpressjournals.org
+HJ http://cognet.mit.edu
+H https://cognet.mit.edu
+H http://leoalmanac.org
+H http://mitpress.mit.edu
+HJ https://mitpress.mit.edu
+H http://mitpressjournals.org
+HJ http://www.leoalmanac.org
+HJ https://www.leonardo.info
+H http://www.mitpressjournals.org
+HJ https://www.mitpressjournals.org
+DJ leoalmanac.org
 DJ mitpressjournals.org
-HJ www.atypon.com
-DJ atypon.com
-Option Cookie
