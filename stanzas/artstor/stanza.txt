@@ -2,6 +2,7 @@ Title Artstor
 HTTPHeader -request -process Accept-Encoding
 URL http://library.artstor.org
 DJ artstor.org
+HJ mdxdv.artstor.org
 HJ library.artstor.org
 HJ https://library.artstor.org
 HJ proxy.library.artstor.org
