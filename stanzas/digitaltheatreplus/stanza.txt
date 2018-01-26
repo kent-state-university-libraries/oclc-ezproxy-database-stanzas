@@ -1,8 +1,7 @@
 Title Digital Theatre Plus
-URL http://www.digitaltheatreplus.com
+URL https://www.digitaltheatreplus.com
 HJ digitaltheatreplus.com
 HJ www.digitaltheatreplus.com
 HJ https://digitaltheatreplus.com
 HJ https://www.digitaltheatreplus.com
-DJ amazonaws.com
 DJ digitaltheatreplus.com

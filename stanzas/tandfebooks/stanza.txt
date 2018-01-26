@@ -1,6 +1,6 @@
 HTTPHeader authtoken
 AnonymousURL +https://api.taylorandfrancis.com/*
-Title Taylor Francis eBooks
+Title Taylor & Francis eBooks
 URL https://www.taylorfrancis.com
 HJ www.taylorfrancis.com
 HJ https://taylorfrancis.com
