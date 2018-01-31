@@ -1,5 +1,5 @@
 Title Hogrefe eContent
-URL http://econtent.hogrefe.com
+URL https://econtent.hogrefe.com
 HJ econtent.hogrefe.com
 HJ https://econtent.hogrefe.com
 HJ econtent.hogrefe-prod.literatumonline.com
