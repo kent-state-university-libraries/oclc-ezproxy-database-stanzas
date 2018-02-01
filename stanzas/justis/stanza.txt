@@ -1,5 +1,7 @@
 Title Justis
 URL http://www.justis.com/
+HJ app.justis.com
+HJ https://app.justis.com
 HJ https://library.justis.com
 HJ https://justis.com
 HJ https://www.justis.com
