@@ -1,0 +1,10 @@
+Title SciVal
+URL https://scival.com/
+HJ acw.elsevier.com
+HJ https://acw.elsevier.com
+HJ https://scival.com
+HJ https://www.scival.com
+HJ scival.com
+HJ www.scival.com
+DJ elsevier.com
+DJ scival.com

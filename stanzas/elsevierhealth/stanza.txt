@@ -1,4 +1,8 @@
 Title Elsevier Health Journals
 URL http://www.journals.elsevierhealth.com/
 HJ www.journals.elsevierhealth.com
+HJ https://secure.jbs.elsevierhealth.com
+HJ https://id.elsevier.com
+DJ journals.elsevierhealth.com
+DJ secure.jbs.elsevierhealth.com
 DJ elsevierhealth.com
