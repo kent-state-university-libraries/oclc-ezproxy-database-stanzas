@@ -7,3 +7,5 @@ HJ https://archive.ama.org
 HJ journals.ama.org
 HJ www.ama.org
 DJ ama.org
+Find journals.ama.org
+Replace ^pjournals.ama.org^
