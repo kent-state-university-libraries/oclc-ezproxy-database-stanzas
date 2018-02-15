@@ -1,9 +1,12 @@
-HTTPHeader X-Requested-With
+AnonymousURL +*//feeds.proquest.com/*
 Title ProQuest
+HTTPHeader -request -process X-Requested-With
 URL https://search.proquest.com/ip
 NeverProxy rss.proquest.com
 NeverProxy order.proquest.com
 NeverProxy flow.proquest.com
+NeverProxy media.proquest.com
+NeverProxy pq-static-content.proquest.com
 HJ africanamericanheritage.proquest.com
 HJ congressional.proquest.com
 HJ datasets.proquest.com
@@ -11,6 +14,7 @@ HJ dialog.proquest.com
 HJ digitalmicrofilm.proquest.com
 HJ digitalmicrofilm1.proquest.com
 HJ ebookcentral.proquest.com
+HJ explore.proquest.com
 HJ fedsearch.proquest.com
 HJ fold3library.proquest.com
 HJ gateway.proquest.com
@@ -19,8 +23,8 @@ HJ hngraphical.proquest.com
 HJ hv.conquestsystems.com
 HJ hv.proquest.com
 HJ indianclaims.proquest.com
+HJ li.proquest.com
 HJ literature.proquest.com
-HJ m.search.proquest.com
 HJ media2.proquest.com
 HJ newspaperslibrary.proquest.com
 HJ openurl.proquest.com
@@ -34,7 +38,6 @@ HJ search.proquest.com
 HJ statab.conquestsystems.com
 HJ statabs.proquest.com
 HJ statistical.proquest.com
-HJ li.proquest.com
 HJ supremecourt.proquest.com
 HJ trials.proquest.com
 HJ wt3.proquest.com
@@ -42,13 +45,13 @@ HJ www.proquest.com
 HJ www.proquestk12.com
 DJ umi.com
 HJ https://africanamericanheritage.proquest.com
-HJ https://explore.proquest.com
 HJ https://congressional.proquest.com
 HJ https://datasets.proquest.com
 HJ https://dialog.proquest.com
 HJ https://digitalmicrofilm.proquest.com
 HJ https://digitalmicrofilm1.proquest.com
 HJ https://ebookcentral.proquest.com
+HJ https://explore.proquest.com
 HJ https://fedsearch.proquest.com
 HJ https://fold3library.proquest.com
 HJ https://gateway.proquest.com
@@ -56,9 +59,8 @@ HJ https://historicmapworks.proquest.com
 HJ https://hngraphical.proquest.com
 HJ https://hv.conquestsystems.com
 HJ https://hv.proquest.com
-HJ https://li.proquest.com
-HJ https://supremecourt.proquest.com
 HJ https://indianclaims.proquest.com
+HJ https://li.proquest.com
 HJ https://literature.proquest.com
 HJ https://media2.proquest.com
 HJ https://newspaperslibrary.proquest.com
@@ -73,6 +75,7 @@ HJ https://search.proquest.com
 HJ https://statab.conquestsystems.com
 HJ https://statabs.proquest.com
 HJ https://statistical.proquest.com
+HJ https://supremecourt.proquest.com
 HJ https://trials.proquest.com
 HJ https://wt3.proquest.com
 HJ https://www.proquest.com
@@ -80,9 +83,8 @@ HJ https://www.proquestk12.com
 DJ proquestk12.com
 DJ proquest.com
 DJ medicalevidencematters.com
-NeverProxy media.proquest.com
-DJ m.search.proquest.com
 DJ conquestsystems.com
 DJ conquest-leg-insight.com
 Find window.location.host=="congressional.proquest.com"
 Replace true
+AnonymousURL -*
