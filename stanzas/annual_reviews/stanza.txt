@@ -1,5 +1,5 @@
 Title Annual Reviews
-URL http://www.annualreviews.org/
+URL https://www.annualreviews.org/
 HJ annualreviews.org
 HJ anchem.annualreviews.org
 HJ animal.annualreviews.org
@@ -25,7 +25,7 @@ HJ fluid.annualreviews.org
 HJ food.annualreviews.org
 HJ genet.annualreviews.org
 HJ genom.annualreviews.org
-HJ https://www.annualreviews.org
+HJ http://www.annualreviews.org
 HJ immunol.annualreviews.org
 HJ lawsocsci.annualreviews.org
 HJ linguistics.annualreviews.org

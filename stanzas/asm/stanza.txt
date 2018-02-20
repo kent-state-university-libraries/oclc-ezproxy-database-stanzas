@@ -18,6 +18,7 @@ HJ mbio.asm.org
 HJ mcb.asm.org
 HJ mmbr.asm.org
 HJ msystems.asm.org
+HJ msphere.asm.org
 HJ www.asm.org
 HJ www.asmscience.org
 HJ www.journals.asm.org
