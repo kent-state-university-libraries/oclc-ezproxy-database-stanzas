@@ -11,3 +11,5 @@ HJ https://www.clinicalkey.es
 DJ clinicalkey.es
 DJ clinicalkey.com
 NeverProxy cdn.clinicalkey.com
+NeverProxy jigsaw.elsevier.com
+NeverProxy clinicalkeymeded.elsevier.com
