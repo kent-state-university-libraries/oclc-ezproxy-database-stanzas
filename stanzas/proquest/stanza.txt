@@ -7,6 +7,7 @@ NeverProxy order.proquest.com
 NeverProxy flow.proquest.com
 NeverProxy media.proquest.com
 NeverProxy pq-static-content.proquest.com
+NeverProxy support.proquest.com
 HJ africanamericanheritage.proquest.com
 HJ congressional.proquest.com
 HJ datasets.proquest.com

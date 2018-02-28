@@ -6,3 +6,5 @@ HJ sciencesocieties.org
 HJ https://portal.sciencesocieties.org
 HJ portal.sciencesocieties.org
 DJ sciencesocieties.org
+HJ www.agronomy.org
+DJ agronomy.org
