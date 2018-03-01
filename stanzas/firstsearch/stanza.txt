@@ -1,3 +1,4 @@
 Title OCLC FirstSearch
-URL http://firstsearch.oclc.org/FSIP
+URL https://firstsearch.oclc.org/FSIP
+HJ firstsearch.oclc.org
 DJ oclc.org
