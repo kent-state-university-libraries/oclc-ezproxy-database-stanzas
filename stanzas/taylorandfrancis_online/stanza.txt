@@ -4,10 +4,12 @@ Domain doi.org
 
 HTTPHeader Access-Token
 ProxyHostnameEdit www.tandfonline.com$ www-tandfonline-com
-T Taylor & Francis
-U http://www.tandfonline.com
+Title Taylor & Francis
+URL https://www.tandfonline.com
+HJ http://www.tandfonline.com
 HJ journalsonline.tandf.co.uk
 HJ afs.tandfonline.com
+HJ amstat.tandfonline.com
 HJ tandfonline.com
 HJ www.journalsonline.tandf.co.uk
 DJ tandfonline.com
