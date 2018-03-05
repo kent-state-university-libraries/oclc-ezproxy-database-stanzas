@@ -1,4 +1,6 @@
 Title World Book Encyclopedia
-URL http://www.worldbookonline.com
+URL https://www.worldbookonline.com
+Host www.worldbookonline.com
+Host worldbookonline.com
 Domain worldbookonline.com
 DJ worldbook.planetasaber.com
