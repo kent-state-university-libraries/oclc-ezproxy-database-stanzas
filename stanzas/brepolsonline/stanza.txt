@@ -1,5 +1,8 @@
+Option DomainCookieOnly
 Title Brepols Online
-URL http://www.brepolsonline.net
-Host brepolsonline.net
-Host www.brepolsonline.net
-Domain brepolsonline.net
+URL https://www.brepolsonline.net
+HJ brepolsonline.net
+HJ www.brepolsonline.net
+HJ https://www.brepolsonline.net
+DJ brepolsonline.net
+Option Cookie
