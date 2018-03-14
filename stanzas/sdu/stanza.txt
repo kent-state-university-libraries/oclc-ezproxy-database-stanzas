@@ -20,11 +20,13 @@ HJ fiscaal.sdu.nl
 HJ fysibel.sdu.nl
 HJ gidsgemeentebesturen.sdu.nl
 HJ hoactonl.sdu.nl
+HJ hse.sdu.nl
 HJ https://caoweb-cms.sdu.nl
 HJ https://decentraleregelgeving.nl
+HJ https://ga-fo.sdu.nl
+HJ https://ga-sec.sdu.nl
 HJ https://www.decentraleregelgeving.nl
 HJ https://www.sdu.nl
-HJ hse.sdu.nl
 HJ idp.sdu.nl
 HJ ienl-kennisbanken.sdu.nl
 HJ inzichtindeor.sdu.nl
@@ -61,6 +63,7 @@ HJ opmaatvoorhetnotariaat.sdu.nl
 HJ opmaatwaarenwet.sdu.nl
 HJ overheidsadressen.sdu.nl
 HJ ow-online.sdu.nl
+HJ portal.vindsocialezaken.nl
 HJ prda.sdu.nl
 HJ reachstoffenchecker.sdu.nl
 HJ sdu.nl
@@ -77,4 +80,4 @@ HJ www.opmaat.sdu.nl
 HJ www.wettenbank.sdu.nl
 DJ arbozone.nl
 DJ decentraleregelgeving.nl
-DJ sdu.nl 
+DJ sdu.nl
