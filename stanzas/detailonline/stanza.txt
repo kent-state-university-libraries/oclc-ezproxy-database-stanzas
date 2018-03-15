@@ -1,10 +1,15 @@
 Title DETAIL Inspiration
-URL http://www.detail-online.com/inspiration
-HJ detail.de
+URL http://www.inspiration.detail.de/startseite.html?lang=en
 HJ detail-online.com
 HJ es.detail-online.com
+HJ https://detail-online.com
+HJ https://inspiration.detail.de
+HJ https://www.detail-online.com
+HJ https://www.detail.de
+HJ inspiration.detail.de
 HJ it.detail-online.com
 HJ www.detail-online.com
 HJ www.detail.de
-DJ detail.de
+HJ www.inspiration.detail.de
 DJ detail-online.com
+DJ detail.de
