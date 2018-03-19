@@ -1,5 +1,6 @@
 Title Human Kinetics
 URL http://www.humankinetics.com/
+URL https://www.humankinetics.com/
 HJ www.humankinetics.com
 HJ journals.humankinetics.com
 HJ hk.humankinetics.com

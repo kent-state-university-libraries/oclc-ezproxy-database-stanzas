@@ -1,0 +1,11 @@
+AnonymousURL +https://api-production.jwatch.org/*
+AnonymousURL +https://api-production.nejmgroup.org/*
+Title NEJM Journal Watch
+HTTPHeader -request -process access-control-allow-origin
+HTTPHeader -request -process x-api-key
+URL https://www.jwatch.org
+DJ jwatch.org
+DJ nejmgroup.com
+Find JWTDomain:".jwatch.org"
+Replace JWTDomain: "^L"
+AnonymousURL -*

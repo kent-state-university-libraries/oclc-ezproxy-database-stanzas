@@ -3,8 +3,8 @@ AnonymousURL http://www.ncbi.nlm.nih.gov/corehtml/query/static/pubmedsearch.xml*
 Option CookiePassThrough
 Title PubMed
 URL https://www.ncbi.nlm.nih.gov/pubmed
-HJ https.ncbi.nlm.nih.gov
 HJ https://blast.ncbi.nlm.nih.gov
+HJ https://druginfo.nlm.nih.gov
 HJ https://europepmc.org
 HJ https://eutils.ncbi.nlm.nih.gov
 HJ https://ncbi.nlm.nih.gov
@@ -21,8 +21,6 @@ DJ dx.doi.org
 DJ linkinghub.elsevier.com
 Find &url=http://
 Replace &url=http://^A
-Find &url=http://
-Replace &url=http://^A
 Find fref.fcgi?http://
 Replace fref.fcgi?http://^A
 Find 'https://' + window.location.hostname
@@ -30,4 +28,5 @@ Replace 'https://^swww.ncbi.nlm.nih.gov^'
 Find 'https://' + window.location.host +
 Replace 'https://^swww.ncbi.nlm.nih.gov^' +
 AnonymousURL -*
+DJ wkhealth.com
 Option Cookie

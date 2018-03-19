@@ -66,7 +66,7 @@ NeverProxy epmedia.ebscohost.com
 NeverProxy imageserver.ebscohost.com
 NeverProxy *.footnotelibrary.com
 NeverProxy *.ebsco-content.com
-NeverProxy app.rs.ebscohost com
+NeverProxy app.rs.ebscohost.com
 NeverProxy media.rs.ebscohost.com
 NeverProxy vttts.rs.ebscohost.com
 NeverProxy nvntts.rs.ebscohost.com

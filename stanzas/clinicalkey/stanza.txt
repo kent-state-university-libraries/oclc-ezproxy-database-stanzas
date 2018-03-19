@@ -6,10 +6,18 @@ HTTPHeader X-CkApp-Request-Locale
 Title ClinicalKey
 MimeFilter application/json .* javascript
 URL https://www.clinicalkey.com
-HJ https://www.clinicalkey.com
+HJ www.clinicalkey.com
+HJ www.clinicalkey.es
+HJ www.clinicalkey.com.au
+HJ www2.clinicalkey.com
+HJ https://www2.clinicalkey.com
 HJ https://www.clinicalkey.es
+HJ https://www.clinicalkey.com.au
 DJ clinicalkey.es
 DJ clinicalkey.com
+DJ clinicalkey.com.au
+HJ t.clinicalsolutions.elsevier.com
+DJ elsevier.com
 NeverProxy cdn.clinicalkey.com
 NeverProxy jigsaw.elsevier.com
 NeverProxy clinicalkeymeded.elsevier.com
