@@ -32,6 +32,7 @@ HJ rmets.onlinelibrary.wiley.com
 HJ rss.onlinelibrary.wiley.com
 HJ secure.onlinelibrary.wiley.com
 HJ setac.onlinelibrary.wiley.com
+HJ sigmapubs.onlinelibrary.wiley.com
 HJ spssi.onlinelibrary.wiley.com
 HJ stemcellsjournals.onlinelibrary.wiley.com
 HJ wileyonlinelibrary.com
@@ -79,6 +80,7 @@ HJ https://secure.onlinelibrary.wiley.com
 HJ https://setac.onlinelibrary.wiley.com
 HJ https://spssi.onlinelibrary.wiley.com
 HJ https://stemcellsjournals.onlinelibrary.wiley.com
+HJ https://sigmapubs.onlinelibrary.wiley.com
 HJ https://sttipubs.onlinelibrary.wiley.com
 HJ https://wileyonlinelibrary.com
 HJ https://wires.wiley.com

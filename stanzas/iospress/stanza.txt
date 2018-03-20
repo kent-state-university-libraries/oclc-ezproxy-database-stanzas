@@ -1,14 +1,12 @@
 Option DomainCookieOnly
-AnonymousURL +https://www.iospress.nl/feed/?post_type=ios_news
 Title IOS Press
-HTTPHeader x-www-form-urlencoded
-HTTPHeader -response -edit Access-Control-Allow-Origin "*"
 URL https://content.iospress.com
+HJ content.iospress.com
+HJ ebooks.iospress.com
 HJ https://content.iospress.com
-HJ http://content.iospress.com
+HJ https://www.iospress.nl
+HJ www.ebooks.iospress.com
+HJ www.iospress.nl
 DJ iospress.com
 DJ iospress.nl
-DJ *.amazonaws.com
-DJ trendmd.com
-AnonymousURL -*
 Option Cookie

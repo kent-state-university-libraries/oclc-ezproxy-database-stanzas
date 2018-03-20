@@ -1,17 +1,29 @@
 Option DomainCookieOnly
+AnonymousURL +http://staticieeexplore.ieee.org/*
+AnonymousURL +https://staticieeexplore.ieee.org/*
 Title IEEE Xplore
 HTTPHeader -response -block Content-Security-Policy
-URL http://ieeexplore.ieee.org/xpl/bkBrowse.jsp
+URL https://ieeexplore.ieee.org/
 HJ ieeexplore.ieee.org
 HJ m.ieeexplore.ieee.org
-HJ dou.ieeecomputersociety.org
+HJ doi.ieeecomputersociety.org
 HJ opac.ieeecomputersociety.org
 HJ search.ieeexplore.ieee.org
 HJ www.computer.org
 HJ www.ieeexplore.ieee.org
 HJ www.ieee.org
 HJ xplorestaging.ieee.org
+HJ https://ieeexplore.ieee.org
+HJ https://m.ieeexplore.ieee.org
+HJ https://doi.ieeecomputersociety.org
+HJ https://opac.ieeecomputersociety.org
+HJ https://search.ieeexplore.ieee.org
+HJ https://www.computer.org
+HJ https://www.ieeexplore.ieee.org
+HJ https://www.ieee.org
+HJ https://xplorestaging.ieee.org
 DJ computer.org
 DJ ieee.org
 DJ ieeecomputersociety.org
+AnonymousURL -*
 Option Cookie
