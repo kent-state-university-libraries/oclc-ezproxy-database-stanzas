@@ -1,7 +1,9 @@
 Title Cell Press
-URL http://www.cell.com
+URL https://www.cell.com
 HJ www.cell.com
+HJ https://www.cell.com
 HJ www.cellpress.com
+HJ https://www.cellpress.com
 HJ cell.com
 DJ cell.com
 H https://secure.jbs.elsevierhealth.com
