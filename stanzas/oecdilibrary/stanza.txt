@@ -10,8 +10,6 @@ DJ un-ilibrary.org
 DJ itu-ilibrary.org
 DJ wto-ilibrary.org
 HJ www.oecd.org
-HJ stats.oecd.org
-HJ data.oecd.org
 HJ www.oecdilibrary.org
 HJ www.oecd-ilibrary.org
 HJ www.nordic-ilibrary.org
@@ -20,8 +18,6 @@ HJ www.un-ilibrary.org
 HJ www.itu-ilibrary.org
 HJ www.wto-ilibrary.org
 HJ https://www.oecd.org
-HJ https://stats.oecd.org
-HJ https://data.oecd.org
 HJ https://www.oecdilibrary.org
 HJ https://www.oecd-ilibrary.org
 HJ https://www.nordic-ilibrary.org

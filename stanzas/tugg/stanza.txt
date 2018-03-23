@@ -1,10 +1,11 @@
-HTTPHeader X-TUGG-CODE
 AnonymousURL *.otf
 AnonymousURL *.woff*
 Title Tugg Streaming
+HTTPHeader -request -process X-TUGG-CODE
 URL https://SITENAME.tugg.com
 Host SITENAME.tugg.com
 DJ tugg.com
 Find "/assets/"+document.location.hostname
 Replace "/assets/SITENAME.tugg.com"
+NeverProxy d3llxikfpf4pa2.tugg.com
 AnonymousURL -*
