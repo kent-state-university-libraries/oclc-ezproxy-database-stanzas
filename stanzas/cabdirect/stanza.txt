@@ -1,4 +1,4 @@
-Title CAB Direct
+Title CABI Resources
 URL https://www.cabdirect.org/
 HJ https://cabi.org
 HJ https://www.cabi.org
