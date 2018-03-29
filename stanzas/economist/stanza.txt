@@ -14,10 +14,8 @@ DJ www.googleapis.com
 NeverProxy apis.google.com
 Find gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
 Replace gcse.src = (document.location.protocol == 'https:' ? 'https://^swww.google.com^' : 'http://^pwww.google.com^') + '/cse/cse.js?cx=' + cx ,
-Find "protocol":"http","uds":"www.google.com"
-Replace "protocol":"http","uds":"^pwww.google.com^"
-Find "protocol":"https","uds":"www.google.com"
-Replace "protocol":"https","uds":"^swww.google.com^"
+Find "uds": "www.google.com"
+Replace "uds": "^swww.google.com^"
 Find domain: 'horizon.economist.com',
 Replace domain: '^phorizon.economist.com^',
 Find "http:\/\/www.economist.com\/
