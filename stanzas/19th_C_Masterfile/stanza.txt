@@ -1,3 +1,4 @@
 Title Nineteenth Century Masterfile: 1106-1930
-URL http://history.paratext.com
+URL https://history.paratext.com
+HJ history.paratext.com
 DJ paratext.com

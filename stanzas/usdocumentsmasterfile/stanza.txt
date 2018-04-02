@@ -1,3 +1,4 @@
 Title U.S. Documents Masterfile
-URL http://documents.paratext.com
+URL https://documents.paratext.com
+HJ documents.paratext.com
 DJ paratext.com
