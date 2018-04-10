@@ -9,7 +9,10 @@ HJ es.mintel.com
 HJ foodanddrink.mintel.com
 HJ fr.mintel.com
 HJ gmn.mintel.com
+HJ data.mintel.com
+HJ https://data.mintel.com
 HJ gnpd.mintel.com
+HJ https://gnpd.mintel.com
 HJ hpc.mintel.com
 HJ https://bpc.mintel.com
 HJ https://foodanddrink.mintel.com
