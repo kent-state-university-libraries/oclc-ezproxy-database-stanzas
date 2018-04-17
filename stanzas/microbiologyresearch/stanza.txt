@@ -1,7 +1,17 @@
 Title Microbiology Society Journals
 URL http://www.microbiologyresearch.org
+HJ https://ijs.microbiologyresearch.org
+HJ https://jgv.microbiologyresearch.org
+HJ https://jmm.microbiologyresearch.org
+HJ https://jmmcr.microbiologyresearch.org
+HJ https://mgen.microbiologyresearch.org
+HJ https://mic.microbiologyresearch.org
 HJ https://microbiologyresearch.org
+HJ https://sgmjournals.org
+HJ https://vir.microbiologyresearch.org
 HJ https://www.microbiologyresearch.org
+HJ https://www.microbiologysociety.org
+HJ https://www.sgmjournals.org
 HJ ijs.microbiologyresearch.org
 HJ ijs.sgmjournals.org
 HJ ijsb.sgmjournals.org
@@ -25,9 +35,9 @@ HJ sgmjournals.org
 HJ vir.microbiologyresearch.org
 HJ vir.sgmjournals.org
 HJ www.microbiologyresearch.org
+HJ www.microbiologysociety.org
 HJ www.sgmjournals.org
 HJ www.socgenmicrobiol.org.uk
-HJ www.microbiologysociety.org
 DJ microbiologyresearch.org
 DJ sgmjournals.org
 DJ socgenmicrobiol.org.uk

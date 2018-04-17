@@ -1,9 +1,12 @@
 Title New England Journal of Medicine
 URL http://www.nejm.org/
-HJ content.nejm.org
+HJ https://www.nejm.org/
 HJ https://nejm.org
-HJ https://www.nejm.org
 HJ nejm.org
+HJ content.nejm.org
+HJ https://content.nejm.org
 HJ resident360.nejm.org
+HJ https://resident360.nejm.org
 HJ response.nejm.org
+HJ https://response.nejm.org
 DJ nejm.org
