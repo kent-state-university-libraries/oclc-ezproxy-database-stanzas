@@ -10,3 +10,7 @@ HJ https://resident360.nejm.org
 HJ response.nejm.org
 HJ https://response.nejm.org
 DJ nejm.org
+HJ Interactive.nejm.org
+HJ Cdf.nejm.org
+HJ https://Interactive.nejm.org
+HJ https://Cdf.nejm.org
