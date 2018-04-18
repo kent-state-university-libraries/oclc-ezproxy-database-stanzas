@@ -1,5 +1,9 @@
-T Kanopy Videostreaming
-U http://.kanopystreaming.com
-HJ https://.kanopystreaming.com
-HJ .kanopystreaming.com
-DJ kanopystreaming.com
+Title Kanopy Streaming
+URL http://Institution_ID.kanopystreaming.com
+H https://Institution_ID.kanopystreaming.com
+D kanopystreaming.com
+
+Title Kanopy
+URL http://Institution_ID.kanopy.com
+H https://Institution_ID.kanopy.com
+D kanopy.com
