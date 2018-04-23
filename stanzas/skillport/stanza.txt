@@ -1,0 +1,1 @@
+SSO -Secret={secret} -HASH=SHA256 -URL={url} skillport

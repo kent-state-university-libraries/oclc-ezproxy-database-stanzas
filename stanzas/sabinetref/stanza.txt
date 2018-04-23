@@ -1,3 +1,4 @@
 Title Sabinet Reference
-URL http://reference.sabinet.co.za/
+URL https://reference.sabinet.co.za/
+HJ http://reference.sabinet.co.za/
 DJ sabinet.co.za
