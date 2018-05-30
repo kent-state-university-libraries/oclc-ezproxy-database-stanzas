@@ -1,0 +1,8 @@
+AnonymousURL https://static3.politico.com/*
+Title Politico (updated 20180515)
+MimeFilter text/plain https://subscriber.politicopro.com/pro-api/.* javascript
+URL https://subscriber.politicopro.com
+DJ politicopro.com
+DJ politico.com
+Find https:\/\/
+Replace https://

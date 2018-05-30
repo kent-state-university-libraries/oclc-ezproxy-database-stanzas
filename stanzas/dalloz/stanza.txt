@@ -1,4 +1,4 @@
-Title Dalloz
+Title Dalloz (updated 20180511)
 MimeFilter application/json .* javascript
 URL http://www.dalloz.fr/
 HJ dalloz.fr
@@ -27,3 +27,5 @@ DJ editions-dalloz.fr
 DJ prepa-dalloz.fr
 Find "http:\/\/www.dalloz.fr\/
 Replace "http:\/\/^pwww.dalloz.fr^\/
+Find www.dalloz.fr
+Replace ^swww.dalloz.fr^

@@ -1,5 +1,11 @@
-Title Material ConneXion
-URL https://www.materialconnexion.com/database
-DJ materialconnexion.com
+Title Material ConneXion (updated 20180516)
+URL https://www.materialconnexion.com
 HJ www.materialconnexion.com
 HJ materialconnexion.com
+HJ library.materialconnexion.com
+HJ www.materialconnexion.online
+HJ http://library.materialconnexion.com
+HJ http://materialconnexion.online
+DJ materialconnexion.com
+DJ library.materialconnexion.com
+DJ materialconnexion.online

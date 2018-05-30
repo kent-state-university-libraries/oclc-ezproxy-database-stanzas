@@ -1,4 +1,4 @@
-Title SDU
+Title SDU (updated 20180524)
 URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
 HJ advocatensupport.sdu.nl
@@ -25,6 +25,10 @@ HJ https://caoweb-cms.sdu.nl
 HJ https://decentraleregelgeving.nl
 HJ https://ga-fo.sdu.nl
 HJ https://ga-sec.sdu.nl
+HJ https://hse.sdu.nl
+HJ https://notariaat.sdu.nl
+HJ https://opmaat.sdu.nl
+HJ https://portal.vindsocialezaken.nl
 HJ https://www.decentraleregelgeving.nl
 HJ https://www.sdu.nl
 HJ idp.sdu.nl
@@ -35,6 +39,7 @@ HJ loonzaken.sdu.nl
 HJ migratierecht.sdu.nl
 HJ modelverordeningen.sdu.nl
 HJ nationaliteitsrecht.sdu.nl
+HJ notariaat.sdu.nl
 HJ opmaat.sdu.nl
 HJ opmaataanbestedingsrecht.sdu.nl
 HJ opmaatafval.sdu.nl

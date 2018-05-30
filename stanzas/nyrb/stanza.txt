@@ -1,3 +1,12 @@
-Title New York Review of Books
+Title New York Review of Books (updated 20180304)
 URL http://www.nybooks.com
-DJ www.nybooks.com
+HJ www.nybooks.com
+HJ shop.nybooks.com
+HJ nybooks.com
+DJ nybooks.com
+HJ https://subscribe.nybooks.info
+DJ nybooks.info
+HJ www.nyrb.com
+HJ nyrb.com
+DJ nyrb.com
+Neverproxy cdn.nybooks.com

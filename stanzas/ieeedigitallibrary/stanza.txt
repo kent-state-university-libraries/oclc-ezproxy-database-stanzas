@@ -1,0 +1,10 @@
+Title IEEE Computer Society Digital Library (updated 20180515)
+URL https://www.computer.org/
+HJ www.computer.org
+HJ csdl.computer.org
+HJ search.computer.org
+HJ ieeecomputersociety.org
+HJ publications.computer.org
+HJ https://d20lqhyll7kadk.cloudfront.net
+HJ https://publications.computer.org
+DJ computer.org

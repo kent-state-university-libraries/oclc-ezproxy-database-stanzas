@@ -3,6 +3,8 @@
 
 ## Some of OCLC's notes for this stanza
 
+NewsBank requires SSL configuration and the following database definition in config.txt :
+
 The Find/Replace lines are required for access to America's Historical Newspapers.
 
-NeverProxy ns01.newsbank.com is required for access to Image e-Edition Newspapers.
+ 

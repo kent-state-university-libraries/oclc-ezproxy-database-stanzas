@@ -1,4 +1,4 @@
-Title Pharmaceutical Press
+Title Pharmaceutical Press (updated 20180524)
 URL https://www.medicinescomplete.com/
 HJ https://medicinescomplete.com
 HJ https://www.medicinescomplete.com
@@ -8,6 +8,7 @@ HJ pjonline.com
 HJ www.medicinescomplete.com
 HJ www.pharmaceutical-journal.com
 HJ www.pjonline.com
+H https://idp.sams-sigma.com
 DJ medicinescomplete.com
 DJ pjonline.com
 DJ pharmaceutical-journal.com

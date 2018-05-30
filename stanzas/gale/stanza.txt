@@ -1,4 +1,4 @@
-Title -hide Gale/Infotrac/PowerSearch Databases
+Title -hide Gale/Infotrac/PowerSearch Databases (updated 20180524)
 URL http://infotrac.galegroup.com/
 HJ search.rdsinc.com
 HJ access.gale.com
@@ -36,6 +36,7 @@ HJ www.galenet.com
 HJ www.galepages.com
 HJ www.infotrac.london.galegroup.com
 HJ www.mygovernment.us
+HJ api.cyber-anatomy.com
 HJ https://access.gale.com
 HJ https://auth.go.galegroup.com
 HJ https://bi.galegroup.com

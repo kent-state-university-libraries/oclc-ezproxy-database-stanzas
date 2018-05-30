@@ -1,4 +1,5 @@
-Title RCN Publishing
+PHE journals.rcni.com$ journals-rcni-com
+Title RCN Publishing (updated 20180510)
 URL http://journals.rcni.com
 HJ cancernursingpractice.rcnpublishing.co.uk
 HJ emergencynurse.rcnpublishing.co.uk

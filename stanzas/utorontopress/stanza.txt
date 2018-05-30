@@ -1,5 +1,7 @@
-Title University of Toronto Press Journals
+Title University of Toronto Press Journals (updated 20180516)
 URL http://www.utpress.utoronto.ca
+HJ https://utorontopress.com
+HJ utorontopress.com
 HJ www.utpress.utoronto.ca
 HJ utpblog.utpress.utoronto.ca
 HJ utpress.utoronto.ca
@@ -31,3 +33,11 @@ DJ uoftbookstore.com
 HJ www.utpshift.com
 HJ utpshift.com
 DJ utpshift.com
+HJ https://www.utpress.utoronto.ca
+HJ https://www.utpjournals.press
+HJ https://jvme.utpjournals.press
+HJ https://champlainsociety.utpjournals.press
+HJ https://jmvfh.utpjournals.press
+HJ https://moderndrama.utpjournals.press
+HJ https://utpjournals.press
+HJ https://uoftbookstore.com

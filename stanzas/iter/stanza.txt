@@ -1,4 +1,4 @@
-Title Iter: Gateway to the Middle Ages and Renaissance
-URL http://www.itergateway.org
+Title Iter: Gateway to the Middles Ages and Renaissance (updated 20180517)
+URL https://www.itergateway.org
+HJ itergateway.org
 DJ itergateway.org
-DJ library.utoronto.ca

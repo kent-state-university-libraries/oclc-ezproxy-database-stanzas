@@ -1,0 +1,6 @@
+Title Oxford Journals (20180516)
+URL https://academic.oup.com/
+DJ oup.com
+DJ oup.silverchair-cdn.com
+Find domain="//global.oup.com"
+Replace domain="//^sglobal.oup.com^"
