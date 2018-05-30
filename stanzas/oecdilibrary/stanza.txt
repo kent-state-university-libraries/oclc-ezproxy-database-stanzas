@@ -1,4 +1,4 @@
-Title OECD iLibrary
+Title OECD iLibrary (updated 20180530)
 HTTPHeader -request -process X-Requested-With
 URL https://www.oecd-ilibrary.org/
 DJ oecd.org
@@ -17,6 +17,8 @@ HJ www.thecommonwealth-ilibrary.org
 HJ www.un-ilibrary.org
 HJ www.itu-ilibrary.org
 HJ www.wto-ilibrary.org
+HJ read.oecd-ilibrary.org
+HJ www.keepeek.com
 HJ https://www.oecd.org
 HJ https://www.oecdilibrary.org
 HJ https://www.oecd-ilibrary.org
@@ -25,6 +27,8 @@ HJ https://www.thecommonwealth-ilibrary.org
 HJ https://www.un-ilibrary.org
 HJ https://www.itu-ilibrary.org
 HJ https://www.wto-ilibrary.org
+HJ https://read.oecd-ilibrary.org
+HJ https://www.keepeek.com
 Find xmlns=\"http://
 Replace xmlns=\"http://^A
 Find LENS_BASE_URI = "http://
