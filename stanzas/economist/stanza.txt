@@ -1,7 +1,10 @@
 Option DomainCookieOnly
 PHE www.economist.com$ www-economist-com
-Title Economist.com
-URL http://www.economist.com/
+AnonymousURL +*//www.economist.com/*
+Title Economist.com (updated 20180613)
+URL https://www.economist.com/
+H http://www.economist.com
+HJ https://www.economist.com
 HJ audiovideo.economist.com
 HJ google.com
 HJ https://google.com
@@ -22,4 +25,5 @@ Find "http:\/\/www.economist.com\/
 Replace "http:\/\/^pwww.economist.com^\/
 Find "https:\/\/www.economist.com\/
 Replace "https:\/\/^swww.economist.com^\/
+AnonymousURL -*
 Option Cookie

@@ -1,0 +1,17 @@
+Title Marketscope Advisor - CFRA (updated 20180612)
+HTTPMethod PUT
+HTTPMethod PATCH
+HTTPMethod DELETE
+HTTPMethod OPTIONS
+HTTPMethod HEAD
+URL https://advisor.marketscope.com
+HJ https://advisor.marketscope.com
+DJ advisor.marketscope.com
+HJ www.advisor.marketscope.com
+HJ https://services.marketscope.com
+DJ services.marketscope.com
+HJ www.services.marketscope.com
+Find services.marketscope.com
+Replace ^sservices.marketscope.com^
+Find @xdomain-ezproxy-replace@
+Replace ^H
