@@ -1,12 +1,12 @@
 Option DomainCookieOnly
-Title Westlaw
-URL http://www.westlaw.com/{the-rest-of-your-westlaw-url}
+Title Westlaw (updated 20180611)
+URL http://www.westlaw.com
 HJ campus.westlaw.com
 HJ https://campus.westlaw.com
 HJ https://login.westlaw.co.uk
-HJ https://signon.thomsonreuters.com
 HJ https://login.westlaw.ie
 HJ https://www.westlaw.com
+HJ https://signon.thomsonreuters.com
 HJ legalresearch.westlaw.co.uk
 HJ login.westlaw.co.uk
 HJ login.westlaw.ie
@@ -20,8 +20,8 @@ HJ www.westlaw.com.au
 HJ www.westlaw.co.nz
 HJ www.westlawchile.cl
 HJ westlawchile.cl
+HJ signon.thomsonreuters.com
 DJ westlawchile.cl
-DJ thomsonreuters.com
 DJ westlaw.com
 DJ westlaw.co.uk
 DJ westlaw.ie
