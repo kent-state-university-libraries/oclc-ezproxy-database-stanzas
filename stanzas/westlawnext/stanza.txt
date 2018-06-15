@@ -5,7 +5,7 @@ HTTPHeader X-Requested-With
 HTTPMethod DELETE
 HTTPMethod PUT
 HTTPMethod PATCH
-Title WestlawNext Campus Research
+Title WestlawNext Campus Research (updated 20180611)
 URL https://1.next.westlaw.com/Search/Home.html?rs=IWLN1.0&vr=3.0&sp=YOURSPONSORSHIP&forcecdn=false&bhskip=1
 DJ westlaw.com
 Option Cookie
