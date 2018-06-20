@@ -1,4 +1,5 @@
-Title desLibris
-URL http://www.deslibris.ca
-HJ www.deslibris.ca
-DJ deslibris.ca
+Title desLibris (20180619)
+URL https://www.desLibris.ca/
+HJ http://www.desLibris.ca
+HJ www.desLibris.ca
+DJ desLibris.ca

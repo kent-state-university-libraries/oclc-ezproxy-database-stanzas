@@ -1,4 +1,4 @@
-Title Mintel
+Title Mintel (20180614)
 URL http://academic.mintel.com/
 HJ academic.mintel.com
 HJ bpc.mintel.com
@@ -42,3 +42,5 @@ HJ www.portal.mintel.com
 HJ www.reports.mintel.com
 HJ www.trends.mintel.com
 DJ mintel.com
+Find src="/jwplayer/wmvplayer/
+Replace src="http://^A/jwplayer/wmvplayer/
