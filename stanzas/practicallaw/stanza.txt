@@ -1,12 +1,8 @@
-Title Practical Law
-URL http://www.practicallaw.com/
-HJ ca.practicallaw.com
-HJ gld.practicallaw.com
-HJ global.practicallaw.com
-HJ uk.practicallaw.com
-HJ us.practicallaw.com
-DJ practicallaw.com
-Find domain=practicallaw.com;
-Replace domain=^d;
-Find domain="practicallaw.com";
-Replace domain="^d";
+AnonymousURL https://sa-uk.practicallaw.thomsonreuters.com/*
+Title Practical Law (TR) (updated 20180622)
+URL https://uk.practicallaw.thomsonreuters.com
+HJ uk.practicallaw.thomsonreuters.com
+HJ sa-uk.practicallaw.thomsonreuters.com
+HJ https://uk.practicallaw.thomsonreuters.com
+HJ https://sa-uk.practicallaw.thomsonreuters.com
+AnonymousURL -*
