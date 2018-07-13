@@ -1,20 +1,10 @@
-# WestLawNext
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/westlawnext.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/westlawnext.en.html) **
+# WestlawNext
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WestlawNext](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WestlawNext) **
 
 ## Some of OCLC's notes for this stanza
 
-WestLawNext requires the following database stanza in config.txt :
+Replace YOURSPONSORSHIP with the code provided specifically for your institution by Westlaw.
 
-Replace "YOURSPONSORSHIP" with the code provided specifically for your institution by Westlaw.
+Additional configuration options:
 
-# if Option X-Forwarded-For is above this, then include:
- 
- Option NoX-Forwarded-For
- 
- # If using recommended wildcard certificate, then include:
- 
- Option HttpsHyphens
- 
- # Some schools also need to add the following: (try it with or with out the https:// pre-append)
- 
- H https://1.next.westlaw.com
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:

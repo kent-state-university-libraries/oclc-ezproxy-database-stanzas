@@ -1,4 +1,4 @@
-Title Microbiology Society Journals
+Title Microbiology Society Journals (updated 20180417)
 URL http://www.microbiologyresearch.org
 HJ https://ijs.microbiologyresearch.org
 HJ https://jgv.microbiologyresearch.org

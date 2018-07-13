@@ -1,4 +1,4 @@
-#This section is required before any EBSCOhost stanza to prevent linking issues
+#this seems to now be required before any EBSCOhost stanza to prevent linking issues
 Option DomainCookieOnly
 Title -hide EBSCO LinkSource
 URL http://linksource.ebsco.com
@@ -6,12 +6,17 @@ HJ linksource.ebsco.com
 HJ https://linksource.ebsco.com
 Option Cookie
 #
-Title EBSCOhost
+AnonymousURL https://ppws.ebsco-content.com/*
+Title EBSCOhost (updated 20180613)
+HTTPHeader -request -process userIdentifier
+HTTPHeader -request -process Authorization
 URL http://search.ebscohost.com/login.aspx
 HJ https://search.ebscohost.com
 HJ https://resolver.ebscohost.com
 HJ https://www.ebscohost.com
 HJ https://openurl.ebscohost.com
+HJ https://m-eon-search.ebscohost.com
+HJ https://auth.ebsco.zone
 HJ ebsco.smartimagebase.com
 HJ eds.a.ebscohost.com
 HJ eds.b.ebscohost.com
@@ -38,6 +43,7 @@ HJ therapy.ebscohost.com
 HJ support.ebscohost.com
 HJ flipster.ebsco.com
 HJ e.ebsco.com
+DJ ppws.ebsco-content.com
 DJ ebscohost.com
 DJ ebscohost.mobi
 DJ epnet.com
@@ -46,6 +52,7 @@ HJ www.ebsconet.com
 DJ ebsco.com
 DJ netlibrary.com
 DJ smartimagebase.com
+DJ ebsco.zone
 HJ www.teacherreference.com
 DJ teacherreference.com
 HJ www.europeanamericana.com
@@ -65,10 +72,13 @@ NeverProxy rpsimages.ebscohost.com
 NeverProxy epmedia.ebscohost.com
 NeverProxy imageserver.ebscohost.com
 NeverProxy *.footnotelibrary.com
-NeverProxy *.ebsco-content.com
+#NeverProxy *.ebsco-content.com
 NeverProxy app.rs.ebscohost.com
 NeverProxy media.rs.ebscohost.com
 NeverProxy vttts.rs.ebscohost.com
 NeverProxy nvntts.rs.ebscohost.com
 NeverProxy ivotts.rs.ebscohost.com
 NeverProxy widgets.ebscohost.com
+AnonymousURL -*
+#AllowSendGZip caused character encoding issues so this last line is commented out by Jimmy, 7/14/2016
+#Option AllowSendGZip

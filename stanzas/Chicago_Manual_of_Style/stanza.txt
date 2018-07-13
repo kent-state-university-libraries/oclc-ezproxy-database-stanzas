@@ -1,4 +1,4 @@
-Option DomainCookieOnly
+Option DomainCookieOnly (updated 20180409)
 Title Chicago Manual of Style Online
 URL http://www.chicagomanualofstyle.org
 HJ chicagomanualofstyle.org

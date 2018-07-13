@@ -1,8 +1,19 @@
-Title Naxos Music Library
-URL http://SUBDOMAIN.NaxosMusicLibrary.com
-HJ www.naxosmusiclibrary.com
+AnonymousURL +*/NML_*
+AnonymousURL +*.wm
+AnonymousURL +*.wma
+AnonymousURL +*/stream_play.asp?*
+AnonymousURL +*/stream_play_mac.asp?*
+AnonymousURL +*/mediaplayer/*
+Title Naxos Music Library (updated 20180711)
+URL https://[siteID].naxosmusiclibrary.com
+HJ http://[siteID].naxosmusiclibrary.com
 DJ naxosmusiclibrary.com
+DJ naxos.com
+DJ naxosusa.com
+Find setTimeout("window.close();",1000);
+Replace setTimeout("window.close();",10000);
 NeverProxy cdn.naxosmusiclibrary.com
 NeverProxy cdn.naxos.com
 NeverProxy 80audiostream.naxosmusiclibrary.com
 NeverProxy cp82361.edgefcs.net
+AnonymousURL -*

@@ -1,7 +1,9 @@
+# This is a provisional stanza for the 5/16/18 mass change
+
 Option CookiePassThrough
 HTTPHeader X-XSRF-Token
 HTTPHeader Set-Cookie
-Title Ovid HTTPS (updated 20181516)
+Title Ovid HTTPS (updated 20180711)
 URL http://ovidsp.ovid.com/autologin.html
 HJ http://ovidsp.ovid.com
 HJ https://ovidsp.ovid.com
@@ -18,12 +20,16 @@ HJ auth.jbisumari.org
 HJ sumari-prod-1.srv.jbisumari.org
 HJ login.wolterskluwer.com
 HJ pt.wkhealth.com
+HJ access.ovid.com
+HJ https://access.ovid.com
 HJ content.wkhealth.com
 HJ assets.ovid.com
+HJ ovid.visiblebody.com
 DJ jbisumari.org
 DJ wolterskluwer.com
 DJ ovid.com
 DJ wkhealth.com
+DJ visiblebody.com
 Find returnUrl=http://
 Replace returnUrl=http://^A
 Find id="returnUrl" value="http://

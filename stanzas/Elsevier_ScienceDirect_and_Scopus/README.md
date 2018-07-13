@@ -1,12 +1,10 @@
 # Elsevier ScienceDirect and Scopus
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/elsevier.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/elsevier.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_ScienceDirect_and_Scopus](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_ScienceDirect_and_Scopus) **
 
 ## Some of OCLC's notes for this stanza
 
-September 2017: OCLC and Elsevier have developed a stanza to support ScienceDirect’s upcoming HTTPS implementation, which will be rolled out starting on October 9, 2017.
+Elsevier ScienceDirect and Scopus require EZproxy 6.1.16 or later, and the following two database stanzas in config.txt
 
-Please add the new stanza above the previous ScienceDirect stanza in config.txt prior to the HTTPS transition. Both stanzas should be used in parallel until the transition is complete (currently expected by the end of October), when the previous ScienceDirect stanza can be removed.
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
 
-Please note that this stanza was developed in a test environment and may require changes as the transition continues.
-
-The previous stanza information for ScienceDirect and Scopus is below. Please note that the Scopus stanza has not changed as a result of the ScienceDirect HTTPS migration.
+Note: Prior to ScienceDirect's HTTPS transition (November 2017), OCLC provided an alternative ScienceDirect stanza specifically designed to address reCAPTCHA problems. This stanza has not been redeveloped for ScienceDirect's HTTPS environment, as no reCAPTCHA problems were encountered during testing with Elsevier.

@@ -1,3 +1,5 @@
+AnonymousURL -Options +https://charting.capitaliq.com/*
+AnonymousURL -Options +https://iag-ciqplus.capitaliq.com/*
 Option CookiePassThrough
 Title S&P Global NetAdvantage
 URL http://na.capitaliq.com/ip/[SITEID]

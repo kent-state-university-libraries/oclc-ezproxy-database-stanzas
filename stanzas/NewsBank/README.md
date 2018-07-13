@@ -1,10 +1,8 @@
 # NewsBank
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/newsbank.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/newsbank.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NewsBank](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NewsBank) **
 
 ## Some of OCLC's notes for this stanza
 
-NewsBank requires SSL configuration and the following database definition in config.txt :
+Note: The Find/Replace lines are required for access to America's Historical Newspapers.
 
-The Find/Replace lines are required for access to America's Historical Newspapers.
-
- 
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:

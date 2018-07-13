@@ -1,4 +1,4 @@
-Option DomainCookieOnly
+Option DomainCookieOnly (updated 20180328)
 Title Cochrane Library
 URL http://www.cochranelibrary.com/
 HJ cochrane.org

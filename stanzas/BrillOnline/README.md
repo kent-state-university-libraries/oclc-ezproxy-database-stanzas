@@ -1,8 +1,10 @@
 # BrillOnline
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/brillonline.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/brillonline.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline) **
 
 ## Some of OCLC's notes for this stanza
 
-BrillOnline requires SSL Configuration and the following database stanza in config.txt .
-
 For U.S. access use:
+
+For international access use:
+
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:

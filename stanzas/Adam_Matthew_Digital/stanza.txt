@@ -1,4 +1,4 @@
-Title Adam Matthew Digital
+Title Adam Matthew Digital (updated 20180706)
 URL https://www.login.amdigital.co.uk
 Host https://www.gender.amdigital.co.uk
 HJ www.login.amdigital.co.uk
@@ -19,6 +19,7 @@ HJ www.colonialamerica.amdigital.co.uk
 HJ www.consumerculture.amdigital.co.uk
 HJ www.eighteenthcenturydrama.amdigital.co.uk
 HJ www.empire.amdigital.co.uk
+HJ www.eastindiacompany.amdigital.co.uk
 HJ www.everydaylife.amdigital.co.uk
 HJ www.firstworldwar.amdigital.co.uk
 HJ www.gender.amdigital.co.uk
@@ -26,11 +27,14 @@ HJ www.globalcommodities.amdigital.co.uk
 HJ www.grandtour.amdigital.co.uk
 HJ www.indiaraj.amdigital.co.uk
 HJ www.jewishlife.amdigital.co.uk
+HJ www.jwtadvertisingamerica.amdigital.co.uk
 HJ www.literarymanuscriptsberg.amdigital.co.uk
 HJ www.literarymanuscriptsleeds.amdigital.co.uk
 HJ www.londonlowlife.amdigital.co.uk
+HJ www.marketresearch.amdigital.co.uk
 HJ www.massobservation.amdigital.co.uk
 HJ www.masstourism.amdigital.co.uk
+HJ www.medicalservicesandwarfare.amdigital.co.uk
 HJ www.medievalfamilylife.amdigital.co.uk
 HJ www.medievaltravel.amdigital.co.uk
 HJ www.migration.amdigital.co.uk
@@ -46,10 +50,21 @@ HJ www.victorianpopularculture.amdigital.co.uk
 HJ www.virginiacompanyarchives.amdigital.co.uk
 HJ www.worldsfairs.amdigital.co.uk
 HJ http://tiles.am-analytics.co.uk
+HJ https://www.socialismonfilm.amdigital.co.uk
+HJ http://www.socialismonfilm.amdigital.co.uk
+HJ socialismonfilm.amdigital.co.uk
+HJ https://www.racerelations.amdigital.co.uk
+HJ racerelations.amdigital.co.uk
+HJ https://www.empire.amdigital.co.uk
+HJ www.empire.amdigital.co.uk
+HJ empire.amdigital.co.uk
 DJ amdigital.co.uk
-DJ am-resources.co.uk
+Find "http://"+getPrefix()+".massobservation.amdigital.co.uk/
+Replace "http://^pmassobservation.amdigital.co.uk^/
+NeverProxy am-resources.co.uk
+NeverProxy schemas.microsoft.com
 
-Title Adam Matthew Digital: China, America and the Pacific
+Title Adam Matthew Digital: China, America and the Pacific (updated 20180706)
 URL http://www.cap.amdigital.co.uk/
 HJ https://www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk

@@ -1,5 +1,7 @@
-Title Building Cost and Information Service (BCIS)
+Title Building Cost and Information Service (BCIS) (updated 20180622)
 URL http://service.bcis.co.uk/
+HJ https://service.bcis.co.uk
+HJ https://www.bcis.co.uk
 HJ bcis.co.uk
 HJ service.bcis.co.uk
 HJ www.bcis.co.uk

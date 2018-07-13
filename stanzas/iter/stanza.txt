@@ -1,4 +1,4 @@
 Title Iter: Gateway to the Middles Ages and Renaissance (updated 20180517)
 URL https://www.itergateway.org
-HJ itergateway.org
-DJ itergateway.org
+HJ  itergateway.org
+DJ  itergateway.org

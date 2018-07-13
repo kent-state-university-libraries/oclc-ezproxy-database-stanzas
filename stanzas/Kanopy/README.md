@@ -1,8 +1,6 @@
 # Kanopy
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/kanopy.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/kanopy.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kanopy](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kanopy) **
 
 ## Some of OCLC's notes for this stanza
 
-Kanopy requires the following database stanza in config.txt :
-
-Note: Replace Institution_ID with your actual identifier.
+Note: Replace &lt;Institution_ID&gt; with your actual identifier.

@@ -1,8 +1,8 @@
 # Cochrane Library
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/cochrane.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/cochrane.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cochrane_Library](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cochrane_Library) **
 
 ## Some of OCLC's notes for this stanza
 
-Cochrane Library requires SSL configuration and the following database stanza in config.txt :
-
 If your config.txt file contains stanzas for both Cochrane Library and Wiley Online Library, make sure that the Cochrane Library stanza follows the Wiley Online Library stanza. This will ensure that processing of the Wiley Online Library stanza includes all processing directives in that stanza but will not interfere with the processing of the Cochrane Library stanza.
+
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:

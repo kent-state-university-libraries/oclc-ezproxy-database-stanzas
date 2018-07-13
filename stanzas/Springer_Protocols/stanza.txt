@@ -1,8 +1,10 @@
-Title Springer Protocols
-URL http://www.springerprotocols.com
-HJ springerprotocols.com
-HJ www.springerprotocols.com
-HJ m.springerprotocols.com
-DJ springerprotocols.com
-Find "m.springerprotocols.com"
-Replace "^pm.springerprotocols.com^"
+Title Springer Nature Experiments (updated 20180709)
+URL https://experiments.springernature.com
+HJ http://experiments.springernature.com
+HJ springernature.com
+DJ springernature.com
+
+Title Nature Publishing (updated 20180709)
+URL https://www.nature.com
+HJ http://www.nature.com
+DJ nature.com

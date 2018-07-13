@@ -1,7 +1,5 @@
-Title Bloomsbury Collections
-URL https://www.bloomsburycollections.com/
-HJ bloomsburycollections.com
-HJ https://bloomsburycollections.com
-HJ https://www.bloomsburycollections.com
-HJ www.bloomsburycollections.com
-DJ bloomsburycollections.com
+Title GEOPlugin (updated 20180514)
+URL https://ssl.geoplugin.net
+Host https://ssl.geoplugin.net
+HJ ssl.geoplugin.net
+DJ geoplugin.net
