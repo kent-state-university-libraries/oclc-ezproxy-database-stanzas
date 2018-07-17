@@ -1,4 +1,4 @@
-Title Credo Reference
+Title Credo Reference (updated 20180717)
 URL https://search.credoreference.com
 DJ credoreference.com
 HJ api.credoreference.com
@@ -13,6 +13,7 @@ HJ search.help.credoreference.com
 HJ support.credoreference.com
 HJ vle.credoreference.com
 HJ www.credoreference.com
+HJ https://www.credoreference.com
 HJ https://credoreference.com
 HJ https://homework.credoreference.com
 HJ https://literati.credoreference.com
@@ -20,6 +21,7 @@ HJ https://school.credoreference.com
 HJ https://search.credoreference.com
 HJ https://support.credoreference.com
 HJ https://vle.credoreference.com
+HJ https://www.credoreference.com
 NeverProxy media.credoreference.com
 NeverProxy cdn.credoreference.com
 NeverProxy assets.credoreference.com
