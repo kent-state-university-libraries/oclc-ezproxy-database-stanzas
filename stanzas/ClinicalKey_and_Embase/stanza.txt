@@ -3,7 +3,7 @@ HTTPMethod DELETE
 HTTPHeader CkApp-Request-Product
 HTTPHeader CK-Path
 HTTPHeader X-CkApp-Request-Locale
-Title ClinicalKey
+Title ClinicalKey (updated 20180223)
 MimeFilter application/json .* javascript
 URL https://www.clinicalkey.com
 HJ www.clinicalkey.com
