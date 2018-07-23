@@ -1,8 +1,8 @@
 # LexisNexis
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/lexisnexis.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/lexisnexis.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LexisNexis](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LexisNexis) **
 
 ## Some of OCLC's notes for this stanza
 
-LexisNexis requires SSL configuration and the following database stanza in config.txt :
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
 
-Updated 2017-09-07: If EZproxy is used with other LexisNexis products, please enter the URLs below as the URL entry in the configuration file.
+Updated 2017-09-07: If EZproxy is used with other LexisNexis products, please enter the URLs below as the URL entry in the configuration file:
