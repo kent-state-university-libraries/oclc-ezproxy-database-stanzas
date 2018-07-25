@@ -1,26 +1,14 @@
-# This file is sage.txt as of 2017-06-07.
-#
-# If you download this file directly into the directory where
-# EZproxy is installed, you can reference it from config.txt/ezproxy.cfg
-# by adding the line:
-#
-#      IncludeFile sage.txt
-#
-# This method allows you to replace the file at a later date
-# without the need to integrate updates directly into config.txt/ezproxy.cfg
-#
-
 #New sagepub stanza added above the current one
 HTTPHeader X-Requested-With
 Option CookiePassThrough
-Title Sage Journals (updated 20180410)
+Title Sage Journals (updated 20180725)
 URL http://journals.sagepub.com
 HJ https://journals.sagepub.com
 HJ businessresearcher.sagepub.com
 HJ www.sagepub.co.uk
 HJ data.sagepub.com
 HJ sk.sagepub.com
-HJ  https://sk.sagepub.com
+HJ https://sk.sagepub.com
 HJ library.cqpress.com
 HJ uk.sagepub.com
 HJ methods.sagepub.com
@@ -29,6 +17,9 @@ DJ sagepub.com
 DJ sagepub.co.uk
 DJ cqpress.com
 DJ widgets.twimg.com
+HJ https://methods.sagepub.com/
+HJ https://www.physiology.org/journal/ajplegacy
+HJ https://www.nybooks.com/issues/
 Find url = "http://
 Replace url = "http://^A
 Find "google-analytics.com
@@ -38,7 +29,7 @@ Replace url = "http://journals.sagepub.com/"
 Option Cookie
 
 HTTPHeader X-Requested-With
-Title Sage Publications (updated 20180410)
+Title Sage Publications (updated 20180725)
 URL http://online.sagepub.com
 DJ sagepub.com
 DJ widgets.twimg.com

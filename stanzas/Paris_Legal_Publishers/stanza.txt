@@ -1,0 +1,10 @@
+Title Paris Legal Publishers (updated 20180725)
+URL https://www.uitgeverijparis.nl/
+HJ https://www.uitgeverijparis.nl
+HJ http://www.seriebouwrecht.nl
+HJ www.uitgeverijparis.nl
+HJ www.seriebouwrecht.nl
+HJ uitgeverijparis.nl
+HJ seriebouwrecht.nl
+DJ uitgeverijparis.nl
+DJ seriebouwrecht.nl
