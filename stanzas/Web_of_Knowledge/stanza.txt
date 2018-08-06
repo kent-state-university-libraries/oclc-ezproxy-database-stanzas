@@ -1,8 +1,11 @@
 OPTION DOMAINCOOKIEONLY
+PHE apps.clarivate.com$ apps-clarivate-com
 Title Web of Knowledge
+HTTPHeader -request -process X-1P-INC-SID
 URL http://www.webofknowledge.com
 HJ https://jcr.incites.thomsonreuters.com
 HJ https://webofknowledge.com
+HJ http://webofknowledge.com
 HJ jcr.incites.thomsonreuters.com
 HJ www.webofknowledge.com
 HJ webofknowledge.com
@@ -13,6 +16,7 @@ HJ admin.webofknowledge.com
 HJ admin-apps.webofknowledge.com
 HJ admin-router.webofknowledge.com
 HJ apps.webofknowledge.com
+HJ ac.webofknowledge.com
 HJ charts.webofknowledge.com
 HJ cm.webofknowledge.com
 HJ diipcs.webofknowledge.com
@@ -29,7 +33,6 @@ HJ images.webofknowledge.com
 HJ incites.isiknowledge.com
 HJ isi01.isiknowledge.com
 HJ isiknowledge.com
-HJ https://isiknowledge.com
 HJ isiwebofknowledge.com
 HJ links.webofknowledge.com
 HJ login.webofknowledge.com
@@ -58,6 +61,7 @@ DJ isiwebofknowledge.com
 DJ myendnoteweb.com
 DJ webofknowledgev4.com
 DJ webofscience.com
+DJ clarivate.com
 Find value="http://
 Replace value="http://^A
 Find VALUE="http://
@@ -78,4 +82,6 @@ Find "CIT.GATEWAY_URL">gateway.webofknowledge.com
 Replace "CIT.GATEWAY_URL">^pgateway.webofknowledge.com^
 Find value='gateway.webofknowledge.com/gateway/Gateway.cgi'
 Replace value='^pgateway.webofknowledge.com^/gateway/Gateway.cgi'
+Find "apps.clarivate.com/
+Replace "^papps.clarivate.com^/
 OPTION COOKIE
