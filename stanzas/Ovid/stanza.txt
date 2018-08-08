@@ -3,12 +3,12 @@
 Option CookiePassThrough
 HTTPHeader X-XSRF-Token
 HTTPHeader Set-Cookie
-Title Ovid HTTPS (updated 20180711)
+Title Ovid HTTPS (updated 20180807)
 URL http://ovidsp.ovid.com/autologin.html
 HJ http://ovidsp.ovid.com
 HJ https://ovidsp.ovid.com
 HJ ovidsp.ovid.com
-HJ http://oce.ovid.com
+HJ https://oce.ovid.com
 HJ oce.ovid.com
 HJ gateway.ovid.com
 HJ https://gateway.ovid.com

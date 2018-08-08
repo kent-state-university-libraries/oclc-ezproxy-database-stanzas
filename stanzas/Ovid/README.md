@@ -8,3 +8,5 @@ OCLC has completed provisional testing on this database definition. Modification
 These additional lines should be included until the environment migration is complete.
 
 A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
+
+,
