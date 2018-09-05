@@ -1,5 +1,6 @@
-Title Book24x7.com
+Title Book24x7.com (updated 2018-08-01)
 URL http://library.books24x7.com/library.asp?^B
+H https://library.books24x7.com/library.asp?^B
 Books24x7Site ABC123
 TokenKey SomethingYouPickAndDontTellAnyone
 TokenSignatureKey YouGetThisFromBooks24x7
@@ -7,4 +8,7 @@ DJ books24x7.com
 H secure.books24x7.com
 H mobile.skillport.books24x7.com
 H mobile.books24x7.com
+H https://secure.books24x7.com
+H https://mobile.skillport.books24x7.com
+H https://mobile.books24x7.com
 NeverProxy secure.books24x7.com:443
