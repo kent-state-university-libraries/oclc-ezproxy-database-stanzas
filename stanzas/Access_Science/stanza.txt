@@ -1,5 +1,5 @@
-Title Access Science
-URL http://www.accessscience.com
-HJ www.accessscience.com
+Title Access Science (updated 20180905)
+URL https://www.accessscience.com
+HJ http://www.accessscience.com
+HJ accessscience.com
 DJ accessscience.com
-DJ books.mcgraw-hill.com
