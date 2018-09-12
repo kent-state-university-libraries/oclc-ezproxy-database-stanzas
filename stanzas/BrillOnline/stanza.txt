@@ -44,7 +44,7 @@ HJ http://arkyves.org
 HJ https://www.arkyves.org
 HJ www.arkyves.org
 HJ http://www.worldchristiandatabase.org
-HJ https://www.worldchristiandatbase.org
+HJ https://www.worldchristiandatabase.org
 HJ www.worldchristiandatabase.org
 HJ http://worldreligiondatabase.org
 HJ https://worldreligiondatabase.org

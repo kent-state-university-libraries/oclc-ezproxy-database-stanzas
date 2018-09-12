@@ -1,7 +1,7 @@
-HTTPHeader com-gmi-*
-HTTPHeader SNL-*
 Option CookiePassThrough
-Title SNL
+HTTPHeader -request -process com-gmi-*
+HTTPHeader -request -process SNL-*
+Title SNL (updated 20180912)
 URL https://www.snl.com
 DJ snl.com
 HJ https://www.snl.com
@@ -15,8 +15,8 @@ HJ platform.marketintelligence.spglobal.com
 HJ https://platform.marketintelligence.spglobal.com
 Find && currentDomain != "localhost"
 Replace && 0
-Find https:\/\/
-Replace https://
+Find https://www.snl.com/SNL.Services.Export.Service
+Replace https://^swww.snl.com^/SNL.Services.Export.Service
 NeverProxy app.snl.com
 DJ mhfi.com
 DJ spglobal.com

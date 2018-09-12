@@ -1,0 +1,5 @@
+Title Artifex Press (updated 20180912)
+HTTPHeader -request -process X-CSRF-Token
+URL https://www.artifexpress.com
+HJ http://www.artifexpress.com
+DJ artifexpress.com

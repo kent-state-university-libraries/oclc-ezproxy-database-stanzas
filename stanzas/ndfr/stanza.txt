@@ -1,5 +1,7 @@
-Title Nederlandse Documentatie Fiscaal Recht
+Option DomainCookieOnly
+Title Nederlandse Documentatie Fiscaal Recht (updated 20180831)
 URL http://www.ndfr.nl
 HJ ndfr.nl
 HJ www.ndfr.nl
-DJ ndfr.nl 
+DJ ndfr.nl
+Option Cookie
