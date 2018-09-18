@@ -1,9 +1,8 @@
-Title INTELECOM
+Title INTELECOM (updated 20180918)
 URL http://searchcenter.intelecomonline.net/SearchCenter.aspx
-DJ intelecomonline.net
-DJ theplatform.com
-Find www.intelecomonline.net
-Replace ^Pwww.intelecomonline.net^
 HJ searchcenter.intelecomonline.net
 HJ www.intelecomonline.net
-HJ release.theplatform.com
+HJ release.intelecomonline.net
+DJ intelecomonline.net
+Find www.intelecomonline.net
+Replace ^Pwww.intelecomonline.net^
