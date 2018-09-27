@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20180706)
+Title Adam Matthew Digital (updated 20180926)
 URL https://www.login.amdigital.co.uk
 Host https://www.gender.amdigital.co.uk
 HJ www.login.amdigital.co.uk
@@ -30,6 +30,7 @@ HJ www.jewishlife.amdigital.co.uk
 HJ www.jwtadvertisingamerica.amdigital.co.uk
 HJ www.literarymanuscriptsberg.amdigital.co.uk
 HJ www.literarymanuscriptsleeds.amdigital.co.uk
+HJ www.literaryprintculture.amdigital.co.uk
 HJ www.londonlowlife.amdigital.co.uk
 HJ www.marketresearch.amdigital.co.uk
 HJ www.massobservation.amdigital.co.uk
@@ -64,7 +65,7 @@ Replace "http://^pmassobservation.amdigital.co.uk^/
 NeverProxy am-resources.co.uk
 NeverProxy schemas.microsoft.com
 
-Title Adam Matthew Digital: China, America and the Pacific (updated 20180706)
+Title Adam Matthew Digital: China, America and the Pacific
 URL http://www.cap.amdigital.co.uk/
 HJ https://www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk
