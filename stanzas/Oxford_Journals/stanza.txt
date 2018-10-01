@@ -1,6 +1,11 @@
-Title Oxford Journals (updated 20180516)
+Title Oxford Journals (updated 20180928)
 URL https://academic.oup.com/
+HJ https://academic.oup.com
+HJ https://global.oup.com
+HJ global.oup.com
+HJ academic.oup.com
 DJ oup.com
 DJ oup.silverchair-cdn.com
+DJ watermark.silverchair.com
 Find domain="//global.oup.com"
 Replace domain="//^sglobal.oup.com^"
