@@ -1,3 +1,4 @@
-Title CPA Canada
-URL http://edu.knotia.ca/
+Title CPA Canada (updated 20181005)
+URL https://edu.knotia.ca/
+HJ  http://edu.knotia.ca/
 DJ knotia.ca
