@@ -1,6 +1,8 @@
 Option DomainCookieOnly
-Title Westlaw China
+Title Westlaw China (Updated 20181011)
 URL http://app.westlawchina.com/maf/china/app/authentication/signon
 HJ app.westlawchina.com
+HJ www.westlawchina.com
+HJ cn.westlawchina.com
 DJ westlawchina.com
 Option Cookie
