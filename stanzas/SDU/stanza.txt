@@ -1,4 +1,5 @@
-Title SDU (updated 20180824)
+Title SDU (updated 20181017)
+HTTPHeader -request -process Book-Authorization
 URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
 HJ advocatensupport.sdu.nl
@@ -88,3 +89,4 @@ HJ www.wettenbank.sdu.nl
 DJ arbozone.nl
 DJ decentraleregelgeving.nl
 DJ sdu.nl
+DJ sdujurisprudentie.nl
