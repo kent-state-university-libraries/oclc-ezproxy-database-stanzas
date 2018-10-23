@@ -1,5 +1,18 @@
-Title Science - AAAS
-URL http://www.sciencemag.org
+Title Science - AAAS (updated 20181023)
+URL https://www.sciencemag.org
+HJ http://www.sciencemag.org
+HJ https://science.sciencemag.org
+HJ https://sciencecareers.sciencemag.org
+HJ https://search.sciencemag.org
+HJ https://advances.sciencemag.org
+HJ https://immunology.sciencemag.org
+HJ https://robotics.sciencemag.org
+HJ https://stke.sciencemag.org
+HJ https://stm.sciencemag.org
+HJ https://www.sciencemag.org
+HJ https://news.sciencemag.org
+HJ https://classic.sciencemag.org
+HJ https://sageke.sciencemag.org
 HJ science.sciencemag.org
 HJ sciencecareers.sciencemag.org
 HJ search.sciencemag.org
