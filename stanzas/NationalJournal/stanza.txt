@@ -1,0 +1,9 @@
+Option CookiePassThrough
+Title National Journal (updated 20181024)
+URL https://www.nationaljournal.com/
+HJ https://www.nationaljournal.com
+HJ https://nationaljournal.com
+HJ http://www.nationaljournal.com
+HJ http://nationaljournal.com
+DJ nationaljournal.com
+Option Cookie
