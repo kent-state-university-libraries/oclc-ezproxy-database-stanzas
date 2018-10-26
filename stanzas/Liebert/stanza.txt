@@ -1,5 +1,6 @@
-Title Liebert
-URL http://www.liebertpub.com
+Title Liebert (updated 20181026)
+URL https://www.liebertpub.com
+HJ https://liebertpub.com
 HJ liebertonline.com
 HJ liebertpub.com
 HJ online.liebertpub.com
