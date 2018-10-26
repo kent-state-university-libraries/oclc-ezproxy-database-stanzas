@@ -1,3 +1,13 @@
-Title True Flix
-URL http://tfx.grolier.com
-Domain Grolier.com
+AnonymousURL +//limelight.digital.scholastic.com/
+Title TrueFlix (updated 20181025)
+URL http://digital.scholastic.com/site/launch/tfx/?ucn=[yourucnhere]
+HJ https://digital.scholastic.com/site/launch/tfx/?ucn=[yourucnhere]
+HJ auth.digital.scholastic.com
+HJ digital.scholastic.com
+HJ http://tfx.grolier.com
+DJ scholastic.com
+DJ digital.scholastic.com
+DJ limelight.digital.scholastic.com
+DJ ereader-static.scholastic.com
+DJ Grolier.com
+NeverProxy ereader-static.scholastic.com
