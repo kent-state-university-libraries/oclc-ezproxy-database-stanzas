@@ -1,0 +1,12 @@
+HTTPMethod DELETE
+Title CCH AnswerConnect (updated 20181025)
+HTTPHeader -request -process X-GWT-*
+HTTPHeader -request -process X-ApiKey
+HTTPHeader -request -process X-CPID
+HTTPHeader -request -process X-Api-Key
+URL http://www.answerconnect.cch.com
+HJ https://www.answerconnect.cch.com
+HJ http://www.answerconnect.cch.com
+DJ wolterskluwer.com
+DJ cch.com
+Neverproxy services.intelliconnect.cch.com
