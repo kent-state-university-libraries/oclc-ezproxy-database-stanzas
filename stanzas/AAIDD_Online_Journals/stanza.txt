@@ -1,0 +1,9 @@
+Option DomainCookieOnly
+Title AAIDD Online Journals (updated 20181028)
+URL http://www.aaiddjournals.org
+HJ aaiddjournals.org
+DJ aaiddjournals.org
+DJ pinnacle-secure.allenpress.com
+H 65.156.1.66
+HJ https://pinnacle-secure.allenpress.com
+Option Cookie
