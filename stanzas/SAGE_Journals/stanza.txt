@@ -1,15 +1,3 @@
-# This file is sage.txt as of 2017-06-07.
-#
-# If you download this file directly into the directory where
-# EZproxy is installed, you can reference it from config.txt/ezproxy.cfg
-# by adding the line:
-#
-#      IncludeFile sage.txt
-#
-# This method allows you to replace the file at a later date
-# without the need to integrate updates directly into config.txt/ezproxy.cfg
-#
-
 Option CookiePassThrough
 Title Sage Journals (updated 20181025)
 HTTPHeader -request -process X-Requested-With
@@ -49,7 +37,7 @@ HJ https://www.sagepub.co.uk
 DJ corwin.com
 DJ cqpress.com
 DJ methodspace.com
-DJ nyooks.com
+DJ nybooks.com
 DJ physiology.org
 DJ sagepub.co.uk
 DJ sagepub.com
@@ -1501,7 +1489,7 @@ Host m.hsm.sagepub.com
 Host m.hsr.sagepub.com
 Host m.hsx.sagepub.com
 Host m.hth.sagepub.com
-Host m.https://knowledge.sagepub.com
+Host https://m.knowledge.sagepub.com
 Host m.hum.sagepub.com
 Host m.iab.sagepub.com
 Host m.ias.sagepub.com
