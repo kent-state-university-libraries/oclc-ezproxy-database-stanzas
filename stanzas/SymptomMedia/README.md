@@ -3,7 +3,7 @@
 
 ## Some of OCLC's notes for this stanza
 
-In this definition, substitute your institution's username and password for someuser and somepass.
+In this definition, substitute your institution's username and password for {user} and {password}.
 
 To access this definition, you will need to construct a URL similar to:
 
