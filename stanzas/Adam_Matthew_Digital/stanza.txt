@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20180926)
+Title Adam Matthew Digital (updated 20181105)
 URL https://www.login.amdigital.co.uk
 Host https://www.gender.amdigital.co.uk
 HJ www.login.amdigital.co.uk
@@ -9,6 +9,7 @@ HJ www.africanamericancommunities.amdigital.co.uk
 HJ www.aihc.amdigital.co.uk
 HJ www.amdigital.co.uk
 HJ www.americanhistory.amdigital.co.uk
+HJ www.americanindiannewspapers.amdigital.co.uk
 HJ www.americanwest.amdigital.co.uk
 HJ www.archivesdirect.amdigital.co.uk
 Host www.archiveexplorer.amdigital.co.uk
@@ -42,6 +43,7 @@ HJ www.migration.amdigital.co.uk
 HJ www.perditamanuscripts.amdigital.co.uk
 HJ www.popularmedicine.amdigital.co.uk
 HJ www.racerelations.amdigital.co.uk
+HJ www.researchsource.amdigital.co.uk
 HJ www.rockandroll.amdigital.co.uk
 HJ www.romanticism.amdigital.co.uk
 HJ www.shakespeareinperformance.amdigital.co.uk
@@ -51,6 +53,8 @@ HJ www.victorianpopularculture.amdigital.co.uk
 HJ www.virginiacompanyarchives.amdigital.co.uk
 HJ www.worldsfairs.amdigital.co.uk
 HJ http://tiles.am-analytics.co.uk
+HJ www.frontierlife.amdigital.co.uk
+HJ https://www.frontierlife.amdigital.co.uk
 HJ https://www.socialismonfilm.amdigital.co.uk
 HJ http://www.socialismonfilm.amdigital.co.uk
 HJ socialismonfilm.amdigital.co.uk
