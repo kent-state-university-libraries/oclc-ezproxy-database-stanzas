@@ -1,4 +1,4 @@
-Title IEEE Computer Society Digital Library (updated 20180515)
+Title IEEE Computer Society Digital Library Secure (updated 20181106)
 URL https://www.computer.org/
 HJ www.computer.org
 HJ csdl.computer.org
@@ -8,3 +8,6 @@ HJ publications.computer.org
 HJ https://d20lqhyll7kadk.cloudfront.net
 HJ https://publications.computer.org
 DJ computer.org
+NeverProxy https://csdl-api.computer.org
+NeverProxy https://csdl-api-pds.computer.org
+NeverProxy https://csdl-search-api.computer.org
