@@ -1,4 +1,4 @@
-Title American Society for Microbiology (updated 20180618)
+Title American Society for Microbiology (20181107)
 URL https://www.asm.org/
 HJ aac.asm.org
 HJ aem.asm.org
@@ -31,6 +31,7 @@ HJ jvi.asm.org
 HJ mbio.asm.org
 HJ mcb.asm.org
 HJ mmbr.asm.org
+HJ mra.asm.org
 HJ msphere.asm.org
 HJ msystems.asm.org
 HJ www.asm.org

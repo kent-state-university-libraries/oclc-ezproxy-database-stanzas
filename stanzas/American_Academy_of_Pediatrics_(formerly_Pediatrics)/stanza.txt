@@ -1,0 +1,25 @@
+Title American Academy of Pediatrics (updated 20181107)
+URL http://pediatrics.aappublications.org
+H aapgrandrounds.aappublications.org
+H hosppeds.aappublications.org
+H intl-pediatrics.aappublications.org
+H neoreviews.aappublications.org
+H pediatrics.aappublications.org
+H pediatrics.org
+H pedsinreview.aappublications.org
+H www.aap.org
+H www.aapnews.org
+H www.aappublications.org
+H www.hospitalpediatrics.org
+H www.neoreviews.org
+H www.pedialink.org
+H www.pediatrics.org
+H www.prepaudio.org
+DJ aap.org
+DJ aapnews.org
+DJ aappublications.org
+DJ hospitalpediatrics.org
+DJ neoreviews.org
+DJ pedialink.org
+DJ pediatrics.org
+DJ prepaudio.org

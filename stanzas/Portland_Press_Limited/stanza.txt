@@ -1,4 +1,4 @@
-Title Portland Press Limited
+Title Portland Press Limited (updated 20181107)
 URL http://www.portlandpress.com/
 HJ bab.portlandpress.com
 HJ bst.portlandpress.com
@@ -9,6 +9,7 @@ HJ portlandpresspublishing.com
 HJ symposia.biochemistry.org
 HJ www.asnneuro.org
 HJ www.biochemj.org
+HJ www.biochemsoctrans.org
 HJ www.biolcell.org
 HJ www.bioscirep.org
 HJ www.cellbiolint.org
@@ -18,6 +19,7 @@ HJ www.portlandpresspublishing.com
 DJ asnneuro.org
 DJ biochemistry.org
 DJ biochemj.org
+DJ biochemsoctrans.org
 DJ biolcell.org
 DJ bioscirep.org
 DJ cellbiolint.org
