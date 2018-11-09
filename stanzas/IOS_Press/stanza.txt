@@ -1,5 +1,5 @@
 Option DomainCookieOnly
-Title IOS Press
+Title IOS Press (updated 20181109)
 URL https://content.iospress.com
 HJ content.iospress.com
 HJ ebooks.iospress.com
@@ -7,6 +7,7 @@ HJ https://content.iospress.com
 HJ https://www.iospress.nl
 HJ www.ebooks.iospress.com
 HJ www.iospress.nl
+HJ ebooks.iospress.nl
 DJ iospress.com
 DJ iospress.nl
 Option Cookie
