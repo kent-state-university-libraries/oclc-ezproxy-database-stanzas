@@ -1,3 +1,4 @@
-Title YourInstitution WorldCat Local
-URL http://YourInstitution.worldcat.org
+Title WorldCat Local (updated 20181128)
+URL https://YourInstitution.worldcat.org
+HJ YourInstitution.worldcat.org
 DJ worldcat.org
