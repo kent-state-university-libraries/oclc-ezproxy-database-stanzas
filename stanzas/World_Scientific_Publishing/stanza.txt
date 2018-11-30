@@ -1,10 +1,5 @@
-Title World Scientific Publishing
-URL http://www.worldscientific.com
-HJ db.worldscinet.com
-HJ db0.worldscinet.com
-HJ ebooks.worldscinet.com
-HJ eproceedings.worldscinet.com
-HJ repository.worldscinet.com
+Title World Scientific Publishing (updated 20181130)
+URL https://www.worldscientific.com/
 HJ worldscientific.com
 HJ worldscinet.com
 HJ www.worldscientific.com

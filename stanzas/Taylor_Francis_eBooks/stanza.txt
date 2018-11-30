@@ -1,16 +1,27 @@
-HTTPHeader authtoken
 AnonymousURL +https://api.taylorandfrancis.com/*
-Title Taylor & Francis eBooks
+AnonymousURL +https://api.taylorfrancis.com/*
+AnonymousURL +https://events.taylorandfrancis.com/*
+Title Taylor Francis eBooks (updated 20181128)
+HTTPHeader -request -process authtoken
+HTTPHeader -request -process Origin
 URL https://www.taylorfrancis.com
 HJ www.taylorfrancis.com
 HJ https://taylorfrancis.com
 HJ taylorfrancis.com
 HJ https://api.taylorandfrancis.com
 HJ api.taylorandfrancis.com
+HJ https://api.taylorfrancis.com
+HJ api.taylorfrancis.com
+HJ https://events.taylorandfrancis.com
+HJ events.taylorandfrancis.com
 HJ https://accounts.taylorfrancis.com
 HJ accounts.taylorfrancis.com
 DJ taylorandfrancis.com
 DJ taylorfrancis.com
+NeverProxy *.amazonaws.com
 Find http-equiv="Content-Security-Policy"
 Replace http-equiv="X-Content-Security-Policy"
+NeverProxy api.google.com
+NeverProxy fonts.google.com
+NeverProxy *.googletagmanager.com
 AnonymousURL -*
