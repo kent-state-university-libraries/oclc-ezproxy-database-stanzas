@@ -6,9 +6,3 @@
 Open sagepub.txt (50 KB) to access this stanza.
 
 A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
-
-July 2017: There were lines in SAGE's stanza the prevented videos in SAGE Research Methods and SAGE Knowledge from loading. At your earliest convenience, remove the lines &quot;HJ brightcove.com&quot; and &quot;DJ brightcove.com&quot; from SAGE's stanza.
-
-December 2017 update: The following two lines were added to the stanza to support the version of SAGE Journals hosted in China.
-
-&nbsp;

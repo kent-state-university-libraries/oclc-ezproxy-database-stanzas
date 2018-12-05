@@ -1,5 +1,17 @@
+# This file is sage.txt as of 2017-06-07.
+#
+# If you download this file directly into the directory where
+# EZproxy is installed, you can reference it from config.txt/ezproxy.cfg
+# by adding the line:
+#
+#      IncludeFile sage.txt
+#
+# This method allows you to replace the file at a later date
+# without the need to integrate updates directly into config.txt/ezproxy.cfg
+#
+
 Option CookiePassThrough
-Title Sage Journals (updated 20181025)
+Title Sage Journals (updated 20181204)
 HTTPHeader -request -process X-Requested-With
 URL https://journals.sagepub.com
 HJ advance.sagepub.com/
@@ -13,6 +25,9 @@ HJ methods.sagepub.com
 HJ sk.sagepub.com
 HJ uk.sagepub.com
 HJ us.corwin.com
+HJ el.sagepub.com
+HJ sage.cnpereading.com
+DJ cnpereading.com
 HJ us.sagepub.com
 HJ www.methodspace.com
 HJ www.nybooks.com
@@ -34,6 +49,8 @@ HJ https://www.methodspace.com
 HJ https://www.nybooks.com
 HJ https://www.physiology.org
 HJ https://www.sagepub.co.uk
+HJ https://el.sagepub.com
+DJ cnpereading.com
 DJ corwin.com
 DJ cqpress.com
 DJ methodspace.com
@@ -338,6 +355,7 @@ Host eji.sagepub.com
 Host ejp.sagepub.com
 Host ejt.sagepub.com
 Host ejw.sagepub.com
+Host el.sagepub.com
 Host elj.sagepub.com
 Host elr.sagepub.com
 Host ema.sagepub.com
@@ -1373,6 +1391,7 @@ Host m.eji.sagepub.com
 Host m.ejp.sagepub.com
 Host m.ejt.sagepub.com
 Host m.ejw.sagepub.com
+Host m.el.sagepub.com
 Host m.elj.sagepub.com
 Host m.elr.sagepub.com
 Host m.ema.sagepub.com

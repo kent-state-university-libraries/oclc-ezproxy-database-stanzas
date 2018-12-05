@@ -1,7 +1,7 @@
 Option CookiePassThrough
+Title Market Intelligence Platform (formerly SNL)(updated 20181204)
 HTTPHeader -request -process com-gmi-*
 HTTPHeader -request -process SNL-*
-Title SNL (updated 20180912)
 URL https://www.snl.com
 DJ snl.com
 HJ https://www.snl.com
@@ -13,11 +13,16 @@ HJ platform.mi.spglobal.com
 HJ https://platform.mi.spglobal.com
 HJ platform.marketintelligence.spglobal.com
 HJ https://platform.marketintelligence.spglobal.com
+# new lines
+HJ platform.spgi.spglobal.com
+HJ https://platform.spgi.spglobal.com
+# end new lines
 Find && currentDomain != "localhost"
 Replace && 0
 Find https://www.snl.com/SNL.Services.Export.Service
 Replace https://^swww.snl.com^/SNL.Services.Export.Service
+Find  xmlns=\\\"http://
+Replace xmlns=\\\"http://^A
 NeverProxy app.snl.com
 DJ mhfi.com
-DJ spglobal.com
 Option Cookie
