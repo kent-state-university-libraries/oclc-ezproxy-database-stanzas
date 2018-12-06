@@ -1,5 +1,5 @@
-Option DomainCookieOnly (updated 20180328)
-Title Cochrane Library
+Option DomainCookieOnly
+Title Cochrane Library (updated 20181204)
 URL http://www.cochranelibrary.com/
 HJ cochrane.org
 HJ cochranelibrary.com
@@ -32,4 +32,6 @@ Find https://cochranelibrary-wiley#x2e;com
 Replace https://^scochranelibrary-wiley.com^
 Find https://thecochranelibrary#x2e;com
 Replace https://^sthecochranelibrary.com^
+Find https&#x3a;&#x2f;&#x2f;www&#x2e;cochranelibrary&#x2e;com
+Replace https://^swww.cochranelibrary.com^
 Option Cookie
