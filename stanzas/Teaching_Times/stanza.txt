@@ -1,18 +1,26 @@
 Option DomainCookieOnly
-T Teaching Times
-U http://www.teachingtimes.com/
+Title Teaching Times (updated 20181210)
+URL https://www.teachingtimes.com/
 H creativeteachingandlearning.teachingtimes.com
 H e-learning-update.teachingtimes.com
 H everychildjournal.teachingtimes.com
 H everychildupdate.teachingtimes.com
+H https://creativeteachingandlearning.teachingtimes.com
+H https://e-learning-update.teachingtimes.com
+H https://everychildjournal.teachingtimes.com
+H https://everychildupdate.teachingtimes.com
+H https://learningspaces.teachingtimes.com
+H https://library.teachingtimes.com
+H https://professionaldevelopmenttoday.teachingtimes.com
+H https://schoolleadershiptoday.teachingtimes.com
+H https://teachingtimes.com
+H https://www.teachingtimes.com
 H learningspaces.teachingtimes.com
 H library.teachingtimes.com
 H professionaldevelopmenttoday.teachingtimes.com
 H schoolleadershiptoday.teachingtimes.com
 H teachingtimes.com
 H www.teachingtimeslibrary.co.uk
-H https://www.teachingtimes.com
-H https://teachingtimes.com
 DJ teachingtimes.com
 DJ teachingtimeslibrary.co.uk
 Option Cookie
