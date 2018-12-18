@@ -1,16 +1,5 @@
-HTTPHeader OWASP_CSRFTOKEN
-HTTPHeader X-Requested-With
-AnonymousURL +http://images.hoovers.com/*
-Title Mergent Hoovers
-URL http://www.mergentonline.com/Hoovers
-HJ cobrands.hoovers.com
-HJ https://cobrands.hoovers.com
-HJ https://subscriber.hoovers.com
-HJ mergentonline.com
-HJ subscriber.hoovers.com
-HJ www.mergentonline.com
-DJ hoovers.com
+Title Mergent Hoovers (updated 20141214)
+URL https://www.mergentonline.com/Hoovers
+DJ  https://app.avention.com/
+DJ app.avention.com
 DJ mergentonline.com
-Find function isValidDomain(current, target) {
-Replace function isValidDomain(current, target) { return true;
-AnonymousURL -*

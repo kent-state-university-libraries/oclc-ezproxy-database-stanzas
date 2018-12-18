@@ -1,19 +1,42 @@
-AnonymousURL +*/NML_*
-AnonymousURL +*.wm
-AnonymousURL +*.wma
-AnonymousURL +*/stream_play.asp?*
-AnonymousURL +*/stream_play_mac.asp?*
-AnonymousURL +*/mediaplayer/*
-Title Naxos Music Library (updated 20180711)
-URL https://[siteID].naxosmusiclibrary.com
-HJ http://[siteID].naxosmusiclibrary.com
+Title Naxos Music Library (updated 20181214)
+URL http://[siteID].NaxosMusicLibrary.com
+HJ [siteID].NaxosMusicLibrary.com
 DJ naxosmusiclibrary.com
-DJ naxos.com
-DJ naxosusa.com
-Find setTimeout("window.close();",1000);
-Replace setTimeout("window.close();",10000);
+DJ www.naxosmusiclibrary.com
 NeverProxy cdn.naxosmusiclibrary.com
 NeverProxy cdn.naxos.com
-NeverProxy 80audiostream.naxosmusiclibrary.com
+NeverProxy audiostream.naxosmusiclibrary.com
 NeverProxy cp82361.edgefcs.net
+
+Title Naxos Spoken Word Library
+URL  http://[siteID].NaxosSpokenWordLibrary.com
+HJ [siteID].naxosspokenwordlibrary.com
+DJ naxosspokenwordlibrary.com
+DJ www.naxosspokenwordlibrary.com
+NeverProxy cdn.naxosspokenwordlibrary.com
+NeverProxy cdn.naxos.com
+NeverProxy audiostream.naxosspokenwordlibrary.com
+NeverProxy cp82361.edgefcs.net
+
+Title Naxos Video Library
+URL http://[siteID].NaxosVideoLibrary.com
+HJ [siteID].naxosvideolibrary.com
+DJ naxosvideolibrary.com
+DJ www.naxosvideolibrary.com
+AnonymousURL +/NVL_
+AnonymousURL +.wm
+AnonymousURL +.wma
+AnonymousURL +/stream_play.asp?
+AnonymousURL +/stream_play_mac.asp?
+Find setTimeout("window.close();",1000);
+Replace setTimeout("window.close();",10000);
+AnonymousURL -*
+
+Title Naxos Works Database
+URL http://[siteID].NaxosWorks.com
+HJ [siteID].naxosworks.com
+DJ naxosworks.com
+DJ www.naxosworks.com
+Find setTimeout("window.close();",1000);
+Replace setTimeout("window.close();",10000);
 AnonymousURL -*

@@ -3,6 +3,6 @@
 
 ## Some of OCLC's notes for this stanza
 
-Replace SUBDOMAIN with the unique site identifier for your institution's subscription.
+Replace [siteID] with the unique site identifier for your institution's subscription, and please add open ports 2048, 1935, 443, and 80.
 
 &nbsp;
