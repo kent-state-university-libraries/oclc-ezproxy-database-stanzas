@@ -1,0 +1,12 @@
+Academic Writer (formerly APA Style CENTRAL)
+Title Academic Writer (updated 20190110)
+URL https://academicwriter.apa.org
+HJ academicwriter.apa.org
+HJ apastylecentral.apa.org
+HJ apa.org
+HJ my.apa.org
+HJ http://academicwriter.apa.org
+HJ http://apastylecentral.apa.org
+HJ https://apa.org
+HJ https://my.apa.org
+DJ apa.org
