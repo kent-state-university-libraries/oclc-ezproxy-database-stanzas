@@ -1,6 +1,6 @@
 Cookie BROWSER_SUPPORTS_COOKIES=1;domain=.sciencedirect.com
 AnonymousURL +https://rss.sciencedirect.com/
-Title ScienceDirect (updated 20180601)
+Title ScienceDirect
 URL https://www.sciencedirect.com
 HJ https://www.sciencedirect.com
 HJ https://sciencedirect.com
@@ -8,6 +8,7 @@ HJ http://www.sciencedirect.com
 HJ sciencedirect.com
 HJ linkinghub.elsevier.com
 HJ https://linkinghub.elsevier.com
+HJ https://www.elsevier.com
 HJ admintool.elsevier.com
 HJ online.tableau.com
 HJ help-admintool.elsevier.com
@@ -25,21 +26,33 @@ Find pdfurl%3D%22https%3A%2F%2Fwww.sciencedirect.com%2F
 Replace pdfurl%3D%22https%3A%2F%2F^swww.sciencedirect.com^%2F
 Find pdfurl="//www.sciencedirect.com/
 Replace pdfurl="//^swww.sciencedirect.com^/
+Find redirect_uri=https://
+Replace redirect_uri=https://^A
 
 #Elsevier Scopus
 ProxyHostnameEdit www.scopus.com$ www-scopus-com
 MimeFilter text/uri-list .* javascript
 AnonymousURL +http://syndic8.scopus.com/*
-Title SciVerse Scopus (updated 20180601)
+Title Scopus (updated 20190115)
 MimeFilter application/json .* javascript
-URL https://www2.scopus.com/home.url
+URL https://www.scopus.com/home.url
 HJ https://www.scopus.com
-HJ https://www2.scopus.com
+HJ https://www.elsevier.com
+DJ www.elsevier.com
 HJ www.scopus.com
 DJ scopus.com
 Find %22%3A%22http%3A%2F%2Fsciverse-shindig.elsevier.com%2F
 Replace %22%3A%22http%3A%2F%2F^psciverse-shindig.elsevier.com^%2F
 Find gsUrl%22%3A%22https%3A%2F%2Fwww.scopus.com%2F
 Replace gsUrl%22%3A%22https%3A%2F%2F^pwww.scopus.com^%2F
-NeverProxy www.elsevier.com
 AnonymousURL -*
+Find redirect_uri=https://
+Replace redirect_uri=https://^A
+
+Title -hide Elsevier Identity
+URL https://id.elsevier.com
+HJ https://id.elsevier.com
+HJ id.elsevier.com
+DJ id.elsevier.com
+Find redirect_uri=https://
+Replace redirect_uri=https://^A

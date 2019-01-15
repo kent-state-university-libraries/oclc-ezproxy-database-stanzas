@@ -1,10 +1,23 @@
-Title SciVal
+Title SciVal (updated 20190115)
 URL https://scival.com/
 HJ acw.elsevier.com
 HJ https://acw.elsevier.com
 HJ https://scival.com
 HJ https://www.scival.com
+HJ https://www.elsevier.com
 HJ scival.com
 HJ www.scival.com
+DJ www.elsevier.com
 DJ elsevier.com
 DJ scival.com
+Find redirect_uri=https://
+Replace redirect_uri=https://^A
+
+
+Title -hide Elsevier Identity
+URL https://id.elsevier.com
+HJ https://id.elsevier.com
+HJ id.elsevier.com
+DJ id.elsevier.com
+Find redirect_uri=https://
+Replace redirect_uri=https://^A
