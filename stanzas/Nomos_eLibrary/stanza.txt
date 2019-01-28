@@ -1,5 +1,5 @@
-Title Nomos eLibrary
-URL http://www.nomos-elibrary.de/
+Title Nomos eLibrary (updated 20190128)
+URL https://www.nomos-elibrary.de/
 HJ nomos-elibrary.de
 HJ nomos-zeitschriften.de
 HJ www.nomos-elibrary.de
