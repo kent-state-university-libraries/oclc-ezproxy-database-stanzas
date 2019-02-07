@@ -1,0 +1,7 @@
+Title Military Periscope (updated 20190206)
+URL http://www.militaryperiscope.com/users/index.shtml
+HJ https://www.militaryperiscope.com
+DJ militaryperiscope.com
+HJ www.militaryperiscope.com
+Find https:\/\/
+Replace https://
