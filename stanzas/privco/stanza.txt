@@ -1,0 +1,9 @@
+Title PrivCo (updated 20190122)
+URL https://system.privco.com/academic
+HJ www.privco.com
+HJ http://www.privco.com
+HJ https://www.privco.com
+HJ privco.com
+DJ privco.com
+HJ system.privco.com
+HJ https://system.privco.com
