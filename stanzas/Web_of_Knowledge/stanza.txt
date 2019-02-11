@@ -1,11 +1,13 @@
 OPTION DOMAINCOOKIEONLY
 PHE apps.clarivate.com$ apps-clarivate-com
-Title Web of Knowledge
+Title Web of Knowledge (updated 20190211)
 HTTPHeader -request -process X-1P-INC-SID
 URL http://www.webofknowledge.com
 HJ https://jcr.incites.thomsonreuters.com
 HJ https://webofknowledge.com
 HJ http://webofknowledge.com
+HJ https://jcr.clarivate.com
+HJ https://esi.clarivate.com
 HJ jcr.incites.thomsonreuters.com
 HJ www.webofknowledge.com
 HJ webofknowledge.com
@@ -55,6 +57,8 @@ HJ www.isiknowledge.com
 HJ www.researcherid.com
 HJ www.webofscience.com
 HJ ip-science.thomsonreuters.com
+HJ jcr.clarivate.com
+HJ esi.clarivate.com
 DJ incites.thomsonreuters.com
 DJ isiknowledge.com
 DJ isiwebofknowledge.com
