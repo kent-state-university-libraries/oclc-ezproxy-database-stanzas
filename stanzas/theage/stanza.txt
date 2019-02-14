@@ -1,0 +1,15 @@
+Title The Age Digital Subscription (updated 20190214)
+URL https://theage.digitaleditions.com.au/
+HJ analytics.fairfax.com.au
+HJ resources.fairfax.com.au
+HJ theage.com.au
+HJ theage.digitaleditions.com.au
+HJ www.fairfaxstatic.com.au
+HJ www.theage.com.au
+HJ https://analytics.fairfax.com.au
+HJ https://resources.fairfax.com.au
+HJ https://theage.com.au
+HJ https://theage.digitaleditions.com.au
+HJ https://www.fairfaxstatic.com.au
+HJ https://www.theage.com.au
+DJ digitaleditions.com.au

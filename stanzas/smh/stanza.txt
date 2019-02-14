@@ -1,0 +1,23 @@
+Title Sydney Morning Herald & Australian Financial Review Digital Subscriptions (updated 20190214)
+URL https://smh.digitaleditions.com.au/
+HJ afr.com
+HJ analytics.fairfax.com.au
+HJ afr.com.au
+HJ resources.fairfax.com.au
+HJ smh.com.au
+HJ smh.digitaleditions.com.au
+HJ www.afr.com
+HJ www.afr.com.au
+HJ www.fairfaxstatic.com.au
+HJ www.smh.com.au
+HJ https://afr.com
+HJ https://analytics.fairfax.com.au
+HJ https://afr.com.au
+HJ https://resources.fairfax.com.au
+HJ https://smh.com.au
+HJ https://smh.digitaleditions.com.au
+HJ https://www.afr.com
+HJ https://www.afr.com.au
+HJ https://www.fairfaxstatic.com.au
+HJ https://www.smh.com.au
+DJ digitaleditions.com.au
