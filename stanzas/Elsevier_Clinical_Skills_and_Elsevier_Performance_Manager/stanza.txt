@@ -1,4 +1,5 @@
-Title Elsevier Clinical Skills / Elsevier Performance Manager
+HTTPHeader X-XSRF-TOKEN
+Title Elsevier Clinical Skills / Elsevier Performance Manager (updated 20190218)
 MimeFilter application/json .* javascript
 URL https://login.elsevierperformancemanager.com/systemlogin.aspx?virtualname={virtualname}
 Host www.mosbynursingskills.com
@@ -51,4 +52,4 @@ Find //epm5.elsevierperformancemanager.com/
 Replace //^sepm5.elsevierperformancemanager.com^/
 Find //epm5.cert.boca.mcstrategies.com/
 Replace //^sepm5.cert.boca.mcstrategies.com^/
-NeverProxy cdn.clinicalkey.com 
+NeverProxy cdn.clinicalkey.com
