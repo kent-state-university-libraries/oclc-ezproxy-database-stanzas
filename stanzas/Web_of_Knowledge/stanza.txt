@@ -2,7 +2,8 @@ OPTION DOMAINCOOKIEONLY
 PHE apps.clarivate.com$ apps-clarivate-com
 Title Web of Knowledge (updated 20190220)
 HTTPHeader -request -process X-1P-INC-SID
-# These are old settings for InCites ? they can be removed after URLs are changed
+URL https://jcr.clarivate.com
+# These are old settings for InCites needed until April 1, 2019 they can be removed after URLs are changed
 HJ https://jcr.incites.thomsonreuters.com
 HJ jcr.incites.thomsonreuters.com
 HJ error.incites.thomsonreuters.com
@@ -12,8 +13,7 @@ HJ https://incites.thomsonreuters.com
 HJ login.incites.thomsonreuters.com
 HJ ip-science.thomsonreuters.com
 DJ incites.thomsonreuters.com
-# The below are new settings for InCites ? they should be added before URLs change
-HJ https://jcr.clarivate.com
+# The below are new settings for InCites needed after March 15, 2019 they should be added before URLs change
 HJ https://esi.clarivate.com
 HJ jcr.clarivate.com
 HJ esi.clarivate.com
