@@ -1,11 +1,10 @@
-Title PressReader (updated 20181204)
+Title PressReader (updated 20190221)
 HTTPHeader -request -process Access-Control-Allow-*
-URL http://library.pressdisplay.com
+URL http://pressreader.com
 HJ https://library.pressdisplay.com
 HJ https://www.pressreader.com
 Host https://www.pressdisplay.com
 Host www.pressreader.com
-Host pressreader.com
 Host https://www.pressreader.com
 DJ pressdisplay.com
 D pressreader.com
@@ -19,10 +18,12 @@ HJ services.pressdisplay.com
 HJ services.pressreader.com
 HJ secure.newspaperdirect.com
 neverproxy cdn-res.pressreader.com
-NeverProxy cdn2-res.pressreader.com
+neverproxy cdn2-res.pressreader.com
 neverproxy services.pressreader.com
 neverproxy svc.pressreader.com
 neverproxy cdn3-img.pressreader.com
 neverproxy cdn3-res.pressreader.com
 neverproxy cdn3-svc.pressreader.com
 neverproxy cdn3-tts.pressreader.com
+neverproxy ingress.pressreader.com
+neverproxy ingress-cdn.pressreader.com

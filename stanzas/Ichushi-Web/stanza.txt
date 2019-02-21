@@ -1,3 +1,5 @@
-Title Ichushi-Web
-URL http://login.jamas.or.jp/
+Title Ichushi-Web (20190221)
+URL https://login.jamas.or.jp/
+HJ https://login.jamas.or.jp
+HJ http://login.jamas.or.jp
 DJ jamas.or.jp
