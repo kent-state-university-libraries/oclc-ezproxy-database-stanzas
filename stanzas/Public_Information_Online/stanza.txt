@@ -1,6 +1,11 @@
-Title Public Information Online
+Title Public Information Online (updated 20190226)
 MimeFilter application/json .* javascript
 URL https://www.publicinformationonline.com
+HJ civilserviceyearbook.com
+HJ https://civilserviceyearbook.com
+HJ https://www.civilserviceyearbook.com
 HJ publicinformationonline.com
+HJ www.civilserviceyearbook.com
 HJ www.publicinformationonline.com
+DJ civilserviceyearbook.com
 DJ publicinformationonline.com
