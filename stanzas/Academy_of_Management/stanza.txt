@@ -1,4 +1,4 @@
-Title Academy of Management
+Title Academy of Management (updated 20190228)
 URL http://aom.org/
 HJ academynews.aom.org
 HJ amd.aom.org
@@ -7,6 +7,7 @@ HJ amle.aom.org
 HJ amp.aom.org
 HJ amr.aom.org
 HJ annals.aom.org
+HJ https://journals.aom.org
 HJ journals.aom.org
 HJ one.aom.org
 HJ proceedings.aom.org

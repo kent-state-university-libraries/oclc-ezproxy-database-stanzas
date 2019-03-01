@@ -1,7 +1,8 @@
-Title Thieme Connect
+Title Thieme Connect (updated 20190301)
 URL https://www.thieme-connect.com/
 HJ https://ebooks.thieme.com
 HJ https://eneurosurgery.thieme.com
+HJ https://ecomsci.thieme.com
 HJ https://science-of-synthesis.thieme.com
 HJ https://sos.thieme.com
 HJ https://thieme-connect.com
@@ -14,12 +15,28 @@ HJ https://www.thieme-connect.de
 HJ https://www.thieme.com
 HJ https://www.thieme.co.uk
 HJ https://www.thieme.de
+HJ https://radcases.thieme.com
+HJ https://eradiology.thieme.com
+HJ https://medone-neurosurgery.thieme.com
+HJ https://cne.thieme.de
+HJ https://eref.thieme.de
+HJ https://roempp.thieme.de
+HJ https://medone-education.thieme.com
+HJ https://medone-comsci.thieme.com
+HJ cne.thieme.de
+HJ eref.thieme.de
+HJ roempp.thieme.dex
 HJ ebooks.thieme.com
 HJ eneurosurgery.thieme.com
+HJ eradiology.thieme.com
+HJ https://ecomsci.thieme.com
+HJ medone-comsci.thieme.com
 HJ science-of-synthesis.thieme.com
 HJ sos.thieme.com
+HJ open.thieme.com
 HJ thieme-connect.com
 HJ thieme-connect.de
+HJ radcases.thieme.com
 HJ thieme.com
 HJ thieme.co.uk
 HJ thieme.de
