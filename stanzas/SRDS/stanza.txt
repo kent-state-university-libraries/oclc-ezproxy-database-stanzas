@@ -1,8 +1,6 @@
-Title SRDS
-URL http://next.srds.com
+Title SRDS (updated 20190306)
+URL http://login.srds.com
 HJ www1.srds.com
-HJ next.srds.com
-HJ https://segmentationsolutions.nielsen.com
-HJ https://federate.answers.nielsen.com
-HJ https://idp.srds.com:9031/
+HJ Login.srds.com
+HJ claritas.com
 DJ srds.com

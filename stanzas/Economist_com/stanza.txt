@@ -1,7 +1,7 @@
+AnonymousURL +https://cse.google.com*
+AnonymousURL +https://paywall.p.aws.economist.com*
 Option DomainCookieOnly
-PHE www.economist.com$ www-economist-com
-AnonymousURL +*//www.economist.com/*
-Title Economist.com (updated 20180905)
+Title Economist.com (updated 20190306)
 URL https://www.economist.com/
 H http://www.economist.com
 HJ https://www.economist.com
@@ -18,18 +18,11 @@ HJ recruiters.jobs.economist.com
 HJ store.economist.com
 HJ na.economist.com
 HJ www.economist.com
+HJ paywall.p.aws.economist.com
+HJ authenticate.economist.com
+HJ https://authenticate.economist.com
 DJ economist.com
 DJ static-economist.com
-NeverProxy apis.google.com
-Find gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-Replace gcse.src = (document.location.protocol == 'https:' ? 'https://^swww.google.com^' : 'http://^pwww.google.com^') + '/cse/cse.js?cx=' + cx ,
-Find "uds": "www.google.com"
-Replace "uds": "^swww.google.com^"
-Find domain: 'horizon.economist.com',
-Replace domain: '^phorizon.economist.com^',
-Find "http:\/\/www.economist.com\/
-Replace "http:\/\/^pwww.economist.com^\/
-Find "https:\/\/www.economist.com\/
-Replace "https:\/\/^swww.economist.com^\/
-AnonymousURL -*
+DJ p.aws.economist.com
 Option Cookie
+AnonymousURL -*
