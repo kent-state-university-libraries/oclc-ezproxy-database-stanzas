@@ -1,7 +1,7 @@
 Option CookiePassThrough
-HTTPHeader X-XSRF-Token
-HTTPHeader Set-Cookie
-Title Ovid HTTPS (updated 20190128)
+Title Ovid HTTPS (updated 20190311)
+HTTPHeader -request -process X-XSRF-Token
+HTTPHeader -request - process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
 HJ http://ovidsp.ovid.com
 HJ https://ovidsp.ovid.com
@@ -16,6 +16,46 @@ HJ https://insights.ovid.com
 HJ ovidsp.tx.ovid.com
 HJ https://ovidsp.tx.ovid.com
 HJ ovidsp.uk.ovid.com
+HJ auth.jbisumari.org
+HJ https://auth.jbisumari.org
+HJ sumari-prod-1.srv.jbisumari.org
+HJ login.wolterskluwer.com
+HJ pt.wkhealth.com
+HJ access.ovid.com
+HJ https://access.ovid.com
+HJ content.wkhealth.com
+HJ ovid.visiblebody.com
+HJ http://ovidsp.dc1.ovid.com
+HJ http://ovidsp.dc2.ovid.com
+HJ https://ovidsp.dc1.ovid.com
+HJ https://ovidsp.dc2.ovid.com
+HJ http://graphics.dc1.ovid.com
+HJ https://graphics.dc2.ovid.com
+HJ http://graphics.dc1.ovid.com
+HJ https://graphics.dc2.ovid.com
+HJ http://acs.dc1.ovid.com
+HJ https://acs.dc2.ovid.com
+HJ http://acs.dc1.ovid.com
+HJ https://acs.dc2.ovid.com
+HJ http://nursing.dc1.ovid.com
+HJ http://nursing.dc2.ovid.com
+HJ https://nursing.dc1.ovid.com
+HJ https://nursing.dc2.ovid.com
+DJ jbisumari.org
+DJ wolterskluwer.com
+DJ ovid.com
+DJ dc1.ovid.com
+DJ dc2.ovid.com
+DJ wkhealth.com
+DJ visiblebody.com
+Find returnUrl=http://
+Replace returnUrl=http://^A
+Find id="returnUrl" value="http://
+Replace id="returnUrl" value="http://^A
+Find action="http://
+Replace action="http://^A
+NeverProxy assets.ovid.com
+Option Cookie
 HJ auth.jbisumari.org
 HJ https://auth.jbisumari.org
 HJ sumari-prod-1.srv.jbisumari.org
