@@ -56,25 +56,3 @@ Find action="http://
 Replace action="http://^A
 NeverProxy assets.ovid.com
 Option Cookie
-HJ auth.jbisumari.org
-HJ https://auth.jbisumari.org
-HJ sumari-prod-1.srv.jbisumari.org
-HJ login.wolterskluwer.com
-HJ pt.wkhealth.com
-HJ access.ovid.com
-HJ https://access.ovid.com
-HJ content.wkhealth.com
-HJ ovid.visiblebody.com
-DJ jbisumari.org
-DJ wolterskluwer.com
-DJ ovid.com
-DJ wkhealth.com
-DJ visiblebody.com
-Find returnUrl=http://
-Replace returnUrl=http://^A
-Find id="returnUrl" value="http://
-Replace id="returnUrl" value="http://^A
-Find action="http://
-Replace action="http://^A
-NeverProxy assets.ovid.com
-Option Cookie
