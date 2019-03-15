@@ -1,7 +1,7 @@
 Option CookiePassThrough
-Title Ovid HTTPS (updated 20190311)
+Title Ovid HTTPS (updated 20190315)
 HTTPHeader -request -process X-XSRF-Token
-HTTPHeader -request - process Set-Cookie
+HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
 HJ http://ovidsp.ovid.com
 HJ https://ovidsp.ovid.com
