@@ -1,5 +1,19 @@
-Title Lyell Collection (updated 20181204)
-URL http://www.lyellcollection.org
+Title Lyell Collection: Geological Society Publications Online (updated 20190318)
+URL https://www.lyellcollection.org/
+HJ https://jgs.lyellcollection.org/
+HJ https://pygs.lyellcollection.org/
+HJ https://sjg.lyellcollection.org/
+HJ https://jm.lyellcollection.org/
+HJ https://geea.lyellcollection.org/
+HJ https://pg.lyellcollection.org/
+HJ https://qjegh.lyellcollection.org/
+HJ https://sp.lyellcollection.org/
+HJ https://egsp.lyellcollection.org/
+HJ https://pgc.lyellcollection.org/
+HJ https://mem.lyellcollection.org/
+HJ https://trn.lyellcollection.org/
+HJ https://trned.lyellcollection.org/
+HJ https://trngl.lyellcollection.org/
 HJ egsp.lyellcollection.org
 HJ geea.lyellcollection.org
 HJ jgs.lyellcollection.org

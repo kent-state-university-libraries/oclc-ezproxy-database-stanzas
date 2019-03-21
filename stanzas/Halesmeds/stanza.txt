@@ -1,0 +1,15 @@
+AnonymousURL  -OPTIONS +https://api.hltcorp.com*
+Title Halesmeds (updated 20190319)
+HTTPHeader -request -process platform
+HTTPHeader -request -process X-HLTBundleIdentifier
+HTTPHeader -request -process X-User-Email
+HTTPHeader -request -process X-User-Token
+URL https://www.halesmeds.com
+HJ www.halesmeds.com
+HJ https://www.halesmeds.com
+HJ halesmeds.com
+HJ https://halesmeds.com
+HJ https://api.hltcorp.com
+HJ api.hltcorp.com
+DJ halesmeds.com
+AnonymousURL -*
