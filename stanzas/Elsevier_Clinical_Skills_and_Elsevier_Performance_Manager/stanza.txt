@@ -1,5 +1,5 @@
 HTTPHeader X-XSRF-TOKEN
-Title Elsevier Clinical Skills / Elsevier Performance Manager (updated 20190218)
+Title Elsevier Clinical Skills / Elsevier Performance Manager (updated 20190322)
 MimeFilter application/json .* javascript
 URL https://login.elsevierperformancemanager.com/systemlogin.aspx?virtualname={virtualname}
 Host www.mosbynursingskills.com
@@ -9,6 +9,8 @@ Host mns.elsevierperformancemanager.com
 Host lms.elsevierperformancemanager.com
 HJ login.mns.elsevierperformancemanager.com
 HJ https://login.mns.elsevierperformancemanager.com
+HJ point-of-care.elsevierperformancemanager.com
+HJ https://point-of-care.elsevierperformancemanager.com
 HJ login.elsevierperformancemanager.com
 HJ https://login.elsevierperformancemanager.com
 HJ login.mns.cert.boca.mcstrategies.com

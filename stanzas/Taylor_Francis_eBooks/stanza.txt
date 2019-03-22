@@ -3,7 +3,7 @@ AnonymousURL +https://api.taylorfrancis.com/*
 AnonymousURL +https://events.taylorandfrancis.com/*
 AnonymousURL +https://secure.taylorandfrancis.com/*
 AnonymousURL +https://secure.taylorfrancis.com/*
-Title Taylor Francis eBooks (updated 20190222)
+Title Taylor Francis eBooks (updated 20190322)
 HTTPHeader -request -process authtoken
 HTTPHeader -request -process Origin
 URL https://www.taylorfrancis.com
@@ -29,5 +29,5 @@ Find http-equiv="Content-Security-Policy"
 Replace http-equiv="X-Content-Security-Policy"
 NeverProxy api.google.com
 NeverProxy fonts.google.com
-NeverProxy .googletagmanager.com
-AnonymousURL -
+NeverProxy googletagmanager.com
+AnonymousURL -*
