@@ -1,4 +1,7 @@
-Title Iter: Gateway to the Middles Ages and Renaissance (updated 20180517)
+Title Iter Gateway to the Middles Ages and Renaissance (updated 20190325)
 URL https://www.itergateway.org
-HJ  itergateway.org
-DJ  itergateway.org
+HJ https://jps.library.utoronto.ca
+HJ https://books.scholarsportal.info
+DJ utoronto.ca
+DJ itergateway.org
+DJ scholarsportal.info
