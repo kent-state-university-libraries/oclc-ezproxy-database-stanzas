@@ -30,6 +30,7 @@ HJ advance.lexis.com
 HJ signin.lexisnexis.com
 HJ lexis.com
 HJ lexisnexis.com
+HJ https://www.totalpatentone.com
 Find location.hostname
 Replace location.host
 Find = "www.lexisnexis.com"
