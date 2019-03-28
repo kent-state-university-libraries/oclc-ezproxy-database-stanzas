@@ -1,5 +1,7 @@
-Title Frost & Sullivan
+Title Frost & Sullivan (updated 20190328)
 URL http://www.frost.com
+HJ https://cds.frost.com
+HJ cds.frost.com
 Host www.frost.com
 DJ frost.com
 Find e.href = "http:"+e.href.substr(6)
