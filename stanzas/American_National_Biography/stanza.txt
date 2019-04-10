@@ -1,5 +1,4 @@
-Title American National Biography
-URL http://anb.org/
+Title American National Biography Online (updated 20190410)
+URL https://www.anb.org
 HJ www.anb.org
 DJ anb.org
-DJ oxfordreference.com

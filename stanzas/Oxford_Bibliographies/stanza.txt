@@ -1,4 +1,6 @@
-Title Oxford Bibliographies
-URL http://www.oxfordbibliographies.com
+Title Oxford Bibliographies (updated 20190410)
+URL https://www.oxfordbibliographies.com
+HJ https://oxfordbibliographies.com
 HJ www.oxfordbibliographies.com
+HJ oxfordbibliographies.com
 DJ oxfordbibliographies.com
