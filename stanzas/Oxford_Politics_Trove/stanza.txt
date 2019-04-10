@@ -1,0 +1,6 @@
+Title Oxford Politics Trove (updated 20190410)
+URL https://oxfordpoliticstrove.com
+HJ https://www.oxfordpoliticstrove.com
+HJ oxfordpoliticstrove.com
+HJ www.oxfordpoliticstrove.com
+DJ oxfordpoliticstrove.com

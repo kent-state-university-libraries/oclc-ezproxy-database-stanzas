@@ -1,4 +1,6 @@
-Title Very Short Introductions
-URL http://www.veryshortintroductions.com
+Title Very Short Introductions (updated 20190410)
+URL https://www.veryshortintroductions.com
 HJ www.veryshortintroductions.com
+HJ https://veryshortintroductions.com
+HJ veryshortintroductions.com
 DJ veryshortintroductions.com

@@ -1,3 +1,6 @@
-Title Who’s Who
-URL http://ukwhoswho.com/
+Title Who's Who (updated 20190410)
+URL https://www.ukwhoswho.com
+HJ https://ukwhoswho.com
+HJ www.ukwhoswho.com
+HJ ukwhoswho.com
 DJ ukwhoswho.com

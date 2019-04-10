@@ -1,4 +1,6 @@
-Title Oxford Music Online
-URL http://www.oxfordmusiconline.com
+Title Oxford Music Online (updated 20190410)
+URL https://www.oxfordmusiconline.com
+HJ https://oxfordmusiconline.com
+HJ www.oxfordmusiconline.com
+HJ oxfordmusiconline.com
 DJ oxfordmusiconline.com
-DJ oxfordreference.com

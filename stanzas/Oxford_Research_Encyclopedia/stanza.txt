@@ -1,0 +1,7 @@
+Title Oxford Research Encyclopedia - Including Encyclopedia of Social Work - (updated 20190410)
+URL https://oxfordre.com
+HJ https://www.oxfordre.com
+HJ oxfordre.com
+HJ www.oxfordre.com
+DJ oxfordre.com
+DJ prototypes.filtro.us

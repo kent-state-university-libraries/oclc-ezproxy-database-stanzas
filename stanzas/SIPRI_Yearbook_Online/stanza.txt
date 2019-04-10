@@ -1,0 +1,6 @@
+Title SIPRI Yearbook Online (updated 20190410)
+URL https://www.sipriyearbook.org
+HJ https://sipriyearbook.org
+HJ www.sipriyearbook.org
+HJ sipriyearbook.org
+DJ sipriyearbook.org
