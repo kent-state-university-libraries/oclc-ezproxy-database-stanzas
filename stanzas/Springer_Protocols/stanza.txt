@@ -1,10 +1,14 @@
-Title Springer Nature Experiments (updated 20180709)
+Title Springer Nature Experiments (OCLC IncludeFile updated 20190411)
 URL https://experiments.springernature.com
 HJ http://experiments.springernature.com
 HJ springernature.com
 DJ springernature.com
 
-Title Nature Publishing (updated 20180709)
+Title Nature Publishing (OCLC IncludeFile updated 20190411)
 URL https://www.nature.com
 HJ http://www.nature.com
+HJ https://www.scientificamerican.com/
+HJ http://www.scientificamerican.com/
+HJ https://www.sciam.com
+HJ http://www.sciam.com
 DJ nature.com

@@ -1,13 +1,19 @@
-T American Speech-Language-Hearing Association (ASHA)
-U http://www.asha.org/publications/
+Title American Speech-Language-Hearing Association (ASHA) (updated 20190411)
+URL http://www.asha.org/publications/
+HJ https://www.asha.org/publications/
 H accperspectives.pubs.asha.org
 H aja.pubs.asha.org
 H ajslp.pubs.asha.org
 H asha.org
+H https://accperspectives.pubs.asha.org
+H https://perspectives.pubs.asha.org
+H https://pubs.asha.org
+H journals.pubs.asha.org
 H jshd.pubs.asha.org
 H jslhr.pubs.asha.org
 H leader.pubs.asha.org
 H lshss.pubs.asha.org
+H perspectives.pubs.asha.org
 H pubs.asha.org
 H sig1perspectives.pubs.asha.org
 H sig2perspectives.pubs.asha.org
@@ -26,4 +32,4 @@ H sig14perspectives.pubs.asha.org
 H sig15perspectives.pubs.asha.org
 H sig16perspectives.pubs.asha.org
 H www.asha.org
-DJ asha.org 
+DJ asha.org

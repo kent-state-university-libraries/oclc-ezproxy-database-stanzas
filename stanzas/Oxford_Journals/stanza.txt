@@ -1,9 +1,11 @@
-Title Oxford Journals (updated 20180928)
+Title Oxford Journals (updated 20190411)
 URL https://academic.oup.com/
 HJ https://academic.oup.com
 HJ https://global.oup.com
+HJ https://click.skem1.com
 HJ global.oup.com
 HJ academic.oup.com
+HJ click.skem1.com
 DJ oup.com
 DJ oup.silverchair-cdn.com
 DJ watermark.silverchair.com
