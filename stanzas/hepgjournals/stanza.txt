@@ -1,11 +1,19 @@
-Title Harvard Education Publishing Group
+Title Harvard Education Publishing Group (updated 20190410)
 URL http://hepgjournals.org/
 HJ hepgjournals.org
 HJ hepg.org
 HJ www.hepgjournals.org
+HJ https://www.hepgjournals.org
 HJ www.hepg.org
+HJ https://www.hepg.org
 DJ hepgjournals.org
 HJ her.hepg.org
 DJ hepg.org
 HJ pinnacle.allenpress.com
 DJ allenpress.com
+HJ www.edreview.org
+HJ edreview.org
+DJ edreview.org
+HJ www.hepinc.com
+HJ hepinc.com
+DJ hepinc.com

@@ -1,4 +1,4 @@
-Title Institute of Physics
+Title Institute of Physics (updated 20190410)
 URL http://iopscience.iop.org/
 HJ asia.iop.org
 HJ biologicalphysics.iop.org
@@ -8,6 +8,7 @@ HJ https://biologicalphysics.iop.org
 HJ https://conferenceseries.iop.org/
 HJ https://iopscience.iop.org/
 HJ https://irish.iop.org
+HJ https://stacks.iop.org
 HJ https://tap.iop.org/
 HJ https://www.iop.org
 HJ iop.org
@@ -16,6 +17,7 @@ HJ iopscience.iop.org
 HJ irish.iop.org
 HJ jphysplus.iop.org
 HJ librarians.iop.org
+HJ stacks.iop.org
 HJ njp.org
 HJ physicsworld.com
 HJ physicsworldarchive.iop.org
@@ -28,10 +30,14 @@ HJ www.iop.org
 HJ www.ioppublishing.org
 HJ www.iopscience.iop.org
 HJ www.librarians.iop.org
+HJ www.stacks.iop.org
 HJ www.njp.org
 HJ www.physicsworld.com
 HJ www.physicsworldarchive.iop.org
 HJ www.stimulatingphysics.org
 HJ www.tap.iop.org
+HJ www.iopscience.org
+HJ iopscience.org
+DJ iopscience.org
 DJ iop.org
 DJ ioppublishing.org
