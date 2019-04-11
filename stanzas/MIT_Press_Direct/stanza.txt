@@ -1,0 +1,7 @@
+Title The MIT Press Direct (updated 20190410)
+HTTPHeader X-Tizra-Ajax
+HTTPHeader X-Requested-With
+URL https://direct.mit.edu
+HJ http://direct.mit.edu
+HJ https://direct.mit.edu
+DJ mit.edu

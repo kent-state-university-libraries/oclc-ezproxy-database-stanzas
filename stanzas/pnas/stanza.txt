@@ -1,8 +1,15 @@
-Title Proceedings of the National Academy of Sciences
+Title Proceedings of the National Academy of Sciences (updated 20190410)
 URL http://www.pnas.org
 HJ anthropology.pnas.org
 HJ chemistry.pnas.org
 HJ frontmatter.pnas.org
+HJ https://anthropology.pnas.org
+HJ https://chemistry.pnas.org
+HJ https://frontmatter.pnas.org
+HJ https://physics.pnas.org
+HJ https://sustainability.pnas.org
+HJ https://teachingresources.pnas.org
+HJ https://www.pnas.org
 HJ intl.pnas.org
 HJ physics.pnas.org
 HJ pnas.org
