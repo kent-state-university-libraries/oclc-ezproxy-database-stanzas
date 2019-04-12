@@ -3,10 +3,20 @@
 
 ## Some of OCLC's notes for this stanza
 
+UndefinedNameError: reference to undefined name 'stanza1'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Adam_Matthew_Digital), /content/body/p[1]/span[1], line 1, column 1 
+UndefinedNameError: reference to undefined name 'stanza2'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Adam_Matthew_Digital), /content/body/p[1]/span[2], line 1, column 1 
+
+
 You may remove HJ lines for the URLs of resources to which you do not subscribe; however, leaving them in the stanza will do no harm.
 
 Access to any collection must begin at the collection URL, so you must construct starting point URLs to the individual resources. For example, to send users to Empire Online, use a starting point URL similar to the following:
 
 http://ezproxy.abclib.org/login?url=http://www.empire.amdigital.co.uk 
 
-A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
+UndefinedNameError: reference to undefined name 'ezproxyhosted'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Adam_Matthew_Digital), /content/body/p[5]/span, line 1, column 1 
+
+
+&nbsp;

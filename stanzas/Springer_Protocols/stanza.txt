@@ -1,14 +1,2 @@
-Title Springer Nature Experiments (OCLC IncludeFile updated 20190411)
-URL https://experiments.springernature.com
-HJ http://experiments.springernature.com
-HJ springernature.com
-DJ springernature.com
-
-Title Nature Publishing (OCLC IncludeFile updated 20190411)
-URL https://www.nature.com
-HJ http://www.nature.com
-HJ https://www.scientificamerican.com/
-HJ http://www.scientificamerican.com/
-HJ https://www.sciam.com
-HJ http://www.sciam.com
-DJ nature.com
+Callstack:
+at (Library_Management/EZproxy/Database_stanzas/Springer_Protocols), /content/body/p[1]/span[1], line 1, column 1

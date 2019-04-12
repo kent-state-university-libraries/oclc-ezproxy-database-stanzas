@@ -3,7 +3,17 @@
 
 ## Some of OCLC's notes for this stanza
 
+UndefinedNameError: reference to undefined name 'stanza1'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Springer_Protocols), /content/body/p[1]/span[1], line 1, column 1 
+UndefinedNameError: reference to undefined name 'stanza2'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Springer_Protocols), /content/body/p[1]/span[2], line 1, column 1 
+
+
 &nbsp;
 
 
-A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
+UndefinedNameError: reference to undefined name 'ezproxyhosted'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Springer_Protocols), /content/body/p[3]/span, line 1, column 1 
+
+
+&nbsp;

@@ -1,14 +1,16 @@
 # Oxford Journals
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/oxfordjournals.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/oxfordjournals.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Journals](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Journals) **
 
 ## Some of OCLC's notes for this stanza
 
-Oxford Journals requires SSL configuration and the following database stanza in config.txt:
+UndefinedNameError: reference to undefined name 'stanza1'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Oxford_Journals), /content/body/p[1]/span[1], line 1, column 1 
+UndefinedNameError: reference to undefined name 'stanza2'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Oxford_Journals), /content/body/p[1]/span[2], line 1, column 1 
 
-Title Oxford Journals
- URL https://academic.oup.com/
- DJ oup.com
 
-Please note that Oxford Journals completed the migration to its current platform in January 2017.
- 
- Assuming that you have updated all Starting Point URLs for Oxford Journals, any lines referencing the legacy domain oxfordjournals.org or its subdomains are safe to be removed from config.txt.
+UndefinedNameError: reference to undefined name 'ezproxyhosted'  (click for details) Callstack:
+    at (Library_Management/EZproxy/Database_stanzas/Oxford_Journals), /content/body/p[2]/span, line 1, column 1 
+
+
+&nbsp;

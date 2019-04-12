@@ -1,19 +1,2 @@
-Title Harvard Education Publishing Group (updated 20190410)
-URL http://hepgjournals.org/
-HJ hepgjournals.org
-HJ hepg.org
-HJ www.hepgjournals.org
-HJ https://www.hepgjournals.org
-HJ www.hepg.org
-HJ https://www.hepg.org
-DJ hepgjournals.org
-HJ her.hepg.org
-DJ hepg.org
-HJ pinnacle.allenpress.com
-DJ allenpress.com
-HJ www.edreview.org
-HJ edreview.org
-DJ edreview.org
-HJ www.hepinc.com
-HJ hepinc.com
-DJ hepinc.com
+Callstack:
+at (Library_Management/EZproxy/Database_stanzas/hepgjournals), /content/body/p[1]/span[1], line 1, column 1

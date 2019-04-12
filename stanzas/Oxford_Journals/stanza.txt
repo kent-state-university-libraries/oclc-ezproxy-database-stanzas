@@ -1,13 +1,2 @@
-Title Oxford Journals (updated 20190411)
-URL https://academic.oup.com/
-HJ https://academic.oup.com
-HJ https://global.oup.com
-HJ https://click.skem1.com
-HJ global.oup.com
-HJ academic.oup.com
-HJ click.skem1.com
-DJ oup.com
-DJ oup.silverchair-cdn.com
-DJ watermark.silverchair.com
-Find domain="//global.oup.com"
-Replace domain="//^sglobal.oup.com^"
+Callstack:
+at (Library_Management/EZproxy/Database_stanzas/Oxford_Journals), /content/body/p[1]/span[1], line 1, column 1
