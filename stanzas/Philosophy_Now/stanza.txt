@@ -1,0 +1,5 @@
+Title Philosophy Now (updated 20190415)
+URL https://www.philosophynow.org/issues
+HJ www.philosophynow.org
+HJ https://www.philosophynow.org
+DJ philosophynow.org

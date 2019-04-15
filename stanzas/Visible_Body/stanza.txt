@@ -1,0 +1,5 @@
+Title Visible Body Human Anatomy Atlas (updated 20190415)
+URL http://atlas.visiblebody.com
+HJ atlas.visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
