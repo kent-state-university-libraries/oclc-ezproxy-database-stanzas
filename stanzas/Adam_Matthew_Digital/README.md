@@ -9,6 +9,4 @@ Access to any collection must begin at the collection URL, so you must construct
 
 http://ezproxy.abclib.org/login?url=http://www.empire.amdigital.co.uk 
 
-A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
-
 &nbsp;
