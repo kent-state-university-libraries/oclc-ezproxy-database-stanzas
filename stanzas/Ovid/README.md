@@ -9,4 +9,6 @@ These additional lines should be included until the environment migration is com
 
 A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
 
+This stanza was provided by the publisher and has not been tested by OCLC. If it&rsquo;s not working properly, please contact OCLC Support
+
 &nbsp;

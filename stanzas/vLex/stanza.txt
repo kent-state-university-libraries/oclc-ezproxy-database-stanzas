@@ -1,6 +1,10 @@
-Title vLex
-URL http://vlex.com/account/login_ip
+Title vLex (updated 20190417)
+URL https://vlex.com/account/login_ip
 HJ us.vlex.com
 HJ latam.vlex.com
+HJ app.vlex.com
+HJ https://app.vlex.com
 HJ vlex.com
+HJ https://2019.vlex.com
+HJ 2019.vlex.com
 DJ vlex.com
