@@ -1,15 +1,21 @@
-Title American Society of Clinical Oncology (ASCO)
-URL http://www.ascopubs.org
-HJ www.ascopubs.org
-HJ jco.ascopubs.org
-HJ jop.ascopubs.org
-HJ jgo.ascopubs.org
-HJ edbook.ascopubs.org
-HJ meetinglibrary.asco.org
-HJ www.globaloncologyjournal.org
-HJ globaloncologyjournal.org
-HJ click.broadcastemail.asco.org
-DJ globaloncologyjournal.org
+Title American Society of Clinical Oncology (ASCO) (updated 20190424)
+URL https://ascopubs.org
 HJ ascopubs.org
-DJ ascopubs.org
+HJ click.broadcastemail.asco.org
+HJ edbook.ascopubs.org
+HJ globaloncologyjournal.org
+HJ https://ascopubs.org
+HJ https://jco.ascopubs.org
+HJ https://jgo.ascopubs.org
+HJ https://jop.ascopubs.org
+HJ https://meetinglibrary.asco.org
+HJ https://www.ascopubs.org
+HJ jco.ascopubs.org
+HJ jgo.ascopubs.org
+HJ jop.ascopubs.org
+HJ meetinglibrary.asco.org
+HJ www.ascopubs.org
+HJ www.globaloncologyjournal.org
 DJ asco.org
+DJ ascopubs.org
+DJ globaloncologyjournal.org
