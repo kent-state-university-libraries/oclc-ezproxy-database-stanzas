@@ -1,24 +1,12 @@
-Title American Physiological Society (updated 20190419)
-ProxyHostnameEdit www.physiology.org$ www-physiology-org
+Title American Physiological Society (updated 20190425)
 URL https://www.physiology.org
-HJ https://www.physiology.org
+HJ http://www.physiology.org
 HJ www.physiology.org/
 HJ physiology.org
-HJ www.physiology.org/journal/advances
-HJ www.physiology.org/journal/ajpcell
-HJ www.physiology.org/journal/ajpendo
-HJ www.physiology.org/journal/ajpgi
-HJ www.physiology.org/journal/ajplegacy
-HJ www.physiology.org/journal/ajpheart
-HJ www.physiology.org/journal/ajplung
-HJ www.physiology.org/journal/ajpregu
-HJ www.physiology.org/journal/ajprenal
-HJ www.physiology.org/journal/apsselect
-HJ www.physiology.org/journal/jappl
-HJ www.physiology.org/journal/jn
-HJ www.physiology.org/journal/physiolgenomics
-HJ www.physiology.org/journal/physiologyonline
-HJ www.physiology.org/journal/physrev
+HJ https://physiology.org
 HJ www.the-aps.org
+HJ https://www.the-aps.org
+HJ https://d2avczb82rh8fa.cloudfront.net
+HJ d2avczb82rh8fa.cloudfront.net
 DJ physiology.org
 DJ the-aps.org
