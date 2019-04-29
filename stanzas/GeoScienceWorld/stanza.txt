@@ -1,4 +1,4 @@
-Title GeoScienceWorld
+Title GeoScienceWorld  (updated 20190429)
 URL https://pubs.geoscienceworld.org
 HJ aapgbull.geoscienceworld.org
 HJ ammin.geoscienceworld.org
