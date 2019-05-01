@@ -1,4 +1,4 @@
-Title SDU (updated 20190429)
+Title SDU (updated 20190501)
 HTTPHeader -request -process Book-Authorization
 URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
@@ -23,6 +23,7 @@ HJ gidsgemeentebesturen.sdu.nl
 HJ hoactonl.sdu.nl
 HJ hse.sdu.nl
 HJ hseinnovatie.sdu.nl
+HJ https://arbeidsrecht.sdu.nl
 HJ https://caoweb-cms.sdu.nl
 HJ https://decentraleregelgeving.nl
 HJ https://ga-fo.sdu.nl
@@ -31,6 +32,8 @@ HJ https://hse.sdu.nl
 HJ https://hseinnovatie.sdu.nl
 HJ https://notariaat.sdu.nl
 HJ https://opmaat.sdu.nl
+HJ https://portal.vindhandhaving.nl
+HJ https://portal.vindlokalebelastingen.nl
 HJ https://portal.vindsocialezaken.nl
 HJ https://www.decentraleregelgeving.nl
 HJ https://www.sdu.nl
@@ -74,6 +77,8 @@ HJ opmaatvoorhetnotariaat.sdu.nl
 HJ opmaatwaarenwet.sdu.nl
 HJ overheidsadressen.sdu.nl
 HJ ow-online.sdu.nl
+HJ portal.vindhandhaving.nl
+HJ portal.vindlokalebelastingen.nl
 HJ portal.vindsocialezaken.nl
 HJ prda.sdu.nl
 HJ reachstoffenchecker.sdu.nl
@@ -89,8 +94,9 @@ HJ www.arbozone.nl
 HJ www.decentraleregelgeving.nl
 HJ www.opmaat.sdu.nl
 HJ www.wettenbank.sdu.nl
-HJ www.vindlokalebelastingen.nl
 HJ www.vindhandhaving.nl
+HJ www.vindlokalebelastingen.nl
+HJ www.vindsocialezaken.nl
 HJ www.ndsz.nl
 DJ arbozone.nl
 DJ decentraleregelgeving.nl
