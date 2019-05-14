@@ -1,4 +1,4 @@
-Title SDU (updated 20190501)
+Title SDU (updated 20190514)
 HTTPHeader -request -process Book-Authorization
 URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
@@ -15,6 +15,7 @@ HJ chemiekaarten.sdu.nl
 HJ chemiezone.sdu.nl
 HJ decentraleregelgeving.nl
 HJ douaneportal.sdu.nl
+HJ downloads.sdu.nl
 HJ esbonline.sdu.nl
 HJ europmaat.sdu.nl
 HJ fiscaal.sdu.nl
