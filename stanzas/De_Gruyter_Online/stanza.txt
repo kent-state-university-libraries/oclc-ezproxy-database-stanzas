@@ -1,14 +1,16 @@
-Title De Gruyter
+Title De Gruyter (updated 20190516)
 URL https://www.degruyter.com
 HJ degruyter.com
 HJ degruyter.de
+HJ historische-bibliographie.degruyter.com
 HJ reference-global.com
 HJ wbis.degruyter.com
-HJ www.reference-global.com
 HJ www.degruyter.com
 HJ www.degruyter.de
+HJ www.reference-global.com
 HJ www.rgz-rgst.degruyter.de
 HJ https://degruyter.com
+HJ https://historische-bibliographie.degruyter.com
 HJ https://wbis.degruyter.com
 HJ https://www.degruyter.com
 DJ degruyter.com

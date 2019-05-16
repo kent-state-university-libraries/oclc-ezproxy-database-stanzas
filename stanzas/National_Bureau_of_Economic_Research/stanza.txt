@@ -1,5 +1,11 @@
-Title National Bureau of Economic Research
+Title National Bureau of Economic Research (updated 20190516)
 URL http://www.nber.org/
+HJ admin.nber.org
+HJ https://admin.nber.org
+HJ https://nber.org
+HJ https://papers.nber.org
+HJ https://users.nber.org
+HJ https://www.nber.org
 HJ nber.org
 HJ papers.nber.org
 HJ users.nber.org
