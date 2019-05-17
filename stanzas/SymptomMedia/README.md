@@ -3,8 +3,14 @@
 
 ## Some of OCLC's notes for this stanza
 
+Your institution must retain the stanza below until you are notified by the vendor to switch to the new platform.
+
 In this definition, substitute your institution's username and password for {user} and {password}.
 
 To access this definition, you will need to construct a URL similar to:
 
 replacing ezproxy.yourlib.org:2048 with your own EZproxy server hostname and port.
+
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
+
+&nbsp;

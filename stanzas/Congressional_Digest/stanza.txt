@@ -1,0 +1,9 @@
+Title Congressional Digest (updated 20190516)
+URL http://congressionaldigest.com/
+HJ http://www.congressionaldigest.com/
+HJ congressionaldigest.com
+DJ congressionaldigest.com
+Find src=http://
+Replace src=http://^A
+Find src=https://
+Replace src=https://^A

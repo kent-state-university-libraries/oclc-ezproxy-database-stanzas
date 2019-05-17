@@ -1,5 +1,5 @@
-# BrillOnline
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline) **
+# E-Marefa
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/e-Marefa](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/e-Marefa) **
 
 ## Some of OCLC's notes for this stanza
 

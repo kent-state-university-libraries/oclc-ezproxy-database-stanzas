@@ -1,0 +1,5 @@
+Title RIPM Jazz Periodicals (updated 20190516)
+URL https://jazz.ripmfulltext.org/ripmjazz/
+HJ jazz.ripmfulltext.org
+DJ jazz.ripmfulltext.org
+NeverProxy http://jazz.ripmfulltext.org:8081

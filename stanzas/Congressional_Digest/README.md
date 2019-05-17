@@ -1,5 +1,5 @@
-# BrillOnline
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline) **
+# Congressional Digest
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Congressional_Digest](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Congressional_Digest) **
 
 ## Some of OCLC's notes for this stanza
 

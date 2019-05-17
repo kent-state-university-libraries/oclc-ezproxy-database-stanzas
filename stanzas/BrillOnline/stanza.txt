@@ -1,9 +1,10 @@
 #Includes World Christian Database, World Religion Database and Arkyves
-Title BrillOnline (updated 20180726)
+Title BrillOnline (updated 20190516)
 URL https://www.brill.com
 HJ https://brill.com
 HJ http://www.brillonline.com
 HJ babo.brillonline.nl
+HJ brill.com
 HJ bibliographies.brillonline.com
 HJ booksandjournals.brillonline.com
 HJ brillonline.com
@@ -56,3 +57,5 @@ DJ brillonline.nl
 DJ foreignlawguide.com
 DJ brill.com
 NeverProxy brill.metastore.ingenta.com
+NeverProxy dh.brill.com
+NeverProxy iiif.arkyves.org
