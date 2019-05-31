@@ -1,0 +1,7 @@
+Title Scientific American (updated 20190531)
+URL https://www.scientificamerican.com/
+HJ http://www.scientificamerican.com/
+HJ https://www.sciam.com
+HJ http://www.sciam.com
+DJ sciam.com
+DJ scientificamerican.com

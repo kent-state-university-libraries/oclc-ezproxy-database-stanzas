@@ -1,6 +1,5 @@
-Title Nature Publishing
+Title Nature Publishing (updated 20190531)
 URL https://www.nature.com
-HJ ad.doubleclick.net
 HJ ajandrology.com
 HJ labanimal.com
 HJ links.ealert.nature.com
@@ -12,6 +11,16 @@ HJ www.labanimal.com
 HJ www.nature.com
 HJ www.naturesj.com
 HJ www.npgjournals.com
+HJ https://ajandrology.com
+HJ https://labanimal.com
+HJ https://links.ealert.nature.com
+HJ https://nano.nature.com
+HJ https://nature.com
+HJ https://search.nature.com
+HJ https://www.ajandrology.com
+HJ https://www.labanimal.com
+HJ https://www.naturesj.com
+HJ https://www.npgjournals.com
 DJ ajandrology.com
 DJ ensighten.com
 DJ labanimal.com
@@ -20,6 +29,5 @@ DJ natureasia.com
 DJ naturesj.com
 DJ nexus.ensighten.com
 DJ npgjournals.com
-DJ scientificamerican.com
 Find nexus.ensighten.com
 Replace ^pnexus.ensighten.com^
