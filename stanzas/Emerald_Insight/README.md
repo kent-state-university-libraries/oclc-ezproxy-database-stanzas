@@ -1,5 +1,5 @@
-# Practical Law
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Practical_Law](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Practical_Law) **
+# Emerald Insight
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Emerald_Insight](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Emerald_Insight) **
 
 ## Some of OCLC's notes for this stanza
 

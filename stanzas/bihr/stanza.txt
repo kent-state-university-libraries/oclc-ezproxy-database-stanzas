@@ -1,6 +1,10 @@
-Title Bibliographie Internationale de l'Humanisme et de la Renaissance
+Title Bibliographie Internationale de l'Humanisme et de la Renaissance (updated 20190604)
 URL http://www.droz.org
 HJ bihr.droz.org
+HJ calvin.droz.org
 HJ droz.org
+HJ https://calvin.droz.org
+HJ https://droz.org
+HJ https://www.droz.org
 HJ www.droz.org
 DJ droz.org

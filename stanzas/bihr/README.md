@@ -1,5 +1,5 @@
-# Practical Law
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Practical_Law](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Practical_Law) **
+# Bibliographie Internationale de l'Humanisme et de la Renaissance
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/bihr](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/bihr) **
 
 ## Some of OCLC's notes for this stanza
 

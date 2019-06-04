@@ -1,8 +1,26 @@
 AnonymousURL https://sa-uk.practicallaw.thomsonreuters.com/*
-Title Practical Law (TR) (updated 20180622)
+Title Practical Law (TR) (updated 20190604)
 URL https://uk.practicallaw.thomsonreuters.com
-HJ uk.practicallaw.thomsonreuters.com
-HJ sa-uk.practicallaw.thomsonreuters.com
-HJ https://uk.practicallaw.thomsonreuters.com
+HJ books.thomsonreuters.co.uk
+HJ https://books.thomsonreuters.co.uk
+HJ https://law.thomsonreuters.co.uk
+HJ https://onepass.thomsonreuters.com
+HJ https://practicallaw.thomsonreuters.co.uk
+HJ https://s1-law.thomsonreuters.co.uk
+HJ https://s1-uk.practicallaw.thomsonreuters.com
+HJ https://sa-law.thomsonreuters.co.uk
 HJ https://sa-uk.practicallaw.thomsonreuters.com
+HJ https://signon.thomsonreuters.com
+HJ https://uk.practicallaw.thomsonreuters.com
+HJ https://westlawuk.thomsonreuters.co.uk
+HJ law.thomsonreuters.co.uk
+HJ onepass.thomsonreuters.com
+HJ practicallaw.thomsonreuters.co.uk
+HJ s1-law.thomsonreuters.co.uk
+HJ s1-uk.practicallaw.thomsonreuters.com
+HJ sa-law.thomsonreuters.co.uk
+HJ sa-uk.practicallaw.thomsonreuters.com
+HJ signon.thomsonreuters.com
+HJ uk.practicallaw.thomsonreuters.com
+HJ westlawuk.thomsonreuters.co.uk
 AnonymousURL -*
