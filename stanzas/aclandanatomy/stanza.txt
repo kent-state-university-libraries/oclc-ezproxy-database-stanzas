@@ -1,4 +1,7 @@
-T Acland Anatomy
-U http://www.aclandanatomy.com
+Title Acland Anatomy (updated 20190605)
+URL http://www.aclandanatomy.com
 HJ aclandanatomy.com
+HJ www.aclandanatomy.com
+HJ https://aclandanatomy.com
+HJ https://www.aclandanatomy.com
 DJ aclandanatomy.com
