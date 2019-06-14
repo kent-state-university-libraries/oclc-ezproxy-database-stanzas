@@ -1,0 +1,5 @@
+Title EB Medicine (updated 20190614)
+URL https://www.ebmedicine.net
+HJ http://www.ebmedicine.net
+DJ ebmedicine.net
+NeverProxy cdnjs.cloudflare.com
