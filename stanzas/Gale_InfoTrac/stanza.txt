@@ -1,4 +1,4 @@
-Title -hide Gale/Infotrac/PowerSearch Databases (updated 20190605)
+Title -hide Gale/Infotrac/PowerSearch Databases (updated 20190619)
 URL http://infotrac.gale.com/
 HJ access.gale.com
 HJ auth.go.gale.com
@@ -88,6 +88,7 @@ DJ tinygaleurl.com
 DJ readspeaker.com
 NeverProxy library.demographicsnow.com
 NeverProxy apis.google.com
+NeverProxy terc.nelnetsolutions.com
 
 # Lines below support Legacy Gale/Infotrac/PowerSearch Databases which operate on the galegroup domain.
 HJ auth.go.galegroup.com
