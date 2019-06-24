@@ -1,12 +1,4 @@
-Title Emerald Insight (updated 20190619)
-URL https://www.emeraldinsight.com
-HJ emeraldinsight.com
-HJ https://emeraldinsight.com
-HJ https://www.emeraldinsight.com
-HJ https://www.emerald.com
-HJ www.emerald-library.com
+Title Emerald (updated 20190624)
+URL https://www.emerald.com/insight
 HJ www.emerald.com
-HJ www.emeraldinsight.com
-HJ xtra.emeraldinsight.com
-DJ emerald-library.com
-DJ emeraldinsight.com
+DJ emerald.com
