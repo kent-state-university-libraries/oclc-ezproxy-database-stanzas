@@ -1,5 +1,5 @@
-# JSTOR
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JSTOR](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JSTOR) **
+# AspenLaw eBooks
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AspenLaw_eBooks](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AspenLaw_eBooks) **
 
 ## Some of OCLC's notes for this stanza
 

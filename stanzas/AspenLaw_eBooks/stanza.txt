@@ -1,3 +1,5 @@
-Title AspenLaw eBooks
-URL http://ebooks.aspenlaw.com/
+Title AspenLaw eBooks (updated 20190626)
+URL https://ebooks.aspenlaw.com/
+HJ ebooks.aspenlaw.com
 DJ aspenlaw.com
+NeverProxy d3t0z66hbmymka.cloudfront.net
