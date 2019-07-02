@@ -2,7 +2,7 @@ Option X-Forwarded-For
 Option DomainCookieOnly
 AnonymousURL +http://staticieeexplore.ieee.org/*
 AnonymousURL +https://staticieeexplore.ieee.org/*
-Title IEEE Xplore  (updated 20181017)
+Title IEEE Xplore (OCLC IncludeFile updated 20190702)
 HTTPHeader -response -block Content-Security-Policy
 URL https://ieeexplore.ieee.org/
 HJ ieeexplore.ieee.org
@@ -29,3 +29,5 @@ DJ ieeecomputersociety.org
 AnonymousURL -*
 Option Cookie
 Option NoX-Forwarded-For
+NeverProxy iln.ieee.org
+NeverProxy ea.iln.ieee.org
