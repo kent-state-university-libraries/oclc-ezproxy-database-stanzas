@@ -1,5 +1,6 @@
-Title Access Engineering
-URL http://accessengineeringlibrary.com/
-Host www.accessengineeringlibrary.com
+Title Access Engineering (updated 20190711)
+URL https://accessengineeringlibrary.com/
+HJ accessengineeringlibrary.com
+HJ www.accessengineeringlibrary.com
 DJ accessengineeringlibrary.com
 DJ books.mcgraw-hill.com
