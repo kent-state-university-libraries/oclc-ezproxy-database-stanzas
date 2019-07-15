@@ -1,0 +1,10 @@
+Title Quorum (updated 20190712)
+HTTPHeader -request -process X-CSRFTOKEN
+HTTPHeader -request -process X-NewRelic-ID
+U https://quorum.us/login
+HJ quorum.us
+HJ https://quorum.us
+HJ https://tr.outbrain.com
+HJ https://amplifypixel.outbrain.com
+DJ quorum.us
+NeverProxy static.quorum.us
