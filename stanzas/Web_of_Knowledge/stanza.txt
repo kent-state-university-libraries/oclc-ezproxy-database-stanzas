@@ -1,32 +1,13 @@
-OPTION DOMAINCOOKIEONLY
-PHE apps.clarivate.com$ apps-clarivate-com
-Title Web of Knowledge (updated 20190220)
+OPTION Cookiepassthrough
+Title Web of Knowledge (updated 20190715)
 HTTPHeader -request -process X-1P-INC-SID
-URL https://jcr.clarivate.com
-# These are old settings for InCites needed until April 1, 2019 they can be removed after URLs are changed
-HJ https://jcr.incites.thomsonreuters.com
-HJ jcr.incites.thomsonreuters.com
-HJ error.incites.thomsonreuters.com
-HJ esi.incites.thomsonreuters.com
-HJ https://esi.incites.thomsonreuters.com
-HJ https://incites.thomsonreuters.com
-HJ login.incites.thomsonreuters.com
-HJ ip-science.thomsonreuters.com
-DJ incites.thomsonreuters.com
-# The below are new settings for InCites needed after March 15, 2019 they should be added before URLs change
-HJ https://esi.clarivate.com
-HJ jcr.clarivate.com
-HJ esi.clarivate.com
-DJ incites.clarivate.com
-HJ https://incites.clarivate.com
-HJ help.incites.clarivate.com
-HJ jcr.clarivate.com
-HJ esi.clarivate.com
-HJ login.incites.clarivate.com
-HJ error.incites.clarivate.com
-# The below are Web of Science settings
+HTTPHeader -request -process ak_bmsc
+HTTPHeader -request -process bm_sv
+HTTPHeader -request -process bm_mi
+HTTPHeader -request -process bm_sz
+HTTPHeader -request -process _abck
 URL http://www.webofknowledge.com
-HJ https://webofknowledge.com
+HJ https://www.webofknowledge.com
 HJ http://webofknowledge.com
 HJ www.webofknowledge.com
 HJ webofknowledge.com
@@ -38,15 +19,10 @@ HJ apps.webofknowledge.com
 HJ ac.webofknowledge.com
 HJ esi.webofknowledge.com
 HJ https://apps.webofknowledge.com
-HJ https://proview.thomsonreuters.com
-HJ proview.thomsonreuters.com
 HJ images.webofknowledge.com
-HJ incites.isiknowledge.com
 HJ isiknowledge.com
-HJ isiwebofknowledge.com
 HJ links.webofknowledge.com
 HJ login.webofknowledge.com
-HJ myendnoteweb.com
 HJ pcs.webofknowledge.com
 HJ rss.webofknowledge.com
 HJ search.webofknowledge.com
@@ -62,9 +38,11 @@ HJ www.researcherid.com
 HJ www.webofscience.com
 DJ isiknowledge.com
 DJ isiwebofknowledge.com
-DJ myendnoteweb.com
 DJ webofscience.com
-DJ clarivate.com
+HJ http://app.webofknowledge.com
+HJ https://app.webofknowledge.com
+DJ app.webofknowledge.com
+DJ dl3iz8tnp4bmj.cloudfront.net
 Find value="http://
 Replace value="http://^A
 Find VALUE="http://
@@ -77,14 +55,8 @@ Find return_url=http://
 Replace return_url=http://^A
 Find ST_URL=http://
 Replace ST_URL=http://^A
-Find "CIT.GATEWAY_URL">gateway.isiknowledge.com
-Replace "CIT.GATEWAY_URL">^pgateway.isiknowledge.com^
-Find value='gateway.isiknowledge.com/gateway/Gateway.cgi'
-Replace value='^pgateway.isiknowledge.com^/gateway/Gateway.cgi'
 Find "CIT.GATEWAY_URL">gateway.webofknowledge.com
 Replace "CIT.GATEWAY_URL">^pgateway.webofknowledge.com^
 Find value='gateway.webofknowledge.com/gateway/Gateway.cgi'
 Replace value='^pgateway.webofknowledge.com^/gateway/Gateway.cgi'
-Find "apps.clarivate.com/
-Replace "^papps.clarivate.com^/
 OPTION COOKIE
