@@ -1,0 +1,15 @@
+Title Scholastic Learning Zone (updated 20190716)
+URL https://slz03.scholasticlearningzone.com/auth/intl/SBA
+HJ https://slz03.scholasticlearningzone.com
+HJ slz03.scholasticlearningzone.com
+HJ https://go.scholastic.com
+HJ go.grolier.com
+DJ scholasticlearningzone.com
+HJ auth.digital.scholastic.com
+HJ digital.scholastic.com
+DJ scholastic.com
+DJ digital.scholastic.com
+Find custom_usage_endpoint=https://
+Replace custom_usage_endpoint=https://^A
+Find custom_usage_script=https://
+Replace custom_usage_script=https://^A

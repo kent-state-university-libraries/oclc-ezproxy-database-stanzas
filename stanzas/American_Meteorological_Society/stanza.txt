@@ -1,0 +1,7 @@
+Title American Meteorological Society (updated 20190717)
+URL https://journals.ametsoc.org
+H ams.allenpress.com
+H https://journals.ametsoc.org
+H journals.ametsoc.org
+DJ allenpress.com
+DJ ametsoc.org

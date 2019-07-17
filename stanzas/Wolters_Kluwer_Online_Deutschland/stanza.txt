@@ -1,0 +1,21 @@
+Title WoltersKluwer Online (updated 20190716)
+HTTPMethod DELETE
+HTTPHeader -request -process X-GWT-
+HTTPHeader -request -process X-ApiKey
+HTTPHeader -request -process X-CPID
+HTTPHeader -request -process productId
+HTTPHeader -request -process Tenant
+HTTPHeader -request -process ClientInfo.ClientId
+URL https://www.wolterskluwer-online.de/
+HJ https://research.wolterskluwer-online.de/
+HJ https://shop.wolterskluwer-online.de/
+HJ https://login.wolterskluwer.eu
+HJ cdn.polyfill.io
+HJ cdn.wolterskluwer.io
+DJ wolterskluwer-online.de/
+DJ research.wolterskluwer-online.de/
+DJ shop.wolterskluwer-online.de/
+DJ login.wolterskluwer.eu
+MimeFilter application/json . javascript
+Find http:\/\/
+Replace http://

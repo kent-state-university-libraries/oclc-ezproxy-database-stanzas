@@ -1,8 +1,15 @@
-AnonymousURL https://static3.politico.com/*
-Title Politico (updated 20180515)
+AnonymousURL https://sail-prod.politicopro.com/*
+Title Politico  (updated 20190716)
 MimeFilter text/plain https://subscriber.politicopro.com/pro-api/.* javascript
 URL https://subscriber.politicopro.com
-DJ politicopro.com
-DJ politico.com
-Find https:\/\/
-Replace https://
+HJ sail-prod.politicopro.com
+HJ https://sail-prod.politicopro.com
+DJ  politicopro.com
+DJ politictatic.politico.com
+Find https:\/\/subscriber.politicopro.com
+Replace https://subscriber.politicopro.com
+NeverProxy images.politicopro.com
+NeverProxy static3.politico.com
+NeverProxy static.politico.com
+NeverProxy morph.politico.com
+AnonymousURL -*

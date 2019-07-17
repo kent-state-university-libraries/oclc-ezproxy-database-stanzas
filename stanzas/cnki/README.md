@@ -1,8 +1,10 @@
-# CNKI
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/cnki.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/cnki.en.html) **
+# CKNI
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/cnki](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/cnki) **
 
 ## Some of OCLC's notes for this stanza
 
-Encyclopedia of Islam and New Pauly Online require EZproxy 2.0j or later along with the following database definition:
+CNKI requires EZproxy 6.2.2 or later.
 
-To insure that the Find/Replace options work, these database definitions should appear in config.txt  before any other databases that reference the brill.nl, ingentaconnect.com, or ingentaselect.com domains.
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza by adding the following line to config.txt:
+
+&nbsp;
