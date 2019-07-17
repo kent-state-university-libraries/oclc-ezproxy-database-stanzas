@@ -1,6 +1,5 @@
-Title Access Engineering (updated 20190711)
-URL https://accessengineeringlibrary.com/
-HJ accessengineeringlibrary.com
-HJ www.accessengineeringlibrary.com
+Title AccessEngineering (updated 20190716)
+URL https://www.accessengineeringlibrary.com
 DJ accessengineeringlibrary.com
-DJ books.mcgraw-hill.com
+HJ accessengineeringlibrary.com
+HJ https://idp.sams-sigma.com
