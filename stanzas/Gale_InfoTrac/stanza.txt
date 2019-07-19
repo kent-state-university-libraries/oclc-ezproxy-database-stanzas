@@ -1,4 +1,4 @@
-Title -hide Gale/Infotrac/PowerSearch Databases (updated 20190619)
+Title -hide Gale/Infotrac/PowerSearch Databases (updated 20190718)
 URL http://infotrac.gale.com/
 HJ access.gale.com
 HJ auth.go.gale.com
@@ -38,6 +38,7 @@ HJ www.infotrac.london.gale.com
 HJ www.mygovernment.us
 HJ api.cyber-anatomy.com
 HJ galeapps.gale.com
+HJ worldscholar.gale.com
 HJ https://access.gale.com
 HJ https://auth.go.gale.com
 HJ https://bi.gale.com
@@ -75,6 +76,7 @@ HJ https://www.galepages.com
 HJ https://www.infotrac.london.gale.com
 HJ https://www.mygovernment.us
 HJ https://api.cyber-anatomy.com
+HJ https://worldscholar.gale.com
 DJ chiltonlibrary.com
 DJ gale.com
 DJ galenet.com
@@ -88,6 +90,7 @@ DJ tinygaleurl.com
 DJ readspeaker.com
 NeverProxy library.demographicsnow.com
 NeverProxy apis.google.com
+NeverProxy rs.find.gale.com
 NeverProxy terc.nelnetsolutions.com
 
 # Lines below support Legacy Gale/Infotrac/PowerSearch Databases which operate on the galegroup domain.
@@ -102,6 +105,7 @@ HJ galenet.galegroup.com
 HJ gdc.galegroup.com
 HJ go.galegroup.com
 HJ ic.galegroup.com
+HJ infotrac.galegroup.com
 HJ infotrac.london.galegroup.com
 HJ link.galegroup.com
 HJ natgeo.galegroup.com
@@ -114,6 +118,7 @@ HJ tinyurl.galegroup.com
 HJ vs.galegroup.com
 HJ www.infotrac.london.galegroup.com
 HJ galeapps.galegroup.com
+HJ worldscholar.galegroup.com
 HJ https://auth.go.galegroup.com
 HJ https://bi.galegroup.com
 HJ https://bna.galegroup.com
@@ -139,4 +144,6 @@ HJ https://tinygaleurl.com
 HJ https://tinyurl.galegroup.com
 HJ https://vs.galegroup.com
 HJ https://www.infotrac.london.galegroup.com
+HJ https://worldscholar.galegroup.com
 DJ galegroup.com
+NeverProxy rs.find.galegroup.com
