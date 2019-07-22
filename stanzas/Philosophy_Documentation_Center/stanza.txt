@@ -1,7 +1,11 @@
-Title Philosophy Documentation Center
+Title Philosophy Documentation Center (updated 20190722)
 URL http://www.pdcnet.org/
 HJ cas.pdcnet.org
+HJ https://pdcnet.org
+HJ https://secure.pdcnet.org
 HJ https://www.pdcnet.org
+HJ pdcnet.org
+HJ secure.pdcnet.org
 HJ www.pdcnet.org
 DJ pdcnet.org
 Find var urlNeu=urlAlt.replace(/http:/, "https:");
