@@ -1,9 +1,10 @@
-Title Mintel (updated 20180614)
+Title Mintel (updated 20190723)
 URL http://academic.mintel.com/
 HJ academic.mintel.com
 HJ bpc.mintel.com
 HJ brasil.mintel.com
 HJ china.mintel.com
+HJ clients.mintel.com
 HJ de.mintel.com
 HJ es.mintel.com
 HJ foodanddrink.mintel.com
@@ -15,6 +16,7 @@ HJ gnpd.mintel.com
 HJ https://gnpd.mintel.com
 HJ hpc.mintel.com
 HJ https://bpc.mintel.com
+HJ https://clients.mintel.com
 HJ https://foodanddrink.mintel.com
 HJ https://hpc.mintel.com
 HJ https://portal.mintel.com
