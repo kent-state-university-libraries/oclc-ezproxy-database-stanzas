@@ -1,8 +1,10 @@
-Title University of California Press (updated 20190424)
+Title University of California Press (updated 20190724)
 MimeFilter application/json .* javascript
 MimeFilter application/xml .* javascript
 URL http://www.ucpress.edu/journals.php
 HJ https://www.ucpress.edu/journals.php
+HJ https://afterimage.ucpress.edu
+HJ afterimage.ucpress.edu
 HJ www.ucpress.edu
 HJ jsah.ucpress.edu
 HJ as.ucpress.edu
