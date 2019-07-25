@@ -1,6 +1,6 @@
-Title RBdigital
-URL https://www.rbdigital.com/
-HJ https://www.rbdigital.com
-HJ www.rbdigital.com
-HJ rbdigital.com
+Title RBdigital Audiobooks and Ebooks (updated 20190724)
+URL https://{yourlibraryname}.rbdigital.com
+HJ https://{yourlibraryname}.rbdigital.com/#register
 DJ rbdigital.com
+neverproxy api.rbdigital.com
+neverproxy auth.rbdigital.com
