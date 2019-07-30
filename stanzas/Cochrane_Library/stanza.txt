@@ -1,11 +1,12 @@
 Option DomainCookieOnly
-Title Cochrane Library (updated 20181204)
+Title Cochrane Library  (updated 20190730)
 URL http://www.cochranelibrary.com/
 HJ cochrane.org
 HJ cochranelibrary.com
 HJ cochranelibrary-wiley.com
 HJ handbook.cochrane.org
 HJ thecochranelibrary.com
+HJ training.cochrane.org
 HJ www.cochrane.org
 HJ www.cochranejournalclub.com
 HJ www.cochranelibrary.com
@@ -19,6 +20,7 @@ HJ https://www.cochrane.org
 HJ https://www.cochranelibrary.com
 HJ https://www.thecochranelibrary.com
 HJ https://www.wileyhealthlearning.com
+HJ https://training.cochrane.org
 DJ cochrane.org
 DJ cochranejournalclub.com
 DJ cochranelibrary.com
