@@ -1,0 +1,12 @@
+AnonymousURL +https://id.preqin.com*
+AnonymousURL +https://*.pro.preqin.com*
+Title Preqin (updated 20190731)
+URL https://www.preqin.com/login.aspx?al=true&userid=96989&c=195977
+HJ https://www.preqin.com/
+HJ www.preqin.com
+HJ pro.preqin.com
+HJ id.preqin.com
+DJ  preqin.com
+Find "issuer":"https://
+Replace "issuer":"https://^A
+AnonymousURL -*
