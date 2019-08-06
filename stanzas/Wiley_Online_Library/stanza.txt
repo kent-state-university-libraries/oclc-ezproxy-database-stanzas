@@ -1,9 +1,10 @@
 Option X-Forwarded-For
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online
+Title Wiley Online (updated 20190802)
 HTTPHeader -request -process X-Requested-With
 URL https://onlinelibrary.wiley.com
 H http://onlinelibrary.wiley.com
+HJ aap.onlinelibrary.wiley.com
 HJ aapm.onlinelibrary.wiley.com
 HJ aasldpubs.onlinelibrary.wiley.com
 HJ accp1.onlinelibrary.wiley.com
@@ -47,6 +48,7 @@ HJ www.wileyopenaccess.com
 HJ www.wires.wiley.com
 HJ www3.interscience.wiley.com
 HJ zslpublications.onlinelibrary.wiley.com
+HJ https://aap.onlinelibrary.wiley.com
 HJ https://aapm.onlinelibrary.wiley.com
 HJ https://aasldpubs.onlinelibrary.wiley.com
 HJ https://accp1.onlinelibrary.wiley.com

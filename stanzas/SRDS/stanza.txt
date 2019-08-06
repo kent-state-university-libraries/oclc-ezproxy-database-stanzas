@@ -1,6 +1,9 @@
-Title SRDS (updated 20190306)
-URL http://login.srds.com
+Title SRDS (updated 20190806)
+URL https://login.srds.com
 HJ www1.srds.com
+HJ https://www1.srds.com
 HJ Login.srds.com
+HJ https://Login.srds.com
 HJ claritas.com
+HJ https://claritas.com
 DJ srds.com

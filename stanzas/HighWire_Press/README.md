@@ -1,13 +1,10 @@
-# Highwire Press
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/highwirepress.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/highwirepress.en.html) **
+# HighWire Press
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/HighWire_Press](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/HighWire_Press) **
 
 ## Some of OCLC's notes for this stanza
 
-Title HighWire Press
- URL http://home.highwire.org/
- HJ highwire.org
- HJ highwire.stanford.edu
- HJ home.highwire.org
- HJ www.highwire.org
- DJ highwire.org
- DJ stanford.edu 
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
+
+&nbsp;
+
+&nbsp;

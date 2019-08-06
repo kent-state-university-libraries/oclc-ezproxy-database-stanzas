@@ -1,6 +1,6 @@
 AnonymousURL +*//feeds.proquest.com/*
-Title ProQuest
-HTTPHeader -request -process X-Requested-With
+Title ProQuest (updated 20190722)
+HTTPHeader -request -process X-Requested-With Host
 URL https://search.proquest.com/ip
 NeverProxy rss.proquest.com
 NeverProxy order.proquest.com
@@ -8,6 +8,8 @@ NeverProxy flow.proquest.com
 NeverProxy media.proquest.com
 NeverProxy pq-static-content.proquest.com
 NeverProxy support.proquest.com
+NeverProxy ssolanding-search.proquest.com
+NeverProxy sso.proquest.com
 HJ africanamericanheritage.proquest.com
 HJ congressional.proquest.com
 HJ datasets.proquest.com
