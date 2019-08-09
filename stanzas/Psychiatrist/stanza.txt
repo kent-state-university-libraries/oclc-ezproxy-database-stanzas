@@ -1,7 +1,8 @@
 ProxyHostnameEdit www.psychiatrist.com www-psychiatrist-com
-Title Journal of Clinical Psychiatry
-URL http://www.psychiatrist.com
+Title Journal of Clinical Psychiatry (updated 20190807)
+URL https://www.psychiatrist.com
 HJ www.psychiatrist.com
+HJ article.psychiatrist.com
 HJ psychiatrist.com
 HJ https://sts.psychiatrist.com
 HJ sts.psychiatrist.com

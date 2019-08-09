@@ -1,6 +1,18 @@
-Title Books in Print
+Title Books in Print (updated 20190807)
 URL http://www.booksinprint.com
+HJ https://www.booksinprint.com
 HJ www.booksinprint.com
+HJ booksinprint.com
 DJ booksinprint.com
+HJ www.booksinprint2.com
+HJ booksinprint2.com
+DJ booksinprint2.com
 HJ www.bowker.com
+HJ bowker.com
 DJ bowker.com
+HJ www.patronbooksinprint.com
+HJ patronbooksinprint.com
+DJ patronbooksinprint.com
+HJ www.globalbooksinprint.com
+HJ globalbooksinprint.com
+DJ globalbooksinprint.com
