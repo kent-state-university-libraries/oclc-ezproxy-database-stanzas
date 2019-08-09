@@ -1,3 +1,11 @@
-T LWW HealthLibrary
-U http://lwwhealthlibrary.com
+Title LWW HealthLibrary (updated 20190808)
+URL http://lwwhealthlibrary.com
+HJ https://meded.lwwhealthlibrary.com
+HJ www.lwwhealthlibrary.com
+HJ lwwhealthlibrary.com
+HJ advisor.lwwhealthlibrary.com
+HJ anesthesiology.lwwhealthlibrary.com
+HJ meded.lwwhealthlibrary.com
+HJ oncology.lwwhealthlibrary.com
+HJ pharmacy.lwwhealthlibrary.com
 DJ lwwhealthlibrary.com

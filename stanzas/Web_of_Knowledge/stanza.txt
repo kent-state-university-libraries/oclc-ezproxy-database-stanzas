@@ -1,5 +1,5 @@
 OPTION Cookiepassthrough
-Title Web of Knowledge (updated 20190715)
+Title Web of Knowledge (updated 20190808)
 HTTPHeader -request -process X-1P-INC-SID
 HTTPHeader -request -process ak_bmsc
 HTTPHeader -request -process bm_sv
@@ -9,6 +9,7 @@ HTTPHeader -request -process _abck
 URL http://www.webofknowledge.com
 HJ https://www.webofknowledge.com
 HJ http://webofknowledge.com
+HJ https://webofknowledge.com
 HJ www.webofknowledge.com
 HJ webofknowledge.com
 DJ webofknowledge.com

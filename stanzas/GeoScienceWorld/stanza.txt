@@ -1,4 +1,4 @@
-Title GeoScienceWorld (updated 20190516)
+Title GeoScienceWorld (updated 20190808)
 URL http://www.geoscienceworld.org/
 HJ www.geoscienceworld.org
 HJ aapgbull.geoscienceworld.org
@@ -50,6 +50,7 @@ HJ vzj.geoscienceworld.org
 HJ pygs.geoscienceworld.org
 HJ sjg.geoscienceworld.org
 HJ jm.geoscienceworld.org
+HJ pubs.geoscienceworld.org
 HJ geoscienceworld.org
 HJ https://www.geoscienceworld.org
 HJ https://aapgbull.geoscienceworld.org
@@ -102,6 +103,7 @@ HJ https://pygs.geoscienceworld.org
 HJ https://sjg.geoscienceworld.org
 HJ https://jm.geoscienceworld.org
 HJ https://geoscienceworld.org
+HJ https://pubs.geoscienceworld.org
 HJ nagt-jge.org
 HJ https://nagt-jge.org
 DJ nagt-jge.org
