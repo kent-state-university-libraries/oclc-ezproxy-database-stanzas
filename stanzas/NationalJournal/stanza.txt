@@ -1,5 +1,6 @@
 Option CookiePassThrough
-Title National Journal (updated 20181024)
+Title National Journal (updated 20190813)
+HTTPHeader -request -process X-CSRFToken
 URL https://www.nationaljournal.com/
 HJ https://www.nationaljournal.com
 HJ https://nationaljournal.com
