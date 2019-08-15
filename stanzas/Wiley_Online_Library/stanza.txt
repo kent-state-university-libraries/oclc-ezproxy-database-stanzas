@@ -1,6 +1,6 @@
 Option X-Forwarded-For
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20190813)
+Title Wiley Online (updated 20190815)
 HTTPHeader -request -process X-Requested-With
 URL https://onlinelibrary.wiley.com
 H http://onlinelibrary.wiley.com
@@ -124,4 +124,8 @@ HJ https://headachejournal.onlinelibrary.wiley.com/
 HJ https://asi.onlinelibrary.wiley.com
 HJ https://aps.onlinelibrary.wiley.com/
 HJ https://ngwa.onlinelibrary.wiley.com
+DJ wiley.com
+DJ esajournals.org
+DJ wileyopenaccess.com
+DJ wileyonlinelibrary.com
 Option NoX-Forwarded-For
