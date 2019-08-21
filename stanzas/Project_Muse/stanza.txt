@@ -1,5 +1,11 @@
-Title Project Muse
+Option DomainCookieOnly
+Title Project Muse (updated 20190819)
 URL http://muse.jhu.edu/
 HJ https://muse.jhu.edu
-DJ muse.jhu.edu
+HJ http://www.muse.jhu.edu
+HJ tools.muse.jhu.edu
+HJ https://tools.muse.jhu.edu
 HJ muse.uq.edu.au
+HJ https://muse.uq.edu.au
+DJ muse.jhu.edu
+Option Cookie
