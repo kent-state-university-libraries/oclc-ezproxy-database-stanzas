@@ -1,6 +1,11 @@
-Title IBFD Tax Research Online (20190227)
+Title IBFD Tax Research Platform (updated 20190822)
 URL https://research.ibfd.org
+HJ https://www.ibfd.org
+HJ www.ibfd.org
+HJ https://online.ibfd.org
+HJ online.ibfd.org
 HJ https://research.ibfd.org
 HJ http://research.ibfd.org
 HJ research.ibfd.org
+HJ ibfd.org
 DJ ibfd.org
