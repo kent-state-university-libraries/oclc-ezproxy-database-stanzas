@@ -1,8 +1,9 @@
-Title American Association for Clinical Chemistry (updated 20190809)
+Title American Association for Clinical Chemistry (updated 20190822)
 URL http://clinchem.aaccjnls.org/
 HJ clinchem.aaccjnls.org
 HJ jalm.aaccjnls.org
 HJ d9aqs07uebq07.cloudfront.net
 HJ www.clinchem.org
+HJ aaccjnls.org
 DJ aaccjnls.org
 DJ clinchem.org
