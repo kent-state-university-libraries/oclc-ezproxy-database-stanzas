@@ -1,0 +1,7 @@
+Title American Society for Clinical Investigation (updated 20190823)
+URL http://www.jci.org/
+HJ https://www.jci.org
+HJ https://jci.org
+HJ www.jci.org
+HJ jci.org
+DJ jci.org
