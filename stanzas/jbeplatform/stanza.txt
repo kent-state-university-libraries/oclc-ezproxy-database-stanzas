@@ -1,5 +1,6 @@
-Title John Benjamins e-Platform
-URL http://www.jbe-platform.com/content/journals
-Host www.jbe-platform.com
-Host jbe-platform.com
-Domain jbe-platform.com
+Title John Benjamins e-Platform (updated 20190829)
+URL https://www.jbe-platform.com/
+HJ http://www.jbe-platform.com/
+HJ jbe-platform.com
+HJ https://jbe-platform.com
+DJ jbe-platform.com
