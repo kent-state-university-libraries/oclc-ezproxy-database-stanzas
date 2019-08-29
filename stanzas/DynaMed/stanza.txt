@@ -1,0 +1,8 @@
+Option DomainCookieOnly
+Title DynaMed (updated 20190829)
+URL https://www.dynamed.com
+HJ https://www.dynamed.com
+HJ https://calc.dynamed.com
+HJ https://auth.dynamed.com
+DJ dynamed.com
+Option Cookie
