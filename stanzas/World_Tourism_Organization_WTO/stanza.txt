@@ -1,0 +1,8 @@
+Title World Tourism Organization (WTO) (updated 20190829)
+URL http://www.unwto.org/
+HJ https://www.e-unwto.org
+HJ https://e-unwto.org
+HJ www.unwto.org
+HJ www.e-unwto.org
+DJ unwto.org
+DJ e-unwto.org
