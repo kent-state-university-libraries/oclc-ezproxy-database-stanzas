@@ -1,0 +1,6 @@
+Title MERIP  (updated 20190912)
+URL http://www.merip.org/
+HJ https://merip.org
+HJ www.merip.org
+HJ merip.org
+DJ merip.org

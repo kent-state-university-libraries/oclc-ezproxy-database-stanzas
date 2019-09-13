@@ -1,8 +1,9 @@
-Title Reaxys 2 (updated 20180503)
+Title Reaxys 2 (updated 20190913)
 URL https://www.reaxys.com
 HJ https://www.reaxys.com
 HJ https://sc.elsevier.com
 HJ sc.elsevier.com
+HJ www.reaxys.com
 DJ www.reaxys.com
 DJ elsevier.com
 # DOI system provides linking to Springer, Wiley, and others

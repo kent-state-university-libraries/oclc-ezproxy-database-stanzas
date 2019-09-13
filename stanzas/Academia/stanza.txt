@@ -1,6 +1,11 @@
-Title Academia
+Title Academia  (updated 20190913)
 URL http://www.academia.nl
 HJ academia.nl
 HJ https://www.academia.nl
 HJ www.academia.nl
+HJ https://beeldengeluidopschool.nl
+HJ https://www.beeldengeluidopschool.nl
+HJ beeldengeluidopschool.nl
+HJ www.beeldengeluidopschool.nl
 DJ academia.nl
+DJ beeldengeluidopschool.nl

@@ -1,5 +1,5 @@
 OPTION Cookiepassthrough
-Title Web of Knowledge (updated 20190822)
+Title Web of Knowledge (updated 20190912)
 HTTPHeader -request -process X-1P-INC-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process ak_bmsc
@@ -12,6 +12,8 @@ HJ https://www.webofknowledge.com
 HJ http://webofknowledge.com
 HJ https://webofknowledge.com
 HJ www.webofknowledge.com
+HJ https://gateway.isiknowledge.com
+HJ gateway.isiknowledge.com
 HJ webofknowledge.com
 DJ webofknowledge.com
 HJ admin.webofknowledge.com
