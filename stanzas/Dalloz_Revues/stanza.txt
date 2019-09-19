@@ -1,0 +1,6 @@
+Title Dalloz Revues (updated 20190919)
+URL https://www.dalloz-revues.fr/
+HJ www.dalloz-revues.fr
+HJ www1.ajda.fr
+DJ dalloz-revues.fr
+DJ ajda.fr

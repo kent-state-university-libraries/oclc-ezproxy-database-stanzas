@@ -1,4 +1,4 @@
-Title INGENTAconnect (updated 20190730)
+Title INGENTAconnect (updated 20190919)
 URL http://www.ingentaconnect.com/
 HJ https://www.ingentaconnect.com
 HJ openurl.ingenta.com
@@ -8,6 +8,7 @@ HJ https://www.ingenta.com
 HJ https://ingenta.com
 HJ www.ingenta.com
 DJ ingenta.com
+HJ api.ingentaconnect.com
 HJ www.ingentaconnect.com
 HJ charleston.publisher.ingentaconnect.com
 HJ brill.publisher.ingentaconnect.com
