@@ -1,6 +1,10 @@
-Title APS Journals
+Title APS Journals (updated 20190920)
 MimeFilter application/json .* javascript
-URL http://publish.aps.org
+URL https://publish.aps.org
+HJ https://journals.aps.org
+HJ https://link.aps.org
+HJ https://physics.aps.org
+HJ https://www.aps.org
 HJ archive.aps.org
 HJ focus.aps.org
 HJ journals.aps.org
