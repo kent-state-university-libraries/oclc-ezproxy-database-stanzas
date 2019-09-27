@@ -1,0 +1,18 @@
+Title SAE International (updated 20190925)
+URL http://ev.sae.org/
+HJ ev.sae.org
+HJ saejournals.org
+HJ magazine.sae.org
+HJ saeaero.saejournals.org
+HJ saealtpow.saejournals.org
+HJ saecomveh.saejournals.org
+HJ saeeng.saejournals.org
+HJ saefuel.saejournals.org
+HJ saematman.saejournals.org
+HJ saepcelec.saejournals.org
+HJ saepcmech.saejournals.org
+HJ saetransaf.saejournals.org
+HJ www.defensetechbriefs.com
+DJ sae.org
+DJ saejournals.org
+DJ defensetechbriefs.com

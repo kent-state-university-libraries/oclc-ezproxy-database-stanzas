@@ -1,4 +1,4 @@
-Title BMJ Journals (updated 20190712)
+Title BMJ Journals (updated 20190912)
 URL http://journals.bmj.com
 Domain group.bmj.com
 HJ https://journals.bmj.com
@@ -159,6 +159,8 @@ HJ veterinaryrecord.bvapublications.com
 HJ vetrecordcasereports.bmj.com
 HJ https://vetrecordcasereports.bmj.com
 HJ vetrecordopen.bmj.com
+HJ https://gh.bmj.com
+HJ gh.bmj.com
 HJ https://vetrecordopen.bmj.com
 HJ www.clinicalevidence.com
 HJ www.bmj.com
