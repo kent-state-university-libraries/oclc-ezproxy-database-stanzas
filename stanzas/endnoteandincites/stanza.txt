@@ -1,6 +1,8 @@
 OPTION DOMAINCOOKIEONLY
 PHE apps.clarivate.com$ apps-clarivate-com
-Title EndNote online and InCites (updated 20190715)
+Title EndNote online and InCites  (updated 20190927)
+HTTPMethod DELETE
+HTTPMethod PUT
 HTTPHeader -request -process X-1P-INC-SID
 MimeFilter application/json .* javascript
 URL http://www.myendnoteweb.com
@@ -14,7 +16,7 @@ DJ myendnoteweb.com
 DJ access.clarivate.com
 #Domain myendoteweb.com
 #Domain access.clarivate.com
-Host http://www.myendnoteweb.com
+Host  http://www.myendnoteweb.com
 Host https://access.clarivate.com
 HJ http://esi.clarivate.com
 HJ http://jcr.clarivate.com

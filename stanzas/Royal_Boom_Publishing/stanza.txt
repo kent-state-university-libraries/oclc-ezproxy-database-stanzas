@@ -1,4 +1,4 @@
-Title Royal Boom Publishing (updated 20190815)
+Title Royal Boom Publishing (updated 20190930)
 URL http://www.boom.nl/
 HJ cdv.boomtijdschriften.nl
 HJ cookies.budh.nl
@@ -12,6 +12,7 @@ HJ https://www.tijdschriftvoorarbeidsvraagstukken.nl
 HJ https://www.tijdschriftvoorcommunicatiewetenschap.nl
 HJ https://www.tijdschriftvoorpsychoanalyse.nl
 HJ https://www.tijdschriftvoortheologie.nl
+HJ https://www.bjutijdschriften.nl
 HJ https://www.boomtijdschriften.nl
 HJ https://www.boomportaal.nl
 HJ les.boomtijdschriften.nl
