@@ -3,11 +3,13 @@ HTTPMethod PATCH
 HTTPMethod HEAD
 HTTPMethod OPTIONS
 HTTPMethod DELETE
-Title Artstor (updated 20180815)
+Title Artstor (updated 20191002)
 HTTPHeader -request -process Accept-Encoding
 URL https://library.artstor.org
 DJ artstor.org
 HJ mdxdv.artstor.org
+HJ www.artstor.org
+HJ https://www.artstor.org
 HJ library.artstor.org
 HJ http://library.artstor.org
 HJ proxy.library.artstor.org

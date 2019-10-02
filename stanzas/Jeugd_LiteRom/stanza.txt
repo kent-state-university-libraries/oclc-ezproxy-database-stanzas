@@ -1,4 +1,4 @@
-Title Jeugd LiteRom (updated 20190625)
+Title Jeugd LiteRom (updated 20191002)
 URL http://www.knipselkranten.nl/jliterom/
 HJ a-select.nbdbiblion.nl
 HJ adbank.dossiers.knipselkranten.nl
@@ -11,6 +11,10 @@ HJ literom.knipselkranten.nl
 HJ literom.nbdbiblion.nl
 HJ mom.biblion.nl
 HJ thuis.literom.nbdbiblion.nl
+HJ https://scholen.literom.nbdbiblion.nl
+HJ scholen.literom.nbdbiblion.nl
+HJ https://scholen.uittrekselbank.nbdbiblion.nl
+HJ scholen.uittrekselbank.nbdbiblion.nl
 DJ biblion.nl
 DJ knipselkranten.nl
 DJ nbdbiblion.nl
