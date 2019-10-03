@@ -1,4 +1,4 @@
-Title Cambridge Core
+Title Cambridge Core (updated 20191003)
 MimeFilter application/html .* html
 URL https://www.cambridge.org/core
 HJ https://cambridge.org
@@ -14,6 +14,8 @@ HJ universitypublishingonline.org
 HJ www.africabibliography.cambridge.org
 HJ www.cambridge.org
 HJ www.dib.cambridge.org
+HJ https://dib.cambridge.org
+HJ dib.cambridge.org
 HJ www.journals.cambridge.org
 HJ www.orlando.cambridge.org
 HJ www.stahlonline.cambridge.org

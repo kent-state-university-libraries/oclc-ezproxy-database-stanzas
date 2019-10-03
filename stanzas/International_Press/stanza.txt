@@ -1,0 +1,13 @@
+Title International Press (updated 20191002)
+URL http://intlpress.com/
+H intlpress.com
+H projecteuclid.org
+H www.emis.de
+H www.intlpress.com
+H www.mrlonline.org
+HJ https://www.intlpress.com
+HJ https://intlpress.com
+DJ intlpress.com
+DJ projecteuclid.org
+DJ emis.de
+DJ mrlonline.org

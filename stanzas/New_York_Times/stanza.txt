@@ -1,5 +1,6 @@
-Title New York Times
-URL http://www.nytimes.com
+Title New York Times (updated 20191003)
+URL https://www.nytimes.com
+HJ https://nyti.ms
 HJ artsbeat.blogs.nytimes.com
 HJ blogs.nytimes.com
 HJ cn.nytimes.com
@@ -35,10 +36,13 @@ HJ wordplay.blogs.nytimes.com
 HJ www.inyt.com
 HJ www.nytimes.com
 HJ www.nytstore.com
+HJ accessnyt.com
 DJ blogs.nytimes.com
 DJ inyt.com
 DJ nytimes.com
 DJ nytstore.com
 HJ nytimesineducation.com
 HJ www.nytimesineducation.com
+HJ https://nytimesineducation.com
+HJ https://www.nytimesineducation.com
 DJ nytimesineducation.com
