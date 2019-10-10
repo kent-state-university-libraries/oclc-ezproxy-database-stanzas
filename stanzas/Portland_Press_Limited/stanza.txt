@@ -1,5 +1,7 @@
-Title Portland Press Limited (updated 20181107)
+Title Portland Press Limited (updated 20191010)
 URL http://www.portlandpress.com/
+HJ https://www.portlandpress.com
+HJ https://portlandpress.com
 HJ bab.portlandpress.com
 HJ bst.portlandpress.com
 HJ cs.portlandpress.com

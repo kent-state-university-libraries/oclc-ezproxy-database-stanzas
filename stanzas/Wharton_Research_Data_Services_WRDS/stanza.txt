@@ -1,0 +1,9 @@
+Title Wharton Research Data Services (WRDS) (updated 20191009)
+URL https://wrds-web.wharton.upenn.edu/wrds/
+HJ https://wrds-web.wharton.upenn.edu/wrds/
+HJ https://wrds-www.wharton.upenn.edu/
+HJ https://wrds-sol1.wharton.upenn.edu/
+HJ https://wrds-sol2.wharton.upenn.edu/
+HJ https://wrds.wharton.upenn.edu
+HJ wrds.wharton.upenn.edu
+DJ wharton.upenn.edu
