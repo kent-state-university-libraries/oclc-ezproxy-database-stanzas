@@ -1,5 +1,5 @@
-# Philosophy Now
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Philosophy_Now](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Philosophy_Now) **
+# RAND State Statistics
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RAND_State_Statistics](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RAND_State_Statistics) **
 
 ## Some of OCLC's notes for this stanza
 

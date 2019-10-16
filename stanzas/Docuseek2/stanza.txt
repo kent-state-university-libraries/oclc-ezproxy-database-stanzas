@@ -1,4 +1,8 @@
-Title Docuseek2
+Title Docuseek2 (updated 20191015)
+HTTPHeader -Request -Process Accept-Encoding
+HTTPHeader -Request -Process X-requested-with
 URL http://docuseek2.com
+HJ https://docuseek2.com
+HJ https://www.docuseek2.com
 HJ www.docuseek2.com
 DJ docuseek2.com

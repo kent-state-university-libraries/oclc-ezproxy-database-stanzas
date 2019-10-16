@@ -1,15 +1,12 @@
-Title BioOne (OCLC include file updated 20181214)
+Title BioOne (updated 20181214)
 URL http://www.bioone.org/
 Host bioone.org
 Domain bioone.org
-Host 65.245.134.215
 
-Title BioOne Complete (launched 20190816)
+
+Title BioOne Complete (launched 20191015)
 URL https://www.bioone.org/
 HJ www.bioone.org
-HJ https://www.bioone.org/
-HJ preview.bioone.org
-HJ https://preview.bioone.org
 HJ https://bioone.org
 HJ bioone.org
 DJ bioone.org

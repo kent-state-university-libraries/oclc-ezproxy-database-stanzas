@@ -1,5 +1,5 @@
-# Philosophy Now
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Philosophy_Now](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Philosophy_Now) **
+# Docuseek2
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Docuseek2](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Docuseek2) **
 
 ## Some of OCLC's notes for this stanza
 

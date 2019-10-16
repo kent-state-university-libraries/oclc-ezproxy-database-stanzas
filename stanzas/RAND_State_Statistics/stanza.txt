@@ -1,4 +1,12 @@
-Title RAND State Statistics
-URL http://www.randstatestats.org
+Title RAND State Statistics (updated 20191015)
+URL https://www.randstatestats.org
+HJ http://www.randstatestats.org
+HJ randstatestats.org
 DJ randstatestats.org
 HJ www.randstatestats.org
+
+Title Rand California (updated 20191015)
+URL https://ca.rand.org
+HJ http://ca.rand.org
+HJ ca.rand.org
+DJ rand.org
