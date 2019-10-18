@@ -1,7 +1,8 @@
-Title Passport (Euromonitor International) (updated 20190312)
+Title Passport (Euromonitor International) (updated 20191017)
 URL http://www.portal.euromonitor.com/portal/server.pt
 HJ https://www.portal.euromonitor.com
 HJ www.portal.euromonitor.com
+HJ https://portal.euromonitor.com
 HJ portal.euromonitor.com
 DJ portal.euromonitor.com
 DJ euromonitor.com

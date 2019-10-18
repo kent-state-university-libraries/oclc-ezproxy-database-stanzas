@@ -1,4 +1,4 @@
-Title Mintel (updated 20190723)
+Title Mintel (updated 20191018)
 URL http://academic.mintel.com/
 HJ academic.mintel.com
 HJ bpc.mintel.com
@@ -11,17 +11,20 @@ HJ foodanddrink.mintel.com
 HJ fr.mintel.com
 HJ gmn.mintel.com
 HJ data.mintel.com
-HJ https://data.mintel.com
 HJ gnpd.mintel.com
-HJ https://gnpd.mintel.com
 HJ hpc.mintel.com
+HJ https://academic.mintel.com
 HJ https://bpc.mintel.com
 HJ https://clients.mintel.com
+HJ https://data.mintel.com
 HJ https://foodanddrink.mintel.com
+HJ https://gnpd.mintel.com
 HJ https://hpc.mintel.com
-HJ https://portal.mintel.com
-HJ https://academic.mintel.com
 HJ https://marketsizes.mintel.com
+HJ https://portal.mintel.com
+HJ https://reports.mintel.com
+HJ https://trends.mintel.com
+HJ https://www.gnpd.com
 HJ japan.mintel.com
 HJ marketsizes.mintel.com
 HJ polska.mintel.com
@@ -46,3 +49,5 @@ HJ www.trends.mintel.com
 DJ mintel.com
 Find src="/jwplayer/wmvplayer/
 Replace src="http://^A/jwplayer/wmvplayer/
+Find \u0022//portal.mintel.com/\u0022
+Replace \u0022//^sportal.mintel.com^/\u0022
