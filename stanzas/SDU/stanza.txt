@@ -1,6 +1,6 @@
-Title SDU (updated 20190709)
+Title SDU (updated 20191023)
 HTTPHeader -request -process Book-Authorization
-U http://www.sdu.nl/
+URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
 HJ advocatensupport.sdu.nl
 HJ advocatiemagazine.sdu.nl
@@ -47,6 +47,7 @@ HJ ienl-kennisbanken.sdu.nl
 HJ inzichtindeor.sdu.nl
 HJ lebo.sdu.nl
 HJ loonzaken.sdu.nl
+HJ https://migratierecht.sdu.nl
 HJ migratierecht.sdu.nl
 HJ modelverordeningen.sdu.nl
 HJ nationaliteitsrecht.sdu.nl

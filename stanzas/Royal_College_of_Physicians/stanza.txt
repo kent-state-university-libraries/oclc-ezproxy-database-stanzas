@@ -1,0 +1,5 @@
+Title Royal College of Physicians (updated 20191024)
+URL http://www.clinmed.rcpjournal.org
+HJ www.clinmed.rcpjournal.org
+HJ clinmed.rcpjournal.org
+DJ clinmed.rcpjournal.org
