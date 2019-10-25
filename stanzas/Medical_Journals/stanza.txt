@@ -1,0 +1,7 @@
+Title Medical Journals (updated 20191025)
+URL https://www.medicaljournals.se
+HJ https://www.medicaljournals.se
+HJ https://medicaljournals.se
+HJ www.medicaljournals.se
+HJ medicaljournals.se
+DJ medicaljournals.se

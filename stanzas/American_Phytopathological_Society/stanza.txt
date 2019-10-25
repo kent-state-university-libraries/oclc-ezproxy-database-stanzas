@@ -1,0 +1,7 @@
+Title American Phytopathological Society (updated 20191025)
+URL https://apsjournals.apsnet.org/
+HJ apsjournals.apsnet.org
+HJ www.apsnet.org
+HJ www.plantmanagementnetwork.org
+DJ apsnet.org
+DJ plantmanagementnetwork.org
