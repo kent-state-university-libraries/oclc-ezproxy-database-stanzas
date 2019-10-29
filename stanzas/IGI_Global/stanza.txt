@@ -1,6 +1,8 @@
-Title IGI Global
+Title IGI Global (updated 20191029)
 URL https://www.igi-global.com/gateway
 HJ www.igi-global.com
+HJ services.igi-global.com
+HJ https://services.igi-global.com
 HJ igi-global.com
 HJ https://igi-global.com
 HJ infosci-journals.com

@@ -1,6 +1,6 @@
 OPTION Cookiepassthrough
-Title Web of Knowledge (updated 20190912)
-HTTPHeader -request -process X-1P-INC-SID
+Title Web of Knowledge (updated 20191029)
+HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process ak_bmsc
 HTTPHeader -request -process bm_sv
