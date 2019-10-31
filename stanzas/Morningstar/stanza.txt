@@ -1,5 +1,7 @@
-NeverProxy news.morningstar.com
-T Morningstar Investment Research Center
-U http://library.morningstar.com
+Title Morningstar Investment Research Center (updated 20191031)
+URL http://library.morningstar.com
+HJ https://library.morningstar.com
 DJ morningstar.com
-HJ library.morningstar.com
+NeverProxy api-global.morningstar.com
+NeverProxy news.morningstar.com
+NeverProxy mwc-cdn.morningstar.com

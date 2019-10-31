@@ -1,4 +1,5 @@
-Title Mergent Bond Viewer
+Title Mergent Bond Viewer (updated 20191031)
 URL http://bv.mergent.com
+HJ https://bv.mergent.com
 HJ bv.mergent.com
 DJ mergent.com
