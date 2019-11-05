@@ -1,0 +1,19 @@
+AnonymousURL +https://pdfkit-budh.boom.nl/i/d/*
+Title Boomportaal (updated 20191105)
+MimeFilter text/plain https://www.boomportaal.nl/header.* javascript
+HTTPHeader -request -process PSPDFKit-Platform
+HTTPHeader -request -process PSPDFKit-Version
+HTTPHeader -request -process X-PSPDFKit-Token
+HTTPHeader -request -process X-PSPDFKit-Image-Token
+URL https://www.boomportaal.nl/
+HJ www.boomportaal.nl
+HJ https://www.boomportaal.nl
+HJ boeken.rechtsgebieden.boomportaal.nl
+HJ https://boeken.rechtsgebieden.boomportaal.nl
+HJ https://tijdschriften.rechtsgebieden.boomportaal.nl
+HJ tijdschriften.rechtsgebieden.boomportaal.nl
+HJ https://pdfkit-budh.boom.nl
+DJ boomportaal.nl
+Find \x22//www.boomportaal.nl
+Replace \x22//^swww.boomportaal.nl^
+AnonymousURL -*
