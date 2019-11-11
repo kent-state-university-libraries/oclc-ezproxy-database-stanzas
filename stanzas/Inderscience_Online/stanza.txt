@@ -1,4 +1,7 @@
-Title Inderscience Online
+Title Inderscience Online (updated 20191107)
 URL http://www.inderscienceonline.com
-H www.inderscienceonline.com
+HJ https://www.inderscienceonline.com
+HJ https://inderscienceonline.com
+HJ www.inderscienceonline.com
+HJ inderscienceonline.com
 DJ inderscienceonline.com
