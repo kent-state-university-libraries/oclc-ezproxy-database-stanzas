@@ -1,5 +1,5 @@
 OPTION Cookiepassthrough
-Title Web of Knowledge (updated 20191029)
+Title Web of Knowledge (updated 20191111)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process ak_bmsc
@@ -47,6 +47,7 @@ HJ http://app.webofknowledge.com
 HJ https://app.webofknowledge.com
 DJ app.webofknowledge.com
 DJ dl3iz8tnp4bmj.cloudfront.net
+DJ d3rm6si6l6yzgk.cloudfront.net
 Find value="http://
 Replace value="http://^A
 Find VALUE="http://

@@ -1,5 +1,8 @@
-Title African Journals Online
+Title African Journals Online (updated 20191108)
 URL http://www.ajol.info/
 HJ ajol.info
+HJ content.ajarchive.org
+HJ https://ajol.info
+HJ https://www.ajol.info
 HJ www.ajol.info
-DJ ajol.infoDJ aom.org
+DJ ajol.info
