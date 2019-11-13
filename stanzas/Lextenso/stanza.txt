@@ -1,0 +1,12 @@
+Title Lextenso - Revues, jurisprudence commentee (updated 20191112)
+URL https://www.labase-lextenso.fr
+HJ https://labase-lextenso.fr
+HJ https://lextenso.fr
+HJ https://www.labase-lextenso.fr
+HJ https://www.lextenso.fr
+HJ labase-lextenso.fr
+HJ lextenso.fr
+HJ www.labase-lextenso.fr
+HJ www.lextenso.fr
+DJ labase-lextenso.fr
+DJ lextenso.fr
