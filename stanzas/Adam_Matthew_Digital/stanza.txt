@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20191110)
+Title Adam Matthew Digital (updated 20191122)
 URL https://www.login.amdigital.co.uk
 Host https://www.gender.amdigital.co.uk
 HJ www.exploration.amdigital.co.uk
@@ -77,6 +77,8 @@ HJ www.genderidentityandsocialchange.amdigital.co.uk
 HJ genderidentityandsocialchange.amdigital.co.uk
 HJ www.foodanddrink.amdigital.co.uk
 HJ foodanddrink.amdigital.co.uk
+HJ www.sexandsexuality.amdigital.co.uk
+HJ sexandsexuality.amdigital.co.uk
 DJ amdigital.co.uk
 Find "http://"+getPrefix()+".massobservation.amdigital.co.uk/
 Replace "http://^pmassobservation.amdigital.co.uk^/
