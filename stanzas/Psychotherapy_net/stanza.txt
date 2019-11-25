@@ -1,7 +1,5 @@
-Title Psychotherapy.net
-URL http://www.psychotherapy.net/stream/[Institution_ID]
-DJ psychotherapy.net
-D psychotherapy.net
+Title Psychotherapy.net (updated 20191125)
+URL https://www.psychotherapy.net/stream/[institution id]
+HJ https://www.psychotherapy.net
 HJ www.psychotherapy.net
-HJ psychotherapy.net
-H www.psychotherapy.net
+DJ psychotherapy.net
