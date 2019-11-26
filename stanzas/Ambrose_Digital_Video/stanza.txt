@@ -1,16 +1,18 @@
-Title Ambrose Digital Video
+Title Ambrose Digital Video (updated 20191126)
 URL http://videos.ambrosedigital.com
 HJ videos.ambrosedigital.com
 HJ www.ambrosedigital.com
-HJ dma.iriseducation.org
-HJ www.ambrosevideo.com
 HJ ambrosevideo.com
+HJ www.ambrosevideo.com
 DJ ambrosedigital.com
-DJ iriseducation.org
 DJ ambrosevideo.com
-DJ jwpcdn.com
-DJ jwpltx.com
+HJ https://videos.ambrosedigital.com
+HJ https://www.ambrosedigital.com
+HJ https://www.ambrosevideo.com
+HJ https://ambrosevideo.com
+DJ https://ambrosedigital.com
+DJ https://ambrosevideo.com
 NeverProxy cfph.ambrosevideo.com
 NeverProxy cfpr.ambrosevideo.com
 NeverProxy cfsh.ambrosevideo.com
-NeverProxy cfsr.ambrosevideo.co
+NeverProxy cfsr.ambrosevideo.com
