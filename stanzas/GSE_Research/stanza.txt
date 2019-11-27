@@ -1,0 +1,15 @@
+Title GSE Research (updated 20191126)
+URL https://www.routledge.com/collections/12202
+HJ greenleaf-publishing.com
+HJ gse.publisher.ingentaconnect.com
+HJ gsegol.publisher.ingentaconnect.com
+HJ gseresearch.com
+HJ https://gse.publisher.ingentaconnect.com
+HJ https://gsegol.publisher.ingentaconnect.com
+HJ https://www.greenleaf-publishing.com
+HJ www.greenleaf-publishing.com
+HJ www.gseresearch.com
+HJ www.routledge.com
+DJ greenleaf-publishing.com
+DJ gseresearch.com
+DJ routledge.com
