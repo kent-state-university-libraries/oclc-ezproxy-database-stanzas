@@ -1,0 +1,7 @@
+HTTPMethod DELETE
+HTTPMethod PUT
+Title SimplyAnalytics (updated 20191127)
+URL https://app.simplyanalytics.com
+HJ app.simplyanalytics.com
+DJ simplyanalytics.com
+NeverProxy assets.simplyanalytics.com
