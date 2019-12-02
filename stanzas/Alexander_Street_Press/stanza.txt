@@ -1,9 +1,11 @@
-Title Alexander Street Press (updated 20180919)
+Title Alexander Street Press (updated 20191202)
 URL http://search.alexanderstreet.com
 Host https://search.alexanderstreet.com
 DJ alexanderstreet.com
 DJ search.alexanderstreet.com
 NeverProxy cdn.alexanderstreet.com
+NeverProxy https://dywyzs4z4lwvw.cloudfront.net
+NeverProxy https://d16lsh1z1xre7.cloudfront.net
 Find "http:\/\/
 Replace "http://
 Find "https:\/\/
