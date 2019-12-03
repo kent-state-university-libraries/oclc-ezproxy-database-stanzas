@@ -1,7 +1,8 @@
-Title McGraw-Hill Medical (updated 20191031)
+Title McGraw-Hill Medical (updated 20191202)
 URL http://www.mhmedical.com
 HJ https://www.mhmedical.com
 HJ https://accessmedicine.mhmedical.com
+HJ https://accessanesthesiology.mhmedical.com
 HJ https://accessemergencymedicine.mhmedical.com
 HJ https://accesspediatrics.mhmedical.com
 HJ https://accesspharmacy.mhmedical.com
@@ -10,10 +11,13 @@ HJ https://www.fadavispt.mhmedical.com
 HJ https://accesscardiology.mhmedical.com
 HJ https://casefiles.mhmedical.com
 HJ https://accessphysiotherapy.mhmedical.com
+HJ https://accessbiomedicalscience.mhmedical.com/
 HJ https://csm.mhmedical.com
 HJ https://mhmedical.com
 HJ https://obgyn.mhmedical.com
 HJ https://accessmedicina.mhmedical.com
+HJ https://hemonc.mhmedical.com/
+HJ https://neurology.mhmedical.com/
 HJ accessmedicina.mhmedical.com
 HJ accessanesthesiology.com
 HJ accessanesthesiology.mhmedical.com
@@ -33,7 +37,6 @@ HJ accesssurgery.mhmedical.com
 HJ casefiles.mhmedical.com
 HJ clinicalaccess.mhmedical.com
 HJ csm.mhmedical.com
-HJ harrisonmedicina.mhmedical.com
 HJ jamaevidence.mhmedical.com
 HJ m.accessmedicine.com
 HJ m.accesssurgery.com
@@ -59,7 +62,6 @@ HJ www.accessphysiotherapy.mhmedical.com
 HJ www.accesssurgery.com
 HJ www.accesssurgery.mhmedical.com
 HJ www.clinicalaccess.mhmedical.com
-HJ www.harrisonmedicina.mhmedical.com
 HJ www.jamaevidence.com
 HJ www.jamaevidence.mhmedical.com
 HJ www.mhmedical.com
