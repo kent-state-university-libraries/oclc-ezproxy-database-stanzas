@@ -1,0 +1,6 @@
+Title Canadian Mathematical Society (updated 20191209)
+URL https://cms.math.ca/Journals/
+HJ cms.math.ca
+HJ journals.cms.math.ca
+HJ www.cms.math.ca
+DJ math.ca

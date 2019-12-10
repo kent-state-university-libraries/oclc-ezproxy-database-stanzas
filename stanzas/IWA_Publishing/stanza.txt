@@ -1,6 +1,7 @@
-Title IWA Publishing (updated 20190916)
+Title IWA Publishing (updated 20191209)
 URL https://www.iwaponline.com/
-HJ www.iwaponline.com
+HJ https://iwaponline.com
 HJ iwaponline.com
 HJ jh.iwaponline.com
+HJ www.iwaponline.com
 DJ iwaponline.com

@@ -1,0 +1,4 @@
+Title Dialnet (updated 20191209)
+URL https://dialnet.unirioja.es/
+HJ dialnet.unirioja.es
+DJ unirioja.es

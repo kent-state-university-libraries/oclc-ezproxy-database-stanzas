@@ -1,0 +1,8 @@
+Title Canadian Medical Association (updated 20191209)
+URL https://www.cma.ca/
+HJ www.cma.ca
+HJ www.cmaj.ca
+HJ www.phac-aspc.gc.ca
+DJ cma.ca
+DJ cmaj.ca
+DJ phac-aspc.gc.ca
