@@ -1,5 +1,6 @@
 Option DomainCookieOnly
-Title Cochrane Library  (updated 20190730)
+Title Cochrane Library  (updated 20191212)
+HTTPHeader -request -process X-Requested-With
 URL http://www.cochranelibrary.com/
 HJ cochrane.org
 HJ cochranelibrary.com

@@ -1,8 +1,11 @@
-Title Hogrefe eLibrary
+Title Hogrefe eLibrary (updated 20191212)
 HTTPHeader X-Requested-With
 URL https://elibrary.hogrefe.de/content/bibliothek
+HJ elibrary.hogrefe.com
 HJ elibrary.hogrefe.de
+HJ https://elibrary.hogrefe.com
 HJ https://elibrary.hogrefe.de
+HJ hogrefe.com
 DJ hogrefe.de
 Find href=\"https:\/\/elibrary.hogrefe.de
 Replace href=\"https:\/\/^Selibrary.hogrefe.de^

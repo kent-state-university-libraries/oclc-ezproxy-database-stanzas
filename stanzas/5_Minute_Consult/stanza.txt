@@ -1,0 +1,5 @@
+Title 5 Minute Consult
+URL http://5minuteconsult.com
+HJ 5minuteconsult.com
+HJ https://5minuteconsult.com
+DJ 5minuteconsult.com
