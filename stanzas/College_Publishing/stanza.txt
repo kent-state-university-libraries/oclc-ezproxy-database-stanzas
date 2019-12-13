@@ -1,0 +1,7 @@
+Title College Publishing (updated 20191213)
+URL http://www.collegepublishing.us/
+HJ https://www.journalofgreenbuilding.com
+HJ www.collegepublishing.us
+HJ www.journalofgreenbuilding.com
+DJ collegepublishing.us
+DJ journalofgreenbuilding.com
