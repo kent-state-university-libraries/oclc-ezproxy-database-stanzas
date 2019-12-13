@@ -1,3 +1,4 @@
-Title Social Explorer
-URL http://www.socialexplorer.com/ezproxy
-Domain socialexplorer.com
+Title Social Explorer (updated 20191213)
+URL https://www.socialexplorer.com
+H www.socialexplorer.com
+D socialexplorer.com
