@@ -1,4 +1,6 @@
-Title IHS ESDU
+Title IHS ESDU (updated 20191217)
+HTTPHeader -request -unrewrite sess
+HTTPHeader -request -unrewrite esduid
 URL https://www.esdu.com/
 HJ esdu.com
 HJ ihsesdu.com

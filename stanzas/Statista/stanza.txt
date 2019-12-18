@@ -1,6 +1,6 @@
 AnonymousURL https://statcdn.com/*
 AnonymousURL https://cdn.statcdn.com/*
-TITLE Statista (updated 20180426)
+TITLE Statista (updated 20191218)
 URL https://www.statista.com
 HJ de.statista.com
 HJ en.statista.com
@@ -21,6 +21,8 @@ NeverProxy Bat.r.msn.com
 NeverProxy Bat.bing.com
 NeverProxy Ajax.googleapis.com
 NeverProxy Api.userlike.com
-DJ statcdn.com
-NeverProxy www.w3.org
+NeverProxy www.userlike.com
+NeverProxy player.vimeo.com
+NeverProxy cdn.polyfill.io
+NeverProxy cdnjs.cloudflare.com
 AnonymousURL -*
