@@ -10,8 +10,8 @@
 # without the need to integrate updates directly into config.txt/ezproxy.cfg
 #
 
-Option CookiePassThrough
-Title Sage Journals (updated 20181204)
+
+Title Sage Journals (updated 20191219)
 HTTPHeader -request -process X-Requested-With
 URL https://journals.sagepub.com
 HJ advance.sagepub.com/
@@ -64,10 +64,13 @@ Find url = "https://
 Replace url = "https://^A
 Find url = document.location.protocol + "//" + document.location.host
 Replace url = "https://journals.sagepub.com/"
-Option Cookie
 
-HTTPHeader X-Requested-With
+
+
+
+
 Title Sage Publications
+HTTPHeader -request -process X-Requested-With
 URL http://online.sagepub.com
 DJ sagepub.com
 DJ widgets.twimg.com
@@ -78,6 +81,7 @@ Find "google-analytics.com
 Replace "^pgoogle-analytics.com^
 Find url =  document.location.protocol + "//" + document.location.host
 Replace url =  "http://^Aonline.sagepub.com"
+
 #
 # The following Host lines are only required if you create
 # starting point URLs directly to specific SAGE journals.

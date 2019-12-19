@@ -1,0 +1,5 @@
+Title iPolitics (updated 20191219)
+URL https://ipolitics.ca
+HJ http://www.ipolitics.ca/
+HJ ipolitics.ca
+DJ ipolitics.ca
