@@ -1,0 +1,7 @@
+Title Nikkei Telecom (updated 20191220)
+URL http://t21ipau.nikkei.co.jp/ipauth/auth/auth?sid=1
+HJ http://t21ipau.nikkei.co.jp
+HJ http://t21.nikkei.co.jp
+HJ http://t21help.nikkei.co.jp
+HJ https://telecom.nikkei.co.jp
+DJ nikkei.co.jp

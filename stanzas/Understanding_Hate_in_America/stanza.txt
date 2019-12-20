@@ -1,5 +1,7 @@
-Title Understanding Hate In American (updated 20191029)
-URL https://kkknews.revealdigital.com/
-HJ https://kkknews.revealdigital.com/
+Title Understanding Hate In America (updated 20191220)
+URL https://uhia.revealdigital.org
+HJ uhia.revealdigital.org
+HJ https://kkknews.revealdigital.com
 HJ kkknews.revealdigital.com
 DJ revealdigital.com
+DJ revealdigital.org
