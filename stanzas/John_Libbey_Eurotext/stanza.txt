@@ -1,0 +1,8 @@
+T John Libbey Eurotext (updated 20191223)
+U https://www.jle.com/
+HJ www.jle.com
+HJ www.john-libbey-eurotext.fr
+HJ www.revuedeneuropsychologie.com
+DJ jle.com
+DJ john-libbey-eurotext.fr
+DJ revuedeneuropsychologie.com

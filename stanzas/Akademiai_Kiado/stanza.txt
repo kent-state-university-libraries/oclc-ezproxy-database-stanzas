@@ -1,0 +1,6 @@
+T Akademiai Kiado (updated 20191223)
+U https://akademiai.com/
+HJ https://www.akademiai.com
+HJ akademiai.com
+HJ www.akademiai.com
+DJ akademiai.com
