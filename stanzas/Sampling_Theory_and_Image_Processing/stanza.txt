@@ -1,0 +1,5 @@
+T Sampling Theory and Image Processing (updated 20191231)
+U http://www.stsip.org/
+HJ www.stsip.org
+HJ stsip.org
+DJ stsip.org
