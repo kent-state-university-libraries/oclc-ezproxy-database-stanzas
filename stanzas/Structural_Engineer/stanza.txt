@@ -1,5 +1,5 @@
-T Structural Engineer (updated 20191231)
-U https://www.istructe.org/
+Title Structural Engineer (updated 20191231)
+URL https://www.istructe.org/
 HJ https://www.istructe.org
 HJ https://istructe.org
 HJ www.istructe.org

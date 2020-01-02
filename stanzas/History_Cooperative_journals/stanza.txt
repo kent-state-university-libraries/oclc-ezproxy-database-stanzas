@@ -1,5 +1,5 @@
-T History Cooperative journals (updated 20191231)
-U https://historycooperative.org/
+Title History Cooperative journals (updated 20191231)
+URL https://historycooperative.org/
 HJ https://historycooperative.org
 HJ https://www.historycooperative.org
 HJ www.historycooperative.org

@@ -1,5 +1,6 @@
 #Includes World Christian Database, World Religion Database and Arkyves
-Title BrillOnline (updated 20190516)
+Title BrillOnline (updated 20200102)
+HTTPHeader -request -process X-Requested-With
 URL https://www.brill.com
 HJ https://brill.com
 HJ http://www.brillonline.com

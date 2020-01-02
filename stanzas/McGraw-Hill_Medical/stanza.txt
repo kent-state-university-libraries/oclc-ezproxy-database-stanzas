@@ -1,4 +1,5 @@
-Title McGraw-Hill Medical (updated 20191202)
+Title McGraw-Hill Medical (updated 20200102)
+HTTPHeader -request -process X-Requested-With
 URL http://www.mhmedical.com
 HJ https://www.mhmedical.com
 HJ https://accessmedicine.mhmedical.com
