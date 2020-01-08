@@ -1,23 +1,19 @@
 AnonymousURL +https://pro.fontawesome.com/*
-Title Passport (Euromonitor International) (updated 20191113)
-URL http://www.portal.euromonitor.com/portal/server.pt
-HJ https://www.portal.euromonitor.com
+Title Passport (Euromonitor International) (updated 20200107)
+URL https://www.portal.euromonitor.com
 HJ www.portal.euromonitor.com
-HJ https://pro.fontawesome.com
 HJ portal.euromonitor.com
-HJ https://cdn.media.euromonitor.com
-HJ cdn.media.euromonitor.com
-DJ media.euromonitor.com
 DJ portal.euromonitor.com
 DJ euromonitor.com
-NeverProxy emportal.euromonitor.com
 NeverProxy microservices.euromonitor.com
-NeverProxy searchservice.euromonitor.com
+NeverProxy portal.euromonitor.com
 NeverProxy search-service.euromonitor.com
-NeverProxy search.service.euromonitor.com
 NeverProxy service-portal.euromonitor.com
+NeverProxy cdn.media.euromonitor.com
+NeverProxy consulting-analytics.euromonitor.com
+NeverProxy production-analytics.euromonitor.com
+NeverProxy notification-service.euromonitor.com
+NeverProxy azurewebsites.net
 Find //www.portal.euromonitor.com/
 Replace //^swww.portal.euromonitor.com^/
-Find //cdn.media.euromonitor.com/
-Replace //^scdn.media.euromonitor.com^/
 AnonymousURL -*
