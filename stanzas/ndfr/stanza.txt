@@ -1,6 +1,8 @@
 Option DomainCookieOnly
-Title Nederlandse Documentatie Fiscaal Recht (updated 20180831)
-URL http://www.ndfr.nl
+Title Nederlandse Documentatie Fiscaal Recht (updated 20200109)
+HTTPHeader -request -process X-Requested-With
+URL https://www.ndfr.nl
+HJ https://www.ndfr.nl
 HJ ndfr.nl
 HJ www.ndfr.nl
 DJ ndfr.nl
