@@ -1,0 +1,9 @@
+Title ecommerceDB (updated 20200113)
+URL https://ecommercedb.com/
+HJ https://img.ecommercedb.com
+HJ https://www.ecommercedb.com
+HJ https://blog.ecommercedb.com
+HJ img.ecommercedb.com
+HJ www.ecommercedb.com
+HJ blog.ecommercedb.com
+DJ ecommercedb.com

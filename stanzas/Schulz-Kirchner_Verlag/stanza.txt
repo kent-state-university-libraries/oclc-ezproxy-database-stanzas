@@ -1,0 +1,7 @@
+Title Schulz-Kirchner Verlag GmbH (updated 20200113)
+URL http://www.schulz-kirchner.de/
+HJ https://www.skvshop.de
+HJ www.schulz-kirchner.de
+HJ www.skvshop.de
+DJ schulz-kirchner.de
+DJ skvshop.de
