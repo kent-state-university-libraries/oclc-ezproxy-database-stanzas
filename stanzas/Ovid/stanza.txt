@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title Ovid HTTPS (updated 20190501)
+Title Ovid HTTPS (updated 20200115)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
@@ -61,6 +61,7 @@ HJ pt.wkhealth.com
 HJ https://pt.wkhealth.com
 HJ stats.ovid.com
 HJ sumari-prod-1.srv.jbisumari.org
+HJ tools.ovid.com
 HJ watch.ondemand.org
 HJ https://watch.ondemand.org
 DJ anatomyreferencecenter.com
@@ -81,4 +82,5 @@ Replace id="returnUrl" value="http://^A
 Find action="http://
 Replace action="http://^A
 NeverProxy assets.ovid.com
+NeverProxy cdn.visiblebody.com
 Option Cookie
