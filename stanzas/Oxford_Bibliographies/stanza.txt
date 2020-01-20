@@ -1,6 +1,8 @@
-Title Oxford Bibliographies (updated 20190410)
+Title Oxford Bibliographies (updated 20200120)
 URL https://www.oxfordbibliographies.com
 HJ https://oxfordbibliographies.com
 HJ www.oxfordbibliographies.com
 HJ oxfordbibliographies.com
+HJ oxfordbibliographiesonline.com
+HJ www.oxfordbibliographiesonline.com
 DJ oxfordbibliographies.com
