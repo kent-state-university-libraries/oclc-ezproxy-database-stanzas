@@ -1,4 +1,5 @@
-Title Journal Of Neurosurgery (updated 20181007)
+Title Journal Of Neurosurgery (updated 20200121)
+HTTPHeader -request -process X-Requested-With
 URL https://thejns.org/
 HJ ams.thejns.org
 HJ thejns.org

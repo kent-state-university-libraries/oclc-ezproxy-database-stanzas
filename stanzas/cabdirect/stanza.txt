@@ -1,0 +1,6 @@
+Title CAB Direct (updated 20200121)
+URL https://www.cabdirect.org/
+HJ cabdirect.org
+HJ https://www.cabdirect.org
+HJ www.cabdirect.org
+DJ cabdirect.org

@@ -1,0 +1,4 @@
+TITLE Boston College Open Access Journals (updated 20200121)
+URL https://ejournals.bc.edu/
+HJ ejournals.bc.edu
+DJ bc.edu
