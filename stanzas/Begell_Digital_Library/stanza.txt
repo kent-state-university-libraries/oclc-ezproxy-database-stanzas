@@ -1,0 +1,18 @@
+Title Begell House, Inc (updated 20200122)
+URL https://www.dl.begellhouse.com/
+HJ https://dl.begellhouse.com/
+HJ dl.begellhouse.com
+HJ uncertainty-quantification.com
+HJ www.begellhouse.com
+HJ www.dl.begellhouse.com
+HJ www.edata-center.com
+HJ hedh.begellhouse.com
+HJ wdst.begellhouse.com
+HJ www.thermopedia.com
+DJ begellhouse.com
+DJ dl.begellhouse.com
+DJ edata-center.com
+DJ thermopedia.com
+DJ hedhme.com
+DJ ihtcdigitallibrary.com
+DJ dl.astfe.org
