@@ -1,14 +1,16 @@
-Title Ambrose Digital Video (updated 20191126)
+Title Ambrose Digital Video (updated 20200203)
 URL http://videos.ambrosedigital.com
 HJ videos.ambrosedigital.com
 HJ www.ambrosedigital.com
 HJ ambrosevideo.com
 HJ www.ambrosevideo.com
+HJ videos.ambrosevideo.com
 DJ ambrosedigital.com
 DJ ambrosevideo.com
 HJ https://videos.ambrosedigital.com
 HJ https://www.ambrosedigital.com
 HJ https://www.ambrosevideo.com
+HJ https://videos.ambrosevideo.com
 HJ https://ambrosevideo.com
 DJ https://ambrosedigital.com
 DJ https://ambrosevideo.com

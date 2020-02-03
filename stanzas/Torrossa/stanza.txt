@@ -1,4 +1,4 @@
-Title Torrossa Casalini Full Text Platform (updated 20190314)
+Title Torrossa Casalini Full Text Platform (20200203)
 URL http://www.torrossa.com
 HJ digital.casalini.it
 HJ https://www.casalini.it
@@ -22,6 +22,7 @@ DJ crypto-service.com
 
 Title Torrossa
 URL https://access.torrossa.com
+HJ access.torrossa.com
 Domain torrossa.com
 DJ access.torrossa.com
 
