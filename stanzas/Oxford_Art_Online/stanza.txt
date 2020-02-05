@@ -1,7 +1,10 @@
-Title Oxford Art Online (updated 20171109)
-URL http://www.oxfordartonline.com
+Title Oxford Art Online (updated 20200205)
+URL https://www.oxfordartonline.com
+HJ https://oxfordartonline.com
 HJ www.oxfordartonline.com
-DJ oxfordartonline.com
-HJ www.groveart.com
+HJ oxfordartonline.com
+HJ https://groveart.com
+HJ groveart.com
 DJ groveart.com
-DJ oxfordreference.com
+DJ oxfordartonline.com
+#This resource also required the Oxford Reference stanza
