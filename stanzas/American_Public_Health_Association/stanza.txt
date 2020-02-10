@@ -1,0 +1,8 @@
+Title American Public Health Association (updated 20200210)
+URL http://ajph.aphapublications.org/
+HJ ajph.aphapublications.org
+HJ aphapublications.org
+HJ https://ajph.aphapublications.org
+HJ thenationshealth.aphapublications.org
+HJ www.aphapublications.org
+DJ aphapublications.org
