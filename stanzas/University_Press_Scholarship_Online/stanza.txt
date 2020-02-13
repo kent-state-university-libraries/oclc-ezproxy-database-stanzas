@@ -1,4 +1,4 @@
-Title University Press Scholarship Online (updated 20190410)
+Title University Press Scholarship Online (updated 20200212)
 URL https://www.universitypressscholarship.com/
 HJ britishacademy.universitypressscholarship.com
 HJ cairo.universitypressscholarship.com
@@ -20,6 +20,7 @@ HJ mississippi.universitypressscholarship.com
 HJ mitpress.universitypressscholarship.com
 HJ northcarolina.universitypressscholarship.com
 HJ nyu.universitypressscholarship.com
+HJ oxford.universitypressscholarship.com
 HJ policypress.universitypressscholarship.com
 HJ princeton.universitypressscholarship.com
 HJ stanford.universitypressscholarship.com
@@ -38,13 +39,14 @@ HJ www.hawaii.universitypressscholarship.com
 HJ www.hongkong.universitypressscholarship.com
 HJ www.illinois.universitypressscholarship.com
 HJ www.kentucky.universitypressscholarship.com
-HJ  www.liverpool.universitypressscholarship.com
+HJ www.liverpool.universitypressscholarship.com
 HJ www.manchester.universitypressscholarship.com
 HJ www.minnesota.universitypressscholarship.com
 HJ www.mississippi.universitypressscholarship.com
 HJ www.mitpress.universitypressscholarship.com
 HJ www.northcarolina.universitypressscholarship.com
 HJ www.nyu.universitypressscholarship.com
+HJ www.oxford.universitypressscholarship.com
 HJ www.policypress.universitypressscholarship.com
 HJ www.princeton.universitypressscholarship.com
 HJ www.stanford.universitypressscholarship.com
@@ -70,6 +72,7 @@ HJ https://mississippi.universitypressscholarship.com
 HJ https://mitpress.universitypressscholarship.com
 HJ https://northcarolina.universitypressscholarship.com
 HJ https://nyu.universitypressscholarship.com
+HJ https://oxford.universitypressscholarship.com
 HJ https://policypress.universitypressscholarship.com
 HJ https://princeton.universitypressscholarship.com
 HJ https://stanford.universitypressscholarship.com
@@ -95,6 +98,7 @@ HJ https://www.mississippi.universitypressscholarship.com
 HJ https://www.mitpress.universitypressscholarship.com
 HJ https://www.northcarolina.universitypressscholarship.com
 HJ https://www.nyu.universitypressscholarship.com
+HJ https://www.oxford.universitypressscholarship.com
 HJ https://www.policypress.universitypressscholarship.com
 HJ https://www.princeton.universitypressscholarship.com
 HJ https://www.stanford.universitypressscholarship.com
