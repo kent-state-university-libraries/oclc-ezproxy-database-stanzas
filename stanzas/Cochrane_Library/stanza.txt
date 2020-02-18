@@ -1,5 +1,5 @@
 Option DomainCookieOnly
-Title Cochrane Library  (updated 20191212)
+Title Cochrane Library  (updated 20200217)
 HTTPHeader -request -process X-Requested-With
 URL http://www.cochranelibrary.com/
 HJ cochrane.org
@@ -29,6 +29,14 @@ DJ cochranelibrary-wiley.com
 DJ thecochranelibrary.com
 DJ wiley.com
 DJ wileyhealthlearning.com
+Neverproxy https://static.cochrane.org
+NeverProxy https://static.test.cochrane.org
+Neverproxy http://static.cochrane.org
+NeverProxy http://static.test.cochrane.org
+Neverproxy https://data.cochrane.org
+Neverproxy http://data.cochrane.org
+NeverProxy https://data.test.cochrane.org
+NeverProxy httP://data.test.cochrane.org
 Find https://cochranelibrary#x2e;com
 Replace https://^scochranelibrary.com^
 Find https://cochranelibrary-wiley#x2e;com

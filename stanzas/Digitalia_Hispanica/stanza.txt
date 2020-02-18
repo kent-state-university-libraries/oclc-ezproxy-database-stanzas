@@ -1,9 +1,5 @@
-Title Digitalia Hispanica (updated 20190205)
-URL http://www.digitaliapublishing.com
-HJ https://www.digitaliapublishing.com
+Title Digitalia Hispánica (updated 20200217)
+URL https://www.digitaliapublishing.com/
+HJ http://www.digitaliapublishing.com
 HJ www.digitaliapublishing.com
-HJ catalan.digitaliapublishing.com
 DJ digitaliapublishing.com
-HJ www.digitaliafilmlibrary.com
-HJ digitaliafilmlibrary.com
-DJ digitaliafilmlibrary.com

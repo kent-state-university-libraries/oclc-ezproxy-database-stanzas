@@ -1,0 +1,6 @@
+Title GlobalData Disruptor (20200218)
+URL https://login.globaldata.com/login/iplogin
+HJ https://disruptor.globaldata.com/
+HJ disruptor.globaldata.com
+DJ disruptor.globaldata.com
+DJ globaldata.com

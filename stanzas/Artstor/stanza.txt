@@ -1,18 +1,28 @@
-HTTPMethod PUT
-HTTPMethod PATCH
-HTTPMethod HEAD
-HTTPMethod OPTIONS
-HTTPMethod DELETE
-Title Artstor (updated 20191002)
+Title ARTstor Digital Library (ADL) (updated 20200218)
+HTTPHeader -request -process X-*
 HTTPHeader -request -process Accept-Encoding
-URL https://library.artstor.org
+HTTPHeader -request -process Access-Control-Allow-Origin
+HTTPMethod -request -process PUT
+HTTPMethod -request -process PATCH
+HTTPMethod -request -process HEAD
+HTTPMethod -request -process OPTIONS
+HTTPMethod -request -process DELETE
+AnonymousUrl +.jar
+AnonymousUrl +.class
+AnonymousUrl +.gif
+AnonymousUrl +.jpg
+U https://library.artstor.org
 DJ artstor.org
-HJ mdxdv.artstor.org
-HJ www.artstor.org
-HJ https://www.artstor.org
-HJ library.artstor.org
-HJ http://library.artstor.org
-HJ proxy.library.artstor.org
+DJ mdxdv.artstor.org
+HJ https://tsprod.artstor.org
+HJ https://mdxdv.artstor.org
+Find //tsprod
+Replace https://tsprod
+NeverProxy tsprod.artstor.org
+NeverProxy kaltura.artstor.org
+NeverProxy kts.artstor.org
 NeverProxy viewer.artstor.org
 NeverProxy viewer2.artstor.org
+NeverProxy library.stanford.edu
 NeverProxy stor.artstor.org
+AnonymousUrl -*
