@@ -1,5 +1,8 @@
 OPTION Cookiepassthrough
-Title Web of Knowledge (updated 20191111)
+AnonymousURL +.ttf
+AnonymousURL +.woff
+AnonymousURL +https://csi.webofknowledge.com/CSI/*
+Title Web of Knowledge (updated 20200220)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process ak_bmsc
@@ -10,10 +13,7 @@ HTTPHeader -request -process _abck
 URL http://www.webofknowledge.com
 HJ https://www.webofknowledge.com
 HJ http://webofknowledge.com
-HJ https://webofknowledge.com
 HJ www.webofknowledge.com
-HJ https://gateway.isiknowledge.com
-HJ gateway.isiknowledge.com
 HJ webofknowledge.com
 DJ webofknowledge.com
 HJ admin.webofknowledge.com
@@ -24,6 +24,7 @@ HJ ac.webofknowledge.com
 HJ esi.webofknowledge.com
 HJ https://apps.webofknowledge.com
 HJ images.webofknowledge.com
+HJ gateway.webofknowledge.com
 HJ isiknowledge.com
 HJ links.webofknowledge.com
 HJ login.webofknowledge.com
@@ -65,3 +66,4 @@ Replace "CIT.GATEWAY_URL">^pgateway.webofknowledge.com^
 Find value='gateway.webofknowledge.com/gateway/Gateway.cgi'
 Replace value='^pgateway.webofknowledge.com^/gateway/Gateway.cgi'
 OPTION COOKIE
+AnonymousURL -*
