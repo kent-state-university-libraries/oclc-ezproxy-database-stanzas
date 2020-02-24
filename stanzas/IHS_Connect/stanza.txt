@@ -1,0 +1,74 @@
+AnonymousURL +https://my.ihs.com/*
+AnonymousURL +https://connectproxy.ihs.com/*
+AnonymousURL +https://cdn.ihs.com/*
+AnonymousURL +https://connect.ihs.com
+AnonymousURL +https://origin-connectproxy.ihs.com/*
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
+Title IHS Connect (updated 20200224)
+MimeFilter text/event-stream .* javascript
+HTTPHeader -request -process Access-Control-Allow-Origin
+URL https://connect.ihs.com
+HJ https://my.ihs.com
+HJ https://ihs.com
+HJ https://connectproxy.ihs.com
+HJ https://connectfiles.ihs.com
+HJ https://origin-connectproxy.ihs.com
+HJ https://tabviz-connect.ihs.com
+HJ https://mapservicesproxy.ihs.com
+HJ https://mapshost.ihs.com
+HJ https://mapsxport.ihs.com
+HJ https://globalinsight.com
+HJ https://connect.ihsmarkit.com
+HJ https://origin-connect.ihsmarkit.com
+HJ https://proxy.connect.ihsmarkit.com
+HJ https://origin-proxy.connect.ihsmarkit.com
+HJ https://files.connect.ihsmarkit.com
+HJ https://origin-files.connect.ihsmarkit.com
+HJ https://api.connect.ihsmarkit.com
+HJ https://tabviz.connect.ihsmarkit.com
+HJ https://mapservices.connect.ihsmarkit.com
+HJ https://mapexport.connect.ihsmarkit.com
+HJ https://maphost.connect.ihsmarkit.com
+HJ https://apps.connect.ihsmarkit.com
+HJ https://cdn.ihs.com
+HJ http://my.ihs.com
+HJ http://ihs.com
+HJ http://connectproxy.ihs.com
+HJ http://connectfiles.ihs.com
+HJ http://origin-connectproxy.ihs.com
+HJ http://tabviz-connect.ihs.com
+HJ http://mapservicesproxy.ihs.com
+HJ http://mapshost.ihs.com
+HJ http://mapsxport.ihs.com
+HJ http://globalinsight.com
+HJ http://connect.ihsmarkit.com
+HJ http://origin-connect.ihsmarkit.com
+HJ http://proxy.connect.ihsmarkit.com
+HJ http://origin-proxy.connect.ihsmarkit.com
+HJ http://files.connect.ihsmarkit.com
+HJ http://origin-files.connect.ihsmarkit.com
+HJ http://api.connect.ihsmarkit.com
+HJ http://tabviz.connect.ihsmarkit.com
+HJ http://mapservices.connect.ihsmarkit.com
+HJ http://mapexport.connect.ihsmarkit.com
+HJ http://maphost.connect.ihsmarkit.com
+HJ http://apps.connect.ihsmarkit.com
+HJ http://cdn.ihs.com
+DJ ihsmarkit.com
+DJ globalinsight.com
+DJ ihs.com
+Find connectproxy.ihsmarkit.com
+Replace ^sconnectproxy.ihsmarkit.com^
+Find connectproxy.ihs.com
+Replace ^sconnectproxy.ihs.com^
+Find ConnectOriginProxyUrl: '//origin-connectproxy.ihsmarkit.com
+Replace ConnectOriginProxyUrl: 'https://^sorigin-connectproxy.ihsmarkit.com^
+Find ConnectOriginProxyUrl: '//origin-connectproxy.ihs.com
+Replace ConnectOriginProxyUrl: 'https://^sorigin-connectproxy.ihs.com^
+Find visualizationUrl":"//tabviz-connect.ihsmarkit.com
+Replace visualizationUrl":"//^stabviz-connect.ihsmarkit.com^
+Find visualizationUrl":"//tabviz-connect.ihs.com
+Replace visualizationUrl":"//^stabviz-connect.ihs.com^
+AnonymousURL -*

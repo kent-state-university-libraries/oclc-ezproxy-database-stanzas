@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title Market Intelligence Platform (formerly SNL)(updated 20200220)
+Title Market Intelligence Platform (formerly SNL)(updated 20200224)
 HTTPHeader -request -process X-CSRF-Token
 HTTPHeader -request -process com-gmi-*
 HTTPHeader -request -process SNL-*
@@ -37,4 +37,6 @@ Find param="https://
 Replace param="https://^A
 Find platform.marketintelligence.spglobal.com
 Replace ^splatform.marketintelligence.spglobal.com^
+Find platform.mi.spglobal.com
+Replace ^splatform.mi.spglobal.com^
 Option Cookie
