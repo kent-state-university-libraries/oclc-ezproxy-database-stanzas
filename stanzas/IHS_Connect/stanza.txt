@@ -6,7 +6,7 @@ AnonymousURL +https://origin-connectproxy.ihs.com/*
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
-Title IHS Connect (updated 20200224)
+Title IHS Markit Connect (updated 20200224)
 MimeFilter text/event-stream .* javascript
 HTTPHeader -request -process Access-Control-Allow-Origin
 URL https://connect.ihs.com
