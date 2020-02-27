@@ -1,4 +1,4 @@
-Title SDU (updated 20191023)
+Title SDU (updated 20200227)
 HTTPHeader -request -process Book-Authorization
 URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
@@ -36,6 +36,8 @@ HJ https://opmaat.sdu.nl
 HJ https://portal.vindbestuursrecht.nl
 HJ https://portal.vindhandhaving.nl
 HJ https://portal.vindlokalebelastingen.nl
+HJ https://portal.vindomgevingszaken.nl
+HJ https://portal.vindinkoopenaanbesteding.nl
 HJ https://portal.vindsocialezaken.nl
 HJ https://www.decentraleregelgeving.nl
 HJ https://www.sdu.nl
@@ -83,6 +85,8 @@ HJ overheidsadressen.sdu.nl
 HJ ow-online.sdu.nl
 HJ portal.vindbestuursrecht.nl
 HJ portal.vindhandhaving.nl
+HJ portal.vindomgevingszaken.nl
+HJ portal.vindinkoopenaanbesteding.nl
 HJ portal.vindlokalebelastingen.nl
 HJ portal.vindsocialezaken.nl
 HJ prda.sdu.nl
