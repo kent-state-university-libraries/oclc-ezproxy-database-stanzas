@@ -8,7 +8,7 @@ Option Cookie
 #
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (OCLC Include File updated 20200302)
+Title EBSCOhost (updated 20200302)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
 URL http://search.ebscohost.com/login.aspx
