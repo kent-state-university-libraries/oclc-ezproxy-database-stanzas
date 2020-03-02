@@ -1,14 +1,18 @@
+Option DomainCookieOnly
 Option X-Forwarded-For
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20190815)
+Title Wiley Online (updated 20200302)
 HTTPHeader -request -process X-Requested-With
+HTTPHeader -response -block X-Frame-Options
 URL https://onlinelibrary.wiley.com
 H http://onlinelibrary.wiley.com
 HJ aap.onlinelibrary.wiley.com
 HJ aapm.onlinelibrary.wiley.com
 HJ aasldpubs.onlinelibrary.wiley.com
+HJ acsess.onlinelibrary.wiley.com
 HJ accp1.onlinelibrary.wiley.com
 HJ accpjournals.onlinelibrary.wiley.com
+HJ acsjournals.onlinelibrary.wiley.com
 HJ afspubs.onlinelibrary.wiley.com/
 HJ agupubs.onlinelibrary.wiley.com
 HJ aiche.onlinelibrary.wiley.com
@@ -20,6 +24,7 @@ HJ api.wiley.com
 HJ ascpt.onlinelibrary.wiley.com
 HJ aslopubs.onlinelibrary.wiley.com
 HJ besjournals.onlinelibrary.wiley.com
+HJ bjssjournals.onlinelibrary.wiley.com
 HJ bpspubs.onlinelibrary.wiley.com
 HJ ceramics.onlinelibrary.wiley.com
 HJ doi.wiley.com
@@ -46,11 +51,12 @@ HJ stemcellsjournals.onlinelibrary.wiley.com
 HJ wildlife.onlinelibrary.wiley.com
 HJ wileyonlinelibrary.com
 HJ wires.wiley.com
-HJ headachejournal.onlinelibrary.wiley.com/
+HJ headachejournal.onlinelibrary.wiley.com
 HJ asi.onlinelibrary.wiley.com
-HJ aps.onlinelibrary.wiley.com/
+HJ aps.onlinelibrary.wiley.com
 HJ ngwa.onlinelibrary.wiley.com
 HJ www.birpublications.org
+HJ www.embopress.org
 HJ www.esajournals.org
 HJ www.interscience.wiley.com
 HJ www.mrw.interscience.wiley.com
@@ -66,7 +72,9 @@ HJ https://awwa.onlinelibrary.wiley.com
 HJ https://aap.onlinelibrary.wiley.com
 HJ https://aapm.onlinelibrary.wiley.com
 HJ https://aasldpubs.onlinelibrary.wiley.com
+HJ https://acsess.onlinelibrary.wiley.com
 HJ https://accpjournals.onlinelibrary.wiley.com
+HJ https://acsjournals.onlinelibrary.wiley.com
 HJ https://accp1.onlinelibrary.wiley.com
 HJ https://afspubs.onlinelibrary.wiley.com
 HJ https://agupubs.onlinelibrary.wiley.com
@@ -80,11 +88,13 @@ HJ https://aps.onlinelibrary.wiley.com
 HJ https://ascpt.onlinelibrary.wiley.com
 HJ https://aslopubs.onlinelibrary.wiley.com
 HJ https://besjournals.onlinelibrary.wiley.com
+HJ https://bjssjournals.onlinelibrary.wiley.com
 HJ https://bsapubs.onlinelibrary.wiley.com
 HJ https://ceramics.onlinelibrary.wiley.com
 HJ https://currentprotocols.onlinelibrary.wiley.com
 HJ https://doi.wiley.com
 HJ https://efsa.onlinelibrary.wiley.com
+HJ https://www.embopress.org
 HJ https://esajournals.onlinelibrary.wiley.com
 HJ https://esj-journals.onlinelibrary.wiley.com
 HJ https://febs.onlinelibrary.wiley.com
@@ -98,7 +108,7 @@ HJ https://nph.onlinelibrary.wiley.com
 HJ https://nyaspubs.onlinelibrary.wiley.com
 HJ https://obgyn.onlinelibrary.wiley.com
 HJ https://physoc.onlinelibrary.wiley.com
-HJ https://rai.onlinelibrary.wiley.com/
+HJ https://rai.onlinelibrary.wiley.com
 HJ https://rgs-ibg.onlinelibrary.wiley.com
 HJ https://rmets.onlinelibrary.wiley.com
 HJ https://rss.onlinelibrary.wiley.com
@@ -120,9 +130,9 @@ HJ https://www.wileyonlinelibrary.com
 HJ https://www.wileyopenaccess.com
 HJ https://www3.interscience.wiley.com
 HJ https://zslpublications.onlinelibrary.wiley.com
-HJ https://headachejournal.onlinelibrary.wiley.com/
+HJ https://headachejournal.onlinelibrary.wiley.com
 HJ https://asi.onlinelibrary.wiley.com
-HJ https://aps.onlinelibrary.wiley.com/
+HJ https://aps.onlinelibrary.wiley.com
 HJ https://ngwa.onlinelibrary.wiley.com
 DJ wiley.com
 DJ esajournals.org

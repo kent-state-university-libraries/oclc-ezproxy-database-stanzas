@@ -1,11 +1,10 @@
+OPTION Cookiepassthrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
 AnonymousURL +https://csi.webofknowledge.com/CSI/*
-OPTION Cookiepassthrough
-Title Web of Knowledge (updated 20200224)
-HTTPHeader -request -process X-1P-INC-SID
+Title Web of Knowledge (updated 20200302)
+HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
-HTTPHeader -request -process AWSEnv
 HTTPHeader -request -process ak_bmsc
 HTTPHeader -request -process bm_sv
 HTTPHeader -request -process bm_mi
@@ -25,6 +24,7 @@ HJ ac.webofknowledge.com
 HJ esi.webofknowledge.com
 HJ https://apps.webofknowledge.com
 HJ images.webofknowledge.com
+HJ gateway.webofknowledge.com
 HJ isiknowledge.com
 HJ links.webofknowledge.com
 HJ login.webofknowledge.com
@@ -48,6 +48,7 @@ HJ http://app.webofknowledge.com
 HJ https://app.webofknowledge.com
 DJ app.webofknowledge.com
 DJ dl3iz8tnp4bmj.cloudfront.net
+DJ d3rm6si6l6yzgk.cloudfront.net
 Find value="http://
 Replace value="http://^A
 Find VALUE="http://

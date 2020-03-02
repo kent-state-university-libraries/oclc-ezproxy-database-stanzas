@@ -11,7 +11,7 @@
 #
 
 
-Title Sage Journals (updated 20191219)
+Title Sage Journals (updated 20200302)
 HTTPHeader -request -process X-Requested-With
 URL https://journals.sagepub.com
 HJ advance.sagepub.com/
@@ -532,6 +532,7 @@ Host intl-irx.sagepub.com
 Host intl-jph.sagepub.com
 Host intl-juh.sagepub.com
 Host intl-online.sagepub.com
+Host intl-pdk.sagepub.com
 Host intl-uar.sagepub.com
 Host intl-yec.sagepub.com
 Host ioa.sagepub.com
