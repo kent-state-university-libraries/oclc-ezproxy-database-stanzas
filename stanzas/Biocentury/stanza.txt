@@ -1,6 +1,8 @@
 AnonymousURL +https://api.biocentury.com/*
 AnonymousURL +https://bciq.biocentury.com/*
-Title BioCentury Publications (updated 20191218)
+AnonymousURL +https://identityapi.biocentury.com/*
+AnonymousURL +https://www.biocentury.com/*
+Title BioCentury Publications (updated 20200304)
 HTTPHeader -request -process Access-Control-Allow-Origin
 URL https://www.biocentury.com/
 HJ http://www.biocentury.com/
@@ -20,7 +22,15 @@ HJ https://marketing.biocentury.com
 HJ http://marketing.biocentury.com
 HJ https://publications.biocentury.com
 HJ http://publications.biocentury.com
+HJ http://identity.biocentury.com
+HJ https://identity.biocentury.com
+HJ https://identityapi.biocentury.com
+HJ http://identityapi.biocentury.com
+HJ https://media.graphcms.com
+HJ graphcms.com
 DJ biocentury.com
+NeverProxy https://alertsapi.biocentury.com
+NeverProxy https://articleapi.biocentury.com
 Find "https://www.biocentury.com/
 Replace "https://^swww.biocentury.com^/
 Find "https:\/\/www.biocentury.com\/
@@ -34,4 +44,7 @@ Replace "https:\/\/^saccounts.biocentury.com^\/
 Find href="http://accounts.biocentury.com/
 Replace href="http://^paccounts.biocentury.com^/
 Find 'https://accounts.biocentury.com/
+Replace 'https://^saccounts.biocentury.com/^
+Find identityapi.biocentury.com/
+Replace ^sidentityapi.biocentury.com/^
 AnonymousURL -*

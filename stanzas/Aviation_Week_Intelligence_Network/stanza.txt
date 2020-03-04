@@ -1,0 +1,5 @@
+Title Aviation Week Intelligence Network (updated 20200303)
+URL https://awin.aviationweek.com
+HJ https://aviationweek.auth0.com
+DJ auth0.com
+DJ aviationweek.com
