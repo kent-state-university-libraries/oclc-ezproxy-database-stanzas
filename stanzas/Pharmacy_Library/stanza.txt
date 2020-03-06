@@ -1,0 +1,10 @@
+Option DomainCookieOnly
+Title APhA PharmacyLibrary (updated 20200305)
+URL https://www.pharmacylibrary.com
+HJ pharmacylibrary.com
+HJ pharmacist.com
+HJ https://ebusiness.pharmacist.com
+DJ pharmacylibrary.com
+DJ pharmacist.com
+NeverProxy *.literatumonline.com
+Option cookie
