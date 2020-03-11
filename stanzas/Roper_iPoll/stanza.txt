@@ -1,0 +1,12 @@
+Option CookiePassThrough
+Title Roper iPoll (updated 20200309)
+HTTPHeader -request -process X-XSRF-TOKEN
+URL https://ropercenter.cornell.edu/ipoll
+HJ https://ropercenter.cornell.edu
+HJ ropercenter.cornell.edu
+DJ ropercenter.cornell.edu
+Find "http:\/\/ropercenter.cornell.edu\/
+Replace "http:\/\/^propercenter.cornell.edu^\/
+Find "https:\/\/ropercenter.cornell.edu\/
+Replace "https:\/\/^sropercenter.cornell.edu^\/
+Option Cookie
