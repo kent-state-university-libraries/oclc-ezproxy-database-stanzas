@@ -1,12 +1,16 @@
 # SciFinder
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/scifinder.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/scifinder.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SciFinder](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SciFinder) **
 
 ## Some of OCLC's notes for this stanza
 
-This page describes how to configure EZproxy to work with the web-based version of SciFinder. If you want to configure EZproxy to work with the SciFinder Scholar client program for Macintosh and Windows, see SciFinder Scholar.
+This page describes how to configure EZproxy to work with the web-based version of SciFinder.
 
-The web-based version of SciFinder requires SSL configuration and the following configuration in config.txt :
+&nbsp; Note:&nbsp;This stanza will also work for SciFinder-n.
 
-Note: A setting that should not be used in the configuration settings is "DJ cas.org" because it is known to cause "HTTP 500 Internal Server Error" on IE and "500: Server Error" on Firefox during the SciFinder login process.
+Note: A setting that should not be used in the configuration settings is &quot;DJ cas.org&quot; because it is known to cause &quot;HTTP 500 Internal Server Error&quot; on IE and &quot;500: Server Error&quot; on Firefox during the SciFinder login process.
 
-If you are having problems accessing this resource with your instance of EZproxy, try upgrading to the newest version of EZproxy here.
+If you are having problems accessing this resource with your instance of EZproxy, try upgrading to the newest version of EZproxy.
+
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
+
+&nbsp;

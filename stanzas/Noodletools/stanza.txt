@@ -1,17 +1,16 @@
-Title NoodleTools
-URL http://my.noodletools.com/logon/signin
+Title NoodleTools (updated 20200313)
+URL https://my.noodletools.com/logon/signin
 Host my.noodletools.com
-Host https://my.noodletools.com
+Host http://my.noodletools.com
 Host www.noodletools.com
+Domain my.noodletools.com
 Domain noodletools.com
 NeverProxy mystatic.noodletools.com
 NeverProxy accounts.google.com
 NeverProxy docs.google.com
+NeverProxy api.google.com
+NeverProxy cdnjs.cloudflare.com
 HTTPMethod PUT
 HTTPMethod DELETE
 HTTPMethod OPTIONS
 HTTPMethod PATCH
-
-Please note if you are running EZproxy under https you can change the URL line to https as well:
-
-URL https://my.noodletools.com/logon/signin
