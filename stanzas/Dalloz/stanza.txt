@@ -1,31 +1,48 @@
-Title Dalloz (updated 20180511)
+Title Dalloz (updated 20200306)
+HTTPHeader -request -process Book-Authorization
 MimeFilter application/json .* javascript
-URL http://www.dalloz.fr/
-HJ dalloz.fr
+MimeFilter text/plain .* javascript
+URL https://www.dalloz.fr/etudiants
+HJ dalloz-actualite.fr
+HJ dalloz-avocats.fr
 HJ dalloz-bibliotheque.fr
 HJ dalloz-boutique.fr
 HJ dalloz-enseignants.fr
 HJ dalloz-etudiant.fr
 HJ dalloz-formation.fr
+HJ dalloz-revues.fr
+HJ dalloz.fr
 HJ editions-dalloz.fr
+HJ https://connexion.dalloz.fr
+HJ https://secureidpga.dalloz.fr
+HJ https://www.jurisprudence.dalloz-avocats.fr
 HJ prepa-dalloz.fr
-HJ www.dalloz.fr
+HJ www.dalloz-actualite.fr
+HJ www.dalloz-avocats.fr
 HJ www.dalloz-bibliotheque.fr
 HJ www.dalloz-boutique.fr
 HJ www.dalloz-enseignants.fr
 HJ www.dalloz-etudiant.fr
 HJ www.dalloz-formation.fr
+HJ www.dalloz-revues.fr
+HJ www.dalloz.fr
 HJ www.editions-dalloz.fr
+HJ www.jurisprudence.dalloz-avocats.fr
 HJ www.prepa-dalloz.fr
 DJ dalloz.fr
+DJ dalloz-actualite.fr
+DJ dalloz-avocats.fr
 DJ dalloz-bibliotheque.fr
 DJ dalloz-boutique.fr
 DJ dalloz-enseignants.fr
 DJ dalloz-etudiant.fr
 DJ dalloz-formation.fr
+DJ dalloz-revues.fr
 DJ editions-dalloz.fr
 DJ prepa-dalloz.fr
+Find http:\/\/www
+Replace http://www
+Find https:\/\/
+Replace https://
 Find "http:\/\/www.dalloz.fr\/
 Replace "http:\/\/^pwww.dalloz.fr^\/
-Find www.dalloz.fr
-Replace ^swww.dalloz.fr^

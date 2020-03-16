@@ -1,4 +1,8 @@
-Title Financial Times
+HTTPMethod OPTIONS
+HTTPMethod PUT
+AnonymousURL +https://www.ft.com/*
+AnonymousURL +OPTIONS +https://spoor-api.ft.com/*
+Title Financial Times (updated 20200316)
 URL https://www.ft.com/
 HJ www.ft.com
 HJ ft.com
@@ -39,15 +43,9 @@ HJ www.exec-appointments.com
 HJ www.non-execs.com
 HJ www.businessesforsale.com
 HJ https://commerce.uk.reuters.com
+HJ https://join.ft.com
 HJ commerce.uk.reuters.com
 HJ www.propertysales.com
-HJ im.ft-static.com
-HJ mostpopular.sp.ft-static.com
-HJ https://reg.ft-static.com
-HJ https://accounts.ft.com
-HJ https://ftepaper.ft.com
-HJ https://join.ft.com
-HJ https://registration.ft.com
 DJ ft.com
 DJ thebanker.com
 DJ thebankerdatabase.com
@@ -68,3 +66,6 @@ DJ ftchinaconfidential.com
 DJ exec-appointments.com
 DJ non-execs.com
 DJ businessesforsale.com
+NeverProxy consent.ft.com
+NeverProxy spoor-api.ft.com
+AnonymousURL -*

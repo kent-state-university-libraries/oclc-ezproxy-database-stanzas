@@ -1,7 +1,8 @@
-Title Cabell's Directories  (updated 20181205)
+Title Cabell's Directories  (updated 20200316)
 URL https://www.cabells.com
 HJ http://www.cabells.com
 HJ http://www2.cabells.com
+HJ https://www2.cabells.com
 HJ www.cabells.com
 HJ https://ssl2.cabells.com
 HJ ssl2.cabells.com
