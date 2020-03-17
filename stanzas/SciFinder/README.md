@@ -5,7 +5,7 @@
 
 This page describes how to configure EZproxy to work with the web-based versions of SciFinder and/or SciFinder-n.
 
-&nbsp; Note:&nbsp;If you provide access to both SciFinder and SciFinder-n, two starting URL's will be needed on your institution's site. To set a starting URL on your institution's site to SciFinder-n, replace the full URL after the EZproxy prefix for your institution with the host line: https://scifinder-n.cas.org/.
+&nbsp; Note:&nbsp;If you provide access to both SciFinder and SciFinder-n, then two starting URL's will be needed on your institution's site. To set a starting URL on your institution's site to SciFinder-n, replace the full URL after the EZproxy prefix for your institution with the host line: https://scifinder-n.cas.org/.
 
 &nbsp; Note: A setting that should not be used in the configuration settings is &quot;DJ cas.org&quot; because it is known to cause &quot;HTTP 500 Internal Server Error&quot; on IE and &quot;500: Server Error&quot; on Firefox during the SciFinder login process.
 
