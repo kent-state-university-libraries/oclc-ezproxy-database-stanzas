@@ -6,7 +6,7 @@ AnonymousURL +https://origin-connectproxy.ihs.com/*
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
-Title IHS Markit Connect (updated 20200224)
+Title IHS Markit Connect (updated 20200317)
 MimeFilter text/event-stream .* javascript
 HTTPHeader -request -process Access-Control-Allow-Origin
 URL https://connect.ihs.com
@@ -20,6 +20,7 @@ HJ https://mapservicesproxy.ihs.com
 HJ https://mapshost.ihs.com
 HJ https://mapsxport.ihs.com
 HJ https://globalinsight.com
+HJ https://my.ihsmarkit.com
 HJ https://connect.ihsmarkit.com
 HJ https://origin-connect.ihsmarkit.com
 HJ https://proxy.connect.ihsmarkit.com
@@ -43,6 +44,7 @@ HJ http://mapservicesproxy.ihs.com
 HJ http://mapshost.ihs.com
 HJ http://mapsxport.ihs.com
 HJ http://globalinsight.com
+HJ http://my.ihsmarkit.com
 HJ http://connect.ihsmarkit.com
 HJ http://origin-connect.ihsmarkit.com
 HJ http://proxy.connect.ihsmarkit.com

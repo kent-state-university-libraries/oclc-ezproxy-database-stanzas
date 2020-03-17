@@ -1,18 +1,10 @@
 # Engineering Village
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/engineering_village.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/engineering_village.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Engineering_Village](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Engineering_Village) **
 
 ## Some of OCLC's notes for this stanza
 
-Option DomainCookieOnly
- Title EIVillage
- URL http://www.engineeringvillage.com
- HJ https://www.engineeringvillage.com
- HJ engineeringvillage.com
- HJ www.engineeringvillage.com
- HJ www.engineeringvillage2.org
- HJ acw.elsevier.com
- DJ ei.org
- DJ engineeringvillage.com
- DJ referexengineering.elsevier.com
- Option Cookie 
- 
+&nbsp; Note: Do not duplicate the Elsevier Identity stanza in the config.txt file. It is already in Science Direct stanza.
+
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
+
+&nbsp;

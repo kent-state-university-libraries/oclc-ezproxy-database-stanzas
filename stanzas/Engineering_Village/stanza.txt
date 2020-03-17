@@ -1,5 +1,5 @@
 Option DomainCookieOnly
-Title EIVillage
+Title EIVillage (20200317)
 URL http://www.engineeringvillage.com
 HJ https://www.engineeringvillage.com
 HJ engineeringvillage.com
@@ -10,3 +10,11 @@ DJ ei.org
 DJ engineeringvillage.com
 DJ referexengineering.elsevier.com
 Option Cookie
+
+Title -hide Elsevier Identity
+URL https://id.elsevier.com
+HJ https://id.elsevier.com
+HJ id.elsevier.com
+DJ id.elsevier.com
+Find redirect_uri=https://
+Replace redirect_uri=https://^A
