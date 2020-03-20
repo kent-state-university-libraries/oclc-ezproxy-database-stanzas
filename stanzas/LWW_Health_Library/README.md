@@ -1,4 +1,4 @@
-# LWW HealthLibrary
+# LWW Health Library
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LWW_Health_Library](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LWW_Health_Library) **
 
 ## Some of OCLC's notes for this stanza

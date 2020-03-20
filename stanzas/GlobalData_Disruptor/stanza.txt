@@ -1,6 +1,7 @@
-Title GlobalData Disruptor (20200218)
+Title GlobalData (updated 20200319)
 URL https://login.globaldata.com/login/iplogin
 HJ https://disruptor.globaldata.com/
+HJ https://tourism.globaldata.com/
 HJ disruptor.globaldata.com
-DJ disruptor.globaldata.com
+HJ tourism.globaldata.com
 DJ globaldata.com
