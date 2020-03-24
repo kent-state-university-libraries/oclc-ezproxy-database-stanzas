@@ -1,0 +1,8 @@
+Option DomainCookieOnly
+Title Springer Publishing Company Connect (updated 20200324)
+URL https://connect.springerpub.com
+HJ http://connect.springerpub.com
+HJ https://idp.sams-sigma.com
+HJ springerpub.com
+DJ springerpub.com
+Option Cookie
