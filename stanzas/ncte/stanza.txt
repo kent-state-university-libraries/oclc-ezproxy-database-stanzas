@@ -1,7 +1,12 @@
-Title National Council of Teachers of English (updated 20180726)
+Title National Council of Teachers of English (updated 20200326)
 URL http://www.ncte.org/
+HJ https://cccc.ncte.org
+HJ https://ncte.org
 HJ https://secure.ncte.org
+HJ https://www.ncte.org
+HJ https://www2.ncte.org
+HJ cccc.ncte.org
+HJ ncte.org
+HJ www.ncte.org
 HJ www2.ncte.org
-H ncte.org
-H www.ncte.org
 DJ ncte.org
