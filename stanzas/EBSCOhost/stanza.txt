@@ -8,7 +8,7 @@ Option Cookie
 #
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (updated 20200302)
+Title EBSCOhost (updated 2020030)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
 URL http://search.ebscohost.com/login.aspx
@@ -17,7 +17,6 @@ HJ https://resolver.ebscohost.com
 HJ https://www.ebscohost.com
 HJ https://openurl.ebscohost.com
 HJ https://m-eon-search.ebscohost.com
-HJ https://auth.ebsco.zone
 HJ ebsco.smartimagebase.com
 HJ eds.a.ebscohost.com
 HJ eds.b.ebscohost.com
@@ -54,7 +53,6 @@ HJ www.ebsconet.com
 DJ ebsco.com
 DJ netlibrary.com
 DJ smartimagebase.com
-DJ ebsco.zone
 HJ www.teacherreference.com
 DJ teacherreference.com
 HJ www.europeanamericana.com

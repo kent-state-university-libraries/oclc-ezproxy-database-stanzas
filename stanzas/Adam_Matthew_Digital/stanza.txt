@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20191122)
+Title Adam Matthew Digital (updated 20200330)
 URL https://www.login.amdigital.co.uk
 Host https://www.gender.amdigital.co.uk
 HJ www.exploration.amdigital.co.uk
@@ -46,6 +46,7 @@ HJ www.medievaltravel.amdigital.co.uk
 HJ www.migration.amdigital.co.uk
 HJ www.perditamanuscripts.amdigital.co.uk
 HJ www.popularmedicine.amdigital.co.uk
+HJ www.povertyinvictorianbritain.amdigital.co.uk
 HJ www.racerelations.amdigital.co.uk
 HJ www.researchsource.amdigital.co.uk
 HJ www.rockandroll.amdigital.co.uk
