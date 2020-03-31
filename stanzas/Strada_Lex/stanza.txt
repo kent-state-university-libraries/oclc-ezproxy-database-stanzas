@@ -1,0 +1,23 @@
+AnonymousURL -CS +https://d181c3udejoqg1.cloudfront.net/*
+AnonymousURL -CS -Options +https://larbiz-api.larciergroup.com/*
+AnonymousURL -CS -Options +https://dbs.larciergroup.com/*
+Title Strada Lex (updated 20200331)
+URL https://www.stradalex.com
+HJ https://d181c3udejoqg1.cloudfront.net
+HJ https://dbs.larciergroup.com
+HJ https://larbiz-api.larciergroup.com
+HJ https://www.stradalex.com
+HJ https://www.stradalex.com
+HJ https://www.stradalex.eu
+HJ https://www.stradalex.lu
+HJ stradalex.com
+HJ stradalex.eu
+HJ stradalex.lu
+HJ www.stradalex.com
+HJ www.stradalex.eu
+HJ www.stradalex.lu
+DJ stradalex.com
+DJ stradalex.eu
+DJ stradalex.lu
+DJ larciergroup.com
+AnonymousURL -*
