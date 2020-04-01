@@ -1,10 +1,11 @@
 MimeFilter application/json .* javascript
-Title Loeb Classics
+Title Loeb Classics (updated 20200401)
 URL https://www.loebclassics.com/
-HJ www.loebclassics.com
+HJ https://www.hup.harvard.edu
+HJ hup.harvard.edu
 HJ loebclassics.com
+HJ www.hup.harvard.edu
+HJ www.loebclassics.com
+DJ hup.harvard.edu
 DJ loebclassics.com
 DJ www.loebclassics.com
-HJ www.hup.harvard.edu
-HJ hup.harvard.edu
-DJ hup.harvard.edu
