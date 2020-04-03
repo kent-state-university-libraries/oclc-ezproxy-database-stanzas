@@ -1,5 +1,7 @@
-Title SAE International (updated 20190925)
+Title SAE International (updated 20200402)
 URL http://ev.sae.org/
+HJ https://digitallibrary.sae.org
+HJ digitallibrary.sae.org
 HJ ev.sae.org
 HJ saejournals.org
 HJ magazine.sae.org
