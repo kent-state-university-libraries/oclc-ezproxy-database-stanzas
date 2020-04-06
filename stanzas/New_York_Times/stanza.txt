@@ -1,6 +1,6 @@
-Title New York Times (updated 20191003)
+Title New York Times (updated 20200403)
 URL https://www.nytimes.com
-HJ https://nyti.ms
+HJ https://nytimes.com
 HJ artsbeat.blogs.nytimes.com
 HJ blogs.nytimes.com
 HJ cn.nytimes.com
