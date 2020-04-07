@@ -1,0 +1,7 @@
+HTTPHeader -request -edit access-control-allow-origin
+Title Medieval and Early Modern Sources Online (updated 20200406)
+URL http://sources.tannerritchie.com/
+HJ https://sources.tannerritchie.com/
+HJ https://tannerritchie.com/
+HJ http://tannerritchie.com/
+DJ tannerritchie.com

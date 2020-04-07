@@ -1,5 +1,5 @@
-# RIPM Jazz Periodicals
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RIPM_Jazz_Periodicals](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RIPM_Jazz_Periodicals) **
+# Medieval and Early Modern Sources Online
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Medieval_and_Early_Modern_Sources_Online](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Medieval_and_Early_Modern_Sources_Online) **
 
 ## Some of OCLC's notes for this stanza
 
