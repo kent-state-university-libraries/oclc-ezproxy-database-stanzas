@@ -1,0 +1,5 @@
+Title Foreign Policy (updated 20200409)
+URL https://foreignpolicy.com
+HJ http://foreignpolicy.com
+HJ foreignpolicy.com
+DJ foreignpolicy.com
