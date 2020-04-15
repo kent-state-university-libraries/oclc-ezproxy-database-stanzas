@@ -1,3 +1,7 @@
-Title Elsevier eLibrary France
+Title Elsevier eLibrary France (updated 20200414)
 URL http://elsevierelibrary.fr
+HJ elsevierelibrary.fr
+HJ https://elsevierelibrary.fr
+HJ https://www.elsevierelibrary.fr
+HJ www.elsevierelibrary.fr
 DJ elsevierelibrary.fr
