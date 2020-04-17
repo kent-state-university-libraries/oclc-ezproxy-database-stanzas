@@ -1,3 +1,7 @@
-Title MGG Online (updated 20181205)
+Title MGG Online (updated 20200415)
 URL https://www.mgg-online.com
+HJ https://www.mgg-online.com
+HJ https://mgg-online.com
+HJ www.mgg-online.com
+HJ mgg-online.com
 DJ mgg-online.com
