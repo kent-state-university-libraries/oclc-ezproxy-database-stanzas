@@ -1,6 +1,12 @@
-T Akademiai Kiado (updated 20191223)
-U https://akademiai.com/
-HJ https://www.akademiai.com
+Title Akademiai Kiado (updated 20200421)
+URL https://akjournals.com/
 HJ akademiai.com
+HJ akjournals.com
+HJ https://akademiai.com
+HJ https://akjournals.com
+HJ https://www.akademiai.com
+HJ https://www.akjournals.com
 HJ www.akademiai.com
+HJ www.akjournals.com
 DJ akademiai.com
+DJ akjournals.com

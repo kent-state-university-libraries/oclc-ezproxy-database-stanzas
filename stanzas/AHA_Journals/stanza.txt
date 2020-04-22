@@ -1,5 +1,6 @@
-Title AHA Journals (Lippincott Williams & Wilkins-LWW) (updated 20190820)
+Title AHA Journals (Lippincott Williams & Wilkins-LWW) (updated 20200422)
 URL http://atvb.ahajournals.org/
+H advisor.lww.com
 H atvb.ahajournals.org
 H circep.ahajournals.org
 H circgenetics.ahajournals.org
@@ -10,6 +11,7 @@ H circ.ahajournals.org
 H circimaging.ahajournals.org
 H circres.ahajournals.org
 H cp.neurology.org
+H https://advisor.lww.com
 H https://journals.lww.com
 H https://procedures.lww.com
 H hyper.ahajournals.org
