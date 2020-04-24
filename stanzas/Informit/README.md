@@ -1,8 +1,8 @@
 # Informit
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/informit.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/informit.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Informit](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Informit) **
 
 ## Some of OCLC's notes for this stanza
 
-For sites that do not use the "TV News" database, Informit requires the following configuration in config.txt :
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
 
-For sites that use the "TV News" database, Informit requires the following configuration in config.txt :
+&nbsp;
