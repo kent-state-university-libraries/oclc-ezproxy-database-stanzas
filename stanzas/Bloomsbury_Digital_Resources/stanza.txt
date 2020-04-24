@@ -1,4 +1,4 @@
-Title GEOPlugin (updated 20200331)
+Title GEOPlugin (updated 20200423)
 URL https://ssl.geoplugin.net
 Host https://ssl.geoplugin.net
 HJ ssl.geoplugin.net
