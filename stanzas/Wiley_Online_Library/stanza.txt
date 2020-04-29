@@ -1,9 +1,10 @@
 Option DomainCookieOnly
 Option X-Forwarded-For
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20200421)
+Title Wiley Online (updated 20200428)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -response -block X-Frame-Options
+HTTPHeader -response -block Content-Security-Policy
 URL https://onlinelibrary.wiley.com
 H http://onlinelibrary.wiley.com
 HJ aap.onlinelibrary.wiley.com
@@ -142,9 +143,5 @@ DJ wiley.com
 DJ esajournals.org
 DJ wileyopenaccess.com
 DJ wileyonlinelibrary.com
-Find /doi/pdf/
-Replace /doi/pdfdirect/
-Find /doi/epdf/
-Replace /doi/pdfdirect/
 Option NoX-Forwarded-For
 Option Cookie
