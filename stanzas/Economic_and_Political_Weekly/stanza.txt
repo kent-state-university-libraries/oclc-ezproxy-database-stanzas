@@ -1,0 +1,7 @@
+Title Economic and Political Weekly (updated 20200429)
+URL http://www.epw.in/
+HJ epw.in
+HJ https://epw.in
+HJ https://www.epw.in
+HJ www.epw.in
+DJ epw.in

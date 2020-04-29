@@ -1,5 +1,5 @@
-# Wolters Kluwer Online Deutschland
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Wolters_Kluwer_Online_Deutschland](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Wolters_Kluwer_Online_Deutschland) **
+# Economic and Political Weekly
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economic_and_Political_Weekly](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economic_and_Political_Weekly) **
 
 ## Some of OCLC's notes for this stanza
 
