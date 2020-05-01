@@ -1,0 +1,7 @@
+Title J-STAGE (updated 20200501)
+URL https://www.jstage.jst.go.jp/
+HJ https://www.jstage.jst.go.jp
+HJ https://jstage.jst.go.jp
+HJ www.jstage.jst.go.jp
+HJ jstage.jst.go.jp
+DJ jstage.jst.go.jp
