@@ -1,0 +1,12 @@
+Title DigiZeitschriften (updated 20200504)
+URL http://www.digizeitschriften.de/
+HJ digizeitschriften.de
+HJ docserver.digizeitschriften.de
+HJ https://digizeitschriften.de
+HJ https://www.digizeitschriften.de
+HJ www.digizeitschriften.de
+Hj dfg-viewer.de
+Hj resolver.sub.uni-goettingen.de
+DJ digizeitschriften.de
+DJ dfg-viewer.de
+DJ resolver.sub.uni-goettingen.de

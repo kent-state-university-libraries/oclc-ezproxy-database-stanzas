@@ -1,5 +1,5 @@
 #Includes World Christian Database, World Religion Database and Arkyves
-Title BrillOnline (updated 20200102)
+Title BrillOnline (updated 20200504)
 HTTPHeader -request -process X-Requested-With
 URL https://www.brill.com
 HJ https://brill.com
@@ -50,6 +50,7 @@ HJ https://www.worldchristiandatabase.org
 HJ www.worldchristiandatabase.org
 HJ http://worldreligiondatabase.org
 HJ https://worldreligiondatabase.org
+HJ https://www.worldreligiondatabase.org
 D arkyves.org
 DJ worldchristiandatabase.org
 DJ worldreligiondatabase.org

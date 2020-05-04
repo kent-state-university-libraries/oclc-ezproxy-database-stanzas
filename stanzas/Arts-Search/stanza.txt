@@ -1,4 +1,5 @@
-Title Arts-Search (updated 20180514)
+Title Arts-Search (updated 20200504)
 URL http://arts-search.com/database/
-H arts-search.com
+HJ www.arts-search.com/
+HJ arts-search.com
 DJ arts-search.com
