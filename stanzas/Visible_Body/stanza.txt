@@ -1,5 +1,19 @@
-Title Visible Body Human Anatomy Atlas (updated 20190415)
-URL http://atlas.visiblebody.com
+Title Visible Body (updated 20200504)
+URL https://www.visiblebody.com
 HJ atlas.visiblebody.com
+HJ coursepacks.visiblebody.com
+HJ inst.visiblebody.com
+HJ muscle.visiblebody.com
+HJ physiology.visiblebody.com
+HJ www.visiblebody.com
+HJ www1.visiblebody.com
+HJ https://atlas.visiblebody.com
+HJ https://coursepacks.visiblebody.com
+HJ https://inst.visiblebody.com
+HJ https://muscle.visiblebody.com
+HJ https://physiology.visiblebody.com
+HJ https://www.visiblebody.com
+HJ https://www1.visiblebody.com
+DY visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com

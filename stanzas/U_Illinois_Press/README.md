@@ -1,5 +1,5 @@
-# Visible Body
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Visible_Body](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Visible_Body) **
+# University of Illinois Press
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/U_Illinois_Press](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/U_Illinois_Press) **
 
 ## Some of OCLC's notes for this stanza
 
