@@ -1,4 +1,4 @@
-Title University of California Press (updated 20200102)
+Title University of California Press (updated 20200507)
 MimeFilter application/json .* javascript
 MimeFilter application/xml .* javascript
 URL http://www.ucpress.edu/journals.php
@@ -39,6 +39,7 @@ HJ https://hsns.ucpress.edu
 HJ https://irqr.ucpress.edu
 HJ https://jams.ucpress.edu
 HJ https://jm.ucpress.edu
+HJ https://jpms.ucpress.edu
 HJ https://jps.ucpress.edu
 HJ https://jsah.ucpress.edu
 HJ https://mp.ucpress.edu
@@ -62,6 +63,7 @@ HJ https://www.ucpressjournals.com
 HJ irqr.ucpress.edu
 HJ jams.ucpress.edu
 HJ jm.ucpress.edu
+HJ jpms.ucpress.edu
 HJ jps.ucpress.edu
 HJ jsah.ucpress.edu
 HJ mp.ucpress.edu
