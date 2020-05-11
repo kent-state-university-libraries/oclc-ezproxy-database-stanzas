@@ -16,5 +16,5 @@ Replace //^scdn.media.euromonitor.com^
 NeverProxy microservices.euromonitor.com
 NeverProxy consulting.euromonitor.com
 NeverProxy covid-analytics-ui.euromonitor.com
-NeverPorxy search-service.euromonitor.com
+NeverProxy search-service.euromonitor.com
 AnonymousURL -*

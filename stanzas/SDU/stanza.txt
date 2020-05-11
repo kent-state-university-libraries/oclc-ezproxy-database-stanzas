@@ -1,4 +1,4 @@
-Title SDU (updated 20200414)
+Title SDU (updated 20200511)
 HTTPHeader -request -process Book-Authorization
 URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
@@ -43,6 +43,7 @@ HJ https://portal.vindlokalebelastingen.nl
 HJ https://portal.vindomgevingszaken.nl
 HJ https://portal.vindsocialezaken.nl
 HJ https://sdukennisportaal.sdu.nl
+HJ https://staatsalmanak.sdu.nl
 HJ https://www.decentraleregelgeving.nl
 HJ https://www.ndsz.nl
 HJ https://www.sdu.nl
