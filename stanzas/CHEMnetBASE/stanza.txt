@@ -1,5 +1,5 @@
-Title CHEMnetBASE
-URL http://www.chemnetbase.com
+Title CHEMnetBASE (updated 20200513)
+URL  http://www.chemnetbase.com
 HJ ccd.chemnetbase.com
 HJ carbo.chemnetbase.com
 HJ dccc.chemnetbase.com
@@ -10,10 +10,11 @@ HJ dnp.chemnetbase.com
 HJ doc.chemnetbase.com
 HJ dod.chemnetbase.com
 HJ poc.chemnetbase.com
+HJ poly.chemnetbase.com
 HJ www.hbcpnetbase.com
-HJ hbcpnetbase.com
 HJ www.polymersdatabase.com
 HJ www.hbcponline.com
+HJ hbcponline.com
 DJ chemnetbase.com
 DJ hbcpnetbase.com
 DJ polymersdatabase.com

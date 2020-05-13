@@ -1,4 +1,4 @@
-Title Visible Body (updated 20200504)
+Title Visible Body (updated 20200513)
 URL https://www.visiblebody.com
 HJ atlas.visiblebody.com
 HJ coursepacks.visiblebody.com
@@ -14,6 +14,6 @@ HJ https://muscle.visiblebody.com
 HJ https://physiology.visiblebody.com
 HJ https://www.visiblebody.com
 HJ https://www1.visiblebody.com
-DY visiblebody.com
+DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com

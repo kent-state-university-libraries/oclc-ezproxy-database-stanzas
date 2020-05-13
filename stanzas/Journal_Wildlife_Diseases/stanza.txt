@@ -1,4 +1,7 @@
-Title Journal of Wildlife Diseases (updated 20191018)
+Title Journal of Wildlife Diseases (updated 20200513)
 URL https://www.jwildlifedis.org
+HJ https://jwildlifedis.org
+HJ https://www.jwildlifedis.org
+HJ jwildlifedis.org
 HJ www.jwildlifedis.org
 DJ jwildlifedis.org

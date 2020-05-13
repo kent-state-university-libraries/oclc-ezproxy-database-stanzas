@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (OCLC IncludeFile updated 20200427)
+Title Adam Matthew Digital (updated 20200512)
 URL https://www.login.amdigital.co.uk
 Host https://www.gender.amdigital.co.uk
 HJ www.exploration.amdigital.co.uk
@@ -15,6 +15,7 @@ HJ www.americanhistory.amdigital.co.uk
 HJ www.americanindiannewspapers.amdigital.co.uk
 HJ www.americanwest.amdigital.co.uk
 HJ www.am-explorer.com
+HJ https://www.am-explorer.com
 HJ www.archivesdirect.amdigital.co.uk
 Host www.archiveexplorer.amdigital.co.uk
 HJ www.china.amdigital.co.uk
