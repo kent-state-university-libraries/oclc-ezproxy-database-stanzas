@@ -1,0 +1,5 @@
+Title Birds of the World (formerly "Birds of North America")(updated 20200518)
+URL https://birdsoftheworld.org
+HJ http://birdsoftheworld.org
+HJ birdsoftheworld.org
+DJ birdsoftheworld.org
