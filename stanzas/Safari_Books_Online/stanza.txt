@@ -1,6 +1,8 @@
+Option AllowSendGZip
 Option CookiePassThrough
-Title Safari Books (updated 20190301)
-URL http://proquest.safaribooksonline.com
+Title Safari Books (updated 20200526)
+URL https://proquest.safaribooksonline.com
+HJ https://proquestpubliclibrary.safaribooksonline.com/
 HJ https://proquest.safaribooksonline.com
 HJ https://proquestcombo.safaribooksonline.com
 HJ https://www.safaribooksonline.com

@@ -1,0 +1,21 @@
+Title Cobouw (updated 20200526)
+HTTPHeader -request -process X-XSRF-TOKEN
+URL https://www.cobouw.nl/digitaal-magazine
+HJ atex.cobouw.nl
+HJ cobouw.nl
+HJ dagblad.cobouw.nl
+HJ duurzameenergie.cobouw.nl
+HJ https://cobouw.nl
+HJ https://privacy.vakmedianet.nl
+HJ https://www.cobouw.nl
+HJ machineveiligheid.cobouw.nl
+HJ nen1010.cobouw.nl
+HJ nen3140.cobouw.nl
+HJ powerquality.cobouw.nl
+HJ privacy.vakmedianet.nl
+HJ schakelenverdeel.cobouw.nl
+HJ www.cobouw.nl
+DJ cobouw.nl
+DJ vakmedianet.nl
+Find https:\/\/privacy.vakmedianet.nl\/
+Replace https:\/\/^sprivacy.vakmedianet.nl^\/
