@@ -1,5 +1,5 @@
 #Includes World Christian Database, World Religion Database and Arkyves
-Title BrillOnline (updated 20200504)
+Title BrillOnline (updated 20200601)
 HTTPHeader -request -process X-Requested-With
 URL https://www.brill.com
 HJ https://brill.com
@@ -51,6 +51,21 @@ HJ www.worldchristiandatabase.org
 HJ http://worldreligiondatabase.org
 HJ https://worldreligiondatabase.org
 HJ https://www.worldreligiondatabase.org
+HJ https://fink.de/
+HJ https://schoeningh.de/
+HJ https://mentis.de/
+HJ http://fink.de/
+HJ http://schoeningh.de/
+HJ http://mentis.de/
+HJ https://www.fink.de/
+HJ https://www.schoeningh.de/
+HJ https://www.mentis.de/
+HJ http://www.fink.de/
+HJ http://www.schoeningh.de/
+HJ http://www.mentis.de/
+DJ fink.de
+DJ schoeningh.de
+DJ mentis.de
 D arkyves.org
 DJ worldchristiandatabase.org
 DJ worldreligiondatabase.org
