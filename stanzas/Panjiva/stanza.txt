@@ -1,6 +1,10 @@
-T Panjiva
-U https://panjiva.com
+AnonymousURL +*.woff*
+AnonymousURL +*.tff*
+Title Panjiva (updated 20200604)
+URL https://panjiva.com
 HJ https://panjiva.com
+HJ sentry.panjiva.com
 HJ www.panjiva.com
 HJ panjiva.com
-DJ panjiva.com 
+DJ panjiva.com
+AnonymousURL -*
