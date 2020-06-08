@@ -1,4 +1,5 @@
-Title Thieme Connect (updated 20190802)
+Title Thieme Connect (updated 20200608)
+HTTPHeader =request =process X-CSRF-TOKEN
 URL https://www.thieme-connect.com/
 HJ https://ebooks.thieme.com
 HJ https://eneurosurgery.thieme.com
@@ -51,6 +52,8 @@ HJ www.thieme-connect.de
 HJ www.thieme.com
 HJ www.thieme.co.uk
 HJ www.thieme.de
+HJ profile.thieme.de
+DJ profile.thieme.de
 DJ thieme-connect.com
 DJ thieme-connect.de
 DJ thieme.com
