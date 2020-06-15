@@ -7,8 +7,8 @@
 
 In addition, to ensure access to your institution&rsquo;s subscribed resources, you must construct your Factiva starting point URLs using your institution&rsquo;s unique ID in the target URL, using the example that follows:
 
-A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
+&nbsp; Note: Factiva site does not access from non-standard HTTP and HTTPS ports when using Proxy by Hostname. Proxy by port is not supported.
 
-This resource is only available when using a Proxy-by-hostname configuration on your EZproxy server. For assistance migrating your EZproxy server to Proxy-by-Hostname, please contact OCLC Support
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
 
 &nbsp;
