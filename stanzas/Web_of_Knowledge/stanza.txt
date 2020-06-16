@@ -2,7 +2,7 @@ OPTION Cookiepassthrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
 AnonymousURL +https://csi.webofknowledge.com/CSI/*
-Title Web of Knowledge (updated 20200302)
+Title Web of Knowledge (OCLC IncludeFile updated 20200615)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process ak_bmsc
@@ -13,6 +13,7 @@ HTTPHeader -request -process _abck
 URL http://www.webofknowledge.com
 HJ https://www.webofknowledge.com
 HJ http://webofknowledge.com
+HJ https://webofknowledge.com
 HJ www.webofknowledge.com
 HJ webofknowledge.com
 DJ webofknowledge.com
