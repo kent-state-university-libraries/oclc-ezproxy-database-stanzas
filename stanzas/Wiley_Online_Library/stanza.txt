@@ -1,12 +1,19 @@
 Option DomainCookieOnly
 Option X-Forwarded-For
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20200428)
+Title Wiley Online (updated 20200618)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -response -block X-Frame-Options
 HTTPHeader -response -block Content-Security-Policy
+HTTPheader -request -process x-application-id
+HTTPheader -request -process x-Request-ID
 URL https://onlinelibrary.wiley.com
 H http://onlinelibrary.wiley.com
+HJ https://pericles.one-lts.literatumonline.com/
+HJ http://pericles.one-lts.literatumonline.com/
 HJ aap.onlinelibrary.wiley.com
 HJ aapm.onlinelibrary.wiley.com
 HJ aasldpubs.onlinelibrary.wiley.com
@@ -30,7 +37,6 @@ HJ bpspubs.onlinelibrary.wiley.com
 HJ ceramics.onlinelibrary.wiley.com
 HJ doi.wiley.com
 HJ efsa.onlinelibrary.wiley.com
-HJ el.wiley.com
 HJ esajournals.onlinelibrary.wiley.com
 HJ febs.onlinelibrary.wiley.com
 HJ ila.onlinelibrary.wiley.com
@@ -49,7 +55,6 @@ HJ secure.onlinelibrary.wiley.com
 HJ setac.onlinelibrary.wiley.com
 HJ sigmapubs.onlinelibrary.wiley.com
 HJ spssi.onlinelibrary.wiley.com
-HJ srcd.onlinelibrary.wiley.com
 HJ stemcellsjournals.onlinelibrary.wiley.com
 HJ wildlife.onlinelibrary.wiley.com
 HJ wileyonlinelibrary.com
@@ -97,7 +102,6 @@ HJ https://ceramics.onlinelibrary.wiley.com
 HJ https://currentprotocols.onlinelibrary.wiley.com
 HJ https://doi.wiley.com
 HJ https://efsa.onlinelibrary.wiley.com
-HJ https://el.wiley.com
 HJ https://www.embopress.org
 HJ https://esajournals.onlinelibrary.wiley.com
 HJ https://esj-journals.onlinelibrary.wiley.com
@@ -119,7 +123,6 @@ HJ https://rss.onlinelibrary.wiley.com
 HJ https://secure.onlinelibrary.wiley.com
 HJ https://setac.onlinelibrary.wiley.com
 HJ https://spssi.onlinelibrary.wiley.com
-HJ https://srcd.onlinelibrary.wiley.com
 HJ https://stemcellsjournals.onlinelibrary.wiley.com
 HJ https://sigmapubs.onlinelibrary.wiley.com
 HJ https://sttipubs.onlinelibrary.wiley.com
@@ -143,5 +146,6 @@ DJ wiley.com
 DJ esajournals.org
 DJ wileyopenaccess.com
 DJ wileyonlinelibrary.com
+NeverProxy submission.wiley.com
 Option NoX-Forwarded-For
 Option Cookie

@@ -1,9 +1,10 @@
-Title American Society of Civil Engineers
+Title American Society of Civil Engineers (updated 20200619)
 URL https://ascelibrary.org
 HJ https://asce.org
 HJ https://ascelibrary.org
 HJ https://www.asce.org
 HJ https://www.ascelibrary.org
+HJ https://www.cedb.asce.org
 HJ asce.org
 HJ ascelibrary.org
 HJ cedb.asce.org

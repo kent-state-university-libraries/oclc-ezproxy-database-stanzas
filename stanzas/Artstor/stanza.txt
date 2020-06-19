@@ -1,17 +1,16 @@
-Title ARTstor Digital Library (ADL) (updated 20200218)
+Title ARTstor Digital Library (ADL) (updated 20200618)
 HTTPHeader -request -process X-*
 HTTPHeader -request -process Accept-Encoding
 HTTPHeader -request -process Access-Control-Allow-Origin
-HTTPMethod -request -process PUT
-HTTPMethod -request -process PATCH
-HTTPMethod -request -process HEAD
-HTTPMethod -request -process OPTIONS
-HTTPMethod -request -process DELETE
+HTTPMethod PUT
+HTTPMethod PATCH
+HTTPMethod OPTIONS
+HTTPMethod DELETE
 AnonymousUrl +.jar
 AnonymousUrl +.class
 AnonymousUrl +.gif
 AnonymousUrl +.jpg
-U https://library.artstor.org
+URL https://library.artstor.org
 DJ artstor.org
 DJ mdxdv.artstor.org
 HJ https://tsprod.artstor.org
