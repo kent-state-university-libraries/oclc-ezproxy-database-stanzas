@@ -1,0 +1,15 @@
+Title Diabetes Journals (updated 20200623)
+URL http://www.diabetesjournals.org/
+HJ care.diabetesjournals.org
+HJ clinical.diabetesjournals.org
+HJ diabetes.diabetesjournals.org
+HJ diabetesjournals.org
+HJ https://care.diabetesjournals.org
+HJ https://clinical.diabetesjournals.org
+HJ https://diabetes.diabetesjournals.org
+HJ https://diabetesjournals.org
+HJ https://spectrum.diabetesjournals.org
+HJ https://www.diabetesjournals.org
+HJ spectrum.diabetesjournals.org
+HJ www.diabetesjournals.org
+DJ diabetesjournals.org

@@ -1,4 +1,4 @@
-Title SpringerLink (updated 20200615)
+Title SpringerLink (updated 20200623)
 URL https://link.springer.com
 HJ aa.springer.de
 HJ download.springer.com
@@ -7,6 +7,7 @@ HJ https://link.springer.com
 HJ https://rd.springer.com
 HJ https://springer.com
 HJ https://www.link.springer.com
+HJ https://www.springer.com
 HJ https://www.springerlink.com
 HJ link.springer-ny.com
 HJ link.springer.com
