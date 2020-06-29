@@ -1,0 +1,5 @@
+Title Mission Nexus (updated 20200629)
+URL https://missionexus.net
+HJ http://www.missionexus.net
+DJ missionexus.net
+NeverProxy googleapis.com
