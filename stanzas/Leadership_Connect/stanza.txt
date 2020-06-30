@@ -1,7 +1,8 @@
 AnonymousURL +https://api.leadershipconnect.io/*
-Title Leadership Connect (updated 20191015)
+T Leadership Connect (OCLC IncludeFile updated 20200630)
 HTTPHeader -request -process x-lci-authorization
 HTTPHeader -request -process x-lci-user-agent
-URL https://app.leadershipconnect.io/
+U https://app.leadershipconnect.io/
 HJ app.leadershipconnect.io
-DJ leadershipconnect.io AnonymousURL -*
+DJ leadershipconnect.io
+AnonymousURL -*
