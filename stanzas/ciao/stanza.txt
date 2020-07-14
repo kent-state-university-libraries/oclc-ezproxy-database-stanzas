@@ -1,6 +1,4 @@
-Title ciao
+Title ciao (updated 20200713)
 URL http://www.ciaonet.org
 Host https://www.ciaonet.org
-Host search.columbia.edu
-Host www.columbia.edu
 DJ ciaonet.org

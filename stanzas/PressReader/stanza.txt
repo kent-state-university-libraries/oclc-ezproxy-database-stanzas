@@ -1,6 +1,6 @@
-Title PressReader (updated 20190221)
+Title PressReader (updated 20200714)
 HTTPHeader -request -process Access-Control-Allow-*
-URL http://pressreader.com
+URL https://www.pressreader.com
 HJ https://library.pressdisplay.com
 HJ https://www.pressreader.com
 Host https://www.pressdisplay.com

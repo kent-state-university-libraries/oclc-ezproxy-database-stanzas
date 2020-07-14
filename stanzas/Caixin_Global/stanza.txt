@@ -1,0 +1,23 @@
+Title Caixin Global (updated 20200709)
+MimeFilter text/html http://file.caixin.com/* html
+MimeFilter text/html https://gg.caixin.com/* html
+URL https://www.caixinglobal.com
+HJ www.caixinglobal.com
+HJ https://file.caixin.com
+HJ https://gg.caixin.com
+HJ https://gw.caixin.com
+HJ https://mapi.caixinglobal.com
+HJ https://u.caixinglobal.com
+HJ https://gateway.caixinglobal.com
+HJ https://www.mapi.caixinglobal.com
+HJ https://pay.caixinglobal.com
+HJ http://www.mapi.caixinglobal.com
+HJ http://u.caixinglobal.com
+HJ http://mapi.caixinglobal.com
+HJ http://pay.caixinglobal.com
+HJ http://gateway.caixinglobal.com
+HJ http://gw.caixinglobal.com
+HJ http://gg.caixin.com
+HJ http://file.caixin.com
+DJ caixinglobal.com
+DJ caixin.com
