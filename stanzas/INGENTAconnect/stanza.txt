@@ -1,6 +1,7 @@
-Title INGENTAconnect (updated 20190919)
+Title INGENTAconnect (updated 20200722)
 URL http://www.ingentaconnect.com/
 HJ https://www.ingentaconnect.com
+HJ https://openurl.ingenta.com
 HJ openurl.ingenta.com
 HJ pi2.ingenta.com
 HJ ingenta.com

@@ -1,0 +1,5 @@
+Title OvidFrancais (updated 20200721)
+URL https://ovidfr.ovidds.com/
+HJ ovidfr.ovidds.com
+HJ https://ovidfr.ovidds.com
+DJ ovidds.com

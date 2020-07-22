@@ -1,0 +1,5 @@
+Title OvidChinese (updated 20200721)
+URL https://ovidcn.ovidds.com/
+HJ ovidcn.ovidds.com
+HJ https://ovidcn.ovidds.com
+DJ ovidds.com

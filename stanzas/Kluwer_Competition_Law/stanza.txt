@@ -1,7 +1,11 @@
-Title Kluwer Competition Law
-URL http://www.kluwercompetitionlaw.com
+Title Kluwer Competition Law (updated 20200721)
+URL https://www.kluwercompetitionlaw.com
+HJ https://www.kluwercompetitionlaw.com
 HJ beta.kluwercompetitionlaw.com
+HJ https://beta.kluwercompetitionlaw.com
 HJ kluwercompetitionlaw.com
+HJ https://kluwercompetitionlaw.com
 HJ m.kluwercompetitionlaw.com
+HJ https://m.kluwercompetitionlaw.com
 HJ www.kluwercompetitionlaw.com
 DJ kluwercompetitionlaw.com

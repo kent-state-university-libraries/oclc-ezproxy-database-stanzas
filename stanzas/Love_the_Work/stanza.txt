@@ -1,0 +1,8 @@
+AnonymousURL -OPTIONS +https://gemini-backend.lovethework.com*
+Title Love the Work (updated 20200721)
+URL https://www.lovethework.com/signin-ipaddress
+HJ https://lovethework.com
+HJ lovethework.com
+HJ www.lovethework.com
+DJ lovethework.com
+AnonymousURL -*
