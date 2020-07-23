@@ -1,0 +1,90 @@
+HTTPMethod PUT
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://examenonline-medone.thieme.de/*
+Title Thieme MedOne Neurosurgery (updated 20200722)
+HTTPHeader X-CSRF-TOKEN
+URL https://medone-neurosurgery.thieme.com
+HJ medone-neurosurgery.thieme.com
+DJ medone-neurosurgery.thieme.com
+HJ profile.thieme.de
+DJ profile.thieme.de
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*
+
+HTTPMethod PUT
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://examenonline-medone.thieme.de/*
+Title Thieme MedOne Radiology (updated 20200722)
+HTTPHeader X-CSRF-TOKEN
+URL https://medone-radiology.thieme.com
+HJ medone-radiology.thieme.com
+DJ medone-radiology.thieme.com
+HJ profile.thieme.de
+DJ profile.thieme.de
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*
+
+HTTPMethod PUT
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://examenonline-medone.thieme.de/*
+Title Thieme MedOne Education (updated 20200722)
+HTTPHeader X-CSRF-TOKEN
+URL https://medone-education.thieme.com
+HJ medone-education.thieme.com
+DJ medone-education.thieme.com
+HJ profile.thieme.de
+DJ profile.thieme.de
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*
+
+HTTPMethod PUT
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://examenonline-medone.thieme.de/*
+Title Thieme MedOne ComSci (updated 20200722)
+HTTPHeader X-CSRF-TOKEN
+URL https://medone-comsci.thieme.com
+HJ medone-comsci.thieme.com
+DJ medone-comsci.thieme.com
+HJ profile.thieme.de
+DJ profile.thieme.de
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*
+
+HTTPMethod PUT
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://examenonline-medone.thieme.de/*
+Title Thieme MedOne Plasticsurgery (updated 20200722)
+HTTPHeader X-CSRF-TOKEN
+URL https://medone-plasticsurgery.thieme.com
+HJ medone-plasticsurgery.thieme.com
+DJ medone-plasticsurgery.thieme.com
+HJ profile.thieme.de
+DJ profile.thieme.de
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*
+
+HTTPMethod PUT
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://examenonline-medone.thieme.de/*
+Title Thieme MedOne Otolaryngology (updated 20200722)
+HTTPHeader X-CSRF-TOKEN
+URL https://medone-otolaryngology.thieme.com
+HJ medone-otolaryngology.thieme.com
+DJ medone-otolaryngology.thieme.com
+HJ profile.thieme.de
+DJ profile.thieme.de
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*
+
+HTTPMethod PUT
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://examenonline-medone.thieme.de/*
+Title Thieme MedOne Ophthalmology (updated 20200722)
+HTTPHeader X-CSRF-TOKEN
+URL https://medone-ophthalmology.thieme.com
+HJ medone-ophthalmology.thieme.com
+DJ medone-ophthalmology.thieme.com
+HJ profile.thieme.de
+DJ profile.thieme.de
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*

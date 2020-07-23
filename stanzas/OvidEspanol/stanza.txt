@@ -1,0 +1,5 @@
+Title OvidEspanol (updated 20200721)
+URL https://ovides.ovidds.com/
+HJ ovides.ovidds.com
+HJ https://ovides.ovidds.com
+DJ ovidds.com

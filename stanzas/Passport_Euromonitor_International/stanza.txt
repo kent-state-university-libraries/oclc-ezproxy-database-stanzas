@@ -1,12 +1,21 @@
 AnonymousURL +https://pro.fontawesome.com/*
 AnonymousURL -OPTIONS +https://notification-service.euromonitor.com/*
-#AnonymousURL +https://search-service.euromonitor.com/*
-Title Passport (Euromonitor International) (updated 20200507)
+AnonymousURL +https://productclaim-ui.euromonitor.com/*
+HTTPMethod OPTIONS
+Title Passport (Euromonitor International) (updated 20200722)
+HTTPHeader -request -process Access-Control-Allow-Origin
+HTTPHeader -request -process Access-Control-Expose-Headers
 MimeFilter text/html https://cdn.media.euromonitor.com/*  html
 URL https://www.portal.euromonitor.com
 HJ https://www.portal.euromonitor.com
+HJ http://productclaim-ui.euromonitor.com
 HJ www.portal.euromonitor.com
+HJ portal.euromonitor.com
+HJ cdn.media.euromonitor.com
+HJ https://cdn.media.euromonitor.com
+HJ https://portal.euromonitor.com
 HJ https://lv-sportsui-wus-cdn.azureedge.net
+HJ https://productclaim-ui.euromonitor.com
 DJ lv-sportsui-wus-cdn.azureedge.net
 DJ euromonitor.com
 Find //www.portal.euromonitor.com/
@@ -17,4 +26,11 @@ NeverProxy microservices.euromonitor.com
 NeverProxy consulting.euromonitor.com
 NeverProxy covid-analytics-ui.euromonitor.com
 NeverProxy search-service.euromonitor.com
-AnonymousURL -*
+NeverProxy service-portal.euromonitor.com
+NeverProxy notification-service.euromonitor.com
+NeverProxy brandshareservice.euromonitor.com
+NeverProxy companyshareservice.euromonitor.com
+NeverProxy notification-service.euromonitor.com
+NeverProxy dashboard-service-portal.euromonitor.com
+NeverProxy countryreportui.euromonitor.com
+AnonymousURL -
