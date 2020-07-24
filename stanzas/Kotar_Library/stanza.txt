@@ -1,0 +1,6 @@
+Title Kotar Library (updated 20200723)
+URL https://kotar.cet.ac.il
+HJ kotar.cet.ac.il
+DJ cet.ac.il
+NeverProxy lib.cet.ac.il
+NeverProxy kotarimagesstg.cet.ac.il

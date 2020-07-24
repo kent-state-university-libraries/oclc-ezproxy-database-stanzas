@@ -1,4 +1,5 @@
-Title Kluwer Arbitration
-URL http://www.kluwerarbitration.com
+Title Kluwer Arbitration (updated 20200721)
+URL https://www.kluwerarbitration.com
+HJ http://www.kluwerarbitration.com
 HJ www.kluwerarbitration.com
 DJ kluwerarbitration.com
