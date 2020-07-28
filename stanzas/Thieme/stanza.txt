@@ -1,5 +1,5 @@
-Title Thieme (updated 20200715)
-HTTPHeader =request =process X-CSRF-TOKEN
+Title Thieme (updated 20200728)
+HTTPHeader -request -process X-CSRF-Token
 URL https://www.thieme-connect.com/
 HJ https://ebooks.thieme.com
 HJ https://eneurosurgery.thieme.com
