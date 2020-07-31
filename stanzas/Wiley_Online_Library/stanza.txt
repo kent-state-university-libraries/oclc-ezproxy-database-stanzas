@@ -4,7 +4,8 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20200618)
+Title Wiley Online (updated 20200731)
+MimeFilter application/json .* javascript
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -response -block X-Frame-Options
 HTTPHeader -response -block Content-Security-Policy
@@ -24,21 +25,30 @@ HJ acsjournals.onlinelibrary.wiley.com
 HJ afspubs.onlinelibrary.wiley.com/
 HJ agupubs.onlinelibrary.wiley.com
 HJ aiche.onlinelibrary.wiley.com
+HJ alz-journals.onlinelibrary.wiley.com
+HJ anatomypubs.onlinelibrary.wiley.com
+HJ anthrosource.onlinelibrary.wiley.com
 HJ aocs.onlinelibrary.wiley.com
 HJ aornjournal.onlinelibrary.wiley.com
-HJ anthrosource.onlinelibrary.wiley.com
 HJ anzjsurg.onlinelibrary.wiley.com
 HJ api.wiley.com
 HJ ascpt.onlinelibrary.wiley.com
 HJ aslopubs.onlinelibrary.wiley.com
+HJ asbmr.onlinelibrary.wiley.com
 HJ besjournals.onlinelibrary.wiley.com
+HJ beva.onlinelibrary.wiley.com
 HJ bjssjournals.onlinelibrary.wiley.com
+HJ bjui-journals.onlinelibrary.wiley.com
 HJ bpspubs.onlinelibrary.wiley.com
 HJ ceramics.onlinelibrary.wiley.com
+HJ chemistry-europe.onlinelibrary.wiley.com
+HJ conbio.onlinelibrary.wiley.com
 HJ doi.wiley.com
 HJ efsa.onlinelibrary.wiley.com
 HJ esajournals.onlinelibrary.wiley.com
+HJ faseb.onlinelibrary.wiley.com
 HJ febs.onlinelibrary.wiley.com
+HJ iaap-journals.onlinelibrary.wiley.com
 HJ ila.onlinelibrary.wiley.com
 HJ interscience.wiley.com
 HJ iubmb.onlinelibrary.wiley.com
@@ -56,6 +66,10 @@ HJ setac.onlinelibrary.wiley.com
 HJ sigmapubs.onlinelibrary.wiley.com
 HJ spssi.onlinelibrary.wiley.com
 HJ stemcellsjournals.onlinelibrary.wiley.com
+HJ srcd.onlinelibrary.wiley.com
+HJ submission.wiley.com
+HJ tes.onlinelibrary.wiley.com
+HJ theoncologist.onlinelibrary.wiley.com
 HJ wildlife.onlinelibrary.wiley.com
 HJ wileyonlinelibrary.com
 HJ wires.wiley.com
@@ -126,6 +140,7 @@ HJ https://spssi.onlinelibrary.wiley.com
 HJ https://stemcellsjournals.onlinelibrary.wiley.com
 HJ https://sigmapubs.onlinelibrary.wiley.com
 HJ https://sttipubs.onlinelibrary.wiley.com
+HJ https://submission.wiley.com
 HJ https://wileyonlinelibrary.com
 HJ https://wires.wiley.com
 HJ https://www.birpublications.org
@@ -142,10 +157,21 @@ HJ https://headachejournal.onlinelibrary.wiley.com
 HJ https://asi.onlinelibrary.wiley.com
 HJ https://aps.onlinelibrary.wiley.com
 HJ https://ngwa.onlinelibrary.wiley.com
+HJ https://alz-journals.onlinelibrary.wiley.com
+HJ https://anatomypubs.onlinelibrary.wiley.com
+HJ https://asbmr.onlinelibrary.wiley.com
+HJ https://beva.onlinelibrary.wiley.com
+HJ https://bjui-journals.onlinelibrary.wiley.com
+HJ https://chemistry-europe.onlinelibrary.wiley.com
+HJ https://conbio.onlinelibrary.wiley.com
+HJ https://faseb.onlinelibrary.wiley.com
+HJ https://iaap-journals.onlinelibrary.wiley.com
+HJ https://srcd.onlinelibrary.wiley.com
+HJ https://tes.onlinelibrary.wiley.com
+HJ https://theoncologist.onlinelibrary.wiley.com
 DJ wiley.com
 DJ esajournals.org
 DJ wileyopenaccess.com
 DJ wileyonlinelibrary.com
-NeverProxy submission.wiley.com
 Option NoX-Forwarded-For
 Option Cookie
