@@ -1,12 +1,8 @@
-Title Academic Rights Press
+Title MusicID ARP (updated 20200826)
 URL http://www.academicrightspress.com/
-HJ academiccharts.com
+HJ https://www.academicrightspress.com/
+HJ https://academicrightspress.com
+HJ https://musicid.academicrightspress.com
 HJ academicrightspress.com
-HJ entertainmentid.academicrightspress.com
-HJ filmid.academicrightspress.com
-HJ ipm.academiccharts.com
 HJ musicid.academicrightspress.com
-HJ www.academiccharts.com
-HJ www.academicrightspress.com
-DJ academiccharts.com
 DJ academicrightspress.com
