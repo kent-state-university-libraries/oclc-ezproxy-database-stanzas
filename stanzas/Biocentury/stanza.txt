@@ -2,7 +2,7 @@ AnonymousURL +https://api.biocentury.com/*
 AnonymousURL +https://bciq.biocentury.com/*
 AnonymousURL +https://identityapi.biocentury.com/*
 AnonymousURL +https://www.biocentury.com/*
-Title BioCentury Publications (updated 20200304)
+Title BioCentury Publications (updated 20201001)
 HTTPHeader -request -process Access-Control-Allow-Origin
 URL https://www.biocentury.com/
 HJ http://www.biocentury.com/
@@ -27,6 +27,8 @@ HJ https://identity.biocentury.com
 HJ https://identityapi.biocentury.com
 HJ http://identityapi.biocentury.com
 HJ https://media.graphcms.com
+HJ http://bciqapi.biocentury.com
+HJ https://bciqapi.biocentury.com
 HJ graphcms.com
 DJ biocentury.com
 NeverProxy https://alertsapi.biocentury.com

@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20200929)
+Title Adam Matthew Digital (updated 20201001)
 URL www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk
 HJ resources.amdigital.co.uk
@@ -71,6 +71,9 @@ HJ www.travelwriting.amdigital.co.uk
 HJ www.victorianpopularculture.amdigital.co.uk
 HJ www.virginiacompanyarchives.amdigital.co.uk
 HJ www.worldsfairs.amdigital.co.uk
+HJ https://www.massobservationproject.amdigital.co.uk
+HJ www.massobservationproject.amdigital.co.uk
+HJ massobservationproject.amdigital.co.uk
 DJ amdigital.co.uk
 Find "http://"+getPrefix()+".massobservation.amdigital.co.uk/
 Replace "http://^pmassobservation.amdigital.co.uk^/
