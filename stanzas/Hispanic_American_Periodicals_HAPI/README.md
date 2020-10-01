@@ -1,4 +1,3 @@
-# Hispanic American Periodicals (HAPI)
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Hispanic_American_Periodicals_HAPI](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Hispanic_American_Periodicals_HAPI) **
 
 ## Some of OCLC's notes for this stanza

@@ -1,4 +1,3 @@
-# IHS Markit Connect
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IHS_Connect](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IHS_Connect) **
 
 ## Some of OCLC's notes for this stanza

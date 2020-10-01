@@ -1,4 +1,3 @@
-# PressReader
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PressReader](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PressReader) **
 
 ## Some of OCLC's notes for this stanza

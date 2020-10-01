@@ -1,4 +1,3 @@
-# Love the Work
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Love_the_Work](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Love_the_Work) **
 
 ## Some of OCLC's notes for this stanza

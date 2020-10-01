@@ -1,5 +1,6 @@
 MimeFilter application/json .* javascript
-Title Loeb Classics (updated 20200401)
+Title Loeb Classics (updated 20200812)
+HTTPHeader -request -process X-Requested-With
 URL https://www.loebclassics.com/
 HJ https://www.hup.harvard.edu
 HJ hup.harvard.edu

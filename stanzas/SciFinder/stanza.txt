@@ -1,8 +1,8 @@
 Option X-Forwarded-For
 HTTPMethod PUT
-HTTPHeader x-cas
-Title SciFinder (updated 20200313)
-HTTPHeader -request -process x-cas
+HTTPHeader x-cas*
+Title SciFinder (updated 20200918)
+HTTPHeader -request -process x-cas*
 URL https://scifinder.cas.org/scifinder
 H https://scifinder.cas.org
 H https://scifinder-n.cas.org

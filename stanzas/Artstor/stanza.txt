@@ -1,4 +1,4 @@
-Title ARTstor Digital Library (ADL) (updated 20200618)
+Title ARTstor Digital Library (ADL) (updated 20200807)
 HTTPHeader -request -process X-*
 HTTPHeader -request -process Accept-Encoding
 HTTPHeader -request -process Access-Control-Allow-Origin
@@ -11,10 +11,11 @@ AnonymousUrl +.class
 AnonymousUrl +.gif
 AnonymousUrl +.jpg
 URL https://library.artstor.org
-DJ artstor.org
-DJ mdxdv.artstor.org
+HJ library.artstor.org
 HJ https://tsprod.artstor.org
 HJ https://mdxdv.artstor.org
+DJ artstor.org
+DJ mdxdv.artstor.org
 Find //tsprod
 Replace https://tsprod
 NeverProxy tsprod.artstor.org

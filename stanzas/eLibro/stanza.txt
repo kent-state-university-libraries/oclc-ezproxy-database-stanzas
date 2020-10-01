@@ -1,6 +1,6 @@
 HTTPMethod OPTIONS
 AnonymousURL -OPTIONS +https://gateway.elibro.net/*
-Title eLibro: Biblioteca Digital en Español (updated 20200413)
+Title eLibro: Biblioteca Digital en EspaÃ±ol (updated 20200413)
 HTTPHeader -request -process X-CSRFToken
 URL https://elibro.net/es/lc/ezproxyname/inicio
 HJ https://gateway.elibro.net

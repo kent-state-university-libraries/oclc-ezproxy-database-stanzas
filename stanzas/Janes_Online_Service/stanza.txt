@@ -1,6 +1,7 @@
-Title Jane's Online Service
+Title Jane's Online Service (updated 20200908)
 MimeFilter application/json .* javascript
-URL https://janes.ihs.com
+URL https://customer.janes.com
+HJ https://janes.ihs.com
 HJ https://janes.com
 HJ client.janes.com
 HJ janes.ihs.com

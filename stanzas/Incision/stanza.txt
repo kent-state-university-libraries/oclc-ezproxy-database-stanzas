@@ -1,0 +1,9 @@
+HTTPHeader authtoken
+AnonymousURL +https://api.academy.incision.care/*
+Title Incision (updated 20200903)
+URL https://academy.incision.care/
+HJ https://api.academy.incision.care
+HJ api.academy.incision.care
+HJ academy.incision.care
+DJ academy.incision.care
+AnonymousURL -*

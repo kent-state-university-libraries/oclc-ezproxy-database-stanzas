@@ -1,4 +1,3 @@
-# University of California Press
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ucpress](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ucpress) **
 
 ## Some of OCLC's notes for this stanza

@@ -1,0 +1,9 @@
+Option NoX-Forwarded-For
+Title fastcase (updated 20200818)
+URL https://apps.fastcase.com/Research/Login/SignIn.aspx?v=
+HJ https://www.fastcase.com/login
+HJ https://apps.fastcase.com
+HJ apps.fastcase.com
+HJ www.fastcase.com
+HJ fastcase.com
+DJ fastcase.com

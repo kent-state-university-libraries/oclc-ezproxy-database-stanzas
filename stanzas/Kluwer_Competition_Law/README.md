@@ -1,4 +1,3 @@
-# Kluwer Competition Law
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Competition_Law](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Competition_Law) **
 
 ## Some of OCLC's notes for this stanza

@@ -1,4 +1,3 @@
-# American Society of Civil Engineers
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_of_Civil_Engineers](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_of_Civil_Engineers) **
 
 ## Some of OCLC's notes for this stanza

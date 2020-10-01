@@ -1,4 +1,3 @@
-# Digitalia Francaise
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digitalia_Francaise](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digitalia_Francaise) **
 
 ## Some of OCLC's notes for this stanza

@@ -1,70 +1,79 @@
+Option CookiePassThrough
+AnonymousURL +https://my.ihs.com/*
+AnonymousURL +https://my.ihs.com/*
+AnonymousURL +https://my.ihsmarkit.com/*
 AnonymousURL +https://connectproxy.ihs.com/*
 AnonymousURL +https://proxy.connect.ihsmarkit.com/*
 AnonymousURL +https://cdn.ihs.com/*
 AnonymousURL +https://cdn.ihsmarkit.com/*
 AnonymousURL +https://connect.ihsmarkit.com/*
+AnonymousURL +https://connect.ihsmarkit.com/*
+AnonymousURL +https://connect.ihs.com/*
 AnonymousURL +https://connect.ihs.com/*
 AnonymousURL +https://origin-connectproxy.ihs.com/*
 AnonymousURL +https://origin-proxy.connect.ihsmarkit.com/*
-AnonymousURL +https://notifications.connect.ihsmarkit.com/*
+AnonymousURL +https://notifications.connect.ihsmarkit.com*
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
-Title IHS Connect (updated 20200512)
+Title IHS Connect (updated 20200805)
 MimeFilter text/event-stream .* javascript
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Access-Control-Allow-Credentials
-URL https://connect.ihsmarkit.com/
+URL https://connect.ihsmarkit.com
 HJ https://connect.ihs.com/
-HJ https://my.ihs.com/
-HJ https://ihs.com/
-HJ https://connectproxy.ihs.com/
-HJ https://connectfiles.ihs.com/
-HJ https://origin-connectproxy.ihs.com/
-HJ https://origin-proxy.connect.ihsmarkit.com/
-HJ https://mapservicesproxy.ihs.com/
-HJ https://mapshost.ihs.com/
-HJ https://mapsxport.ihs.com/
-HJ https://my.ihsmarkit.com/
-HJ https://globalinsight.com/
-HJ https://connect.ihsmarkit.com/
-HJ https://origin-connect.ihsmarkit.com/
+HJ https://my.ihs.com
+HJ https://ihs.com
+HJ https://connectproxy.ihs.com
 HJ https://proxy.connect.ihsmarkit.com/
-HJ https://files.connect.ihsmarkit.com/
-HJ https://origin-files.connect.ihsmarkit.com/
-HJ https://api.connect.ihsmarkit.com/
-HJ https://tabviz.connect.ihsmarkit.com/
-HJ https://mapservices.connect.ihsmarkit.com/
-HJ https://mapexport.connect.ihsmarkit.com/
-HJ https://maphost.connect.ihsmarkit.com/
-HJ https://apps.connect.ihsmarkit.com/
+HJ https://connectfiles.ihs.com
+HJ https://origin-connectproxy.ihs.com
+HJ https://origin-proxy.connect.ihsmarkit.com/
+HJ https://mapservicesproxy.ihs.com
+HJ https://mapshost.ihs.com
+HJ https://mapsxport.ihs.com
+HJ https://my.ihsmarkit.com
+HJ https://globalinsight.com
+HJ https://connect.ihsmarkit.com
+HJ https://origin-connect.ihsmarkit.com
+HJ https://proxy.connect.ihsmarkit.com
+HJ https://origin-proxy.connect.ihsmarkit.com
+HJ https://files.connect.ihsmarkit.com
+HJ https://origin-files.connect.ihsmarkit.com
+HJ https://api.connect.ihsmarkit.com
+HJ https://tabviz.connect.ihsmarkit.com
+HJ https://mapservices.connect.ihsmarkit.com
+HJ https://mapexport.connect.ihsmarkit.com
+HJ https://maphost.connect.ihsmarkit.com
+HJ https://apps.connect.ihsmarkit.com
 HJ http://connect.ihsmarkit.com/
-HJ https://cdn.ihs.com/
-HJ https://cdn.ihsmarkit.com/
+HJ https://cdn.ihs.com
 HJ https://notifications.connect.ihsmarkit.com/
-HJ http://my.ihs.com/
-HJ http://my.ihsmarkit.com/
-HJ http://ihs.com/
-HJ http://connectproxy.ihs.com/
-HJ http://connectfiles.ihs.com/
-HJ http://origin-connectproxy.ihs.com/
-HJ http://mapservicesproxy.ihs.com/
-HJ http://mapshost.ihs.com/
-HJ http://mapsxport.ihs.com/
-HJ http://globalinsight.com/
-HJ http://origin-connect.ihsmarkit.com/
+HJ http://my.ihs.com
+HJ http://my.ihsmarkit.com
+HJ http://ihs.com
+HJ http://connectproxy.ihs.com
 HJ http://proxy.connect.ihsmarkit.com/
+HJ http://connectfiles.ihs.com
+HJ http://origin-connectproxy.ihs.com
 HJ http://origin-proxy.connect.ihsmarkit.com/
-HJ http://files.connect.ihsmarkit.com/
-HJ http://origin-files.connect.ihsmarkit.com/
-HJ http://api.connect.ihsmarkit.com/
-HJ http://tabviz.connect.ihsmarkit.com/
-HJ http://mapservices.connect.ihsmarkit.com/
-HJ http://mapexport.connect.ihsmarkit.com/
-HJ http://maphost.connect.ihsmarkit.com/
-HJ http://apps.connect.ihsmarkit.com/
-HJ http://cdn.ihs.com/
-HJ http://cdn.ihsmarkit.com/
+HJ http://mapservicesproxy.ihs.com
+HJ http://mapshost.ihs.com
+HJ http://mapsxport.ihs.com
+HJ http://globalinsight.com
+HJ http://connect.ihsmarkit.com
+HJ http://origin-connect.ihsmarkit.com
+HJ http://proxy.connect.ihsmarkit.com
+HJ http://origin-proxy.connect.ihsmarkit.com
+HJ http://files.connect.ihsmarkit.com
+HJ http://origin-files.connect.ihsmarkit.com
+HJ http://api.connect.ihsmarkit.com
+HJ http://tabviz.connect.ihsmarkit.com
+HJ http://mapservices.connect.ihsmarkit.com
+HJ http://mapexport.connect.ihsmarkit.com
+HJ http://maphost.connect.ihsmarkit.com
+HJ http://apps.connect.ihsmarkit.com
+HJ http://cdn.ihs.com
 DJ ihsmarkit.com
 DJ globalinsight.com
 DJ ihs.com
@@ -75,19 +84,24 @@ Replace ^sproxy.connect.ihsmarkit.com^
 Find connectproxy.ihs.com
 Replace ^sconnectproxy.ihs.com^
 Find ConnectOriginProxyUrl: '//origin-connectproxy.ihsmarkit.com
-Replace ConnectOriginProxyUrl: 'https://s^origin-connectproxy.ihsmarkit.com^
+Replace ConnectOriginProxyUrl: 'https://^sorigin-connectproxy.ihsmarkit.com^
 Find ConnectOriginProxyUrl: '//origin-proxy.connect.ihsmarkit.com
-Replace ConnectOriginProxyUrl: 'https://s^origin-proxy.connect.ihsmarkit.com^
+Replace ConnectOriginProxyUrl: 'https://^sorigin-proxy.connect.ihsmarkit.com^
 Find ConnectOriginProxyUrl: '//origin-connectproxy.ihs.com
-Replace ConnectOriginProxyUrl: 'https://s^origin-connectproxy.ihs.com^
+Replace ConnectOriginProxyUrl: 'https://^sorigin-connectproxy.ihs.com^
 Find visualizationUrl":"//tabviz-connect.ihs.com
-Replace visualizationUrl":"https://s^tabviz-connect.ihs.com^
+Replace visualizationUrl":"https://^stabviz-connect.ihs.com^
 Find visualizationUrl":"//tabviz.connect.ihsmarkit.com
-Replace visualizationUrl":"//s^tabviz.connect.ihsmarkit.com^
+Replace visualizationUrl":"//^stabviz.connect.ihsmarkit.com^
 Find ConnectAppsUrl: '//apps.connect.ihsmarkit.com
-Replace ConnectAppsUrl: 'https://s^apps.connect.ihsmarkit.com^
+Replace  ConnectAppsUrl: 'https://^sapps.connect.ihsmarkit.com^
 Find ConnectOriginProxyUrl: '//notifications.connect.ihsmarkit.com
-Replace ConnectOriginProxyUrl: 'https://s^notifications.connect.ihsmarkit.com^
+Replace ConnectOriginProxyUrl: 'https://^snotifications.connect.ihsmarkit.com^
+Find ConnectNotificationsUrl: '//notifications.connect.ihsmarkit.com
+Replace ConnectNotificationsUrl: 'https://^snotifications.connect.ihsmarkit.com^
+Find ConnectOriginProxyUrl: '//notifications.connect.ihsmarkit.com
+Replace ConnectOriginProxyUrl: 'https://^snotifications.connect.ihsmarkit.com^
 NeverProxy api.mapbox.com
 NeverProxy *.tiles.mapbox.com
 AnonymousURL -*
+Option Cookie

@@ -1,3 +1,7 @@
-Title Dictionary of American Regional English (DARE)
-URL https://www.daredictionary.com
+Title Dictionary of American Regional English (DARE) (updated 20200807)
+HTTPHeader -request -process X-Requested-With
+URL http://www.daredictionary.com/
+HJ https://www.daredictionary.com
+HJ www.daredictionary.com
+HJ daredictionary.com
 DJ daredictionary.com

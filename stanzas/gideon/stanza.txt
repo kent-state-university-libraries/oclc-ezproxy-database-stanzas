@@ -1,4 +1,9 @@
-Title GIDEON Online
-URL http://search.ebscohost.com/login.aspx?site=gideon&return=y
-DJ http://www.gideononline.net
-DJ http://web.gideononline.com
+Title GIDEON Online (updated 20200824)
+URL https://web.gideononline.com/loginx.php?user=[INSTITUTION_ID]
+HJ http://web.gideononline.com
+HJ app.gideononline.com
+HJ web.gideononline.com
+HJ www.gideononline.com
+DJ gideononline.com
+Find 'web.gideononline.com'
+Replace '^Sweb.gideononline.com^'

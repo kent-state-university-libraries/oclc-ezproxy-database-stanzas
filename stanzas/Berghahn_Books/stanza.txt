@@ -1,12 +1,14 @@
-Title Berghahn Books
+Title Berghahn Books (updated 20200812)
+HTTPHeader -request -process X-Requested-With
 URL http://www.berghahnbooks.com
 HJ ams.berghahnjournals.com
 HJ berghahnbooks.com
 HJ berghahnjournals.com
+HJ https://www.berghahnjournals.com/
 HJ https://journals.berghahnbooks.com
 HJ https://www.berghahnbooks.com
 HJ journals.berghahnbooks.com
 HJ www.berghahnbooks.com
 HJ www.berghahnjournals.com
 DJ berghahnbooks.com
-DJ berghahnjournals.com 
+DJ berghahnjournals.com

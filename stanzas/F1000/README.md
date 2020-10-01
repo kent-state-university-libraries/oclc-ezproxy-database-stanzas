@@ -1,4 +1,3 @@
-# Sciencenow: Faculty Opinions & Sciwheel (formerly F1000)
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/F1000](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/F1000) **
 
 ## Some of OCLC's notes for this stanza

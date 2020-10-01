@@ -1,4 +1,3 @@
-# Oncology Nursing Society
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oncology_Nursing_Society](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oncology_Nursing_Society) **
 
 ## Some of OCLC's notes for this stanza

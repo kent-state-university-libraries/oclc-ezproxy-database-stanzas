@@ -1,6 +1,7 @@
+Title IG Publishing eBook (updated 20200804)
 HTTPHeader Wicket-*
-Title IG Publishing eBook
 URL http://portal.igpublish.com/
-DJ igpublish.com
-HJ igpublish.com
 HJ portal.igpublish.com
+HJ https://portal.igpublish.com/
+HJ igpublish.com
+DJ igpublish.com

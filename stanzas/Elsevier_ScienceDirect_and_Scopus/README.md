@@ -1,4 +1,3 @@
-# Elsevier ScienceDirect and Scopus
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_ScienceDirect_and_Scopus](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_ScienceDirect_and_Scopus) **
 
 ## Some of OCLC's notes for this stanza

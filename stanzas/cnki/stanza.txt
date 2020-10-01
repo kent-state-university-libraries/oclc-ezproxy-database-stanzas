@@ -1,9 +1,16 @@
-Title CNKI (updated 20190716)
-URL http://gb.oversea.cnki.net/
-HJ big5.oversea.cnki.net
-HJ oversea.cnki.net
-HJ new.oversea.cnki.net
-HJ new.gb.oversea.cnki.net
-HJ new.big5.oversea.cnki.net
-HJ www.cnki.net
+T CNKI (updated 20200810)
+U https://gb.oversea.cnki.net/
+HJ http://big5.oversea.cnki.net
+HJ http://oversea.cnki.net
+HJ http://new.oversea.cnki.net
+HJ http://new.gb.oversea.cnki.net
+HJ http://new.big5.oversea.cnki.net
+HJ http://www.cnki.net
+HJ http://gb.oversea.cnki.net/
+HJ https://big5.oversea.cnki.net
+HJ https://oversea.cnki.net
+HJ https://new.oversea.cnki.net
+HJ https://new.gb.oversea.cnki.net
+HJ https://new.big5.oversea.cnki.net
+HJ https://www.cnki.net
 DJ cnki.net

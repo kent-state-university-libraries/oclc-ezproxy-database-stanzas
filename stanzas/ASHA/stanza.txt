@@ -1,4 +1,5 @@
-Title American Speech-Language-Hearing Association (ASHA) (updated 20190411)
+Title American Speech-Language-Hearing Association (ASHA) (updated 20200807)
+HTTPHeader -request -process X-Requested-With
 URL http://www.asha.org/publications/
 HJ https://www.asha.org/publications/
 H accperspectives.pubs.asha.org
@@ -8,6 +9,7 @@ H asha.org
 H https://accperspectives.pubs.asha.org
 H https://perspectives.pubs.asha.org
 H https://pubs.asha.org
+H https://journals.ashs.org
 H journals.pubs.asha.org
 H jshd.pubs.asha.org
 H jslhr.pubs.asha.org

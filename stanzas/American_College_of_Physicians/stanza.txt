@@ -1,4 +1,4 @@
-Title American College of Physicians (updated 20200519)
+Title American College of Physicians (updated 20200810)
 URL https://acpjournals.org
 HJ acpjournals.org
 HJ acphospitalist.org
@@ -12,11 +12,13 @@ HJ https://acponline.org
 HJ https://annals.org
 HJ https://www.acphospitalist.org
 HJ https://www.acpinternist.org
+HJ https://www.acpjournals.org
 HJ https://www.acponline.org
 HJ https://www.annals.org
 HJ www.acphospitalist.org
 HJ www.acpinternist.org
 HJ www.acpjc.org
+HJ www.acpjournals.org
 HJ www.acponline.org
 HJ www.annals.org
 DJ acpjournals.org

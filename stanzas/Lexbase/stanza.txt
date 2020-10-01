@@ -1,0 +1,6 @@
+Title Lexbase (updated 20200921)
+URL https://www.lexbase.fr
+HJ https://lexbase.fr
+HJ http://www.lexbase.fr
+HJ http://lexbase.fr
+DJ lexbase.fr

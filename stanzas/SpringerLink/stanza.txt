@@ -1,11 +1,14 @@
-Title SpringerLink (updated 20200623)
+Title SpringerLink (updated 20200825)
 URL https://link.springer.com
 HJ aa.springer.de
+HJ adisonline.com
 HJ download.springer.com
 HJ ebooks.springerlink.com
+HJ https://adisonline.com
 HJ https://link.springer.com
 HJ https://rd.springer.com
 HJ https://springer.com
+HJ https://www.adisonline.com
 HJ https://www.link.springer.com
 HJ https://www.springer.com
 HJ https://www.springerlink.com
@@ -15,6 +18,7 @@ HJ link.springer.de
 HJ rd.springer.com
 HJ springer.com
 HJ springerlink.metapress.com
+HJ www.adisonline.com
 HJ www.link.springer.com
 HJ www.springer.com
 HJ www.springerlink.com

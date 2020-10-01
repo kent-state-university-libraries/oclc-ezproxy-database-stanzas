@@ -9,7 +9,7 @@
 # This method allows you to replace the file at a later date
 # without the need to integrate updates directly into config.txt/ezproxy.cfg
 #
-Title Sage Journals (updated 20200302)
+Title Sage Journals (OCLC IncludeFile updated 20200812)
 HTTPHeader -request -process X-Requested-With
 URL https://journals.sagepub.com
 HJ advance.sagepub.com/
@@ -56,6 +56,7 @@ DJ nybooks.com
 DJ physiology.org
 DJ sagepub.co.uk
 DJ sagepub.com
+NeverProxy widgets.sagepub.com
 Find url = "http://
 Replace url = "http://^A
 Find url = "https://

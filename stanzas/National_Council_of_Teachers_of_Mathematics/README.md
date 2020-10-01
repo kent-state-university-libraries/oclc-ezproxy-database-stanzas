@@ -1,4 +1,3 @@
-# National Council of Teachers of Mathematics
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Council_of_Teachers_of_Mathematics](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Council_of_Teachers_of_Mathematics) **
 
 ## Some of OCLC's notes for this stanza

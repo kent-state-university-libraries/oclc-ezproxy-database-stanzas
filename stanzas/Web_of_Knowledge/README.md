@@ -1,4 +1,3 @@
-# Web of Knowledge
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Web_of_Knowledge](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Web_of_Knowledge) **
 
 ## Some of OCLC's notes for this stanza

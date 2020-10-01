@@ -1,4 +1,3 @@
-# SpringerLink
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SpringerLink](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SpringerLink) **
 
 ## Some of OCLC's notes for this stanza

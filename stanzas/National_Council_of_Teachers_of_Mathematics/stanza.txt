@@ -1,7 +1,9 @@
-Title National Council of Teachers of Mathematics (updated 20200210)
+Title National Council of Teachers of Mathematics (updated 20200807)
+HTTPHeader -request -process X-Requested-With
 URL https://www.nctm.org/
 HJ https://www.nctm.org
 HJ https://nctm.org
+HJ https://pubs.nctm.org
 HJ www.nctm.org
 HJ nctm.org
 DJ nctm.org

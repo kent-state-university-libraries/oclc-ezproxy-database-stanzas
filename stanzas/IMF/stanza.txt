@@ -1,6 +1,7 @@
 Option DomainCookieOnly
 HTTPHeader X-ST
-Title IMF eLibrary Statistics  (updated 20190704)
+Title IMF eLibrary Statistics (updated 20200807)
+HTTPHeader -request -process X-Requested-With
 MimeFilter application/json .* javascript
 URL http://elibrary-data.imf.org/
 HJ data.imf.org

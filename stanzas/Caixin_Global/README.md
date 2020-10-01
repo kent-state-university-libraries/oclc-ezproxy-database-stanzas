@@ -1,4 +1,3 @@
-# Caixin Global
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Caixin_Global](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Caixin_Global) **
 
 ## Some of OCLC's notes for this stanza

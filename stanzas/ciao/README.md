@@ -1,4 +1,3 @@
-# Columbia International Affairs Online (CIAO)
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ciao](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ciao) **
 
 ## Some of OCLC's notes for this stanza

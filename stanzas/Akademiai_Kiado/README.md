@@ -1,4 +1,3 @@
-# Akademiai Kiado
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Akademiai_Kiado](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Akademiai_Kiado) **
 
 ## Some of OCLC's notes for this stanza

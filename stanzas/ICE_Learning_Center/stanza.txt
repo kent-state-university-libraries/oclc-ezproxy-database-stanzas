@@ -1,0 +1,9 @@
+Title ICE Learning Center (updated 20200915)
+URL http://videos.icelearningcenter.com
+HJ https://videos.icelearningcenter.com
+HJ https://www.icelearningcenter.com
+HJ www.icelearningcenter.com
+HJ icelearningcenter.com
+HJ https://icelearningcenter.com
+DJ icelearningcenter.com
+DJ videos.icelearningcenter.com

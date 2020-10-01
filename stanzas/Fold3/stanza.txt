@@ -1,7 +1,7 @@
-Title Fold3 (updated 20200224)
-URL https://fold3library.proquest.com
-H fold3library.proquest.com
-DJ fold3library.proquest.com
-NeverProxy fold3.com
-NeverProxy cdnjs.cloudflare.com
-NeverProxy www.fold3.com
+Title Fold3 (updated 20200824)
+MimeFilter application/json .* javascript
+URL https://www.fold3.com
+HJ go.fold3.com
+HJ www.fold3.com
+HJ img.fold3.com
+DJ fold3.com

@@ -5,7 +5,7 @@ HTTPHeader X-Requested-With
 HTTPMethod DELETE
 HTTPMethod PUT
 HTTPMethod PATCH
-Title WestlawNext Campus Research (20180611)
+Title WestlawNext Campus Research (updated 20200731)
 URL https://1.next.westlaw.com/Search/Home.html?rs=IWLN1.0&vr=3.0&sp=YOURSPONSORSHIP&forcecdn=false&bhskip=1
 DJ westlaw.com
 Option Cookie
@@ -15,3 +15,4 @@ NeverProxy i1.next.westlaw.com:443
 NeverProxy ia.next.westlaw.com:443
 NeverProxy j1.next.westlaw.com:443
 NeverProxy ja.next.westlaw.com:443
+NeverProxy a.next.westlaw.com:443

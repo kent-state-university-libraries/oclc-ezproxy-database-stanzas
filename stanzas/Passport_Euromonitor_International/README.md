@@ -1,4 +1,3 @@
-# Passport (Euromonitor International)
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Passport_Euromonitor_International](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Passport_Euromonitor_International) **
 
 ## Some of OCLC's notes for this stanza

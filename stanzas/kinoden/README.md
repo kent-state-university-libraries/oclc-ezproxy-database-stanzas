@@ -1,4 +1,3 @@
-# KinoDen eBook
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/kinoden](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/kinoden) **
 
 ## Some of OCLC's notes for this stanza

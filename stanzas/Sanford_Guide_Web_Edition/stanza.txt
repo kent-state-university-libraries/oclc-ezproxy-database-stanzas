@@ -1,6 +1,8 @@
 Option X-Forwarded-For
-Title Sanford Guide Web Edition
-URL http://webedition.sanfordguide.com
+Title Sanford Guide (updated 20200901)
+URL https://webedition.sanfordguide.com
 HJ webedition.sanfordguide.com
-DJ webedition.sanfordguide.com
+HJ https://register.sanfordguide.com
+HJ register.sanfordguide.com
+DJ sanfordguide.com
 Option NoX-Forwarded-For

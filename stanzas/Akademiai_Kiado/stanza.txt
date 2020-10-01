@@ -1,4 +1,5 @@
-Title Akademiai Kiado (updated 20200421)
+Title Akademiai Kiado (updated 20200807)
+HTTPHeader -request -process X-Requested-With
 URL https://akjournals.com/
 HJ akademiai.com
 HJ akjournals.com

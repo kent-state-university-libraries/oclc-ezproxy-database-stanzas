@@ -1,8 +1,9 @@
-# Academic Rights Press
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/academicrightspress.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/academicrightspress.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academic_Rights_Press](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academic_Rights_Press) **
 
 ## Some of OCLC's notes for this stanza
 
-Academic Rights Press requires the following configuration in config.txt :
-
 Note: This resource was formerly titled Academic Charts Online. If you have this resource and the old Academic Charts Online stanza, please update to this new stanza.
+
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
+
+&nbsp;

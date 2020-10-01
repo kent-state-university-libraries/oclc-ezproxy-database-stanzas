@@ -1,7 +1,9 @@
-Title Human Kinetics
+Title Human Kinetics (updated 20200807)
+HTTPHeader -request -process X-Requested-With
 URL http://www.humankinetics.com/
 URL https://www.humankinetics.com/
 HJ www.humankinetics.com
 HJ journals.humankinetics.com
+HJ https://journals.humankinetics.com
 HJ hk.humankinetics.com
 DJ humankinetics.com

@@ -1,0 +1,31 @@
+Option CookiePassthrough
+AnonymousURL +https://hkwe6.wisersone.com*
+AnonymousURL +https://twwe6.wisersone.com*
+AnonymousURL +https://cnwe6.wisersone.com*
+AnonymousURL -OPTIONS +https://www.wisersone.com*
+AnonymousURL +https://www.wisersone.com*
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
+Title WisersOne (updated 20200917)
+URL https://www.wisersone.com/?gid=YourGID6&user=YourUser
+HTTPHeader -request -process Access-Control-Allow
+HJ login.wisers.net
+HJ https://login.wisers.net
+HJ wisersone.com
+HJ wisenews.net
+HJ wisers.net
+HJ cnwe6.wisersone.com
+HJ hkwe6.wisersone.com
+HJ twwe6.wisersone.com
+HJ https://wisersone.com
+HJ https://wisenews.net
+HJ https://wisers.net
+HJ https://cnwe6.wisersone.com
+HJ https://hkwe6.wisersone.com
+HJ https://twwe6.wisersone.com
+DJ wisers.net
+DJ wisenews.net
+DJ wisersone.com
+AnonymousURL -*
+Option Cookie

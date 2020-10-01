@@ -1,4 +1,3 @@
-# INGENTAconnect
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/INGENTAconnect](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/INGENTAconnect) **
 
 ## Some of OCLC's notes for this stanza

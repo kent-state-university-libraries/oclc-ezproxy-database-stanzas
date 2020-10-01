@@ -1,4 +1,3 @@
-# Burlington Magazine Publishing Ltd.
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Burlington_Magazine_Publishing_Ltd](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Burlington_Magazine_Publishing_Ltd) **
 
 ## Some of OCLC's notes for this stanza
