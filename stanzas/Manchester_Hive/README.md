@@ -1,5 +1,5 @@
-# A-R Music Anthology (formerly Online Music Anthology)
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Online_Music_Anthology](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Online_Music_Anthology) **
+# Manchester Hive
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Manchester_Hive](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Manchester_Hive) **
 
 ## Some of OCLC's notes for this stanza
 

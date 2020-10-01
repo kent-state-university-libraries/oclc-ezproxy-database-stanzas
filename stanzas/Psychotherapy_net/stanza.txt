@@ -1,5 +1,8 @@
-Title Psychotherapy.net (updated 20191125)
-URL https://www.psychotherapy.net/stream/[institution id]
+Title Psychotherapy.net (updated 20200929)
+URL https://www.psychotherapy.net/
 HJ https://www.psychotherapy.net
 HJ www.psychotherapy.net
+H https://p3.3playmedia.com
 DJ psychotherapy.net
+NeverProxy player.vimeo.com
+NeverProxy cdnapisec.kaltura.com

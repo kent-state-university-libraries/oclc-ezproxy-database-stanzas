@@ -1,4 +1,4 @@
-Title Oncology Nursing Society
+Title Oncology Nursing Society  (updated 20200921)
 URL http://connect.ons.org/
 HJ cjon.ons.org
 HJ connect.ons.org
@@ -13,7 +13,7 @@ HJ https://www.cjon.ons.org
 HJ https://www.ebooks.ons.org
 HJ https://www.onf.ons.org
 HJ https://www.ons.org
-HT https://voice.ons.org
+HJ https://voice.ons.org
 HJ onf.ons.org
 HJ ons.org
 HJ www.cjon.ons.org

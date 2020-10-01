@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title Market Intelligence Platform (formerly SNL)(updated 20200224)
+Title Market Intelligence Platform (formerly SNL)(updated 20200920)
 HTTPHeader -request -process X-CSRF-Token
 HTTPHeader -request -process com-gmi-*
 HTTPHeader -request -process SNL-*
@@ -25,6 +25,7 @@ Replace && 0
 Find https://www.snl.com/SNL.Services.Export.Service
 Replace https://^swww.snl.com^/SNL.Services.Export.Service
 NeverProxy app.snl.com
+NeverProxy cdn.spgi.spglobal.com
 DJ mhfi.com
 DJ spglobal.com
 Find xmlns=\"http://

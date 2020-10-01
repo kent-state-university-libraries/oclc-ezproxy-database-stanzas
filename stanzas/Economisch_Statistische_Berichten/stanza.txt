@@ -1,4 +1,7 @@
-Title Economisch Statistische Berichten
+AnonymousURL +*.woff*
+AnonymousURL +*.woff2*
+AnonymousURL +*.ttf*
+Title Economisch Statistische Berichten (updated 20200925)
 URL https://esb.nu/
 HJ economie.nl
 HJ esb.nu
@@ -10,3 +13,4 @@ HJ www.esb.nu
 HJ www.esbonline.nl
 DJ economie.nl
 DJ esb.nu
+AnonymousURL -*

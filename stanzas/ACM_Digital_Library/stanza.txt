@@ -1,7 +1,9 @@
 Option X-Forwarded-For
-Title ACM Digital Library (updated 20200302)
+Title ACM Digital Library (updated 20200929)
 URL http://dl.acm.org
 HJ https://dl.acm.org
+HJ https://dlnext.acm.org
+HJ dlnext.acm.org
 HJ acm.org
 HJ acmtecs.acm.org
 HJ books.acm.org
@@ -54,3 +56,5 @@ HJ xrds.acm.org
 DJ acm.org
 Option NoX-Forwarded-For
 NeverProxy idp.acm.org
+NeverProxy acm-prod-streaming.literatumonline.com
+NeverProxy acm-prod-cdn.literatumonline.com

@@ -1,5 +1,5 @@
-# A-R Music Anthology (formerly Online Music Anthology)
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Online_Music_Anthology](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Online_Music_Anthology) **
+# Economisch Statistische Berichten
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economisch_Statistische_Berichten](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economisch_Statistische_Berichten) **
 
 ## Some of OCLC's notes for this stanza
 
