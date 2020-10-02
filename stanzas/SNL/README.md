@@ -1,3 +1,4 @@
+# Market Intelligence Platform (formerly SNL)
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SNL](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SNL) **
 
 ## Some of OCLC's notes for this stanza

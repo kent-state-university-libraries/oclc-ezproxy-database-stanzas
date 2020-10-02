@@ -1,3 +1,4 @@
+# Academic Writer (formerly APA Style CENTRAL)
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/apastylecentral](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/apastylecentral) **
 
 ## Some of OCLC's notes for this stanza
