@@ -1,0 +1,16 @@
+AnonymousURL +https://myaccount.nejm.org/api/*
+AnonymousURL +https://cssjs.nejm.org/fonts/*
+T NEJM Catalyst (OCLC IncludeFile updated 20201009)
+HTTPHeader -response -process access-control-allow-origin
+U https://catalyst.nejm.org/
+HJ https://catalyst.nejm.org/
+HJ http://catalyst.nejm.org/
+HJ catalyst.nejm.org
+HJ https://myaccount.nejm.org/
+HJ http://myaccount.nejm.org/
+HJ myaccount.nejm.org
+HJ https://cssjs.nejm.org/
+HJ http://cssjs.nejm.org/
+HJ cssjs.nejm.org
+DJ nejm.org
+AnonymousURL -*
