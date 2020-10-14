@@ -1,16 +1,19 @@
-T CNKI (updated 20200810)
-U https://gb.oversea.cnki.net/
-HJ http://big5.oversea.cnki.net
-HJ http://oversea.cnki.net
-HJ http://new.oversea.cnki.net
-HJ http://new.gb.oversea.cnki.net
-HJ http://new.big5.oversea.cnki.net
-HJ http://www.cnki.net
-HJ http://gb.oversea.cnki.net/
-HJ https://big5.oversea.cnki.net
+Option CookiePassThrough
+Title CNKI (updated 20201013)
+URL http://gb.oversea.cnki.net/
 HJ https://oversea.cnki.net
-HJ https://new.oversea.cnki.net
-HJ https://new.gb.oversea.cnki.net
-HJ https://new.big5.oversea.cnki.net
-HJ https://www.cnki.net
+HJ chn.oversea.cnki.net
+HJ https://chn.oversea.cnki.net
+HJ gb.oversea.cnki.net
+HJ https://gb.oversea.cnki.net
+HJ big5.oversea.cnki.net
+HJ https://big5.oversea.cnki.net
+HJ tra.oversea.cnki.net
+HJ https://tra.oversea.cnki.net
+HJ oversea.cnki.net
+HJ new.oversea.cnki.net
+HJ new.gb.oversea.cnki.net
+HJ new.big5.oversea.cnki.net
+HJ www.cnki.net
 DJ cnki.net
+OPTION Cookie
