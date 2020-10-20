@@ -1,0 +1,8 @@
+Title Ruimte + Wonen  (updated 20201020)
+HTTPHeader -request -process X-Requested-With
+URL https://www.ruimteenwonen.nl/
+HJ https://ruimteenwonen.nl
+HJ https://www.ruimteenwonen.nl
+HJ ruimteenwonen.nl
+HJ www.ruimteenwonen.nl
+DJ ruimteenwonen.nl

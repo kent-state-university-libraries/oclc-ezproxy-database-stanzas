@@ -1,7 +1,14 @@
-Title NRC Research Press
-URL http://www.nrcresearchpress.com/
-HJ https://www.nrcresearchpress.com
+Title NRC Research Press (updated 20201019)
+URL https://cdnsciencepub.com/
+HJ blog.cdnsciencepub.com
+HJ cdnsciencepub.com
+HJ https://blog.cdnsciencepub.com
+HJ https://cdnsciencepub.com
 HJ https://nrcresearchpress.com
+HJ https://www.cdnsciencepub.com
+HJ https://www.nrcresearchpress.com
 HJ nrcresearchpress.com
+HJ www.cdnsciencepub.com
 HJ www.nrcresearchpress.com
+DJ cdnsciencepub.com
 DJ nrcresearchpress.com
