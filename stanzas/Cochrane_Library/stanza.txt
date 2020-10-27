@@ -1,5 +1,4 @@
-Option DomainCookieOnly
-Title Cochrane Library  (updated 20200217)
+Title Cochrane Library  (updated 20201027)
 HTTPHeader -request -process X-Requested-With
 URL http://www.cochranelibrary.com/
 HJ cochrane.org
@@ -45,4 +44,3 @@ Find https://thecochranelibrary#x2e;com
 Replace https://^sthecochranelibrary.com^
 Find https&#x3a;&#x2f;&#x2f;www&#x2e;cochranelibrary&#x2e;com
 Replace https://^swww.cochranelibrary.com^
-Option Cookie
