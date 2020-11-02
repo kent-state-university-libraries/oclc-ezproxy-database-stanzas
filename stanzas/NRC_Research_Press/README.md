@@ -1,4 +1,4 @@
-# NRC Research Press
+# Canadian Science Publishing (formerly NRC Research Press)
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NRC_Research_Press](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NRC_Research_Press) **
 
 ## Some of OCLC's notes for this stanza
