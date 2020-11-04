@@ -1,11 +1,10 @@
-Title American Association for Cancer Research (updated 20191111)
+Title American Association for Cancer Research (updated 20201103)
 URL http://www.aacrjournals.org/
 HJ aacrjournals.org
 HJ cancerdiscovery.aacrjournals.org
 HJ cancerimmunolres.aacrjournals.org
 HJ cancerpreventionresearch.aacrjournals.org
 HJ cancerres.aacrjournals.org
-HJ https://cancerres.aacrjournals.org
 HJ canimmessentials.aacrjournals.org
 HJ canreviews.aacrjournals.org
 HJ cdnews.aacrjournals.org
@@ -14,6 +13,15 @@ HJ cgd.aacrjournals.org
 HJ clincancerres.aacrjournals.org
 HJ cme.aacrjournals.org
 HJ educationbook.aacrjournals.org
+HJ https://aacrjournals.org
+HJ https://cancerdiscovery.aacrjournals.org
+HJ https://cancerimmunolres.aacrjournals.org
+HJ https://cancerpreventionresearch.aacrjournals.org
+HJ https://cancerres.aacrjournals.org
+HJ https://cebp.aacrjournals.org
+HJ https://clincancerres.aacrjournals.org
+HJ https://mcr.aacrjournals.org
+HJ https://mct.aacrjournals.org
 HJ intl-preventionportal.aacrjournals.org
 HJ mcr.aacrjournals.org
 HJ mct.aacrjournals.org
