@@ -1,0 +1,10 @@
+Title Europresse/Eureka (updated 20201105)
+URL https://nouveau.europresse.com
+HJ https://nouveau.eureka.cc
+HJ https://new.europresse.com
+HJ https://new.eureka.cc
+NeverProxy pro.fontawesome.com
+NeverProxy maxcdn.bootstrapcdn.com
+NeverProxy fonts.googleapis.com
+NeverProxy ajax.googleapis.com
+NeverProxy cdn.mxpnl.com
