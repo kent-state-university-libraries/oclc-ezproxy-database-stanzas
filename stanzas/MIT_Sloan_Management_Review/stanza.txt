@@ -1,0 +1,9 @@
+Title MIT Sloan Management Review (updated 20201012)
+URL http://sloanreview.mit.edu/
+HJ https://api.queryly.com
+HJ https://sloanreview.mit.edu
+HJ https://www.queryly.com
+HJ sloanreview.mit.edu
+DJ sloanreview.mit.edu
+Find //api.queryly.com/
+Replace //^sapi.queryly.com^/
