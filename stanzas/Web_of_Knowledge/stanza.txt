@@ -2,7 +2,7 @@ OPTION Cookiepassthrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
 AnonymousURL +https://csi.webofknowledge.com/CSI/*
-Title Web of Knowledge (OCLC IncludeFile updated 20200615)
+Title Web of Science (formerly Web Of Knowledge) (updated 20201111)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process ak_bmsc
@@ -10,7 +10,7 @@ HTTPHeader -request -process bm_sv
 HTTPHeader -request -process bm_mi
 HTTPHeader -request -process bm_sz
 HTTPHeader -request -process _abck
-URL http://www.webofknowledge.com
+URL http://www.webofscience.com
 HJ https://www.webofknowledge.com
 HJ http://webofknowledge.com
 HJ https://webofknowledge.com
