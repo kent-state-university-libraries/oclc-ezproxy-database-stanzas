@@ -1,7 +1,8 @@
-Title JoVE (updated 20201102)
+Title JoVE (updated 20201117)
 URL https://www.jove.com/
 HJ https://www.jove.com
 HJ www.jove.com
 HJ stats.jove.com
 DJ jove.com
 NeverProxy cloudfront.jove.com
+NeverProxy cdn.jove.com
