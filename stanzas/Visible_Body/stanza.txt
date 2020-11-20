@@ -1,19 +1,52 @@
-Title Visible Body (updated 20200513)
-URL https://www.visiblebody.com
-HJ atlas.visiblebody.com
-HJ coursepacks.visiblebody.com
-HJ inst.visiblebody.com
-HJ muscle.visiblebody.com
-HJ physiology.visiblebody.com
-HJ www.visiblebody.com
-HJ www1.visiblebody.com
-HJ https://atlas.visiblebody.com
-HJ https://coursepacks.visiblebody.com
-HJ https://inst.visiblebody.com
-HJ https://muscle.visiblebody.com
-HJ https://physiology.visiblebody.com
-HJ https://www.visiblebody.com
-HJ https://www1.visiblebody.com
+Title Visible Body Courseware (updated 20201119)
+URL https://courseware.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+
+Title Visible Body Human Anatomy Atlas (updated 20201119)
+URL http://atlas.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
+
+Title Visible Body Muscle Premium (updated 20201119)
+URL http://muscle.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
+
+Title Visible Body Anatomy & Physiology (updated 20201119)
+URL http://aandp.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
+
+Title Visible Body Physiology & Pathology (updated 20201119)
+URL http://pandp.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
+
+Title Visible Body Physiology Animations (updated 20201119)
+URL http://physiology.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
+
+Title Visible Body Circulatory Premium (updated 20201119)
+URL http://circulatory.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
+
+Title Visible Body Skeleton Premium (updated 20201119)
+URL http://skeleton.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
+
+Title Visible Body Anatomy & Function (updated 20201119)
+URL http://aandf.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
