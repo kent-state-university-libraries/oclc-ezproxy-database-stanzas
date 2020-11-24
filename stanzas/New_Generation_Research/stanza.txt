@@ -1,4 +1,4 @@
-Title New Generation Research (BankruptcyData) (updated 20200310)
+Title New Generation Research (BankruptcyData) (updated 20201123)
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Authorization
 URL https://ngrdashboard.bankruptcydata.com
@@ -7,3 +7,4 @@ HJ https://www.bankruptcydata.com/
 HJ http://www.bankruptcydata.com/
 DJ bankruptcydata.com
 NeverProxy prod-dashapi.bankruptcydata.com
+NeverProxy www.calcbench.com
