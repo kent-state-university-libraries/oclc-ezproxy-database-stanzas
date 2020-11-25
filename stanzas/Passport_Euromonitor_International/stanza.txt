@@ -2,7 +2,7 @@ AnonymousURL +https://pro.fontawesome.com/*
 AnonymousURL -OPTIONS +https://notification-service.euromonitor.com/*
 AnonymousURL +https://productclaim-ui.euromonitor.com/*
 HTTPMethod OPTIONS
-Title Passport (Euromonitor International) (updated 20200917)
+Title Passport (Euromonitor International) (updated 20201125)
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Access-Control-Expose-Headers
 MimeFilter text/html https://cdn.media.euromonitor.com/*  html
@@ -16,6 +16,7 @@ HJ https://cdn.media.euromonitor.com
 HJ https://portal.euromonitor.com
 HJ https://lv-sportsui-wus-cdn.azureedge.net
 HJ https://productclaim-ui.euromonitor.com
+HJ https://microfrontend-passport.euromonitor.com
 DJ lv-sportsui-wus-cdn.azureedge.net
 DJ euromonitor.com
 Find //www.portal.euromonitor.com/
