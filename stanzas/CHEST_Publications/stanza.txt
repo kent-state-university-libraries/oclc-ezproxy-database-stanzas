@@ -1,8 +1,21 @@
-Title CHEST Publications
-URL http://publications.chestnet.org
-HJ journal.publications.chestnet.org
-HJ book.publications.chestnet.org
-HJ chestjournal.org
+Title CHEST Publications (updated 20201127)
+URL http://www.chestnet.org/
 HJ chestjournal.chestpubs.org
+HJ chestjournal.org
+HJ chestnet.org
+HJ https://chestjournal.chestpubs.org
+HJ https://chestjournal.org
+HJ https://chestnet.org
+HJ https://journal.chestnet.org
+HJ https://journal.publications.chestnet.org
+HJ https://publications.chestnet.org
+HJ https://secure.jbs.elsevierhealth.com
+HJ https://www.chestjournal.org
+HJ https://www.chestnet.org
+HJ journal.chestnet.org
+HJ journal.publications.chestnet.org
+HJ publications.chestnet.org
+HJ secure.jbs.elsevierhealth.com
 HJ www.chestjournal.org
+HJ www.chestnet.org
 DJ chestnet.org
