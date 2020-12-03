@@ -1,4 +1,9 @@
-Title RIA Checkpoint Tax
-URL https://checkpoint.riag.com/login?iploc=youraccountID
-Host checkpoint.riag.com
+Title Checkpoint Tax Research (updated 20201202)
+URL https://checkpoint.riag.com/
+HJ https://checkpoint.riag.com
 DJ checkpoint.riag.com
+
+Title Checkpoint Tax Research Student Account (updated 20201202)
+URL https://cpreg.thomsonreuters.com
+HJ https://cpreg.thomsonreuters.com
+DJ thomsonreuters.com

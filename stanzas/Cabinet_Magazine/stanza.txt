@@ -1,0 +1,6 @@
+Option CookiePassthrough
+Title Cabinet Magazine (updated 20201201)
+URL http://cabinetmagazine.org/
+HJ https://cabinetmagazine.org
+DJ cabinetmagazine.org
+Option Cookie
