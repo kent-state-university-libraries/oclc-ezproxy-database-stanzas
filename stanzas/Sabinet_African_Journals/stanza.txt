@@ -1,0 +1,7 @@
+Title Sabinet African Journals (updated 20201204)
+URL http://www.journals.co.za/
+H https://journals.co.za
+H https://www.journals.co.za
+H journals.co.za
+H www.journals.co.za
+D journals.co.za
