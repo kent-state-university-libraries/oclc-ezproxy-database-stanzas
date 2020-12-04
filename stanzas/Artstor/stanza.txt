@@ -1,4 +1,4 @@
-Title ARTstor Digital Library (ADL) (updated 20200807)
+Title ARTstor Digital Library (ADL) (updated 20201204)
 HTTPHeader -request -process X-*
 HTTPHeader -request -process Accept-Encoding
 HTTPHeader -request -process Access-Control-Allow-Origin
@@ -14,10 +14,16 @@ URL https://library.artstor.org
 HJ library.artstor.org
 HJ https://tsprod.artstor.org
 HJ https://mdxdv.artstor.org
+HJ https://www.artstor.org
+HJ www.artstor.org
 DJ artstor.org
 DJ mdxdv.artstor.org
 Find //tsprod
 Replace https://tsprod
+Find https&#x3A;&#x2F;&#x2F;www.artstor.org
+Replace https&#x3A;&#x2F;&#x2F;^swww.artstor.org^
+Find http&#x3A;&#x2F;&#x2F;library.artstor.org
+Replace http&#x3A;&#x2F;&#x2F;^plibrary.artstor.org^
 NeverProxy tsprod.artstor.org
 NeverProxy kaltura.artstor.org
 NeverProxy kts.artstor.org
