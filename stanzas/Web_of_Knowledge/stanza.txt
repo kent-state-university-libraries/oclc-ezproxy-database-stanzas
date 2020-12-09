@@ -2,7 +2,7 @@ OPTION Cookiepassthrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
 AnonymousURL +https://csi.webofknowledge.com/CSI/*
-Title Web of Science (formerly Web Of Knowledge) (updated 20201111)
+Title Web of Science (formerly Web Of Knowledge) (updated 20201209)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process ak_bmsc
@@ -24,6 +24,8 @@ HJ apps.webofknowledge.com
 HJ ac.webofknowledge.com
 HJ esi.webofknowledge.com
 HJ https://apps.webofknowledge.com
+HJ https://webofscience.com
+HJ https://www.webofscience.com
 HJ images.webofknowledge.com
 HJ gateway.webofknowledge.com
 HJ isiknowledge.com

@@ -1,7 +1,11 @@
-Title Acoustical Society of America
+Title Acoustical Society of America (updated 20201209)
 URL http://www.acousticalsociety.org/
 HJ acousticalsociety.org
 HJ asadl.org
+HJ https://acousticalsociety.org
+HJ https://asadl.org
+HJ https://www.acousticalsociety.org
+HJ https://www.asadl.org
 HJ www.acousticalsociety.org
 HJ www.asadl.org
 DJ acousticalsociety.org
