@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title Ovid HTTPS (updated 20200602)
+Title Ovid HTTPS (updated 20201216)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
@@ -66,6 +66,8 @@ HJ watch.ondemand.org
 HJ https://watch.ondemand.org
 HJ app.jbisumari.org
 HJ https://app.jbisumari.org
+HJ https://journals.lww.com
+DJ lww.com
 DJ anatomyreferencecenter.com
 DJ dc1.ovid.com
 DJ dc2.ovid.com

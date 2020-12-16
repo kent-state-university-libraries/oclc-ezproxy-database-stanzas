@@ -1,5 +1,5 @@
-# IG Publishing eBook
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IG_Publishing_eBook](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IG_Publishing_eBook) **
+# Orbis
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Orbis](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Orbis) **
 
 ## Some of OCLC's notes for this stanza
 

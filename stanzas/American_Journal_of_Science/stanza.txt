@@ -1,4 +1,7 @@
-Title American Journal of Science
+Title American Journal of Science (updated 20201215)
 URL http://www.ajsonline.org/
+HJ ajsonline.org
+HJ https://ajsonline.org
+HJ https://www.ajsonline.org
 HJ www.ajsonline.org
 DJ ajsonline.org

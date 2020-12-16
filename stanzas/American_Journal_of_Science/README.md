@@ -1,5 +1,5 @@
-# IG Publishing eBook
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IG_Publishing_eBook](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IG_Publishing_eBook) **
+# American Journal of Science
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Journal_of_Science](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Journal_of_Science) **
 
 ## Some of OCLC's notes for this stanza
 
