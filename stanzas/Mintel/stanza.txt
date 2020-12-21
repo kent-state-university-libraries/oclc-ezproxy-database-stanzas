@@ -1,7 +1,6 @@
-Title Mintel (updated 20200819)
 HTTPMethod OPTIONS
 AnonymousURL -OPTIONS +https://www.gnpd.com/sinatra/api/*
-Title Mintel (updated 20200811)
+Title Mintel (updated 20201221)
 URL https://clients.mintel.com/
 HJ clients.mintel.com
 HJ portal.mintel.com
