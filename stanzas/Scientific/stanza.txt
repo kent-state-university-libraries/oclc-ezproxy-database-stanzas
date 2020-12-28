@@ -1,0 +1,16 @@
+Title Scientific.NET - Trans Tech Publications (updated 20201228)
+URL https://www.scientific.net
+HJ https://main.scientific.net
+HJ www.scientific.net
+HJ main.scientific.net
+DJ www.scientific.net
+DJ main.scientific.net
+DJ stripe.com
+DJ crossmark.crossref.org
+DJ www.google-analytics.com
+DJ www.gstatic.com
+DJ www.googletagmanager.com
+DJ fonts.googleapis.com
+DJ www.recaptcha.net
+DJ www.atmrum.net
+DJ plu.mx

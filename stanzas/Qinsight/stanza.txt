@@ -1,6 +1,5 @@
-Title Qinsight (updated 20191025)
-URL https://www.quetzal-search.info
-HJ https://www.qinsight.info
+Title Qinsight (updated 20201228)
+URL https://www.qinsight.info
 HJ https://quertle.com
 DJ quetzal-search.info
 DJ qinsight.info

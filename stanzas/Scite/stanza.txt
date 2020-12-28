@@ -1,0 +1,4 @@
+Title Scite (updated 20201228)
+URL https://scite.ai
+HJ http://www.scite.ai
+DJ scite.ai
