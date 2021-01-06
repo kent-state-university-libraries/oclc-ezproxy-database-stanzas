@@ -1,0 +1,5 @@
+Title Cap Financials (updated 20210105)
+HTTPHeader -request -process Unique-User-Identifier
+URL https://app.capfinancials.com
+HJ http://app.capfinancials.com
+DJ capfinancials.com
