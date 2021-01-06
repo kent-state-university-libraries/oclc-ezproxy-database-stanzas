@@ -1,0 +1,10 @@
+Title Institute of Mathematics of the Polish Academy of Sciences (updated 20210106)
+URL http://www.impan.pl
+HJ https://impan.pl
+HJ https://www.impan.pl
+HJ impan.pl
+HJ journals.impan.gov.pl
+HJ www.impan.gov.pl
+HJ www.impan.pl
+DJ impan.gov.pl
+DJ impan.pl
