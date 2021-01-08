@@ -1,0 +1,15 @@
+AnonymousURL http://bookend-view-app.keyring.net/*
+Title Medical Online (updated 20210108)
+URL http://mol.medicalonline.jp/library/
+DJ medicalonline.jp
+HJ bookend-view-app.keyring.net
+Find bookend-view-app.keyring.net/inbrview/
+Replace ^pbookend-view-app.keyring.net^/inbrview/
+AnonymousURL -*
+
+# Hidden Stanza for Medical Online
+Title -hide Medical Online Cross-Origin-JS
+URL http://bookend-view-app.keyring.net
+HTTPHeader -response -edit Access-Control-Allow-Origin RewriteURL(mol.medicalonline.jp)
+HJ www.medicalonline.jp
+DJ medicalonline.jp
