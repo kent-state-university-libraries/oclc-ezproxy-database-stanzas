@@ -1,6 +1,8 @@
-Title Thieme E-Journals (updated 20201201)
+Title Thieme E-Journals (updated 20210111)
 URL https://www.thieme-connect.com/products/all/home.html
 HJ http://www.thieme-connect.com
+HJ https://www.thieme-connect.de
+HJ www.thieme-connect.de
 HJ thieme-connect.com
 DJ thieme-connect.com
 HJ profile.thieme.de
