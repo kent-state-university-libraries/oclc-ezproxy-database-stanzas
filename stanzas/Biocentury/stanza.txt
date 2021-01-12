@@ -1,10 +1,15 @@
 AnonymousURL +https://api.biocentury.com/*
+AnonymousURL +https://media.graphcms.com/*
+AnonymousURL +https://core.biocentury.com/*
 AnonymousURL +https://bciq.biocentury.com/*
 AnonymousURL +https://identityapi.biocentury.com/*
 AnonymousURL +https://www.biocentury.com/*
-Title BioCentury Publications (updated 20201001)
+AnonymousURL +https://identity.biocentury.com/*
+Title BioCentury Publications (OCLC IncludeFile updated 20210112)
 HTTPHeader -request -process Access-Control-Allow-Origin
 URL https://www.biocentury.com/
+HJ https://conferences.biocentury.com
+HJ http://conferences.biocentury.com
 HJ http://www.biocentury.com/
 HJ http://biocentury.com/
 HJ https://biocentury.com/
@@ -27,26 +32,25 @@ HJ https://identity.biocentury.com
 HJ https://identityapi.biocentury.com
 HJ http://identityapi.biocentury.com
 HJ https://media.graphcms.com
-HJ http://bciqapi.biocentury.com
-HJ https://bciqapi.biocentury.com
 HJ graphcms.com
 DJ biocentury.com
-NeverProxy https://alertsapi.biocentury.com
 NeverProxy https://articleapi.biocentury.com
+NeverProxy https://alertsapi.biocentury.com
+NeverProxy https://bciqapi.biocentury.com
 Find "https://www.biocentury.com/
-Replace "https://^swww.biocentury.com^/
+Replace https://"^Swww.biocentury.com^/
 Find "https:\/\/www.biocentury.com\/
-Replace "https:\/\/^swww.biocentury.com^\/
+Replace "https:\/\/^Swww.biocentury.com^\/
 Find "http://www.biocentury.com/
 Replace "http://^pwww.biocentury.com^/
 Find "https://accounts.biocentury.com/
 Replace "https://^saccounts.biocentury.com^/
 Find "https:\/\/accounts.biocentury.com\/
-Replace "https:\/\/^saccounts.biocentury.com^\/
+Replace "https:\/\/^Saccounts.biocentury.com^\/
 Find href="http://accounts.biocentury.com/
 Replace href="http://^paccounts.biocentury.com^/
 Find 'https://accounts.biocentury.com/
-Replace 'https://^saccounts.biocentury.com/^
+Replace 'https://^Saccounts.biocentury.com/^
 Find identityapi.biocentury.com/
-Replace ^sidentityapi.biocentury.com/^
+Replace ^Sidentityapi.biocentury.com/^
 AnonymousURL -*
