@@ -1,52 +1,52 @@
-Title Visible Body Courseware (updated 20201119)
+Title Visible Body Courseware (updated 20210114)
 URL https://courseware.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 
-Title Visible Body Human Anatomy Atlas (updated 20201119)
-URL http://atlas.visiblebody.com
+Title Visible Body Human Anatomy Atlas (updated 20210114)
+URL https://atlas.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Muscle Premium (updated 20201119)
-URL http://muscle.visiblebody.com
+Title Visible Body Muscle Premium (updated 20210114)
+URL https://muscle.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Anatomy & Physiology (updated 20201119)
-URL http://aandp.visiblebody.com
+Title Visible Body Anatomy & Physiology (updated 20210114)
+URL https://aandp.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Physiology & Pathology (updated 20201119)
-URL http://pandp.visiblebody.com
+Title Visible Body Physiology & Pathology (updated 20210114)
+URL https://pandp.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Physiology Animations (updated 20201119)
-URL http://physiology.visiblebody.com
+Title Visible Body Physiology Animations (updated 20210114)
+URL https://physiology.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Circulatory Premium (updated 20201119)
-URL http://circulatory.visiblebody.com
+Title Visible Body Circulatory Premium (updated 20210114)
+URL https://circulatory.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Skeleton Premium (updated 20201119)
-URL http://skeleton.visiblebody.com
+Title Visible Body Skeleton Premium (updated 20210114)
+URL https://skeleton.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Anatomy & Function (updated 20201119)
-URL http://aandf.visiblebody.com
+Title Visible Body Anatomy & Function (updated 20210114)
+URL https://aandf.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
