@@ -1,7 +1,6 @@
-Title Fold3 (updated 20200824)
+Title Fold3 (updated 20210115)
 MimeFilter application/json .* javascript
-URL https://www.fold3.com
-HJ go.fold3.com
-HJ www.fold3.com
-HJ img.fold3.com
-DJ fold3.com
+URL https://fold3library.proquest.com
+HJ fold3library.proquest.com
+DJ fold3library.proquest.com
+NeverProxy fold3.com
