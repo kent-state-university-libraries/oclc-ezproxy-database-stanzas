@@ -27,26 +27,26 @@ DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Physiology Animations (updated 20210114)
-URL https://physiology.visiblebody.com
+Title Visible Body Physiology Animations (updated 20210120)
+URL http://physiology.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Circulatory Premium (updated 20210114)
-URL https://circulatory.visiblebody.com
+Title Visible Body Circulatory Premium (updated 20210120)
+URL http://circulatory.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Skeleton Premium (updated 20210114)
-URL https://skeleton.visiblebody.com
+Title Visible Body Skeleton Premium (updated 20210120)
+URL http://skeleton.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Anatomy & Function (updated 20210114)
-URL https://aandf.visiblebody.com
+Title Visible Body Anatomy & Function (updated 20210120)
+URL http://aandf.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com

@@ -1,6 +1,7 @@
+HTTPHeader X-Requested-With
 AnonymousURL +*.woff*
 AnonymousURL +*.tff*
-Title Panjiva (updated 20200604)
+Title Panjiva (updated 20210120)
 URL https://panjiva.com
 HJ https://panjiva.com
 HJ sentry.panjiva.com
