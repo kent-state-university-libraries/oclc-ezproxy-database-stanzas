@@ -1,15 +1,31 @@
-AnonymousURL -CS +https://d181c3udejoqg1.cloudfront.net/*
+HTTPMethod PUT
+HTTPMethod PATCH
+HTTPMethod DELETE
+HTTPMethod OPTIONS
+AnonymousURL -CS +https://app.stradalex.com/*
+AnonymousURL -CS +https://statics.stradalex.com/*
 AnonymousURL -CS -Options +https://larbiz-api.larciergroup.com/*
 AnonymousURL -CS -Options +https://dbs.larciergroup.com/*
-Title Strada Lex (updated 20200331)
+Option CookiePassThrough
+AnonymousURL +https://app.stradalex.lu/*
+AnonymousURL +https://statics.stradalex.lu/*
+AnonymousURL +https://app.stradalex.eu/*
+AnonymousURL +https://statics.stradalex.eu/*
+Title Strada Lex (updated 20210122)
 URL https://www.stradalex.com
-HJ https://d181c3udejoqg1.cloudfront.net
 HJ https://dbs.larciergroup.com
 HJ https://larbiz-api.larciergroup.com
 HJ https://www.stradalex.com
-HJ https://www.stradalex.com
 HJ https://www.stradalex.eu
 HJ https://www.stradalex.lu
+HJ https://app.stradalex.eu
+HJ https://app.stradalex.com
+HJ https://app.stradalex.lu
+HJ https://statics.stradalex.com
+HJ https://statics.stradalex.eu
+HJ https://statics.stradalex.lu
+HJ app.stradalex.com
+HJ statics.stradalex.com
 HJ stradalex.com
 HJ stradalex.eu
 HJ stradalex.lu
@@ -21,3 +37,4 @@ DJ stradalex.eu
 DJ stradalex.lu
 DJ larciergroup.com
 AnonymousURL -*
+Option Cookie

@@ -1,0 +1,16 @@
+Option CookiePassThrough
+AnonymousURL -CS +https://app.socialwin.be/*
+AnonymousURL -CS +https://statics.socialwin.be/*
+AnonymousURL -CS -Options +https://larbiz-api.larciergroup.com/*
+AnonymousURL -CS -Options +https://dbs.larciergroup.com/*
+Title SocialWin  (updated 20210122)
+URL https://www.socialwin.be
+HJ https://www.socialwin.be
+HJ dbs.larciergroup.com
+HJ larbiz-api.larciergroup.com
+HJ https://app.socialwin.be
+HJ https://statics.socialwin.be
+DJ socialwin.be
+DJ larciergroup.com
+AnonymousURL -*
+Option Cookie

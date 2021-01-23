@@ -1,5 +1,5 @@
-# Liebert
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Liebert](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Liebert) **
+# SocialWin
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SocialWin](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SocialWin) **
 
 ## Some of OCLC's notes for this stanza
 

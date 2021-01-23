@@ -1,5 +1,5 @@
-# Liebert
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Liebert](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Liebert) **
+# CCH Accounting Research Manager
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CCH_Accounting_Research_Manager](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CCH_Accounting_Research_Manager) **
 
 ## Some of OCLC's notes for this stanza
 

@@ -1,0 +1,10 @@
+Title Score Follower (updated 20210122)
+URL https://scorefollower.org
+HJ http://scorefollower.org
+DJ scorefollower.org
+Find https:\/\/www.scorefollower.org
+Replace https:\/\/^swww.scorefollower.org^
+NeverProxy youtube.com
+NeverProxy vimeo.com
+NeverProxy ajax.cloudflare.com
+NeverProxy d27xxe7juh1us6.cloudfront.net

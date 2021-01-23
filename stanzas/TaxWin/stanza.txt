@@ -1,0 +1,16 @@
+Option CookiePassThrough
+AnonymousURL -CS +https://app.taxwin.be/*
+AnonymousURL -CS +https://statics.taxwin.be/*
+AnonymousURL -CS -Options +https://larbiz-api.larciergroup.com/*
+AnonymousURL -CS -Options +https://dbs.larciergroup.com/*
+Title TaxWin (updated 20210122)
+URL https://www.taxwin.be
+HJ https://www.taxwin.be
+HJ dbs.larciergroup.com
+HJ larbiz-api.larciergroup.com
+HJ https://app.taxwin.be
+HJ https://statics.taxwin.be
+DJ taxwin.be
+DJ larciergroup.com
+AnonymousURL -*
+Option Cookie
