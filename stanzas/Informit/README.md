@@ -1,4 +1,4 @@
-# Informit Search
+# Informit
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Informit](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Informit) **
 
 ## Some of OCLC's notes for this stanza
