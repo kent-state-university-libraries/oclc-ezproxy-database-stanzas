@@ -1,0 +1,15 @@
+# Criterion on Demand
+Option X-Forwarded-For
+Option DomainCookieOnly
+Title Criterion on Demand (updated 20210209)
+URL https://media3.criterionpic.com
+Domain criterionpic.com
+HostJavaScript media3.criterionpic.com
+HostJavaScript www.criterionpic.com
+HostJavaScript criterionpic.com
+HostJavaScript www.criterionondemand.com
+HostJavaScript criterionondemand.com
+DomainJavaScript criterionpic.com
+DomainJavaScript criterionondemand.com
+Option Cookie
+Option NoX-Forwarded-For

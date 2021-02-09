@@ -1,4 +1,4 @@
-Title Nexis Uni (updated 20200824)
+Title Nexis Uni (updated 20210209)
 HTTPMethod PUT
 HTTPMethod DELETE
 HTTPMethod PATCH
@@ -25,9 +25,11 @@ DJ advance.lexis.com
 DJ signin.lexisnexis.com
 DJ nexisuni.com
 HJ www.nexisuni.com
+HJ https://signin.nexis.com
 HJ https://www.nexisuni.com
 HJ advance.lexis.com
 HJ signin.lexisnexis.com
+HJ signin.nexis.com
 HJ lexis.com
 HJ lexisnexis.com
 HJ https://www.totalpatentone.com
