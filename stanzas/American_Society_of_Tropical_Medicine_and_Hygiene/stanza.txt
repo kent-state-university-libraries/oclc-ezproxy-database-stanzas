@@ -1,0 +1,9 @@
+Title American Society of Tropical Medicine and Hygiene (updated 20210211)
+HTTPHeader -request -process X-Requested-With
+URL https://www.ajtmh.org/
+HJ www.ajtmh.org
+HJ ajtmh.org
+HJ https://ajtmh.org
+HJ https://ams.ajtmh.org
+HJ ams.ajtmh.org
+DJ astmh.org
