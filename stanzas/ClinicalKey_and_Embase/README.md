@@ -1,4 +1,4 @@
-# ClinicalKey and Embase
+# ClinicalKey
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ClinicalKey_and_Embase](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ClinicalKey_and_Embase) **
 
 ## Some of OCLC's notes for this stanza

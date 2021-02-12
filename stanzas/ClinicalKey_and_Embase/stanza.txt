@@ -5,7 +5,8 @@ HTTPHeader CK-Path
 HTTPHeader X-CkApp-Request-Locale
 HTTPHeader X-Ckm-Product
 HTTPHeader X-Ck-Request-Id
-Title ClinicalKey (updated 20200226)
+AnonymousURL +https://eolsapi.elsevier.com/api/*
+Title ClinicalKey (updated 20210205)
 MimeFilter application/json .* javascript
 URL https://www.clinicalkey.com
 HJ www.clinicalkey.com
@@ -23,3 +24,4 @@ DJ elsevier.com
 NeverProxy cdn.clinicalkey.com
 NeverProxy jigsaw.elsevier.com
 NeverProxy clinicalkeymeded.elsevier.com
+AnonymousURL -*

@@ -1,7 +1,8 @@
-Title Elsevier Clinical Skills / Elsevier Performance Manager (20190322)
+AnonymousURL +https://auth.elsevierperformancemanager.com*
+Title Elsevier Clinical Skills / Elsevier Performance Manager (updated 20210212)
 HTTPHeader -request -process X-XSRF-TOKEN
 MimeFilter application/json .* javascript
-URL https://login.elsevierperformancemanager.com/systemlogin.aspx?virtualname={virtualname}
+URL https://login.elsevierperformancemanager.com/
 Host www.mosbynursingskills.com
 Host https://www.mosbynursingskills.com
 Host www.nursingskills.com
@@ -13,8 +14,8 @@ HJ point-of-care.elsevierperformancemanager.com
 HJ https://point-of-care.elsevierperformancemanager.com
 HJ login.elsevierperformancemanager.com
 HJ https://login.elsevierperformancemanager.com
-HJ login.mns.cert.boca.mcstrategies.com
-HJ login.cert.boca.mcstrategies.com
+HJ login.mns-cert.np.elsevierperformancemanager.com
+HJ login-cert.np.elsevierperformancemanager.com
 DJ elsevierperformancemanager.com
 DJ mcstrategies.com
 DJ webinservice.com
@@ -22,16 +23,12 @@ DJ educode.com
 DJ collegeofdirectsupport.com
 Find ":"//lms.elsevierperformancemanager.com/
 Replace ":"//^slms.elsevierperformancemanager.com^/
-Find ":"//lms.cert.boca.mcstrategies.com/
-Replace ":"//^slms.cert.boca.mcstrategies.com^/
+Find ":"//lms-cert.np.elsevierperformancemanager.com/
+Replace ":"//^slms-cert.np.elsevierperformancemanager.com^/
 Find ":"//epm601.elsevierperformancemanager.com/
 Replace ":"//^sepm601.elsevierperformancemanager.com^/
-Find ":"//epm60.cert.boca.mcstrategies.com/
-Replace ":"//^sepm60.cert.boca.mcstrategies.com^/
-Find .elsevierperformancemanager.com%2f
-Replace ^s.elsevierperformancemanager.com^%2f
-Find .mcstrategies.com%2f
-Replace ^s.mcstrategies.com^%2f
+Find ":"//epm60-cert.np.elsevierperformancemanager.com/
+Replace ":"//^sepm60-cert.np.elsevierperformancemanager.com^/
 Find contentsecurity.elsevierperformancemanager.com/
 Replace ^scontentsecurity.elsevierperformancemanager.com^/
 Find contentsecurity.mcstrategies.com/
@@ -44,14 +41,15 @@ Find contentsecurity.collegeofdirectsupport.com/
 Replace ^scontentsecurity.collegeofdirectsupport.com^/
 Find //mns.elsevierperformancemanager.com/
 Replace //^smns.elsevierperformancemanager.com^/
-Find //mns.cert.boca.mcstrategies.com/
-Replace //^smns.cert.boca.mcstrategies.com^/
+Find //mns-cert.np.elsevierperformancemanager.com/
+Replace //^smns-cert.np.elsevierperformancemanager.com^/
 Find //surveyorapp.elsevierperformancemanager.com/
 Replace //^ssurveyorapp.elsevierperformancemanager.com^/
-Find //surveyor.cert.boca.mcstrategies.com/
-Replace //^ssurveyor.cert.boca.mcstrategies.com^/
+Find //surveyor-cert.np.elsevierperformancemanager.com/
+Replace //^ssurveyor-cert.np.elsevierperformancemanager.com^/
 Find //epm5.elsevierperformancemanager.com/
 Replace //^sepm5.elsevierperformancemanager.com^/
-Find //epm5.cert.boca.mcstrategies.com/
-Replace //^sepm5.cert.boca.mcstrategies.com^/
+Find //epm5-cert.np.elsevierperformancemanager.com/
+Replace //^sepm5-cert.np.elsevierperformancemanager.com^/
 NeverProxy cdn.clinicalkey.com
+AnonymousURL -*
