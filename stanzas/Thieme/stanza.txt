@@ -8,29 +8,27 @@ DJ thieme-connect.com
 HJ profile.thieme.de
 DJ profile.thieme.de
 
-Title Thieme Teaching Assistant (updated 20201201)
-URL https://www.thiemeteachingassistant.com/
-HJ http://www.thiemeteachingassistant.com
-HJ thiemeteachingassistant.com
+AnonymousURL -OPTIONS +http://cfs.thiemeteachingassistant.com/*
+Title Thieme Teaching Assistant (updated 20210215)
+URL https://www.thiemeteachingassistant.com
+D thiemeteachingassistant.com
+H thiemeteachingassistant.com
 DJ thiemeteachingassistant.com
-HJ profile.thieme.de
-DJ profile.thieme.de
+HJ thiemeteachingassistant.com
+NeverProxy cfs.thiemeteachingassistant.com
+AnonymousURL -*
 
-Title Pharmaceutical Substances (updated 20201201)
-URL https://pharmaceutical-substances.thieme.com/ps/
-HJ http://pharmaceutical-substances.thieme.com
-HJ pharmaceutical-substances.thieme.com
+Title Pharmaceutical Substances (updated 20210215)
+URL https://pharmaceutical-substances.thieme.com
+D pharmaceutical-substances.thieme.com
+H pharmaceutical-substances.thieme.com
 DJ pharmaceutical-substances.thieme.com
-HJ profile.thieme.de
-DJ profile.thieme.de
 
-Title RÖMPP Online (updated 20201201)
-URL https://www.roempp.com/prod/
-HJ http://www.roempp.com
-HJ roempp.com
-DJ roempp.com
-HJ profile.thieme.de
-DJ profile.thieme.de
+Title RÖMPP Online (updated 20210215)
+URL https://roempp.thieme.de
+D roempp.thieme.de
+H roempp.thieme.de
+DJ roempp.thieme.de
 
 Title Science of Synthesis (updated 20201201)
 URL https://science-of-synthesis.thieme.com/
