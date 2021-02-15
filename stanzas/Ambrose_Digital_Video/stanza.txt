@@ -1,5 +1,5 @@
 AnonymousURL +https://www.ambrosevideo.com/*
-Title Ambrose Video Publishing (updated 20210208)
+Title Ambrose Video Publishing (updated 20210212)
 URL https://www.ambrosevideo.com
 HJ https://videos.ambrosevideo.com
 HJ https://api.ambrosevideo.com
@@ -13,8 +13,6 @@ HJ api.ambrosevideo.com
 DJ ambrosevideo.com
 Find www.ambrosevideo.com
 Replace ^Swww.ambrosevideo.com^
-Find amborsevideo.com
-Replace ^Sambrosevideo.com^
 NeverProxy cfph.ambrosevideo.com
 NeverProxy cfpr.ambrosevideo.com
 NeverProxy cfsh.ambrosevideo.com
