@@ -1,14 +1,21 @@
-Title Pharmaceutical Press (updated 20180524)
+Title Pharmaceutical Press (updated 20210216)
 URL https://www.medicinescomplete.com/
+HJ about.medicinescomplete.com
+HJ https://about.medicinescomplete.com
+HJ https://idp.sams-sigma.com
 HJ https://medicinescomplete.com
+HJ https://pharmj.wpengine.com
 HJ https://www.medicinescomplete.com
+HJ https://www.new.medicinescomplete.com
+HJ idp.sams-sigma.com
 HJ medicinescomplete.com
 HJ pharmaceutical-journal.com
+HJ pharmj.wpengine.com
 HJ pjonline.com
 HJ www.medicinescomplete.com
+HJ www.new.medicinescomplete.com
 HJ www.pharmaceutical-journal.com
 HJ www.pjonline.com
-H https://idp.sams-sigma.com
 DJ medicinescomplete.com
 DJ pjonline.com
 DJ pharmaceutical-journal.com
