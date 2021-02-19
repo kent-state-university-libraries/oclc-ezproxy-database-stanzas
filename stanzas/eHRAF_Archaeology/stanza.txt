@@ -1,5 +1,6 @@
-Title eHRAF Archaeology
-URL http://ehrafarchaeology.yale.edu
-DJ yale.edu
+Title eHRAF Archaeology (updated 20210218)
+URL https://ehrafarchaeology.yale.edu
+HJ ehrafarchaeology.yale.edu
 HJ hraf01.its.yale.edu
-HJ 132.130.52.51
+HJ https://ehrafarchaeology.yale.edu
+DJ yale.edu

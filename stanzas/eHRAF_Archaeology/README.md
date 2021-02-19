@@ -1,5 +1,5 @@
-# EHRAF World Cultures (Human Relations Area Files at Yale)
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eHRAF_World_Cultures](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eHRAF_World_Cultures) **
+# EHRAF Archaeology (Human Relations Area Files at Yale)
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eHRAF_Archaeology](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eHRAF_Archaeology) **
 
 ## Some of OCLC's notes for this stanza
 

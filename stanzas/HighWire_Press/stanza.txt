@@ -1,11 +1,17 @@
-Title Highwire Press (updated 20190805)
-URL http://home.highwire.org/
+Title Highwire Press (updated 20210219)
+URL https://www.highwirepress.com/
 HJ highwire.org
 HJ highwire.stanford.edu
-HJ https://plato.stanford.edu
-HJ plato.stanford.edu
+HJ highwirepress.com
 HJ home.highwire.org
-HJ www.highwire.org
+HJ https://highwirepress.com
+HJ https://plato.stanford.edu
+HJ https://www.highwire.org
+HJ https://www.highwirepress.com
 HJ openurl.highwire.org
+HJ plato.stanford.edu
+HJ www.highwire.org
+HJ www.highwirepress.com
 DJ highwire.org
+DJ highwirepress.com
 DJ stanford.edu
