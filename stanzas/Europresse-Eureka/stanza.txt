@@ -1,5 +1,6 @@
-Title Europresse/Eureka (updated 20201105)
+Title Europresse/Eureka (updated 20210223)
 URL https://nouveau.europresse.com
+HJ https://nouveau.europresse.com
 HJ https://nouveau.eureka.cc
 HJ https://new.europresse.com
 HJ https://new.eureka.cc

@@ -1,5 +1,5 @@
-Title The Institution of Engineering and Technology
-URL  https://www.theiet.org/
+Title The Institution of Engineering and Technology (updated 20210224)
+URL https://www.theiet.org/
 HJ digital-library.theiet.org
 HJ eandt.theiet.org
 HJ electrical.theiet.org
@@ -11,6 +11,12 @@ HJ https://faraday.theiet.org
 HJ https://theiet.org
 HJ https://tv.theiet.org
 HJ https://www.theiet.org
+HJ https://inspec-direct-app.theiet.org
+HJ https://Inspec-direct-api.theiet.org
+HJ https://Inspec-direct-content.theiet.org
+HJ https://Inspec-analytics-app.theiet.org
+HJ https://inspec-analytics-api.theiet.org
+HJ https://inspec-auth.theiet.org
 HJ theiet.org
 HJ tv.theiet.org
 HJ www.theiet.org
