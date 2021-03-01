@@ -1,8 +1,8 @@
 AnonymousURL +https://auth.elsevierperformancemanager.com*
-Title Elsevier Clinical Skills / Elsevier Performance Manager (updated 20210212)
+Title Elsevier Clinical Skills / Elsevier Performance Manager (updated 20210301)
 HTTPHeader -request -process X-XSRF-TOKEN
 MimeFilter application/json .* javascript
-URL https://login.elsevierperformancemanager.com/
+URL https://login.elsevierperformancemanager.com/systemlogin.aspx?virtualname={virtualname}
 Host www.mosbynursingskills.com
 Host https://www.mosbynursingskills.com
 Host www.nursingskills.com
