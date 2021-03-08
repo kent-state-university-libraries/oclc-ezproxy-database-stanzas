@@ -1,8 +1,9 @@
-Title Morningstar Investment Research Center (updated 20210301)
+Title Morningstar Investment Research Center (updated 20210305)
 URL http://library.morningstar.com
 HJ https://library.morningstar.com
 DJ morningstar.com
 NeverProxy api-global.morningstar.com
+NeverProxy im.morningstar.com
 NeverProxy news.morningstar.com
 NeverProxy mwc-cdn.morningstar.com
 NeverProxy quotespeed.morningstar.com
