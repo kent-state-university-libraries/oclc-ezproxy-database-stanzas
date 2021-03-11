@@ -1,0 +1,5 @@
+Title rangefindr.ca (updated 20210311)
+URL https://app.rangefindr.ca/query
+HJ https://app.rangefindr.ca
+HJ app.rangefindr.ca
+DJ app.rangefindr.ca
