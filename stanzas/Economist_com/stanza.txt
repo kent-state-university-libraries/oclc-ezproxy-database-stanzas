@@ -1,28 +1,16 @@
-AnonymousURL +https://cse.google.com*
-AnonymousURL +https://paywall.p.aws.economist.com*
-Option DomainCookieOnly
-Title Economist.com (updated 20190306)
+AnonymousURL +https://cms-films.economist.com/*
+Title The Economist (updated 20210312)
+HTTPHeader -request -process X-Requested-With
 URL https://www.economist.com/
-H http://www.economist.com
 HJ https://www.economist.com
-HJ audiovideo.economist.com
-HJ radio.economist.com
-HJ films.economist.com
-HJ jobs.economist.com
-HJ success.economist.com
-HJ execed.economist.com
-HJ gre.economist.com
-HJ mediadirectory.economist.com
-HJ shop.economist.com
-HJ recruiters.jobs.economist.com
-HJ store.economist.com
-HJ na.economist.com
 HJ www.economist.com
-HJ paywall.p.aws.economist.com
-HJ authenticate.economist.com
-HJ https://authenticate.economist.com
 DJ economist.com
-DJ static-economist.com
-DJ p.aws.economist.com
-Option Cookie
+Find &domain=economist.com&
+Replace &domain=economist.com.^h&
+Find ="economist.com"
+Replace ="economist.com.^h"
+Find http://www.economist.com/
+Replace http://^pwww.economist.com^/
+Find https://www.economist.com/
+Replace https://^swww.economist.com^/
 AnonymousURL -*
