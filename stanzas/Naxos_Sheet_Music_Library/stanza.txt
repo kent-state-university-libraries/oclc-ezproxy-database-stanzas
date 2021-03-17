@@ -1,5 +1,5 @@
 Option DomainCookieOnly
-Title Naxos Sheet Music Library
-URL http://www.sheetmusiclib.com
-DJ sheetmusiclib.com
+Title Naxos Sheet Music Library (updated 20210316)
+URL https://login.sheetmusiclib.com
+H login.sheetmusiclib.com
 Option Cookie
