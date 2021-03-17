@@ -1,0 +1,6 @@
+Title Babel Scores (updated 20210317)
+URL http://www.babelscores.com
+HJ https://www.babelscores.com
+HJ https://babelscores.com
+HJ http://babelscores.com
+DJ babelscores.com

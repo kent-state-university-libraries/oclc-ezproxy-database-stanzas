@@ -1,0 +1,5 @@
+Title Autopsy.Online (updated 20210317)
+URL http://edu.autopsy.online
+HJ https://edu.autopsy.online
+HJ edu.autopsy.online
+DJ autopsy.online
