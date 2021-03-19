@@ -1,23 +1,35 @@
-Title De Gruyter (updated 20200901)
+AnonymousURL +https://apikeys.civiccomputing.com/*
+Title De Gruyter (updated 20210317)
 HTTPHeader -request -process X-Requested-With
 URL https://www.degruyter.com
-HJ california.degruyter.com
-H d26hddpfm66duo.cloudfront.net
-H d2n072ee0zk4pp.cloudfront.net
 HJ db.degruyter.com
 HJ degruyter.com
 HJ degruyter.de
 HJ historische-bibliographie.degruyter.com
+HJ wbis.degruyter.com
+HJ www.degruyter.com
+HJ www.degruyter.de
+HJ www.rgz-rgst.degruyter.de
+HJ db.saur.de
+HJ www.pschyrembel.de
+HJ tll.degruyter.com
+HJ apikeys.civiccomputing.com
+HJ https://apikeys.civiccomputing.com
+HJ https://www.degruyter.de
+HJ https://www.rgz-rgst.degruyter.de
 HJ https://california.degruyter.com
 HJ https://db.degruyter.com
 HJ https://degruyter.com
 HJ https://historische-bibliographie.degruyter.com
 HJ https://wbis.degruyter.com
 HJ https://www.degruyter.com
-HJ reference-global.com
-HJ wbis.degruyter.com
-HJ www.degruyter.com
-HJ www.degruyter.de
-HJ www.reference-global.com
-HJ www.rgz-rgst.degruyter.de
+HJ https://tll.degruyter.com
+HJ https://www.pschyrembel.de
+HJ https://db.saur.de
 DJ degruyter.com
+DJ pschyrembel.de
+DJ saur.de
+DJ civiccomputing.com
+Find encodeURIComponent(document.location.hostname)
+Replace encodeURIComponent(document.location.hostname.split('.', 1)[0].replace(/-/g, '.'))
+AnonymousURL -*
