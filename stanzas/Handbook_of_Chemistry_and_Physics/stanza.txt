@@ -1,0 +1,12 @@
+Title Handbook of Chemistry and Physics (updated 20210329)
+URL http://hbcp.chemnetbase.com/
+HJ hbcp.chemnetbase.com
+HJ hbcponline.com
+HJ https://hbcp.chemnetbase.com
+HJ https://hbcpnetbase.com
+HJ https://hbcponline.com
+HJ https://www.hbcpnetbase.com
+HJ https://www.hbcponline.com
+HJ www.hbcponline.com
+DJ chemnetbase.com
+DJ hbcponline.com

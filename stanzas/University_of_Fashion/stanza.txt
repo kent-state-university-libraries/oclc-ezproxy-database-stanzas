@@ -1,0 +1,3 @@
+Title University of Fashion (updated 20210329)
+URL https://auth.universityoffashion.com/
+NeverProxy www.universityoffashion.com
