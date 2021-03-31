@@ -1,0 +1,33 @@
+AnonymousURL +https://inspec-auth.theiet.org/*
+AnonymousURL +https://inspec-direct-api.theiet.org/*
+Title IET Inspec Direct Platform (updated 20210331)
+HTTPHeader -request -process X-Alt-Referer
+HTTPHeader -request -process Authorization
+HTTPHeader -request -process Ocp-Apim-Subscription-Key
+HTTPHeader -request -process Request-Key
+HTTPHeader -response -edit Access-Control-Allow-Origin ""
+URL https://inspec-direct-app.theiet.org/
+HJ https://inspec-direct-app.theiet.org
+HJ inspec-direct-app.theiet.org
+HJ https://inspec-auth.theiet.org
+HJ inspec-auth.theiet.org
+HJ https://inspec-direct-api.theiet.org
+HJ inspec-direct-api.theiet.org
+DJ inspec-direct-app.theiet.org
+DJ inspec-auth.theiet.org
+DJ inspec-direct-api.theiet.org
+Find "issuer":"https://
+Replace "issuer":"https://^A
+AnonymousURL -*
+
+Title -hide Inspec Identity
+HTTPHeader -request -process Authorization
+HTTPHeader -request -process Package
+HTTPHeader -request -process X-Alt-Referer
+HTTPHeader -response -edit Access-Control-Allow-Origin "*"
+URL https://inspec-auth.theiet.org
+HJ https://inspec-auth.theiet.org
+HJ inspec-auth.theiet.org
+DJ inspec-auth.theiet.org
+Find redirect_uri=https://
+Replace redirect_uri=https://^A
