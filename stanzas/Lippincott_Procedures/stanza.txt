@@ -1,0 +1,8 @@
+Option DomainCookieOnly
+Title Lippincott Procedures (updated 20210406)
+URL https://procedures.lww.com
+HJ https://procedures.lww.com
+HJ www.procedures.lww.com
+HJ lns-sso.lww.com
+DJ procedures.lww.com
+Option Cookie

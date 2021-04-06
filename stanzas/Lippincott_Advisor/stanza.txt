@@ -1,0 +1,8 @@
+Option DomainCookieOnly
+Title Lippincott Advisor (updated 20210406)
+URL https://advisor.lww.com
+HJ advisor.lww.com
+HJ www.advisor.lww.com
+HJ lns-sso.lww.com
+DJ advisor.lww.com
+Option Cookie
