@@ -1,0 +1,26 @@
+AnonymousURL +https://gtxil58k7q-1.algolianet.com/*
+AnonymousURL +https://gtxil58k7q-2.algolianet.com/*
+AnonymousURL +https://gtxil58k7q-3.algolianet.com/*
+AnonymousURL +https://gtxil58k7q-dsn.algolia.net/*
+Title Responsible Investor (updated 20210407)
+URL https://www.responsible-investor.com/
+HJ https://responsible-investor.com
+HJ https://www.responsible-investor.com
+HJ responsible-investor.com
+HJ www.responsible-investor.com
+HJ https://gtxil58k7q-1.algolianet.com
+HJ https://gtxil58k7q-2.algolianet.com
+HJ https://gtxil58k7q-3.algolianet.com
+HJ https://gtxil58k7q-dsn.algolia.net
+DJ responsible-investor.com
+Find https:\/\/www.responsible-investor.com
+Replace https:\/\/^swww.responsible-investor.com^
+Find https://www.responsible-investor.com
+Replace https://^swww.responsible-investor.com^
+Find this.hosts.write=[this.applicationID+".algolia.net"]
+Replace this.hosts.write=[this.applicationID+"-algolia-net.^H"]
+Find d=(!1===i.dsn?"":"-dsn")+".algolia.net"
+Replace d=(!1===i.dsn?"":"-dsn")+"-algolia-net.^H"
+Find {return e+"-"+t+".algolianet.com"}
+Replace {return e+"-"+t+"-algolianet-com.^H"}
+AnonymousURL -*
