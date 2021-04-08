@@ -1,5 +1,5 @@
 AnonymousURL +https://apikeys.civiccomputing.com/*
-Title De Gruyter (updated 20210317)
+Title De Gruyter (updated 20210408)
 HTTPHeader -request -process X-Requested-With
 URL https://www.degruyter.com
 HJ db.degruyter.com
@@ -14,10 +14,20 @@ HJ db.saur.de
 HJ www.pschyrembel.de
 HJ tll.degruyter.com
 HJ apikeys.civiccomputing.com
+HJ columbia.degruyter.com
+HJ cornellup.degruyter.com
+HJ hup.degruyter.com
+HJ princetonup.degruyter.com
+HJ penn.degruyter.com
+HJ toronto.degruyter.com
+HJ california.degruyter.com
+HJ chicago.degruyter.com
+HJ yaleup.degruyter.com
+HJ rutgers.degruyter.com
+HJ transcript.degruyter.com
 HJ https://apikeys.civiccomputing.com
 HJ https://www.degruyter.de
 HJ https://www.rgz-rgst.degruyter.de
-HJ https://california.degruyter.com
 HJ https://db.degruyter.com
 HJ https://degruyter.com
 HJ https://historische-bibliographie.degruyter.com
@@ -26,6 +36,17 @@ HJ https://www.degruyter.com
 HJ https://tll.degruyter.com
 HJ https://www.pschyrembel.de
 HJ https://db.saur.de
+HJ https://columbia.degruyter.com/
+HJ https://cornellup.degruyter.com/
+HJ https://hup.degruyter.com/
+HJ https://princetonup.degruyter.com/
+HJ https://penn.degruyter.com/
+HJ https://toronto.degruyter.com/
+HJ https://california.degruyter.com/
+HJ https://chicago.degruyter.com/
+HJ https://yaleup.degruyter.com/
+HJ https://rutgers.degruyter.com/
+HJ https://transcript.degruyter.com/
 DJ degruyter.com
 DJ pschyrembel.de
 DJ saur.de
