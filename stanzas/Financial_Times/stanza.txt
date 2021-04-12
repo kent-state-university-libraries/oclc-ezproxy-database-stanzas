@@ -1,6 +1,5 @@
 HTTPMethod OPTIONS
 HTTPMethod PUT
-#AnonymousURL +https://www.ft.com/*
 AnonymousURL +OPTIONS +https://spoor-api.ft.com/*
 AnonymousURL +https://consent.ft.com/*
 Title Financial Times (updated 20210412)
