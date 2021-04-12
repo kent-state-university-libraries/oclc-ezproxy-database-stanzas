@@ -1,8 +1,9 @@
 HTTPMethod OPTIONS
 HTTPMethod PUT
-AnonymousURL +https://www.ft.com/*
+#AnonymousURL +https://www.ft.com/*
 AnonymousURL +OPTIONS +https://spoor-api.ft.com/*
-Title Financial Times (updated 20200316)
+AnonymousURL +https://consent.ft.com/*
+Title Financial Times (updated 20210412)
 URL https://www.ft.com/
 HJ www.ft.com
 HJ ft.com
@@ -46,6 +47,8 @@ HJ https://commerce.uk.reuters.com
 HJ https://join.ft.com
 HJ commerce.uk.reuters.com
 HJ www.propertysales.com
+HJ http://consent.ft.com
+HJ https://consent.ft.com
 DJ ft.com
 DJ thebanker.com
 DJ thebankerdatabase.com
@@ -66,6 +69,9 @@ DJ ftchinaconfidential.com
 DJ exec-appointments.com
 DJ non-execs.com
 DJ businessesforsale.com
-NeverProxy consent.ft.com
+Find e=window.location.hostname.replace(/^(.*?)\./,"")
+Replace e="ft.com"
+Find "https://consent.".concat(e,
+Replace "https://^Sconsent.ft.com^".concat(
 NeverProxy spoor-api.ft.com
 AnonymousURL -*

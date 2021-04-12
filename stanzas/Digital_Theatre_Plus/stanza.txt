@@ -1,7 +1,9 @@
-Title Digital Theatre Plus
-URL https://www.digitaltheatreplus.com
+Title Digital Theatre Plus (updated 20210409)
+URL http://edu.digitaltheatreplus.com
 HJ digitaltheatreplus.com
-HJ www.digitaltheatreplus.com
+HJ edu.digitaltheatreplus.com
 HJ https://digitaltheatreplus.com
+HJ https://edu.digitaltheatreplus.com
 HJ https://www.digitaltheatreplus.com
+HJ www.digitaltheatreplus.com
 DJ digitaltheatreplus.com

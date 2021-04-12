@@ -1,5 +1,6 @@
+AnonymousURL +https://inspec-auth.theiet.org/*
 AnonymousURL +https://analytics-api.iet.org/*
-Title IET Inspec Analytics in EngineeringVillage (updated 20210331)
+Title IET Inspec Analytics in EngineeringVillage (updated 20210412)
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process Package
 HTTPHeader -request -process X-Alt-Referer
