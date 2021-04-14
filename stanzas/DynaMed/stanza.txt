@@ -1,8 +1,10 @@
 Option DomainCookieOnly
-Title DynaMed (updated 20190829)
+Title DynaMed Database Stanza (updated 20210414)
 URL https://www.dynamed.com
 HJ https://www.dynamed.com
 HJ https://calc.dynamed.com
 HJ https://auth.dynamed.com
 DJ dynamed.com
+Find https:\u002F\u002Fcalc.dynamed.com\u002Fcalculators
+Replace https:\u002F\u002F^Scalc.dynamed.com^\u002Fcalculators
 Option Cookie
