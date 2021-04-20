@@ -4,10 +4,22 @@ HTTPHeader X-Requested-With
 HTTPMethod DELETE
 HTTPMethod PUT
 HTTPMethod PATCH
-T WestlawNext Canada
+Title WestlawNext Canada (updated 20210419)
 MimeFilter application/json .* javascript
-U http://www.westlaw.com/search/home.html?rs=WLNC1.0&vr=3.0&sp=U%5FWindsor%2D4000
+URL https://nextcanada.westlaw.com/
+HJ https://nextcanada.westlaw.com
 HJ 1.next.westlaw.com
+HJ next.westlaw.com
 HJ ia-nextcanada.westlaw.com
+HJ nextcanada.westlaw.com
 DJ nextcanada.westlaw.com
+DJ westlaw.com
+NeverProxy c1.next.westlaw.com:443
+NeverProxy i1.next.westlaw.com:443
+NeverProxy j1.next.westlaw.com:443
+NeverProxy ca.next.westlaw.com:443
+NeverProxy ia.next.westlaw.com:443
+NeverProxy ja.next.westlaw.com:443
+NeverProxy a.next.westlaw.com:443
+NeverProxy ja-nextcanada.westlaw.com:443
 Option Cookie

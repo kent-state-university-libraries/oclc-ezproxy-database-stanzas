@@ -1,5 +1,22 @@
-Title Taxnet Pro
-URL http://www.taxnetpro.com
-HJ www.taxnetpro.com
-HJ v2.taxnetpro.com
+Option DomainCookieOnly
+HTTPHeader x-cobalt-*
+HTTPHeader X-Requested-With
+HTTPMethod DELETE
+HTTPMethod PUT
+HTTPMethod PATCH
+AnonymousURL +https://s1.v3.taxnetpro.com/*
+AnonymousURL +https://s1-v3.taxnetpro.com/*
+Title Taxnet Pro (updated 20210419)
+MimeFilter application/json .* javascript
+URL https://v3.taxnetpro.com/
+HJ https://www.thomsonreuters.ca
+HJ https://signon.thomsonreuters.com/
+HJ https://v3.taxnetpro.com/
+HJ v3.taxnetpro.com
+HJ www.thomsonreuters.ca
+HJ signon.thomsonreuters.com
+HJ https://s1-v3.taxnetpro.com
+DJ thomsonreuters.ca
 DJ taxnetpro.com
+AnonymousURL -*
+Option Cookie

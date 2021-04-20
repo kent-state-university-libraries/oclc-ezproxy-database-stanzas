@@ -1,5 +1,5 @@
 AnonymousURL +*//feeds.proquest.com/*
-Title ProQuest (updated 20190722)
+Title ProQuest (updated 20210419)
 HTTPHeader -request -process X-Requested-With Host
 URL https://search.proquest.com/ip
 NeverProxy rss.proquest.com
@@ -16,6 +16,7 @@ HJ datasets.proquest.com
 HJ dialog.proquest.com
 HJ digitalmicrofilm.proquest.com
 HJ digitalmicrofilm1.proquest.com
+HJ digitalsanbornmaps.proquest.com
 HJ ebookcentral.proquest.com
 HJ explore.proquest.com
 HJ fedsearch.proquest.com
@@ -53,6 +54,7 @@ HJ https://datasets.proquest.com
 HJ https://dialog.proquest.com
 HJ https://digitalmicrofilm.proquest.com
 HJ https://digitalmicrofilm1.proquest.com
+HJ https://digitalsanbornmaps.proquest.com
 HJ https://ebookcentral.proquest.com
 HJ https://explore.proquest.com
 HJ https://fedsearch.proquest.com
