@@ -1,7 +1,7 @@
 AnonymousURL +*//feeds.proquest.com/*
-Title ProQuest (updated 20210419)
+Title ProQuest (updated 20210420)
 HTTPHeader -request -process X-Requested-With Host
-URL https://search.proquest.com/ip
+URL https://www.proquest.com
 NeverProxy rss.proquest.com
 NeverProxy order.proquest.com
 NeverProxy flow.proquest.com
@@ -83,7 +83,6 @@ HJ https://statistical.proquest.com
 HJ https://supremecourt.proquest.com
 HJ https://trials.proquest.com
 HJ https://wt3.proquest.com
-HJ https://www.proquest.com
 HJ https://www.proquestk12.com
 DJ proquestk12.com
 DJ proquest.com

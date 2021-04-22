@@ -1,0 +1,7 @@
+Title GIBLIB (updated 20210422)
+HTTPHeader -response -process Access-Control-Allow-Origin*
+URL https://watch.giblib.com/
+HJ watch.giblib.com
+HJ https://watch.giblib.com
+DJ giblib.com
+DJ v4-api-production.giblib.com
