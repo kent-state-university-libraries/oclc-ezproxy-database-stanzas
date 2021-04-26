@@ -1,0 +1,6 @@
+Title AdWeek (updated 20210422)
+URL https://www.adweek.com
+HJ http://www.adweek.com
+HJ https://adweek.com
+HJ www.adweek.com
+DJ adweek.com
