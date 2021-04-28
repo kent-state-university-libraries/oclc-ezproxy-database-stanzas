@@ -1,9 +1,19 @@
-Title Britannica - Academic
-URL http://academic.eb.com
+Title Britannica - Academic (updated 20210428)
+URL https://academic.eb.com
 DJ eb.com
+DJ academic.eb.com
+DJ https://www.academic.eb.com
+HJ https://individual.eb.com
 HJ www.academic.eb.com
 HJ www.library.eb.com
+HJ www.library.eb.com.au
+HJ www.library.eb.co.uk
 HJ library.eb.com
+HJ os.eb.com
+HJ individual.eb.com
+HJ https://individual.eb.com
+HJ library.eb.com.au
+HJ library.eb.co.uk
 HJ quest.eb.com
 HJ www.quest.eb.com
 HJ global.eb.com
@@ -38,8 +48,9 @@ NeverProxy media-2.web.britannica.com
 NeverProxy media-3.web.britannica.com
 NeverProxy atlas.eb.com
 
-T Britannica - Consumer
-U http://britannica.com
+Title Britannica - Consumer (updated 20210428)
+URL https://britannica.com
+HJ britannica.com
 HJ eb.com
 HJ www.eb.com
 HJ www.britannica.com

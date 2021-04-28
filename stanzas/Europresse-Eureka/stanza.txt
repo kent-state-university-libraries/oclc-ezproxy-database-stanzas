@@ -1,9 +1,13 @@
-Title Europresse/Eureka (updated 20210223)
+Title Europresse/Eureka (updated 20210427)
 URL https://nouveau.europresse.com
 HJ https://nouveau.europresse.com
 HJ https://nouveau.eureka.cc
 HJ https://new.europresse.com
 HJ https://new.eureka.cc
+HJ nouveau.europresse.com
+HJ nouveau.eureka.cc
+HJ new.europresse.com
+HJ new.eureka.cc
 NeverProxy pro.fontawesome.com
 NeverProxy maxcdn.bootstrapcdn.com
 NeverProxy fonts.googleapis.com
