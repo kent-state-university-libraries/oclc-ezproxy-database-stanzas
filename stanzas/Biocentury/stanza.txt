@@ -1,11 +1,12 @@
-AnonymousURL +https://api.biocentury.com/*
 AnonymousURL +https://media.graphcms.com/*
 AnonymousURL +https://core.biocentury.com/*
 AnonymousURL +https://bciq.biocentury.com/*
 AnonymousURL +https://identityapi.biocentury.com/*
 AnonymousURL +https://www.biocentury.com/*
 AnonymousURL +https://identity.biocentury.com/*
-Title BioCentury Publications (OCLC IncludeFile updated 20210112)
+AnonymousURL +https://conferences.biocentury.com/*
+AnonymousURL +https://profiles.biocentury.com/*
+Title BioCentury Publications (updated 20210503)
 HTTPHeader -request -process Access-Control-Allow-Origin
 URL https://www.biocentury.com/
 HJ https://conferences.biocentury.com
@@ -13,12 +14,8 @@ HJ http://conferences.biocentury.com
 HJ http://www.biocentury.com/
 HJ http://biocentury.com/
 HJ https://biocentury.com/
-HJ https://accounts.biocentury.com
-HJ http://accounts.biocentury.com
 HJ https://bciq.biocentury.com
 HJ http://bciq.biocentury.com
-HJ https://api.biocentury.com
-HJ http://api.biocentury.com
 HJ https://cms.biocentury.com
 HJ http://cms.biocentury.com
 HJ http://core.biocentury.com
@@ -32,6 +29,8 @@ HJ https://identity.biocentury.com
 HJ https://identityapi.biocentury.com
 HJ http://identityapi.biocentury.com
 HJ https://media.graphcms.com
+HJ https://profiles.biocentury.com
+HJ http://profiles.biocentury.com
 HJ graphcms.com
 DJ biocentury.com
 NeverProxy https://articleapi.biocentury.com
@@ -43,14 +42,6 @@ Find "https:\/\/www.biocentury.com\/
 Replace "https:\/\/^Swww.biocentury.com^\/
 Find "http://www.biocentury.com/
 Replace "http://^pwww.biocentury.com^/
-Find "https://accounts.biocentury.com/
-Replace "https://^saccounts.biocentury.com^/
-Find "https:\/\/accounts.biocentury.com\/
-Replace "https:\/\/^Saccounts.biocentury.com^\/
-Find href="http://accounts.biocentury.com/
-Replace href="http://^paccounts.biocentury.com^/
-Find 'https://accounts.biocentury.com/
-Replace 'https://^Saccounts.biocentury.com/^
 Find identityapi.biocentury.com/
 Replace ^Sidentityapi.biocentury.com/^
 AnonymousURL -*

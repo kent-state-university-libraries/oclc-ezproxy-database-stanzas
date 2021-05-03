@@ -1,6 +1,6 @@
 OPTION DOMAINCOOKIEONLY
 PHE apps.clarivate.com$ apps-clarivate-com
-Title EndNote online and InCites (updated 20210317)
+Title EndNote online and InCites (updated 20210430)
 HTTPMethod DELETE
 HTTPMethod PUT
 BinaryTimeout 600
@@ -23,10 +23,16 @@ HJ http://www.myendnoteweb.com
 HJ https://access.clarivate.com
 HJ http://esi.clarivate.com
 HJ http://jcr.clarivate.com
+HJ http://jcr3.clarivate.com
+HJ http://jcr2.clarivate.com
 HJ http://incites.clarivate.com
 HJ https://esi.clarivate.com
 HJ https://jcr.clarivate.com
+HJ https://jcr3.clarivate.com
+HJ https://jcr2.clarivate.com
 HJ jcr.clarivate.com
+HJ jcr3.clarivate.com
+HJ jcr2.clarivate.com
 HJ esi.clarivate.com
 DJ incites.clarivate.com
 HJ https://incites.clarivate.com

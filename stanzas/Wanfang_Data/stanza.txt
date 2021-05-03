@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title WANFANG DATA (CHINA) (updated 20210406)
+Title WANFANG DATA (CHINA) (updated 20210503)
 URL https://www.wanfangdata.com.cn/
 HJ http://www.wanfangdata.com.cn
 DJ wanfangdata.com.cn
@@ -23,6 +23,7 @@ HJ trend.wanfangdata.com.cn
 HJ topic.wanfangdata.com.cn
 HJ fire.wanfangdata.com.cn
 HJ f.wanfangdata.com.cn
+HJ w.wanfangdata.com.cn
 HJ abc.wan.com
 NeverProxy cdn.wanfangdata.com.cn
 NeverProxy cdn.login.wanfangdata.com.cn
