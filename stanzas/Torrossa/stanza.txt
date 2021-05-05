@@ -1,4 +1,4 @@
-Title Torrossa Casalini Full Text Platform (20200203)
+Title Torrossa Casalini Full Text Platform (updated 20210505)
 URL http://www.torrossa.com
 HJ digital.casalini.it
 HJ https://www.casalini.it
@@ -20,33 +20,32 @@ DJ torrossa.es
 DJ torrossa.it
 DJ crypto-service.com
 
-Title Torrossa
+Title Torrossa (updated 20210505)
 URL https://access.torrossa.com
 HJ access.torrossa.com
 Domain torrossa.com
 DJ access.torrossa.com
 
-Title Torrossa Store
+Title Torrossa Store (updated 20210505)
 URL https://www.torrossa.com
 Domain torrossa.com
 DJ www.torrossa.com
 
-Title Casalini Torrossa
+Title Casalini Torrossa (updated 20210505)
 URL http://digital.casalini.it
 Domain casalini.it
 DJ digital.casalini.it
 
-Title Casalini Crypto Service
+Title Casalini Crypto Service (updated 20210505)
 URL https://docs.crypto-service.com
 Domain crypto-service.com
 DJ docs.crypto-service.com
 
-Title Libraweb
-URL http://www.libraweb.net
-HJ http://www.libraweb.net
-DJ libraweb.net
-
-Title Libraweb
-URL https://www.libraweb.net
+Title Libraweb (updated 20210505)
+ByteServe https://www\.libraweb\.net/pdfviewer/.*
+U https://www.libraweb.net
+HJ https://libraweb.net
 HJ https://www.libraweb.net
+HJ libraweb.net
+HJ www.libraweb.net
 DJ libraweb.net
