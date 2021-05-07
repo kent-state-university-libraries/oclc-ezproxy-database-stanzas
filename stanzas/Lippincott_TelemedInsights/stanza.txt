@@ -1,0 +1,5 @@
+Title Lippincott TelemedInsights (updated 20210507)
+URL https://telemedinsights.lww.com
+HJ www.telemedinsights.lww.com
+HJ lns-sso.lww.com
+DJ telemedinsights.lww.com
