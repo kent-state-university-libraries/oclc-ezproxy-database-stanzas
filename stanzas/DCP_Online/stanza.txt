@@ -1,6 +1,9 @@
-Title DCP Online
+Title DCP Online (updated 20210511)
 URL http://dcp-online.co.uk/DCP/
 HJ dcp-online.co.uk
+HJ https://dcp-online.co.uk
+HJ https://latest.dcp-online.co.uk
+HJ https://www.dcp-online.co.uk
 HJ latest.dcp-online.co.uk
 HJ www.dcp-online.co.uk
 DJ dcp-online.co.uk
