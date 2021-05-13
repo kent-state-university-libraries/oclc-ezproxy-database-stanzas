@@ -1,0 +1,4 @@
+Title The Atlantic Monthly (updated 20210511)
+URL https://www.theatlantic.com
+HJ www.theatlantic.com
+DJ theatlantic.com

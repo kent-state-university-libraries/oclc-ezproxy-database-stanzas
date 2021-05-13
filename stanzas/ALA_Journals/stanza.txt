@@ -1,7 +1,4 @@
-Title ALA Journals
-URL https://journals.ala.org/
+Title ALA Journals (updated 20210511)
+URL http://journals.ala.org/
 HJ journals.ala.org
-HJ www.journals.ala.org
-HJ https://journals.ala.org
-HJ https://www.journals.ala.org
 DJ ala.org

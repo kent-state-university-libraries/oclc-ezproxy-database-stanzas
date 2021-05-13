@@ -1,0 +1,10 @@
+Title Anatomy.TV (updated 20210511)
+URL https://www.anatomy.tv/
+HJ https://anatomy.tv
+HJ www.anatomy.tv
+HJ https://www.anatomy.tv
+HJ anatomy.tv
+DJ www.anatomy.tv
+DJ anatomy.tv
+NeverProxy *.cloudfront.net
+NeverProxy cdn.anatomy.tv

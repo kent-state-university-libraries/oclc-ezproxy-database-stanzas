@@ -1,0 +1,6 @@
+Title BuildingGreen (updated 20210511)
+URL https://www.buildinggreen.com
+HJ www.buildinggreen.com
+HJ www2.buildinggreen.com
+DJ buildinggreen.com
+RedirectSafe buildinggreen.com
