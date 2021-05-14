@@ -1,0 +1,5 @@
+Title Canada Law Book (updated 20210511)
+URL http://clb6.canadalawbook.ca
+HJ clb1.canadalawbook.ca
+HJ clb3.canadalawbook.ca
+DJ canadalawbook.ca

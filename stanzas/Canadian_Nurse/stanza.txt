@@ -1,0 +1,5 @@
+Title Canadian Nurse (updated 20210511)
+URL https://www.canadian-nurse.com
+HJ www.canadian-nurse.com
+DJ canadian-nurse.com
+RedirectSafe canadian-nurse.com
