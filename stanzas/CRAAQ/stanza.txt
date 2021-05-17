@@ -1,0 +1,6 @@
+Title CRAAQ (updated 20210511)
+URL https://www.craaq.qc.ca/
+HJ www.craaq.qc.ca
+DJ craaq.qc.ca
+NeverProxy https://player.vimeo.com
+RedirectSafe craaq.qc.ca

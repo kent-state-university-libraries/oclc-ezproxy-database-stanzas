@@ -1,0 +1,5 @@
+Title Conference Board of Canada (updated 20210517)
+URL http://www.conferenceboard.ca/
+HJ sso.conferenceboard.ca/
+HJ https://www.conferenceboard.ca/
+DJ conferenceboard.ca
