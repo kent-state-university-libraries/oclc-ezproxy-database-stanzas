@@ -1,0 +1,9 @@
+Title Grant Connect (updated 20210511)
+URL https://app.beta.grantconnect.ca
+HJ app.beta.grantconnect.ca
+HJ https://beta.grantconnect.ca
+HJ beta.grantconnect.ca
+HJ https://www.beta.grantconnect.ca
+HJ https://www.alpha.grantconnect.ca
+HJ https://grantconnect.ca
+DJ grantconnect.ca
