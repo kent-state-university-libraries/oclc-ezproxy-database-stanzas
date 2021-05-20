@@ -1,8 +1,10 @@
-Title Mohr Siebeck (updated 20190823)
+Title Mohr Siebeck (updated 20210519)
 URL https://www.mohrsiebeck.com/en
-HJ www.mohrsiebeck.com
+HJ https://mohrsiebeck.com
 HJ https://www.mohr.de
+HJ https://www.mohrsiebeck.com
 HJ mohrsiebeck.com
 HJ www.mohr.de
+HJ www.mohrsiebeck.com
 DJ mohrsiebeck.com
 DJ mohr.de

@@ -1,0 +1,10 @@
+Title Rarebookhub (updated 20210520)
+URL https://rarebookhub.com/
+HJ http://rarebookhub.com/
+HJ https://institutions.rarebookhub.com/
+HJ https://institutions.staging.rarebookhub.com/
+HJ https://institutions.tp.rarebookhub.com/
+HJ https://www.rarebookhub.com/
+HJ http://www.rarebookhub.com/
+HJ www.rarebookhub.com
+DJ rarebookhub.com
