@@ -1,0 +1,11 @@
+Title McIntyre Media (updated 20210511)
+URL https://stream.mcintyre.ca
+HJ https://www.stream.mcintyre.ca
+HJ www.stream.mcintyre.ca
+HJ stream.mcintyre.ca
+DJ mcintyre.ca
+
+Title McIntyre Playlist (updated 20210511)
+URL http://www.mcintyre.ca
+HJ www.mcintyre.ca
+DJ mcintyre.ca
