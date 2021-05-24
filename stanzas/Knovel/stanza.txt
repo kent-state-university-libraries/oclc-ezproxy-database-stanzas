@@ -1,5 +1,5 @@
-Title Knovel
-URL http://www.knovel.com/
+Title Knovel (updated 20210521)
+URL https://app.knovel.com/kn
 HJ http://app.knovel.com
 HJ https://app.knovel.com
 HJ https://www.knovel.com

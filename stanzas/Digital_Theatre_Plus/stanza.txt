@@ -1,9 +1,16 @@
-Title Digital Theatre Plus (updated 20210409)
-URL http://edu.digitaltheatreplus.com
-HJ digitaltheatreplus.com
+AnonymousURL +https://media.digitaltheatreplus.com/drm*
+Title Digital Theatre Plus (updated 20210521)
+HTTPHeader -request -process Bearer
+HTTPHeader -request -process x-dt-auth-token
+URL https://edu.digitaltheatreplus.com
+Host media.digitaltheatreplus.com
+Host search.digitaltheatreplus.com
+Host analytics.digitaltheatreplus.com
+Host images.ctfassets.net
+Host d10eeigq6mvk6z.cloudfront.net
+Host lic.drmtoday.com
+Host cdn.contentful.com
+HJ analytics.digitaltheatreplus.com
 HJ edu.digitaltheatreplus.com
-HJ https://digitaltheatreplus.com
-HJ https://edu.digitaltheatreplus.com
-HJ https://www.digitaltheatreplus.com
-HJ www.digitaltheatreplus.com
 DJ digitaltheatreplus.com
+AnonymousURL -*
