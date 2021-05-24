@@ -1,0 +1,7 @@
+Title Nesstar (updated 20210511)
+URL https://dli-idd-nesstar.statcan.gc.ca
+HJ https://dli-idd-nesstar.statcan.gc.ca
+HJ dli-idd-nesstar.statcan.gc.ca
+HJ publications.gc.ca
+HJ www.statcan.gc.ca
+DJ statcan.gc.ca
