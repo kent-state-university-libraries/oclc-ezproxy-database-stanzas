@@ -1,0 +1,20 @@
+HTTPHeader authtoken
+AnonymousURL +https://api.taylorandfrancis.com/*
+Title War State and Society (WSS) (updated 20210526)
+URL http://www.warstateandsociety.com
+HJ warstateandsociety.com
+HJ www.warstateandsociety.com
+HJ https://warstateandsociety.com
+HJ https://www.warstateandsociety.com
+HJ http://www.tandfonline.com
+HJ http://www.crcpress.com
+HJ www.tandfonline.com
+HJ tandfonline.com
+HJ www.crcpress.com
+HJ crcpress.com
+DJ tandfonline.com
+DJ crcpress.com
+DJ warstateandsociety.com
+Find http-equiv="Content-Security-Policy"
+Replace http-equiv="X-Content-Security-Policy"
+AnonymousURL -*

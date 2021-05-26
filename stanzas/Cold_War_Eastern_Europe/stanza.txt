@@ -1,0 +1,20 @@
+HTTPHeader authtoken
+AnonymousURL +https://api.taylorandfrancis.com/*
+Title Cold War Eastern Europe (CWEE) (updated 20210526)
+URL http://www.coldwareasterneurope.com
+HJ coldwareasterneurope.com
+HJ www.coldwareasterneurope.com
+HJ https://coldwareasterneurope.com
+HJ https://www.coldwareasterneurope.com
+HJ http://www.tandfonline.com
+HJ http://www.crcpress.com
+HJ www.tandfonline.com
+HJ tandfonline.com
+HJ www.crcpress.com
+HJ crcpress.com
+DJ tandfonline.com
+DJ crcpress.com
+DJ coldwareasterneurope.com
+Find http-equiv="Content-Security-Policy"
+Replace http-equiv="X-Content-Security-Policy"
+AnonymousURL -*
