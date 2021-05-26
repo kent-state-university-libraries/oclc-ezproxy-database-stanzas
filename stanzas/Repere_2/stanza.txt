@@ -1,0 +1,4 @@
+Title Repere 2 (updated 20210511)
+URL http://repere2.sdm.qc.ca
+HJ repere2.sdm.qc.ca
+DJ sdm.qc.ca

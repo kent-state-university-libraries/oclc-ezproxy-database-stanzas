@@ -1,7 +1,11 @@
-Title Transparent Language
-URL https://library.transparent.com/[yourTLOnickname]
-HJ library.transparent.com
-DJ transparent.com
+Title Transparent Language (updated 20210511)
+URL https://education.transparent.com/saultcollege/game/ng/#/login
+URL https://education.transparent.com/cambriancollege
 Domain transparent.com
+HostJavaScript https://education.transparent.com
+Host https://education.transparent.com
+Host education.transparent.com
+HostJavaScript education.transparent.com
+DomainJavaScript transparent.com
 NeverProxy transparent.com
-NeverProxy library.transparent.com
+NeverProxy education.transparent.com
