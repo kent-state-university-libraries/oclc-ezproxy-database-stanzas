@@ -1,6 +1,6 @@
 HTTPMethod DELETE
 HTTPMethod PUT
-Title SimplyAnalytics (updated 20191127)
+Title SimplyAnalytics (updated 20210511)
 URL https://app.simplyanalytics.com
 HJ app.simplyanalytics.com
 DJ simplyanalytics.com
