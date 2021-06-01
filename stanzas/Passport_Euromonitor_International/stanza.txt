@@ -3,7 +3,7 @@ AnonymousURL -OPTIONS +https://notification-service.euromonitor.com/*
 AnonymousURL +https://productclaim-ui.euromonitor.com/*
 AnonymousURL +https://cdn.media.euromonitor.com/*
 HTTPMethod OPTIONS
-Title Passport (Euromonitor International) (updated 20210205)
+Title Passport (Euromonitor International) (updated 20210531)
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Access-Control-Expose-Headers
 MimeFilter text/html https://cdn.media.euromonitor.com/* html
@@ -25,15 +25,16 @@ Find //www.portal.euromonitor.com/
 Replace //^swww.portal.euromonitor.com^/
 Find //cdn.media.euromonitor.com
 Replace //^scdn.media.euromonitor.com^
-NeverProxy microservices.euromonitor.com
-NeverProxy consulting.euromonitor.com
-NeverProxy covid-analytics-ui.euromonitor.com
-NeverProxy search-service.euromonitor.com
-NeverProxy service-portal.euromonitor.com
-NeverProxy notification-service.euromonitor.com
+NeverProxy analyticmodel-service-portal.euromonitor.com
 NeverProxy brandshareservice.euromonitor.com
 NeverProxy companyshareservice.euromonitor.com
-NeverProxy notification-service.euromonitor.com
-NeverProxy dashboard-service-portal.euromonitor.com
+NeverProxy consulting.euromonitor.com
 NeverProxy countryreportui.euromonitor.com
+NeverProxy covid-analytics-ui.euromonitor.com
+NeverProxy dashboard-service-portal.euromonitor.com
+NeverProxy forecastdashboard-ui.euromonitor.com
+NeverProxy microservices.euromonitor.com
+NeverProxy notification-service.euromonitor.com
+NeverProxy search-service.euromonitor.com
+NeverProxy service-portal.euromonitor.com
 AnonymousURL -*
