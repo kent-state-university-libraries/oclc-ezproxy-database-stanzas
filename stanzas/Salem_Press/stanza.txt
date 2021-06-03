@@ -1,8 +1,10 @@
-Title Salem Press
+Title Salem Press (updated 20210602)
 URL https://online.salempress.com
 HJ online.salempress.com
 HJ www.salempress.com
 HJ www.history.salempress.com
+HJ history.salempress.com
+HJ https://history.salempress.com
 HJ history.salempress.com
 HJ www.literature.salempress.com
 HJ literature.salempress.com

@@ -8,7 +8,7 @@ Option Cookie
 #
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCO Information Services (updated 20210323)
+Title EBSCO Information Services (updated 20210602)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
 URL http://search.ebscohost.com/login.aspx
@@ -17,8 +17,10 @@ HJ https://resolver.ebscohost.com
 HJ https://www.ebscohost.com
 HJ https://openurl.ebscohost.com
 HJ https://logon.ebsco.zone
+HJ https://openurl.ebsco.com
+HJ video.ebscohost.com
+HJ https://video.ebscohost.com
 HJ logon.ebsco.zone
-DJ logon.ebsco.zone
 HJ https://m-eon-search.ebscohost.com
 HJ ebsco.smartimagebase.com
 HJ eds.a.ebscohost.com
@@ -47,22 +49,23 @@ HJ therapy.ebscohost.com
 HJ support.ebscohost.com
 HJ flipster.ebsco.com
 HJ e.ebsco.com
+HJ support.ebsco.com
+HJ www.ebsconet.com
+HJ www.teacherreference.com
 DJ discovery.ebsco.com
 DJ ppws.ebsco-content.com
 DJ ebscohost.com
 DJ ebscohost.mobi
 DJ epnet.com
-HJ support.ebsco.com
-HJ www.ebsconet.com
 DJ ebsco.com
 DJ netlibrary.com
 DJ smartimagebase.com
 DJ apis.ebsco.com
 DJ ebscois-live.apigee.net
 DJ ebsco.babelscape.com
-HJ www.teacherreference.com
 DJ teacherreference.com
 HJ www.europeanamericana.com
+DJ logon.ebsco.zone
 Find proxy.cfm?url=http://
 Replace proxy.cfm?url=http://^A
 Find /login?url=http://
@@ -91,5 +94,8 @@ NeverProxy signin.ebsco.zone
 NeverProxy auth.ebsco.zone
 NeverProxy shibboleth.ebscohost.com
 NeverProxy imagesrvr.epnet.com
+NeverProxy pdc-evs.ebscohost.com
+NeverProxy sdc-evs.ebscohost.com
+NeverProxy app-na-readspeaker-com
 AnonymousURL -*
 AddUserHeader

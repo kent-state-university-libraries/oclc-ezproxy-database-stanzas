@@ -1,6 +1,7 @@
-Title Naxos Music Library (updated 20181214)
-URL http://[siteID].NaxosMusicLibrary.com
-HJ [siteID].NaxosMusicLibrary.com
+Title Naxos Music Library (updated 20210602)
+URL https://[siteID].naxosmusiclibrary.com
+HJ [siteID].naxosmusiclibrary.com
+HJ https://[siteID].naxosmusiclibrary.com
 DJ naxosmusiclibrary.com
 DJ www.naxosmusiclibrary.com
 NeverProxy cdn.naxosmusiclibrary.com
@@ -8,9 +9,11 @@ NeverProxy cdn.naxos.com
 NeverProxy audiostream.naxosmusiclibrary.com
 NeverProxy cp82361.edgefcs.net
 
+
 Title Naxos Spoken Word Library
-URL  http://[siteID].NaxosSpokenWordLibrary.com
+URL https://[siteID].naxosspokenwordlibrary.com
 HJ [siteID].naxosspokenwordlibrary.com
+HJ https://[siteID].naxosspokenwordlibrary.com
 DJ naxosspokenwordlibrary.com
 DJ www.naxosspokenwordlibrary.com
 NeverProxy cdn.naxosspokenwordlibrary.com
@@ -18,9 +21,11 @@ NeverProxy cdn.naxos.com
 NeverProxy audiostream.naxosspokenwordlibrary.com
 NeverProxy cp82361.edgefcs.net
 
+
 Title Naxos Video Library
-URL http://[siteID].NaxosVideoLibrary.com
+URL https://[siteID].naxosvideolibrary.com
 HJ [siteID].naxosvideolibrary.com
+HJ https://[siteID].naxosvideolibrary.com
 DJ naxosvideolibrary.com
 DJ www.naxosvideolibrary.com
 AnonymousURL +/NVL_
@@ -32,9 +37,11 @@ Find setTimeout("window.close();",1000);
 Replace setTimeout("window.close();",10000);
 AnonymousURL -*
 
+
 Title Naxos Works Database
-URL http://[siteID].NaxosWorks.com
+URL https://[siteID].naxosworks.com
 HJ [siteID].naxosworks.com
+HJ https://[siteID].naxosworks.com
 DJ naxosworks.com
 DJ www.naxosworks.com
 Find setTimeout("window.close();",1000);
