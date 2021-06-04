@@ -1,4 +1,8 @@
-Title New England Journal of Medicine (updated 20180417)
+AnonymousURL +https://api.nejmgroup.org/nejm-api/*
+AnonymousURL +https://examservice.nejm.org/ExamService/*
+Title New England Journal of Medicine (updated 20210603)
+HTTPHeader -request -process x-api-key
+HTTPHeader -request -process X-Requested-With
 URL http://www.nejm.org/
 HJ https://www.nejm.org/
 HJ https://nejm.org
@@ -14,3 +18,7 @@ HJ Interactive.nejm.org
 HJ Cdf.nejm.org
 HJ https://Interactive.nejm.org
 HJ https://Cdf.nejm.org
+DJ nejmgroup.org
+Find "//examservice.nejm.org/
+Replace "//^sexamservice.nejm.org^/
+AnonymousURL -*
