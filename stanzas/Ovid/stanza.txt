@@ -1,7 +1,7 @@
 HTTPMethod DELETE
 HTTPMethod PUT
 Option CookiePassThrough
-Title Ovid HTTPS (updated 20210421)
+Title Ovid HTTPS (updated 20210607)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
@@ -91,4 +91,5 @@ Find action="http://
 Replace action="http://^A
 NeverProxy assets.ovid.com
 NeverProxy cdn.visiblebody.com
+NeverProxy demo.ovid.com
 Option Cookie
