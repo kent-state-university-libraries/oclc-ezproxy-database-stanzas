@@ -1,0 +1,7 @@
+Title PocketMags (updated 20210615)
+HTTPHeader -request -process X-Frame-Options
+HTTPHeader -request -process X-Xss-Protection
+URL https://pocketmags.com/institutional
+HJ http://www.pocketmags.com
+Host https://pocketmags.com
+DJ pocketmags.com

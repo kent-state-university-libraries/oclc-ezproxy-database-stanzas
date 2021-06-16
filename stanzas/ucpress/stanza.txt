@@ -1,5 +1,8 @@
-Title University of California Press (updated 20210317)
+Title University of California Press (updated 20210615)
 URL https://online.ucpress.edu
+HJ https://www.ucpress.edu
+HJ https://ucpress.edu
+HJ www.ucpress.edu
 HJ http://online.ucpress.edu
 HJ https://online.ucpress.edu
 HJ online.ucpress.edu
