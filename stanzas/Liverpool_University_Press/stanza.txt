@@ -1,6 +1,8 @@
-Title Liverpool University Press (updated 20210114)
+Title Liverpool University Press (updated 20210615)
 URL https://www.liverpooluniversitypress.co.uk/
 H www.liverpooluniversitypress.co.uk
 H https://liverpooluniversitypress.co.uk
+H https://online.liverpooluniversitypress.co.uk
+H online.liverpooluniversitypress.co.uk
 H liverpooluniversitypress.co.uk
 D liverpooluniversitypress.co.uk

@@ -1,8 +1,9 @@
-Title Portico (updated 20200806)
+Title Portico (updated 20210615)
 URL http://www.portico.org
 HJ access.portico.org
 HJ https://access.portico.org
 HJ https://www.portico.org
+HJ https://portico.org
 HJ portico.org
 HJ www.portico.org
 DJ portico.org
