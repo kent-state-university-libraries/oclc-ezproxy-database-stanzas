@@ -1,7 +1,10 @@
-Title CABI Resources  (updated 20200121)
+Title CABI Resources (updated 20210616)
 URL https://www.cabi.org/
 HJ https://cabi.org
 HJ https://www.cabi.org
 HJ cabi.org
 HJ www.cabi.org
 DJ cabi.org
+NeverProxy https://cdnjs.cloudflare.com
+NeverProxy https://cdn.cabi.org
+NeverProxy https://api.cabi.org
