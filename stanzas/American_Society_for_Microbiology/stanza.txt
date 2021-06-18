@@ -1,5 +1,6 @@
-Title American Society for Microbiology (updated 20210603)
-URL https://www.asm.org/
+Option DomainCookieOnly
+Title American Society for Microbiology (updated 20210617)
+URL https://journals.asm.org/
 HJ aac.asm.org
 HJ aem.asm.org
 HJ asm.org
@@ -59,3 +60,4 @@ HJ www.journals.asm.org
 DJ asm.org
 DJ asmscience.org
 NeverProxy asm.metastore.ingenta.com
+Option Cookie

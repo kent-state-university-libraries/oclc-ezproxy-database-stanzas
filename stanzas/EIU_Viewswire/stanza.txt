@@ -1,0 +1,18 @@
+Title EIU Viewswire (updated 20210617)
+URL http://www.eiu.com/viewswire
+HJ www.eiu.com
+HJ https://portal.eiu.com
+HJ https://eiu.com
+HJ country.eiu.com
+HJ portal.eiu.com
+HJ search.eiu.com
+HJ data.eiu.com
+HJ graphics.eiu.com
+HJ gfs.eiu.com
+HJ pages.eiu.com
+HJ viewswire.eiu.com
+HJ service.eiu.com
+HJ viewpoint.eiu.com
+HJ intelligence.eiu.com
+DJ eiu.com
+NeverProxy https://cdn.design-system.economist.com

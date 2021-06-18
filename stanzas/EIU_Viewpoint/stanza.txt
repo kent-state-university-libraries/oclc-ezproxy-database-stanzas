@@ -1,0 +1,15 @@
+Title EIU Viewpoint (updated 20210617)
+URL https://viewpoint.eiu.com
+H https://viewpoint.eiu.com
+HJ https://portal.eiu.com
+HJ country.eiu.com
+HJ portal.eiu.com
+HJ search.eiu.com
+HJ data.eiu.com
+HJ graphics.eiu.com
+HJ gfs.eiu.com
+HJ pages.eiu.com
+HJ service.eiu.com
+HJ https://eiu.com
+DJ eiu.com
+NeverProxy https://cdn.design-system.economist.com
