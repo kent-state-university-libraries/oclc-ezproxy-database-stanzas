@@ -1,0 +1,12 @@
+AnonymousURL +https://tourism.cabi.org/*
+Title CABI Tourism Case Studies (updated 20210616)
+HTTPHeader
+URL https://tourism.cabi.org/
+HJ tourism.cabi.org
+HJ cdn.cabi.org
+HJ api.cabi.org
+DJ cabi.org
+AnonymousURL -*
+NeverProxy https://cdnjs.cloudflare.com
+NeverProxy https://cdn.cabi.org
+NeverProxy https://api.cabi.org
