@@ -1,9 +1,11 @@
-Title Equinox Publishing Ltd.
+Title Equinox Publishing Ltd. (updated 20210629)
 URL https://www.equinoxpub.com/home/
 HJ equinoxpub.com
 HJ https://equinoxpub.com
+HJ https://journal.equinoxpub.com
 HJ https://journals.equinoxpub.com
 HJ https://www.equinoxpub.com
+HJ journal.equinoxpub.com
 HJ journals.equinoxpub.com
 HJ www.equinoxjournals.com
 HJ www.equinoxpub.com
