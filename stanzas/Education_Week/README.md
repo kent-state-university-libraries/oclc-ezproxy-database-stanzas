@@ -1,5 +1,5 @@
-# BrillOnline
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline) **
+# Education Week
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Education_Week](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Education_Week) **
 
 ## Some of OCLC's notes for this stanza
 

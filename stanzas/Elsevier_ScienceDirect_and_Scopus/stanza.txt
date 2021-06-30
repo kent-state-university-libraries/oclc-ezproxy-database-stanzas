@@ -36,7 +36,8 @@ AnonymousURL -*
 ProxyHostnameEdit www.scopus.com$ www-scopus-com
 MimeFilter text/uri-list .* javascript
 AnonymousURL +http://syndic8.scopus.com/*
-Title Scopus (updated 20201204)
+AnonymousURL +https://components.scopus.com/www/experimental-components/experimental/*
+Title Scopus (updated 20210630)
 MimeFilter application/json .* javascript
 URL https://www.scopus.com/home.url
 HJ https://www.scopus.com

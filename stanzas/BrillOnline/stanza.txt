@@ -1,5 +1,20 @@
+#This stanza is required to resolve the Cookie Banner popup solution
+AnonymousURL +*
+Title -hide CookieLaw
+HTTPHeader -Request Sec-*
+HTTPHeader -Response CF-*
+HTTPHeader -Response Expect-CT
+URL https://cdn.cookielaw.org
+DJ cookielaw.org
+DJ onetrust.com
+Find domain=."+i[0]+"
+Replace domain="+location.hostname+"
+Find domain=."+l[0]+"
+Replace domain="+location.hostname+"
+AnonymousURL -*
+
 #Includes World Christian Database, World Religion Database and Arkyves
-Title BrillOnline (updated 20200601)
+Title BrillOnline (OCLC IncludeFile updated 20210630)
 HTTPHeader -request -process X-Requested-With
 URL https://www.brill.com
 HJ https://brill.com
@@ -23,6 +38,8 @@ HJ www.primarysourcesonline.nl
 HJ ybio.brillonline.com
 HJ www.foreignlawguide.com
 HJ foreignlawguide.com
+HJ scholarlyeditions.brill.com
+HJ https://scholarlyeditions.brill.com
 HJ https://babo.brillonline.nl
 HJ https://www.worldchristiandatabase.org
 HJ https://bibliographies.brillonline.com
