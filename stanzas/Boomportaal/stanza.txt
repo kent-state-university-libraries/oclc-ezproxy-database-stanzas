@@ -1,18 +1,41 @@
 AnonymousURL +https://pdfkit-budh.boom.nl/i/d/*
-Title Boomportaal (updated 20191105)
+Title Boomportaal (updated 20210701)
 MimeFilter text/plain https://www.boomportaal.nl/header.* javascript
 HTTPHeader -request -process PSPDFKit-Platform
 HTTPHeader -request -process PSPDFKit-Version
 HTTPHeader -request -process X-PSPDFKit-Token
 HTTPHeader -request -process X-PSPDFKit-Image-Token
 URL https://www.boomportaal.nl/
+HJ demo.boomportaal.nl
 HJ www.boomportaal.nl
+HJ https://demo.boomportaal.nl
 HJ https://www.boomportaal.nl
 HJ boeken.rechtsgebieden.boomportaal.nl
 HJ https://boeken.rechtsgebieden.boomportaal.nl
 HJ https://tijdschriften.rechtsgebieden.boomportaal.nl
 HJ tijdschriften.rechtsgebieden.boomportaal.nl
 HJ https://pdfkit-budh.boom.nl
+HJ eela.eelc-updates.com
+HJ vean.erf-updates.nl
+HJ www.ar-updates.nl
+HJ www.cotandocumentatie.nl
+HJ www.dsm5online.nl
+HJ www.eelc-online.com
+HJ www.ehrc-updates.nl
+HJ www.erf-updates.nl
+HJ www.gzr-updates.nl
+HJ www.ins-updates.nl
+HJ www.jr-updates.nl
+HJ www.mfn-tuchtrechtupdates.nl
+HJ www.mymethods.nl
+HJ www.ogr-updates.nl
+HJ www.or-updates.nl
+HJ www.pfr-updates.nl
+HJ www.pr-updates.nl
+HJ www.ps-updates.nl
+HJ www.sr-updates.nl
+HJ www.szr-updates.nl
+DJ boom.nl
 DJ boomportaal.nl
 Find \x22//www.boomportaal.nl
 Replace \x22//^swww.boomportaal.nl^

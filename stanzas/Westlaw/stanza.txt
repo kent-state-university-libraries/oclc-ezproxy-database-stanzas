@@ -5,7 +5,7 @@ HTTPHeader X-Requested-With
 HTTPMethod DELETE
 HTTPMethod PUT
 HTTPMethod PATCH
-Title WestlawNext Campus Research (updated 20200731)
+Title WestlawNext Campus Research (OCLC IncludeFile updated 20200731)
 URL https://1.next.westlaw.com/Search/Home.html?rs=IWLN1.0&vr=3.0&sp=YOURSPONSORSHIP&forcecdn=false&bhskip=1
 DJ westlaw.com
 Option Cookie
@@ -19,31 +19,33 @@ NeverProxy a.next.westlaw.com:443
 
 
 Option DomainCookieOnly
-Title Westlaw (updated 20210615)
+Title Westlaw (OCLC IncludeFile updated 20210701)
 URL http://www.westlaw.com
 HJ campus.westlaw.com
 HJ https://campus.westlaw.com
+HJ https://intl.westlaw.com
+HJ https://lawschool.westlaw.com
 HJ https://login.westlaw.co.uk
 HJ https://login.westlaw.ie
-HJ https://www.westlaw.com
 HJ https://signon.thomsonreuters.com
-HJ https://intl.westlaw.com
+HJ https://www.westlaw.com
 HJ intl.westlaw.com
+HJ lawschool.westlaw.com
 HJ legalresearch.westlaw.co.uk
-HJ login.westlaw.co.uk
-HJ login.westlaw.ie
-HJ login.westlaw.com.au
 HJ login.westlaw.co.nz
+HJ login.westlaw.co.uk
+HJ login.westlaw.com.au
+HJ login.westlaw.ie
+HJ signon.thomsonreuters.com
 HJ westlaw.co.uk
 HJ westlaw.ie
-HJ www.westlaw.co.uk
-HJ www.westlaw.ie
-HJ www.westlaw.com.au
-HJ www.westlaw.co.nz
-HJ www.westlawchile.cl
 HJ westlawchile.cl
+HJ www.westlaw.co.nz
+HJ www.westlaw.co.uk
+HJ www.westlaw.com.au
 HJ www.westlaw.es
-HJ signon.thomsonreuters.com
+HJ www.westlaw.ie
+HJ www.westlawchile.cl
 DJ westlawchile.cl
 DJ westlaw.com
 DJ westlaw.co.uk
