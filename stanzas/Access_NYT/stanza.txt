@@ -1,4 +1,5 @@
-Title Access NYT
-URL http://ezmyaccount.nytimes.com/grouppass/redir
+Title Access NYT (updated 20210707)
+URL https://ezmyaccount.nytimes.com/grouppass/redir
+H http://ezmyaccount.nytimes.com
 D ezmyaccount.nytimes.com
 H ezmyaccount.nytimes.com
