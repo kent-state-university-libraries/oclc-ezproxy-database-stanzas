@@ -1,4 +1,4 @@
-Title Science - AAAS (updated 20190319)
+Title Science - AAAS (updated 20210712)
 URL https://www.sciencemag.org
 HJ http://www.sciencemag.org
 HJ https://science.sciencemag.org
@@ -14,6 +14,9 @@ HJ https://www.sciencemag.org
 HJ https://news.sciencemag.org
 HJ https://classic.sciencemag.org
 HJ https://sageke.sciencemag.org
+HJ https://www.science.org
+HJ www.science.org
+HJ https://aaas-prod.science.org
 HJ science.sciencemag.org
 HJ sciencecareers.sciencemag.org
 HJ search.sciencemag.org
@@ -23,8 +26,13 @@ HJ robotics.sciencemag.org
 HJ stke.sciencemag.org
 HJ stm.sciencemag.org
 HJ sciencemag.org
+HJ www.science.org
 HJ www.sciencemag.org
 HJ news.sciencemag.org
 HJ classic.sciencemag.org
+HJ aaas-prod.science.org
 HJ sageke.sciencemag.org
 DJ sciencemag.org
+DJ science.org
+DJ aaas-prod.science.org
+DJ literatumonline.com
