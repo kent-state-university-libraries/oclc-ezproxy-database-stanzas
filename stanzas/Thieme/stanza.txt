@@ -30,7 +30,8 @@ D roempp.thieme.de
 H roempp.thieme.de
 DJ roempp.thieme.de
 
-Title Science of Synthesis (updated 20201201)
+Title Science of Synthesis (updated 20210712)
+HttpHeader X-Token
 URL https://science-of-synthesis.thieme.com/
 HJ http://science-of-synthesis.thieme.com
 HJ science-of-synthesis.thieme.com
@@ -67,5 +68,14 @@ URL https://eRef.thieme.de/
 HJ http://eRef.thieme.de
 HJ eRef.thieme.de
 DJ eRef.thieme.de
+HJ profile.thieme.de
+DJ profile.thieme.de
+
+
+Title Thieme Via Medici (updated 20210712)
+URL https://viamedici.thieme.de/
+HJ http://viamedici.thieme.de
+HJ viamedici.thieme.de
+DJ viamedici.thieme.de
 HJ profile.thieme.de
 DJ profile.thieme.de
