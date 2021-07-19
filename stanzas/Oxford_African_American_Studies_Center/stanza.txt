@@ -1,0 +1,7 @@
+Title Oxford African American Studies Center (updated 20200124)
+URL https://www.oxfordaasc.com/
+URL http://www.oxfordaasc.com/
+HJ https://www.oxfordaasc.com
+HJ www.oxfordaasc.com
+HJ oxfordaasc.com
+DJ oxfordaasc.com
