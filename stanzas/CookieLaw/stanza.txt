@@ -1,0 +1,13 @@
+AnonymousURL +*
+Title -hide CookieLaw (updated 20210714)
+HTTPHeader -Request -process Sec-*
+HTTPHeader -Response -process CF-*
+HTTPHeader -Response -process Expect-CT
+URL https://cdn.cookielaw.org
+DJ cookielaw.org
+DJ onetrust.com
+Find domain=."+i[0]+"
+Replace domain="+location.hostname+"
+Find domain=."+l[0]+"
+Replace domain="+location.hostname+"
+AnonymousURL -*

@@ -1,5 +1,7 @@
+#This stanza is required to resolve the Cookie Banner pop-up solution IncludeFile databases/cookielaw.txt
+
 Option DomainCookieOnly
-Title JSTOR (updated 20190626)
+Title JSTOR (updated 20210714)
 HTTPHeader -request -process X-Requested-With
 URL http://www.jstor.org/
 HJ https://www.jstor.org
@@ -13,6 +15,7 @@ HJ links.jstor.org
 HJ mobile.jstor.org
 HJ about.jstor.org
 HJ plants.jstor.org
+HJ uk.jstor.org
 HJ https://uk.jstor.org
 HJ https://dfr.jstor.org
 HJ https://labs.jstor.org
@@ -22,4 +25,13 @@ HJ https://about.jstor.org
 HJ https://plants.jstor.org
 HJ https://uk.jstor.org
 DJ jstor.org
+
+HTTPHeader -request -process X-Requested-With
+Title JSTOR Aluka
+URL  http://www.aluka.org/
+HJ  https://www.aluka.org
+HJ  www.aluka.org
+HJ  aluka.org
+HJ  https://aluka.org
+DJ  aluka.org
 Option Cookie

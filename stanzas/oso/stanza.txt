@@ -1,6 +1,9 @@
-Title Oxford Scholarship Online - OSO (updated 20190410)
+#This stanza is required to resolve the Cookie Banner popup solution IncludeFile databases/cookielaw.txt
+
+Title Oxford Scholarship Online - OSO (updated 20210714)
 URL https://www.oxfordscholarship.com
 HJ https://oxfordscholarship.com
 HJ oxfordscholarship.com
 HJ www.oxfordscholarship.com
 DJ oxfordscholarship.com
+#This resource also required the University Press Scholarship Online stanza
