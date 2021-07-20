@@ -1,0 +1,7 @@
+Title World Library (updated 20210719)
+URL https://database.worldlibrary.org/
+HJ database.worldlibrary.org
+HJ database-download.worldlibrary.org
+HJ https://database.worldlibrary.org
+HJ https://database-download.worldlibrary.org
+DJ worldlibrary.org
