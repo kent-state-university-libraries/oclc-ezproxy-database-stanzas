@@ -1,8 +1,9 @@
-Title INFORMS PubsOnline
+Title INFORMS PubsOnline (updated 20210719)
 URL https://pubsonline.informs.org/
-HJ https://www.informs.org/
 HJ da.journal.informs.org
 HJ deca.informs.org
+HJ https://journals.informs.org
+HJ https://www.informs.org/
 HJ ijoc.informs.org
 HJ inte.informs.org
 HJ interfaces.journal.informs.org
