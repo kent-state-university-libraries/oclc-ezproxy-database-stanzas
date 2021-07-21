@@ -1,16 +1,17 @@
-Title Institute of Physics (updated 20190410)
+Title Institute of Physics (updated 20210720)
 URL http://iopscience.iop.org/
 HJ asia.iop.org
 HJ biologicalphysics.iop.org
-HJ conferenceseries.iop.org/
+HJ conferenceseries.iop.org
 HJ https://asia.iop.org
 HJ https://biologicalphysics.iop.org
-HJ https://conferenceseries.iop.org/
-HJ https://iopscience.iop.org/
+HJ https://conferenceseries.iop.org
+HJ https://iopscience.iop.org
 HJ https://irish.iop.org
 HJ https://stacks.iop.org
-HJ https://tap.iop.org/
+HJ https://tap.iop.org
 HJ https://www.iop.org
+HJ https://iopscience.org
 HJ iop.org
 HJ ioppublishing.org
 HJ iopscience.iop.org
