@@ -1,16 +1,16 @@
 HTTPMethod DELETE
-ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
-HTTPHeader X-GWT-*
-HTTPHeader X-ApiKey
-HTTPHeader X-CPID
-Title The Almanac of the Federal Fiduciary
-URL http://intelliconnect.cch.com
-HJ https://intelliconnect.cch.com
-HJ https://login.intelliconnect.cch.com
+Title Almanac of the Federal Judiciary (updated 20210726)
+HTTPHeader -request -process X-GWT-*
+HTTPHeader -request -process X-ApiKey
+HTTPHeader -request -process X-Api-Key
+HTTPHeader -request -process X-CPID
+URL http://almanacofthefederaljudiciary.com
 HJ https://login.wolterskluwer.com
-DJ wkcheetah.com
-DJ cch.com
-DJ wolterskluwer.com
-MimeFilter application/json .* javascript
+HJ https://almanacofthefederaljudiciary.com
+HJ almanacofthefederaljudiciary.com
+DJ almanacofthefederaljudiciary.com
+Mimefilter application/json .* javascript
 Find http:\/\/
 Replace http://
+Find name="redirect_uri" value="https://
+Replace name="redirect_uri" value="https://^A
