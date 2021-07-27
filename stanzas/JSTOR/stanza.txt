@@ -1,7 +1,10 @@
-#This stanza is required to resolve the Cookie Banner pop-up solution IncludeFile databases/cookielaw.txt
+#This stanza is required to resolve the Cookie Banner popup issue IncludeFile databases/cookielaw.txt
 
-Option DomainCookieOnly
-Title JSTOR (updated 20210714)
+HTTPMethod PUT
+HTTPMethod PATCH
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+Title JSTOR (updated 20210726)
 HTTPHeader -request -process X-Requested-With
 URL http://www.jstor.org/
 HJ https://www.jstor.org
@@ -34,4 +37,3 @@ HJ  www.aluka.org
 HJ  aluka.org
 HJ  https://aluka.org
 DJ  aluka.org
-Option Cookie
