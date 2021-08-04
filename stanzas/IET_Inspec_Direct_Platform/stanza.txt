@@ -1,10 +1,11 @@
 Option CookiePassThrough
+HTTPMethod DELETE
+HTTPMethod PUT
 AnonymousURL +https://inspec-auth.theiet.org/*
 AnonymousURL +https://inspec-direct-api.theiet.org/*
 AnonymousURL +https://ietsso.b2clogin.com/*
 AnonymousURL +https://ietpb2cstorage.blob.core.windows.net/*
-Title IET Inspec Direct Platform (updated 20210727)
-HTTPMethod PUT
+Title IET Inspec Direct Platform (updated 20210803)
 HTTPHeader -request -process X-Alt-Referer
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process Ocp-Apim-Subscription-Key

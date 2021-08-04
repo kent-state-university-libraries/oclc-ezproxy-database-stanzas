@@ -1,0 +1,16 @@
+HTTPMethod PUT
+HTTPMethod PATCH
+HTTPMethod DELETE
+HTTPMethod OPTIONS
+Title Enclave RAE (updated 20210803)
+HTTPHeader -request -process X-Requested-With
+HTTPHeader -response -edit Access-Control-Allow-Origin "*"
+URL https://enclave.rae.es
+HJ rae.es
+HJ https://rae.es
+HJ enclave.rae.es
+HJ dcs-enclave.rae.es
+HJ https://dcs-enclave.rae.es
+DJ rae.es
+NeverProxy api.rae.es
+NeverProxy dej-enclave.rae.es
