@@ -1,9 +1,7 @@
-Option NoX-Forwarded-For
 Option DomainCookieOnly
-Title eTG Complete - Therapeutic Guidelines (updated 20200428)
+Title eTG Complete - Therapeutic Guidelines (updated 20210806)
 URL https://tgldcdp.tg.org.au
 HJ http://tgldcdp.tg.org.au
 HJ online.tg.org.au
 DJ tg.org.au
 Option Cookie
-Option X-Forwarded-For

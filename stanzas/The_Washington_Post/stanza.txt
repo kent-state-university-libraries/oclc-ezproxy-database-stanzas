@@ -3,8 +3,9 @@ Cookie wp_ezproxy=1; domain=.washingtonpost.com; path=/;
 AnonymousURL https://js.washingtonpost.com/*
 AnonymousURL https://api.washingtonpost.com/*
 AnonymousURL -re https://[^/]+\.wpdigital\.net/.*
-Title The Washington Post (updated 20210111)
-URL https://www.washingtonpost.com
+AnonymousURL https://video-api.washingtonpost.com/*
+Title The Washington Post (updated 20210805)
+U https://www.washingtonpost.com
 HJ https://www.washingtonpost.com
 HJ https://subscribe.washingtonpost.com
 HJ https://account.washingtonpost.com
@@ -12,7 +13,7 @@ HJ https://smetrics.washingtonpost.com
 HJ https://sitesearchapp.washingtonpost.com
 HJ https://cdn-api.arcpublishing.com
 HJ https://www.washingtonpost.com
-DJ washingtonpost.com
+DJ https://www.washingtonpost.com
 DJ wpdigital.net
 Find "www.washingtonpost.com"
 Replace "^swww.washingtonpost.com^"

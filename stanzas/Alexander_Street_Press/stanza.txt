@@ -1,8 +1,12 @@
-Title Alexander Street Press (updated 20201117)
+##For the new Alexander Street Press interface:
+
+Title Alexander Street Press (updated 20210805)
 URL http://search.alexanderstreet.com
 Host https://search.alexanderstreet.com
 DJ alexanderstreet.com
 Host cdn.alexanderstreet.com
+HJ https://tcr3.alexanderstreet.com
+HJ https://tcr4.alexanderstreet.com
 NeverProxy https://dywyzs4z4lwvw.cloudfront.net
 NeverProxy d3crmev290s45i.cloudfront.net
 NeverProxy media.proquest.com
