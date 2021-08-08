@@ -1,4 +1,4 @@
-# ASTM Compass
+# ASTM Compass 2.0
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass) **
 
 ## Some of OCLC's notes for this stanza

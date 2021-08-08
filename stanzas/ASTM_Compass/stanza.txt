@@ -1,50 +1,20 @@
-Option CookiePassThrough
-Title ASTM Compass (updated 20190729)
-URL https://compass.astm.org
-HJ compass.astm.org
-DJ compass.astm.org
-Find .indexOf("compass") > -1
-Replace .indexOf(".") > -1
-Find .indexOf("compass.astm.org") > -1
-Replace .indexOf(".") > -1
-Find domain=.astm.org
-Replace domain=^d
-Find host=.astm.org
-Replace host=^d
-Find imgloc != ""
-Replace false
-Find "url":"http://
-Replace "url":"http://^A
-
-Title Enterprise ASTM (updated 20190729)
-URL http://enterprise.astm.org
-DJ enterprise.astm.org
-Find .indexOf("enterprise") > -1
-Replace .indexOf(".") > -1
-Find .indexOf("enterprise.astm.org") > -1
-Replace .indexOf(".") > -1
-Find domain=.astm.org
-Replace domain=^d
-Find host=.astm.org
-Replace host=^d
-
-Title -hide MyASTM (updated 20190729)
-URL http://myastm.astm.org
-DJ myastm.astm.org
-Find .indexOf("myastm") > -1
-Replace .indexOf(".") > -1
-Find domain=.astm.org
-Replace domain=^d
-Find host=.astm.org
-Replace host=^d
-
-Title -hide ASTM (updated 20190729)
-URL https://www.astm.org
-HJ www.astm.org
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
+AnonymousURL -OPTIONS +https://secure.astm.org/*
+AnonymousURL +https://compass.astm.org/*
+Title ASTM Compass 2.0 (updated 20210808)
+HTTPHeader -request -process x-okta-user-agent-extended
+HTTPHeader -request -process x-okta-request-id
+HTTPHeader -request -process XSRF-TOKEN "*"
+HTTPHeader -request -process AuthMode "*"
+HTTPHeader -request -process RequestId "*"
+MimeFilter application/json .* javascript
+URL https://secure.astm.org
+HJ http://secure.astm.org
+HJ https://secure.astm.org
 DJ astm.org
-DJ micronexx.com
-Find domain=.astm.org
-Replace domain=^d
-Find host=.astm.org
-Replace host=^d
-option cookie
+NeverProxy iam.astm.org
+NeverProxy compass.astm.org
+NeverProxy v2compass.astm.org
+NeverProxy cdn.jsdelivr.net
