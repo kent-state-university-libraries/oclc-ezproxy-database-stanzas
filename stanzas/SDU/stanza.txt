@@ -1,4 +1,4 @@
-Title SDU (updated 20210722)
+Title SDU (updated 20210809)
 HTTPHeader -request -process Book-Authorization
 URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
@@ -28,6 +28,7 @@ HJ https://arbeidsrecht.sdu.nl
 HJ https://caoweb-cms.sdu.nl
 HJ https://caoweb.sdu.nl
 HJ https://decentraleregelgeving.nl
+HJ https://downloads.sdu.nl
 HJ https://ga-fo.sdu.nl
 HJ https://ga-sec.sdu.nl
 HJ https://hse.sdu.nl
