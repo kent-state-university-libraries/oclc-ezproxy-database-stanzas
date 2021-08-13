@@ -1,0 +1,8 @@
+Title Plumb's Veterinary Drugs (updated 20210810)
+URL https://academic.plumbs.com
+HJ https://www.plumbsveterinarydrugs.com
+HJ academic.plumbs.com
+HJ app.plumbs.com
+DJ academic.plumbs.com
+DJ plumbs.com
+DJ plumbsveterinarydrugs.com

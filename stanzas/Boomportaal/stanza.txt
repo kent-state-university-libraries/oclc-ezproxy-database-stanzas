@@ -1,23 +1,61 @@
+AnonymousURL +https://middleware.boomportaal.nl/boom/services/rest/*
 AnonymousURL +https://pdfkit-budh.boom.nl/i/d/*
-Title Boomportaal (updated 20210701)
+AnonymousURL +https://pspdfkit.boomportaal.nl/*
+Title Boomportaal (updated 20210812)
 MimeFilter text/plain https://www.boomportaal.nl/header.* javascript
 HTTPHeader -request -process PSPDFKit-Platform
 HTTPHeader -request -process PSPDFKit-Version
+HTTPHeader -request -process Token
 HTTPHeader -request -process X-PSPDFKit-Token
 HTTPHeader -request -process X-PSPDFKit-Image-Token
 URL https://www.boomportaal.nl/
-HJ demo.boomportaal.nl
-HJ www.boomportaal.nl
-HJ https://demo.boomportaal.nl
-HJ https://www.boomportaal.nl
 HJ boeken.rechtsgebieden.boomportaal.nl
-HJ https://boeken.rechtsgebieden.boomportaal.nl
-HJ https://tijdschriften.rechtsgebieden.boomportaal.nl
-HJ tijdschriften.rechtsgebieden.boomportaal.nl
-HJ https://pdfkit-budh.boom.nl
+HJ boomportaal.nl
+HJ demo.boomportaal.nl
 HJ eela.eelc-updates.com
+HJ eelc-online.com
+HJ ehrc-updates.nl
+HJ erf-updates.nl
+HJ gzr-updates.nl
+HJ https://boeken.rechtsgebieden.boomportaal.nl
+HJ https://boomportaal.nl
+HJ https://demo.boomportaal.nl
+HJ https://eela.eelc-updates.com
+HJ https://ogr-updates.nl
+HJ https://or-updates.nl
+HJ https://pdfkit-budh.boom.nl
+HJ https://ps-updates.nl
+HJ https://sr-updates.nl
+HJ https://tijdschriften.rechtsgebieden.boomportaal.nl
+HJ https://tijdschriften.rechtsgebieden.boomportaal.nl
+HJ https://tuchtrecht-updates.nl
+HJ https://vean.erf-updates.nl
+HJ https://www.ar-updates.nl
+HJ https://www.boomportaal.nl
+HJ https://www.eelc-online.com
+HJ https://www.ehrc-updates.nl
+HJ https://www.erf-updates.nl
+HJ https://www.gzr-updates.nl
+HJ https://www.ins-updates.nl
+HJ https://www.ogr-updates.nl
+HJ https://www.or-updates.nl
+HJ https://www.pfr-updates.nl
+HJ https://www.pr-updates.nl
+HJ https://www.sr-updates.nl
+HJ https://www.szr-updates.nl
+HJ https://www.tuchtrecht-updates.nl
+HJ ogr-updates.nl
+HJ or-updates.nl
+HJ pfr-updates.nl
+HJ pr-updates.nl
+HJ ps-updates.nl
+HJ sr-updates.nl
+HJ szr-updates.nl
+HJ tijdschriften.rechtsgebieden.boomportaal.nl
+HJ tuchtrecht-updates.nl
 HJ vean.erf-updates.nl
 HJ www.ar-updates.nl
+HJ www.boomportaal.nl
 HJ www.cotandocumentatie.nl
 HJ www.dsm5online.nl
 HJ www.eelc-online.com
@@ -35,8 +73,14 @@ HJ www.pr-updates.nl
 HJ www.ps-updates.nl
 HJ www.sr-updates.nl
 HJ www.szr-updates.nl
+HJ www.tuchtrecht-updates.nl
 DJ boom.nl
 DJ boomportaal.nl
 Find \x22//www.boomportaal.nl
 Replace \x22//^swww.boomportaal.nl^
+Find url += "&origin=" + encodeURIComponent(origin);
+Replace url += "&origin=https://^Awww.boomportaal.nl";
+Find "&redirect_uri="+encodeURIComponent(l)
+Replace "&redirect_uri=https://^Awww.boomportaal.nl"
 AnonymousURL -*
+NeverProxy static.boomportaal.nl
