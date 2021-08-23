@@ -1,6 +1,6 @@
-OPTION DOMAINCOOKIEONLY
+Option DomainCookieOnly
 PHE apps.clarivate.com$ apps-clarivate-com
-Title EndNote online and InCites (updated 20210817)
+Title EndNote online and InCites (updated 20210821)
 HTTPMethod DELETE
 HTTPMethod PUT
 BinaryTimeout 600
@@ -11,31 +11,29 @@ HTTPHeader -request -process text
 HTTPHeader -request -process textInput
 MimeFilter application/json .* javascript
 URL http://www.myendnoteweb.com
-HJ Clarivate
+HJ https://access.clarivate.com
 HJ https://my.endnote.com
 HJ https://www.myendnoteweb.com
 HJ www.myendnoteweb.com
 HJ my.endnote.com
-HJ access.clarivate.com
 DJ myendnoteweb.com
-DJ access.clarivate.com
-HJ http://www.myendnoteweb.com
-HJ Clarivate
-HJ InCites - Clarivate - Sign In
-HJ Journal Citation Reports
+Host http://www.myendnoteweb.com
+Host https://access.clarivate.com
 HJ http://jcr3.clarivate.com
-HJ InCites - Clarivate - Sign In
-HJ InCites - Clarivate
-HJ InCites - Clarivate - Sign In
-HJ Journal Citation Reports
+HJ http://esi.clarivate.com
+HJ http://jcr.clarivate.com
+HJ http://incites.clarivate.com
+HJ http://myorg.clarivate.com
+HJ https://myorg.clarivate.com
+HJ https://esi.clarivate.com
+HJ https://jcr.clarivate.com
 HJ https://jcr3.clarivate.com
-HJ InCites - Clarivate - Sign In
-HJ jcr.clarivate.com
 HJ jcr3.clarivate.com
-HJ jcr2.clarivate.com
+HJ jcr.clarivate.com
 HJ esi.clarivate.com
+HJ myorg.clarivate.com
 DJ incites.clarivate.com
-HJ InCites - Clarivate
+HJ https://incites.clarivate.com
 HJ help.incites.clarivate.com
 HJ login.incites.clarivate.com
 HJ error.incites.clarivate.com
@@ -43,4 +41,18 @@ HJ incites.isiknowledge.com
 DJ clarivate.com
 Find "apps.clarivate.com/
 Replace "^papps.clarivate.com^/
-OPTION COOKIE
+Find access.clarivate.com
+Replace ^saccess.clarivate.com^
+Option Cookie
+
+Option CookiePassThrough
+PHE access.clarivate.com$ access-clarivate-com
+Title OnePlatform Auth Login Micro UI
+URL https://access.clarivate.com
+HJ https://access.clarivate.com
+Host https://access.clarivate.com
+DJ access.clarivate.com
+DJ d3gs88v2si9epo.cloudfront.net
+Find access.clarivate.com
+Replace ^saccess.clarivate.com^
+Option Cookie
