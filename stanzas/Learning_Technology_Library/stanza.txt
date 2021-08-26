@@ -1,4 +1,7 @@
-Title The Learning and Technology Library
+Title Learning and Technology Library (updated 20210826)
 URL http://www.learntechlib.org
 HJ www.learntechlib.org
+HJ https://www.learntechlib.org
 HJ learntechlib.org
+HJ https://learntechlib.org
+DJ learntechlib.org
