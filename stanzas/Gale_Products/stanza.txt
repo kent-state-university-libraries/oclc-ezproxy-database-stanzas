@@ -1,5 +1,5 @@
-Title Gale Products (updated 20210719)
-URL https://link.gale.com
+Title Gale Products (updated 20210830)
+URL https://link.gale.com/apps/menu
 MimeFilter text/plain .* javascript
 HJ auth.go.gale.com
 HJ bi.gale.com
