@@ -1,0 +1,25 @@
+AnonymousURL -OPTIONS +https://checkpoint.1434.aws.thomsonreuters.com/*
+AnonymousURL +https://checkpoint.1434.aws.thomsonreuters.com/*
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
+Title Thomson Reuters Checkpoint Edge (updated 20210831)
+HTTPHeader -request -process X-Cp-*
+HTTPHeader -request -process cp_access_token
+URL https://checkpoint.riag.com/
+HJ https://checkpoint.riag.com
+HJ https://checkpoint.1434.aws.thomsonreuters.com
+DJ checkpoint.riag.com
+#NeverProxy checkpoint.1434.aws.thomsonreuters.com
+NeverProxy traac-js.product-insight.thomsonreuters.com
+NeverProxy pi-collector-prod.corp.aws.thomsonreuters.com
+NeverProxy www.datadoghq-browser-agent.com
+NeverProxy rum-http-intake.logs.datadoghq.com
+NeverProxy data.pendo.io
+NeverProxy cdn.pendo.io
+NeverProxy pendo-static-5721662265491456.storage.googleapis.com
+NeverProxy sdk.split.io
+NeverProxy events.split.io
+NeverProxy api.draftable.com
+NeverProxy diff-api.draftable.com
+AnonymousURL -*
