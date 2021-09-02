@@ -3,7 +3,7 @@ AnonymousURL +https://checkpoint.1434.aws.thomsonreuters.com/*
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
-Title Thomson Reuters Checkpoint Edge (updated 20210831)
+Title Thomson Reuters Checkpoint Edge (updated 20210902)
 HTTPHeader -request -process X-Cp-*
 HTTPHeader -request -process cp_access_token
 URL https://checkpoint.riag.com/
@@ -23,3 +23,9 @@ NeverProxy events.split.io
 NeverProxy api.draftable.com
 NeverProxy diff-api.draftable.com
 AnonymousURL -*
+
+
+Title Checkpoint Tax Research Student Account (updated 20210902)
+URL https://cpreg.thomsonreuters.com
+HJ https://cpreg.thomsonreuters.com
+DJ thomsonreuters.com
