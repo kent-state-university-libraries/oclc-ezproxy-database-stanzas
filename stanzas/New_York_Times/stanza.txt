@@ -1,4 +1,4 @@
-Title New York Times (updated 20200403)
+Title New York Times (updated 20210903)
 URL https://www.nytimes.com
 HJ https://nytimes.com
 HJ artsbeat.blogs.nytimes.com
@@ -46,3 +46,5 @@ HJ www.nytimesineducation.com
 HJ https://nytimesineducation.com
 HJ https://www.nytimesineducation.com
 DJ nytimesineducation.com
+Find https:\u002F\u002Fwww.nytimes.com
+Replace https:\u002F\u002F^swww.nytimes.com^

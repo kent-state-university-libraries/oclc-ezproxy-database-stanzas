@@ -1,5 +1,5 @@
 AnonymousURL +*//feeds.proquest.com/*
-Title ProQuest (updated 20210420)
+Title ProQuest (updated 20210903)
 HTTPHeader -request -process X-Requested-With Host
 URL https://www.proquest.com
 NeverProxy rss.proquest.com
@@ -46,6 +46,7 @@ HJ supremecourt.proquest.com
 HJ trials.proquest.com
 HJ wt3.proquest.com
 HJ www.proquest.com
+HJ proquest.com
 HJ www.proquestk12.com
 DJ umi.com
 HJ https://africanamericanheritage.proquest.com
@@ -73,6 +74,7 @@ HJ https://openurl.proquest.com
 HJ https://parlipapers.proquest.com
 HJ https://pqrc.proquest.com
 HJ https://proquest.umi.com
+HJ https://proquest.com
 HJ https://prq.st
 HJ https://regulatoryinsight.proquest.com
 HJ https://sanborn.umi.com

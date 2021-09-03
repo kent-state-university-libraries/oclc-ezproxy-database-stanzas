@@ -1,4 +1,4 @@
-# New York Times (NYT)
+# New York Times
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_York_Times](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_York_Times) **
 
 ## Some of OCLC's notes for this stanza
