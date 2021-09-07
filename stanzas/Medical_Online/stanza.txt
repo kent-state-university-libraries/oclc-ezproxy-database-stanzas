@@ -1,12 +1,12 @@
 AnonymousURL https://bookend-view-app.keyring.net/*
-Title Medical Online (updated 20210607)
+Title Medical Online (updated 20210906)
 URL https://mol.medicalonline.jp/library
 HJ bookend-view-app.keyring.net
 HJ https://bookend-view-app.keyring.net
 HJ https://www.medicalonline.jp
 HJ https://mol.medicalonline.jp
 DJ medicalonline.jp
-Find http://bookend-view-app.keyring.net/inbrview
+Find bookend-view-app.keyring.net/inbrview/
 Replace ^Sbookend-view-app.keyring.net^/inbrview/
 Find http://mol.medicalonline.jp
 Replace https://^Smol.medicalonline.jp^
