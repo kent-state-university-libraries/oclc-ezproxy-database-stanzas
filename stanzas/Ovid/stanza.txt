@@ -1,7 +1,7 @@
 HTTPMethod DELETE
 HTTPMethod PUT
 Option CookiePassThrough
-Title Ovid HTTPS (updated 20210630)
+Title Ovid HTTPS (updated 20210909)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
@@ -71,6 +71,7 @@ HJ https://watch.ondemand.org
 HJ app.jbisumari.org
 HJ https://app.jbisumari.org
 HJ https://journals.lww.com
+HJ https://myorthoevidence.com
 HJ anatomy.tv
 DJ lww.com
 DJ anatomyreferencecenter.com

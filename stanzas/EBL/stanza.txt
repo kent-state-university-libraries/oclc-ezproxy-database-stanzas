@@ -1,7 +1,8 @@
-Title EBL
+Title EBL (updated 20210909)
 AllowVars u
 EncryptVar u astringyoupick
 EBLSecret ###____####
-URL http://www.YOURSITE.eblib.com
+URL https://www.YOURSITE.eblib.com
 HJ http://YOURSITE.eblib.com
+HJ https://YOURSITE.eblib.com
 DJ eblib.com

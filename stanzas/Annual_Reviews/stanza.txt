@@ -1,20 +1,25 @@
-Title Annual Reviews
+Title Annual Reviews (updated 20210909)
 URL https://www.annualreviews.org/
 HJ annualreviews.org
+HJ knowablemagazine.org
 HJ anchem.annualreviews.org
 HJ animal.annualreviews.org
 HJ anthro.annualreviews.org
 HJ arcompsci.annualreviews.org
 HJ arjournals.annualreviews.org
-HJ arplant.annualreviews.org
 HJ astro.annualreviews.org
 HJ biochem.annualreviews.org
+HJ biodatasci.annualreviews.org
 HJ bioeng.annualreviews.org
 HJ biophys.annualreviews.org
+HJ cancerbio.annualreviews.org
 HJ cellbio.annualreviews.org
 HJ chembioeng.annualreviews.org
 HJ clinpsy.annualreviews.org
 HJ conmatphys.annualreviews.org
+HJ control.annualreviews.org
+HJ criminol.annualreviews.org
+HJ devpsych.annualreviews.org
 HJ earth.annualreviews.org
 HJ ecolsys.annualreviews.org
 HJ economics.annualreviews.org
@@ -53,3 +58,4 @@ HJ virology.annualreviews.org
 HJ vision.annualreviews.org
 HJ www.annualreviews.org
 DJ annualreviews.org
+DJ knowablemagazine.org

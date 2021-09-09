@@ -1,9 +1,7 @@
-Title Data Planet (updated 20210608)
+Title Data Planet (updated 20210909)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process __RequestVerificationToken
 URL https://dataplanet.sagepub.com
-URL https://statisticaldatasets.data-planet.com/dataplanet/
-H https://dataplanet-auth.sagepub.com
 HJ http://statisticaldatasets.data-planet.com
 HJ https://dataplanet.sagepub.com
 HJ https://dataplanet-auth.sagepub.com
