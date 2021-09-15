@@ -2,7 +2,7 @@ Option CookiePassThrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
 AnonymousURL +https://csi.webofknowledge.com/CSI/*
-Title Web of Science (formerly Web Of Knowledge) (updated 20210821)
+Title Web of Knowledge (updated 20210915)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process AWSEnv
@@ -161,6 +161,9 @@ Option CookiePassThrough
 PHE access.clarivate.com$ access-clarivate-com
 Title OnePlatform Auth Login Micro UI
 URL https://access.clarivate.com
+HTTPHeader -request -process generatedOn
+HTTPHeader -request -process text
+HTTPHeader -request -process textInput
 HJ https://access.clarivate.com
 Host https://access.clarivate.com
 DJ access.clarivate.com
