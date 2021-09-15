@@ -1,11 +1,13 @@
 AnonymousURL +https://inspec-auth.theiet.org/*
 AnonymousURL +https://analytics-api.iet.org/*
-Title IET Inspec Analytics Standalone (updated 20210331)
+Title IET Inspec Analytics Standalone (updated 20210914)
 HTTPHeader -request -process X-Alt-Referer
 HTTPHeader -request -process Authorization
 HTTPHeader -response -edit Access-Control-Allow-Origin "*"
 URL https://inspec-analytics-app.theiet.org/
+HJ https://inspec-analytics.theiet.org
 HJ https://inspec-analytics-app.theiet.org
+HJ inspec-analytics.theiet.org
 HJ inspec-analytics-app.theiet.org
 HJ https://inspec-auth.theiet.org
 HJ inspec-auth.theiet.org
