@@ -1,6 +1,9 @@
-Title Torrossa Casalini Full Text Platform (updated 20210505)
+Title Torrossa Casalini Full Text Platform (updated 20210916)
 URL http://www.torrossa.com
 HJ digital.casalini.it
+HJ docs.crypto-service.com
+HJ https://digital.casalini.it
+HJ https://torrossa.com
 HJ https://www.casalini.it
 HJ torrossa.com
 HJ torrossa.de
@@ -12,7 +15,6 @@ HJ www.torrossa.de
 HJ www.torrossa.es
 HJ www.torrossa.eu
 HJ www.torrossa.it
-HJ docs.crypto-service.com
 DJ casalini.it
 DJ torrossa.com
 DJ torrossa.de
@@ -43,7 +45,7 @@ DJ docs.crypto-service.com
 
 Title Libraweb (updated 20210505)
 ByteServe https://www\.libraweb\.net/pdfviewer/.*
-U https://www.libraweb.net
+URL https://www.libraweb.net
 HJ https://libraweb.net
 HJ https://www.libraweb.net
 HJ libraweb.net
