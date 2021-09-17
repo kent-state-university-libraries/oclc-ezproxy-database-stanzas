@@ -1,0 +1,11 @@
+Title eMIMS Online Medication information (updated 20210913)
+HTTPHeader -RE -request -process FROM-ANGULAR
+URL https://www.emims.com.au
+HJ data.staging.emims.com.au
+HJ emims.com.au
+HJ www.emims.com.au
+HJ https://data.staging.emims.com.au
+HJ https://emims.com.au
+HJ https://www.emims.com.au
+DJ emims.com.au
+DJ staging.emims.com.au
