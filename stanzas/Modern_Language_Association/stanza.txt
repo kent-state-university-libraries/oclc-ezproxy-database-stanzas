@@ -1,4 +1,4 @@
-Title Modern Language Association (updated 20210211)
+Title Modern Language Association (updated 20210918)
 URL http://www.mla.org
 HJ mla.org
 HJ mlahandbook.org
@@ -11,6 +11,7 @@ HJ https://www.mla.org
 HJ https://www.mlajournals.org
 HJ https://www.ade.mla.org
 HJ https://www.adfl.mla.org
+HJ https://mlahandbookplus.org
 DJ mla.org
 DJ mlajournals.org
 DJ mlahandbook.org
