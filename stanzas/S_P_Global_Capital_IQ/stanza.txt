@@ -1,7 +1,8 @@
+AnonymousURL -Options +https://qt-iag-ciqplus.capitaliq.com/*
 AnonymousURL -Options +https://charting.capitaliq.com/*
 AnonymousURL -Options +https://iag-ciqplus.capitaliq.com/*
 Option CookiePassThrough
-TITLE S&P Global Capital IQ (updated 20201211)
+TITLE S&P Global Capital IQ (updated 20210923)
 URL https://www.capitaliq.com
 HJ https://www.capitaliq.com
 HJ http://www.capitaliq.com
