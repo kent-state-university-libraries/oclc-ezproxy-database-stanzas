@@ -1,7 +1,7 @@
 # Elsevier ScienceDirect
 Cookie BROWSER_SUPPORTS_COOKIES=1;domain=.sciencedirect.com
 AnonymousURL +https://rss.sciencedirect.com/
-Title ScienceDirect (updated 20200807)
+Title ScienceDirect (Updated 20200807)
 URL https://www.sciencedirect.com
 HJ https://www.sciencedirect.com
 HJ https://sciencedirect.com
@@ -34,10 +34,12 @@ AnonymousURL -*
 
 #Elsevier Scopus
 ProxyHostnameEdit www.scopus.com$ www-scopus-com
-MimeFilter text/uri-list .* javascript
+HTTPMethod OPTIONS
 AnonymousURL +http://syndic8.scopus.com/*
-AnonymousURL +https://components.scopus.com/www/experimental-components/experimental/*
-Title Scopus (updated 20210630)
+AnonymousURL +https://components.scopus.com/*
+AnonymousURL -OPTIONS +https://components.scopus.com/*
+Title Scopus (updated 20210924)
+MimeFilter text/uri-list .* javascript
 MimeFilter application/json .* javascript
 URL https://www.scopus.com/home.url
 HJ https://www.scopus.com
@@ -51,9 +53,9 @@ Find gsUrl%22%3A%22https%3A%2F%2Fwww.scopus.com%2F
 Replace gsUrl%22%3A%22https%3A%2F%2F^pwww.scopus.com^%2F
 Find ["APP_DOMAIN"] = "www.scopus.com";
 Replace ["APP_DOMAIN"] = "^swww.scopus.com^";
-AnonymousURL -*
 Find redirect_uri=https://
 Replace redirect_uri=https://^A
+AnonymousURL -*
 
 Title -hide Elsevier Identity
 URL https://id.elsevier.com
