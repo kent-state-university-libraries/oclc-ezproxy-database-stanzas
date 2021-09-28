@@ -1,8 +1,9 @@
 #This stanza is required to resolve the Cookie Banner pop-up issue IncludeFile databases/cookielaw.txt
 
 #Includes World Christian Database, World Religion Database and Arkyves
-Title BrillOnline (updated 20210923)
-HTTPHeader -global x-projectname
+
+Title BrillOnline (updated 20210928)
+HTTPHeader -request -process x-projectname
 HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
 URL https://www.brill.com
