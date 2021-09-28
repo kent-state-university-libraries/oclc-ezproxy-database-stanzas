@@ -1,33 +1,41 @@
 Option CookiePassThrough
 Title Market Intelligence Platform (formerly SNL)(updated 20200920)
+MimeFilter text/event-stream .* javascript
 HTTPHeader -request -process X-CSRF-Token
 HTTPHeader -request -process com-gmi-*
 HTTPHeader -request -process SNL-*
 HTTPHeader -request -process -unrewrite Authorization
 HTTPHeader -response -edit Access-Control-Allow-Origin "https://www.snl.com"
-URL https://www.snl.com
-DJ snl.com
+URL https://capitaliq.spglobal.com
 HJ https://www.snl.com
 HJ www.snl.com
 HJ app.snl.com
 HJ app1.snl.com
 HJ app2.snl.com
+HJ https://capitaliq.spglobal.com
+HJ capitaliq.spglobal.com
+HJ www.capitaliq.spglobal.com
+HJ https://www.capitaliq.spglobal.com
+HJ https://www.capitaliqpro.com
+HJ www.capitaliqpro.com
 HJ platform.mi.spglobal.com
 HJ https://platform.mi.spglobal.com
 HJ platform.marketintelligence.spglobal.com
 HJ https://platform.marketintelligence.spglobal.com
-# new lines
 HJ platform.spgi.spglobal.com
 HJ https://platform.spgi.spglobal.com
-# end new lines
+DJ mhfi.com
+DJ spglobal.com
+DJ snl.com
+NeverProxy app.snl.com
+NeverProxy cdn.spgi.spglobal.com
+NeverProxy walkme.com
 Find && currentDomain != "localhost"
 Replace && 0
 Find https://www.snl.com/SNL.Services.Export.Service
 Replace https://^swww.snl.com^/SNL.Services.Export.Service
-NeverProxy app.snl.com
-NeverProxy cdn.spgi.spglobal.com
-DJ mhfi.com
-DJ spglobal.com
+Find https://www.capitaliq.spglobal.com/SNL.Services.Export.Service
+Replace https://^swww.capitaliq.spglobal.com^/SNL.Services.Export.Service
 Find xmlns=\"http://
 Replace xmlns=\"http://^A
 Find param="http://
@@ -38,6 +46,8 @@ Find param="https://
 Replace param="https://^A
 Find platform.marketintelligence.spglobal.com
 Replace ^splatform.marketintelligence.spglobal.com^
+Find capitaliq.spglobal.com
+Replace ^scapitaliq.spglobal.com^
 Find platform.mi.spglobal.com
 Replace ^splatform.mi.spglobal.com^
 Option Cookie
