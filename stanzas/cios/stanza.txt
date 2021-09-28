@@ -1,3 +1,6 @@
-T CIOS
-U http://www.cios.org/
-H shadow.cios.org:7979
+Title CIOS (updated 20210928)
+URL http://cios.org
+HJ https://cios.org
+HJ http://shadow.cios.org:7979
+HJ http://shadow.cios.org:80
+DJ cios.org
