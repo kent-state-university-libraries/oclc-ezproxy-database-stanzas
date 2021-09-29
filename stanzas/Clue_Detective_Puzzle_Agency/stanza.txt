@@ -1,11 +1,23 @@
-Title Clue Detective Puzzle Agency
-URL http://cluedetectivepuzzlesonline.com
-HJ www.cluedetectivepuzzlesonline.com
-HJ cluedetectivepuzzlesonline.com
-DJ cluedetectivepuzzlesonline.com
-HJ www.cluedetective.com
+Title Clue Detective Puzzle Agency (updated 20210929)
+URL https://cluedetectivepuzzleagency.com/online-puzzles-portal
+HJ cluedetectivepuzzleagency.com
 HJ cluedetective.com
-DJ cluedetective.com
-HJ www.omnificdesign.com.au
+HJ cluedetectivepuzzlesonline.com
 HJ omnificdesign.com.au
+HJ www.cluedetective.com
+HJ www.cluedetectivepuzzlesonline.com
+HJ www.omnificdesign.com.au
+HJ www.dreamhost.com
+HJ dreamhost.com
+HJ https://cluedetective.com
+HJ https://cluedetectivepuzzlesonline.com
+HJ https://omnificdesign.com.au
+HJ https://www.cluedetective.com
+HJ https://www.cluedetectivepuzzlesonline.com
+HJ https://www.omnificdesign.com.au
+HJ https://www.dreamhost.com
+HJ https://dreamhost.com
+DJ cluedetective.com
+DJ cluedetectivepuzzlesonline.com
 DJ omnificdesign.com.au
+DJ dreamhost.com
