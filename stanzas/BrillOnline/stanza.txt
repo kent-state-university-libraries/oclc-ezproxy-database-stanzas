@@ -2,7 +2,7 @@
 
 #Includes World Christian Database, World Religion Database and Arkyves
 
-Title BrillOnline (updated 20210928)
+Title BrillOnline (updated 20210930)
 HTTPHeader -request -process x-projectname
 HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
@@ -38,6 +38,7 @@ HJ https://worldreligiondatabase.org
 HJ https://www.worldreligiondatabase.org
 HJ https://dh.brill.com
 HJ dh.brill.com
+HJ labs.brill.com
 HJ https://fink.de/
 HJ https://schoeningh.de/
 HJ https://mentis.de/
@@ -59,5 +60,7 @@ DJ worldreligiondatabase.org
 DJ brillonline.com
 DJ brill.com
 DJ dh.brill.com
+DJ labs.brill.com
 NeverProxy iiif.arkyves.org
 NeverProxy data.brill.com
+NeverProxy prize-papers-atlas-online.brillonline.com
