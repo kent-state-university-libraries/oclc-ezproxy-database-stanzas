@@ -1,5 +1,5 @@
 # Ebook Central
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/ebookcentral.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/ebookcentral.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ebook_Central](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ebook_Central) **
 
 ## Some of OCLC's notes for this stanza
 
@@ -11,23 +11,16 @@ Single-Sign-On: This option will allow users to access Ebook Central and their p
 
 Patron Login + EZproxy: This option uses EZproxy to allow patrons to access Ebook Central and requires them to sign in with a separate Ebook Central username and password to access their personal bookshelves.
 
-Either remote access method requires SSL configuration and EZproxy 6.2.2.
-
-Ebook Central single-sign-on requires the following database stanza in config.txt :
+Either remote access method requires EZproxy 6.2.2.
 
 Replace YOURSITE with the YOURSITE name provided by ProQuest. If you have questions about this, please contact ProQuest support.
 
 Please note that EZproxy's AutoLoginIP directive may not be used in combination with this stanza. The stanza must also be placed above any ExcludeIP directives in config.txt.
-
-ebrary patron login + EZproxy requires the following database stanza in config.txt :
 
 Replace YOURSITE with the YOURSITE name provided by ProQuest. If you have questions about this, please contact ProQuest support.
 
 NOTE: You will need to pre-proxy the URL in the 856 field of your Ebook Central MARC records.
 
 If you are migrating to Ebook Central from an existing EBL or ebrary subscription, please see the EBL or ebrary stanza page for migration details.
- 
 
- 
-
- 
+&nbsp;

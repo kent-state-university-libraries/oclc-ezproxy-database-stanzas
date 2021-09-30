@@ -1,4 +1,4 @@
-# Thomson Reuters Checkpoint Edge (formerly Ria Checkpoint)
+# Thomson Reuters Checkpoint Edge
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thomson_Reuters_Checkpoint_Edge](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thomson_Reuters_Checkpoint_Edge) **
 
 ## Some of OCLC's notes for this stanza

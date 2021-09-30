@@ -1,8 +1,10 @@
-# Brainpop
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/brainpop.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/brainpop.en.html) **
+# BrainPOP
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrainPOP](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrainPOP) **
 
 ## Some of OCLC's notes for this stanza
 
-BrainPOP products require the following database stanza in config.txt :
-
 This stanza provides access to the following BrainPOP products:
+
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
+
+&nbsp;

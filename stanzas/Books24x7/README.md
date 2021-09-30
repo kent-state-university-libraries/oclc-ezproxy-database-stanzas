@@ -12,3 +12,5 @@ SomethingYouPickAndDontTellAnyone is a random string that you pick that is used 
 YouGetThisFromBooks24x7 is used to encrypt a combination of the IP address making the request and the encrypted username formed with TokenKey, or just the IP address if someone is accessing from within an ExcludeIP range.
 
 This process does not disclose the identity of the EZproxy user to Books24x7, but instead sends an encrypted string that allows Books24x7 to know that the same user is accessing, but nothing about the original username. If necessary, Books24x7 can provide your library with this encrypted string, then you can cross-reference it to the original user using the administration page option for Decode Token Key.
+
+&nbsp;

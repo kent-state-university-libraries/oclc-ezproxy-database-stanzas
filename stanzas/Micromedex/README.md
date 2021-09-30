@@ -1,12 +1,12 @@
 # Micromedex
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/micromedex.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/micromedex.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Micromedex](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Micromedex) **
 
 ## Some of OCLC's notes for this stanza
-
-Micromedex requires the following configuration in config.txt :
 
 Current:
 
 For Micromedex 2.0:
 
 For Micromedex 1.0:
+
+&nbsp;

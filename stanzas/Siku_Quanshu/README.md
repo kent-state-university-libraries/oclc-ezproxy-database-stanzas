@@ -1,8 +1,12 @@
 # Siku Quanshu
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/sikuquanshu.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/sikuquanshu.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Siku_Quanshu](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Siku_Quanshu) **
 
 ## Some of OCLC's notes for this stanza
 
-To proxy Torpedo Ultra, use the following database definition in config.txt :
+Siku Quanshu requires EZproxy 4.0a GA (2006-08-02) or later.
 
-Please note that the Replace directive shown above ends with a lower-case letter L.
+Since libraries install their own copies of Siku Quanshu on their own servers, there is no single, correct definition for this database. The general configuration is:
+
+replacing both instances of skqs.yourlib.org with the name of your Siku Quanshu server.
+
+&nbsp;

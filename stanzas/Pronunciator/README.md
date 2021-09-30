@@ -1,8 +1,8 @@
 # Pronunciator
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/pronunciator.en.html](https://www.oclc.org/support/services/ezproxy/documentation/db/pronunciator.en.html) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Pronunciator](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Pronunciator) **
 
 ## Some of OCLC's notes for this stanza
 
-Pronunciator requires the following database stanza in config.txt :
+Please contact Pronunciator to obtain your LIBRARY_ID value.
 
-Please contact Pronunciator to obtain your "&lt;LIBRARY_ID&gt;" value.
+&nbsp;

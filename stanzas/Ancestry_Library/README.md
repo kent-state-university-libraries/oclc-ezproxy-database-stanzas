@@ -1,8 +1,10 @@
 # Ancestry Library
-** This stanza needs manual review at [https://www.oclc.org/support/services/ezproxy/documentation/db/ancestrylibrary.en.html#par_text_title](https://www.oclc.org/support/services/ezproxy/documentation/db/ancestrylibrary.en.html#par_text_title) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ancestry_Library](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ancestry_Library) **
 
 ## Some of OCLC's notes for this stanza
 
-Ancestry Library Edition requires SSL configuration and the the following database stanza in config.txt :
+NOTE: This stanza uses EZproxy for authentication only; after authenticating, users will (by design) drop out of the proxy.
 
-Please note that this stanza uses EZproxy for authentication only; after authenticating, users will (by design) drop out of the proxy.
+A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
+
+&nbsp;

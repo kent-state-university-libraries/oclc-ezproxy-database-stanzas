@@ -1,3 +1,4 @@
+# MusicID ARP (formerly Academic Rights Press)
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academic_Rights_Press](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academic_Rights_Press) **
 
 ## Some of OCLC's notes for this stanza
