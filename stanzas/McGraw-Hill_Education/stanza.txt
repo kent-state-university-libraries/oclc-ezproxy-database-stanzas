@@ -1,0 +1,5 @@
+Title McGraw-Hill Education (updated 20211001)
+URL https://www.expresslibrary.mheducation.com/
+HJ https:expresslibrary.mheducation.com/
+HJ expresslibrary.mheducation.com
+DJ mheducation.com
