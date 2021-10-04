@@ -1,6 +1,7 @@
-Title STAT!Ref (updated 20201112)
+Title STAT!Ref (updated 20211004)
 URL https://online.statref.com/
 HJ www.statref.com
+HJ https://online.statref.com
 HJ http://online.statref.com
 HJ marketing.statref.com
 HJ online.statref.com

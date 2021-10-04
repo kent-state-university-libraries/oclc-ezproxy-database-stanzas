@@ -1,7 +1,15 @@
-Title Films on Demand
+Title Films on Demand (updated 20211004)
 URL http://fod.infobase.com
+H fod.infobase.com
 H https://fod.infobase.com
-H digital.films.com
-H https://secure.films.com
+H avod.infobase.com
+H https://avod.infobase.com
+H cvod.infobase.com
+H https://cvod.infobase.com
 D infobase.com
+H digital.films.com
+H avod.films.com
+H https://secure.films.com
+H https://admin.infobase.com
 D films.com
+H https://digital.films.com
