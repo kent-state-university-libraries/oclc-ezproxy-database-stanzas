@@ -1,4 +1,4 @@
-# Alexander Street Press
+# Alexander Street Press MARC Records
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press) **
 
 ## Some of OCLC's notes for this stanza
@@ -8,6 +8,8 @@ Listed below are the stanzas that will allow access to Alexander Street Press' n
 For the new Alexander Street Press interface:
 
 For the older Alexander Street Press interface:
+
+Open older-Alexander-Street-Press-stanza.txt (18 KB) to access this stanza.
 
 Stanza for Alexander Street Press MARC records:
 
