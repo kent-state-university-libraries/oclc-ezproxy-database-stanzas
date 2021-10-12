@@ -6,7 +6,9 @@ AnonymousURL +https://www.biocentury.com/*
 AnonymousURL +https://identity.biocentury.com/*
 AnonymousURL +https://conferences.biocentury.com/*
 AnonymousURL +https://profiles.biocentury.com/*
-Title BioCentury Publications (updated 20210503)
+AnonymousURL +https://crc.biocentury.com/*
+AnonymousURL +https://cms.biocentury.com/*
+Title BioCentury Publications (updated 20211011)
 HTTPHeader -request -process Access-Control-Allow-Origin
 URL https://www.biocentury.com/
 HJ https://conferences.biocentury.com
@@ -31,11 +33,13 @@ HJ http://identityapi.biocentury.com
 HJ https://media.graphcms.com
 HJ https://profiles.biocentury.com
 HJ http://profiles.biocentury.com
+HJ https://crc.biocentury.com
 HJ graphcms.com
 DJ biocentury.com
 NeverProxy https://articleapi.biocentury.com
 NeverProxy https://alertsapi.biocentury.com
 NeverProxy https://bciqapi.biocentury.com
+NeverProxy https://api.ipify.org/
 Find "https://www.biocentury.com/
 Replace https://"^Swww.biocentury.com^/
 Find "https:\/\/www.biocentury.com\/
