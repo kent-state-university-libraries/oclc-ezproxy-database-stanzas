@@ -1,5 +1,5 @@
-Title Pronunciator
-URL https://learning.pronunciator.com/getstarted.php?library_id=
+Title Pronunciator (updated 20211013)
+URL https://learning.pronunciator.com/
 HJ learning.pronunciator.com
 HJ https://www.pronunciator.com
 HJ www.pronunciator.com
