@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20210914)
+Title Adam Matthew Digital (updated 20211019)
 URL http://www.login.amdigital.co.uk
 HJ https://www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk
@@ -87,6 +87,8 @@ Find "http://"+getPrefix()+".massobservation.amdigital.co.uk/
 Replace "http://^pmassobservation.amdigital.co.uk^/
 NeverProxy am-resources.co.uk
 NeverProxy schemas.microsoft.com
+NeverProxy frontend-api.quartexcollections.com
+NeverProxy fonts-gstatic.com
 
 Title Adam Matthew Digital: China, America and the Pacific
 URL www.cap.amdigital.co.uk/

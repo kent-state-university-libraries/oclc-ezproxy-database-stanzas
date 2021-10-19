@@ -1,5 +1,6 @@
-Title Proceedings of the National Academy of Sciences (updated 20190410)
+Title Proceedings of the National Academy of Sciences (updated 20211019)
 URL http://www.pnas.org
+HJ https://pnas-prod.literatumonline.com
 HJ anthropology.pnas.org
 HJ chemistry.pnas.org
 HJ frontmatter.pnas.org
@@ -16,3 +17,5 @@ HJ pnas.org
 HJ sustainability.pnas.org
 HJ teachingresources.pnas.org
 DJ pnas.org
+DJ pnas-prod.literatumonline.com
+DJ literatumonline.com

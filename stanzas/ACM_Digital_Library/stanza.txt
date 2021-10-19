@@ -1,8 +1,9 @@
 Option X-Forwarded-For
-Title ACM Digital Library (updated 20200929)
+Title ACM Digital Library (updated 20211019)
 URL http://dl.acm.org
 HJ https://dl.acm.org
 HJ https://dlnext.acm.org
+HJ https://www.acm.org
 HJ dlnext.acm.org
 HJ acm.org
 HJ acmtecs.acm.org
