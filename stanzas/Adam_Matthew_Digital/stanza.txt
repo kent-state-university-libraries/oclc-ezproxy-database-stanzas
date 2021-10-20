@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20211019)
+Title Adam Matthew Digital (updated 20211020)
 URL http://www.login.amdigital.co.uk
 HJ https://www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk
@@ -19,6 +19,7 @@ HJ https://www.china.amdigital.co.uk
 HJ https://www.chinacultureandsociety.amdigital.co.uk
 HJ https://www.churchmissionarysociety.amdigital.co.uk
 HJ https://www.colonialamerica.amdigital.co.uk
+HJ https://www.colonialcaribbean.amdigital.co.uk
 HJ https://www.consumerculture.amdigital.co.uk
 HJ https://www.earlymodernengland.amdigital.co.uk
 HJ https://www.eastindiacompany.amdigital.co.uk

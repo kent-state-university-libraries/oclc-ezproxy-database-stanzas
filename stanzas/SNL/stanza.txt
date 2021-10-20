@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title Market Intelligence Platform (formerly SNL)(updated 20200920)
+Title Market Intelligence Platform (formerly SNL)(updated 20211020)
 MimeFilter text/event-stream .* javascript
 HTTPHeader -request -process X-CSRF-Token
 HTTPHeader -request -process com-gmi-*
@@ -14,6 +14,8 @@ HJ app1.snl.com
 HJ app2.snl.com
 HJ https://capitaliq.spglobal.com
 HJ capitaliq.spglobal.com
+HJ https://www.capitaliq.spglobal.com
+HJ http://www.capitaliq.spglobal.com
 HJ www.capitaliq.spglobal.com
 HJ https://www.capitaliq.spglobal.com
 HJ https://www.capitaliqpro.com
@@ -34,8 +36,8 @@ Find && currentDomain != "localhost"
 Replace && 0
 Find https://www.snl.com/SNL.Services.Export.Service
 Replace https://^swww.snl.com^/SNL.Services.Export.Service
-Find https://www.capitaliq.spglobal.com/SNL.Services.Export.Service
-Replace https://^swww.capitaliq.spglobal.com^/SNL.Services.Export.Service
+Find www.capitaliq.spglobal.com
+Replace ^swww.capitaliq.spglobal.com^
 Find xmlns=\"http://
 Replace xmlns=\"http://^A
 Find param="http://
@@ -46,8 +48,6 @@ Find param="https://
 Replace param="https://^A
 Find platform.marketintelligence.spglobal.com
 Replace ^splatform.marketintelligence.spglobal.com^
-Find capitaliq.spglobal.com
-Replace ^scapitaliq.spglobal.com^
 Find platform.mi.spglobal.com
 Replace ^splatform.mi.spglobal.com^
 Option Cookie

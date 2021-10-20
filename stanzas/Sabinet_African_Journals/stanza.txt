@@ -1,3 +1,5 @@
+#This stanza is required to resolve the Cookie Banner popup issue IncludeFile databases/cookielaw.txt
+
 Title Sabinet African Journals (updated 20201204)
 URL http://www.journals.co.za/
 H https://journals.co.za
