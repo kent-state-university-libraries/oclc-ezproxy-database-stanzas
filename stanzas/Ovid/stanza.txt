@@ -1,7 +1,7 @@
 HTTPMethod DELETE
 HTTPMethod PUT
 Option CookiePassThrough
-Title Ovid HTTPS (updated 20210909)
+Title Ovid HTTPS (updated 20211022)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
@@ -50,6 +50,10 @@ HJ ovidcn.ovid.com
 HJ ovides.ovid.com
 HJ ovidfr.ovid.com
 HJ ovidsp.ovid.com
+HJ jbi.dc1.ovid.com
+HJ jbi.dc2.ovid.com
+HJ api.my.jbi.global
+HJ app.paces.jbi.global
 HJ https://ovidsp.ovid.com
 HJ ovidsp.dc1.ovid.com
 HJ https://ovidsp.dc1.ovid.com
