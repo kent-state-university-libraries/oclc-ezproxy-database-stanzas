@@ -1,7 +1,7 @@
 ProxyHostnameEdit global.factiva.com$ global-factiva-com
-Title Factiva (updated 20210903)
+Title Factiva (updated 20211022)
 URL https://global.factiva.com/
-Host www.factiva.com
+HJ http://www.factiva.com
 DJ factiva.com
 DJ wsj.com
 DJ wsj.net
@@ -22,4 +22,4 @@ Replace name="landingPage" value="http://^A
 Find name="targetsite" value="http://
 Replace name="targetsite" value="http://^A
 NeverProxy widgets.dowjones.com
-NeverProxy utilityhandlers.dowjones.com
+NeverProxy api.dowjones.com
