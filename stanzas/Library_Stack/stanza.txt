@@ -1,0 +1,12 @@
+Title Library Stack (updated 20211025)
+HTTPHeader -request -process x-wp-nonce
+URL https://www.librarystack.org/
+HJ www.librarystack.org
+HJ librarystack.org
+HJ http://nn.librarystack.org/
+HJ https://nn.librarystack.org
+DJ librarystack.org
+Find "root":"https:\/\/www.librarystack.org
+Replace "root":"https:\/\/^swww.librarystack.org^
+Find "root":"https:\/\/nn.librarystack.org
+Replace "root":"https:\/\/^snn.librarystack.org^

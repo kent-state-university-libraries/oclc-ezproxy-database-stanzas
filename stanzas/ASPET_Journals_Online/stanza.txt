@@ -1,4 +1,4 @@
-Title ASPET Journals Online (updated 20201103)
+Title ASPET Journals Online (updated 20211025)
 URL http://www.aspetjournals.org/
 HJ aspet.org
 HJ aspetjournals.org
@@ -10,6 +10,7 @@ HJ https://jpet.aspetjournals.org
 HJ https://molpharm.aspetjournals.org
 HJ https://pharmrev.aspetjournals.org
 HJ https://www.aspet.org
+HJ intl-molpharm.aspetjournals.org
 HJ jpet.aspetjournals.org
 HJ molpharm.aspetjournals.org
 HJ pharmrev.aspetjournals.org
