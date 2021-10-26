@@ -1,12 +1,14 @@
 Option MetaEZproxyRewriting
-Title Academic Writer (updated 20200923)
+Title Academic Writer (updated 20211026)
 URL https://academicwriter.apa.org
 HJ academicwriter.apa.org
 HJ apa.org
-HJ my.apa.org
+HJ apastylecentral.apa.org
 HJ http://academicwriter.apa.org
 HJ https://apa.org
+HJ https://apastylecentral.apa.org
 HJ https://my.apa.org
+HJ my.apa.org
 DJ apa.org
 NeverProxy aw2static.apa.org
 Option NoMetaEZproxyRewriting

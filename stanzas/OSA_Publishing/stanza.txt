@@ -1,0 +1,18 @@
+Title OSA Publishing (updated 20211026)
+URL https://www.osapublishing.org/default.cfm
+HJ ao.osa.org
+HJ col.osa.org
+HJ https://www.osa.org
+HJ imagebank.osa.org
+HJ josaa.osa.org
+HJ josab.osa.org
+HJ jot.osa.org
+HJ ol.osa.org
+HJ osa.org
+HJ vjbo.osa.org
+HJ www.opticsinfobase.org
+HJ www.osa.org
+HJ www.osapublishing.org
+DJ opticsinfobase.org
+DJ osa.org
+DJ osapublishing.org
