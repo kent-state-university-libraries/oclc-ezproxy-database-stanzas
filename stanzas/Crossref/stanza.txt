@@ -1,9 +1,13 @@
-Title Crossref (updated 20200826)
+Title Crossref (updated 20211026)
 URL http://www.crossref.org
-HJ https://apps.crossref.org
 HJ apps.crossref.org
 HJ crossref.org
 HJ doi.crossref.org
-HJ www.crossref.org
+HJ https://apps.crossref.org
+HJ https://crossref.org
+HJ https://doi.crossref.org
+HJ https://mr.crossref.org
+HJ https://www.crossref.org
 HJ mr.crossref.org
+HJ www.crossref.org
 DJ crossref.org

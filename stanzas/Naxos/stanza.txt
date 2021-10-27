@@ -1,7 +1,11 @@
-Title Naxos Music Library (updated 20210602)
+Title Naxos Music Library (updated 20211026)
 URL https://[siteID].naxosmusiclibrary.com
 HJ [siteID].naxosmusiclibrary.com
+HJ [siteID].nml3.naxosmusiclibrary.com
 HJ https://[siteID].naxosmusiclibrary.com
+HJ https://[siteID].nml3.naxosmusiclibrary.com
+HJ https://www.nml3.naxosmusiclibrary.com
+HJ www.nml3.naxosmusiclibrary.com
 DJ naxosmusiclibrary.com
 DJ www.naxosmusiclibrary.com
 NeverProxy cdn.naxosmusiclibrary.com
