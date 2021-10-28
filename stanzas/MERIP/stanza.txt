@@ -1,8 +1,9 @@
-Title MERIP (updated 20200520)
+Title MERIP (updated 20211028)
 URL https://www.merip.org/
-HJ www.merip.org
-HJ http://merip.org/
+HJ https://merip.org
+HJ https://www.merip.org
 HJ merip.org
+HJ www.merip.org
 DJ merip.org
 Find https:\/\/merip.org\/
 Replace https:\/\/^Smerip.org^\/

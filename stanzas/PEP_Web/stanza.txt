@@ -1,0 +1,14 @@
+Option CookiePassThrough
+Title PEP Web (updated 20211028)
+HTTPHeader -request -process X-*
+HTTPHeader -request -process Accept-Encoding
+HTTPHeader -request -process Access-Control-Allow-Origin
+HTTPHeader -request -process Origin
+U https://pep-web.org
+HJ https://api.pep-web.org
+HJ https://pads.pep-web.org
+HJ api.pep-web.org
+HJ pads.pep-web.org
+DJ pep-web.org
+NeverProxy assets.pep-web.org
+Option Cookie

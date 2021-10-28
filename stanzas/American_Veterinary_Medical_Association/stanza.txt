@@ -1,4 +1,5 @@
-Title American Veterinary Medical Association (updated 20191127)
+Title American Veterinary Medical Association (updated 20211028)
+HTTPHeader -request -process X-Requested-With
 URL https://avmajournals.avma.org/
 HJ avmajournals.avma.org
 DJ avma.org
