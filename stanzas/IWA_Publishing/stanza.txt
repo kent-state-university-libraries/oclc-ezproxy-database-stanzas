@@ -1,7 +1,35 @@
-Title IWA Publishing (updated 20191209)
+Title IWA Publishing (updated 20211028)
 URL https://www.iwaponline.com/
+HJ aqua.iwaponline.com
+HJ hr.iwaponline.com
+HJ https://aqua.iwaponline.com
+HJ https://hr.iwaponline.com
 HJ https://iwaponline.com
+HJ https://jh.iwaponline.com
+HJ https://jwcc.iwaponline.com
+HJ https://jwh.iwaponline.com
+HJ https://jwrd.iwaponline.com
+HJ https://washdev.iwaponline.com
+HJ https://wio.iwaponline.com
+HJ https://wp.iwaponline.com
+HJ https://wpt.iwaponline.com
+HJ https://wqrjc.iwaponline.com
+HJ https://wr.iwaponline.com
+HJ https://ws.iwaponline.com
+HJ https://wst.iwaponline.com
+HJ https://www.iwaponline.com
 HJ iwaponline.com
 HJ jh.iwaponline.com
+HJ jwcc.iwaponline.com
+HJ jwh.iwaponline.com
+HJ jwrd.iwaponline.com
+HJ washdev.iwaponline.com
+HJ wio.iwaponline.com
+HJ wp.iwaponline.com
+HJ wpt.iwaponline.com
+HJ wqrjc.iwaponline.com
+HJ wr.iwaponline.com
+HJ ws.iwaponline.com
+HJ wst.iwaponline.com
 HJ www.iwaponline.com
 DJ iwaponline.com
