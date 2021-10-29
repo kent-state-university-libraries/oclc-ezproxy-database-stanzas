@@ -1,8 +1,12 @@
-Title Radiological Society of North America
+Title Radiological Society of North America (updated 20211029)
 URL http://pubs.rsna.org
 HJ https://pubs.rsna.org
+HJ intl-radiology.rsna.org
 HJ pubs.rsna.org
+HJ radiographics.rsna.org
 HJ radiographics.rsnajnls.org
+HJ radiology.rsna.org
+HJ radiology.rsnajnls.org
 HJ rsna.org
 HJ rsnajnls.org
 HJ www.rsna.org
