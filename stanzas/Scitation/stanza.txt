@@ -1,4 +1,4 @@
-Title Scitation (updated 20211026)
+Title Scitation (updated 20211105)
 URL http://www.scitation.org
 HJ http://aapt.scitation.org
 HJ http://aca.scitation.org
@@ -26,6 +26,8 @@ HJ https://physicstoday.scitation.org
 HJ https://sor.scitation.org
 HJ https://www.scitation.org
 HJ https://www.aip.org
+HJ https://bpr.aip.org
+HJ https://cpr.aip.org
 HJ https://scitation.aip.org
 HJ advances.aip.org
 HJ aipadvances.aip.org

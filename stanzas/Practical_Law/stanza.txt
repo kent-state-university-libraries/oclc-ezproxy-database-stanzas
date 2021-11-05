@@ -1,5 +1,6 @@
+AnonymousURL https://s1-uk.practicallaw.thomsonreuters.com/*
 AnonymousURL https://sa-uk.practicallaw.thomsonreuters.com/*
-Title Practical Law (TR) (updated 20190604)
+Title Practical Law (TR) (updated 20211105)
 URL https://uk.practicallaw.thomsonreuters.com
 HJ books.thomsonreuters.co.uk
 HJ https://books.thomsonreuters.co.uk
