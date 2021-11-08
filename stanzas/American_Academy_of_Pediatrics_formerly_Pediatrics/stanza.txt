@@ -1,4 +1,4 @@
-Title American Academy of Pediatrics (updated 20211104)
+Title American Academy of Pediatrics (updated 20211108)
 URL http://pediatrics.aappublications.org
 HJ aapgrandrounds.aappublications.org
 HJ ebooks.aappublications.org
@@ -9,8 +9,8 @@ HJ https://hosppeds.aappublications.org
 HJ https://intl-pediatrics.aappublications.org
 HJ https://neoreviews.aappublications.org
 HJ https://pediatrics.aappublications.org
-HJ https://pediatrics.aappublications.org
 HJ https://pedsinreview.aappublications.org
+HJ https://publications.aap.org
 HJ https://reader.aappublications.org
 HJ https://www.aap.org
 HJ https://www.aapnews.org
@@ -22,9 +22,9 @@ HJ https://www.pediatrics.org
 HJ https://www.prepaudio.org
 HJ intl-pediatrics.aappublications.org
 HJ neoreviews.aappublications.org
-HJ pediatrics.aappublications.org
 HJ pediatrics.org
 HJ pedsinreview.aappublications.org
+HJ publications.aap.org
 HJ reader.aappublications.org
 HJ www.aap.org
 HJ www.aapnews.org
