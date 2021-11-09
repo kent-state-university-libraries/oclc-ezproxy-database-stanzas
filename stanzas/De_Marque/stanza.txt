@@ -1,4 +1,5 @@
-Title De Marque (updated 20210511)
-URL http://syrano.demarque.com/
+Title De Marque (updated 20211109)
+URL https://syrano.demarque.com/
+HJ http://syrano.demarque.com
 HJ syrano.demarque.com
 DJ demarque.com
