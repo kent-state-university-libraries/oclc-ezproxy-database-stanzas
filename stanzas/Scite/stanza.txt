@@ -1,4 +1,6 @@
-Title Scite (updated 20201228)
+Title Scite (updated 20211112)
 URL https://scite.ai
 HJ http://www.scite.ai
 DJ scite.ai
+NeverProxy api.scite.ai
+NeverProxy cdn.scite.ai
