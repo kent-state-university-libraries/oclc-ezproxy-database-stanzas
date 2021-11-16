@@ -13,6 +13,8 @@ HJ dev.thirdiron.com
 DJ thirdiron.com
 Find url = "http://
 Replace url = "http://^A
+NeverProxy public-api.thirdiron.com
+NeverProxy libkey.io
 
 Title BrowZine by Third Iron
 URL https://browzine.com
