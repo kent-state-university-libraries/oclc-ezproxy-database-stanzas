@@ -1,4 +1,4 @@
-Title Nature Publishing (updated 20190531)
+Title Nature Publishing (updated 20211116)
 URL https://www.nature.com
 HJ ajandrology.com
 HJ labanimal.com
@@ -21,6 +21,8 @@ HJ https://www.ajandrology.com
 HJ https://www.labanimal.com
 HJ https://www.naturesj.com
 HJ https://www.npgjournals.com
+HJ https://arabicedition.nature.com
+HJ arabicedition.nature.com
 DJ ajandrology.com
 DJ ensighten.com
 DJ labanimal.com

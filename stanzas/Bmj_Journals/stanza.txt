@@ -1,4 +1,4 @@
-Title BMJ Journals (updated 20211105)
+Title BMJ Journals (updated 20211116)
 URL http://journals.bmj.com
 Domain group.bmj.com
 HJ https://journals.bmj.com
@@ -120,6 +120,8 @@ HJ mh.bmjjournals.com
 HJ mp.bmj.com
 HJ https://mp.bmj.com
 HJ mp.bmjjournals.com
+HJ https://new-learning.bmj.com
+HJ new-learning.bmj.com
 HJ oem.bmj.com
 HJ https://oem.bmj.com
 HJ oem.bmjjournals.com
