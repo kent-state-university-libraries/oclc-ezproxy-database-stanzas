@@ -1,0 +1,27 @@
+HTTPMethod DELETE
+HTTPMethod PUT
+AnonymousURL +https://app.fitchconnect.com/*
+AnonymousURL +https://assets.fitchconnect.com/*
+AnonymousURL +https://visitors.fitchconnect.com/*
+Title Fitch Connect (updated 2021118)
+HTTPHeader -request -process Origin "*"
+HTTPHeader -response -process Access-Control-Allow-Origin "*"
+URL https://app.fitchconnect.com
+HJ app.fitchconnect.com
+HJ www.fitchconnect.com
+HJ https://www.fitchconnect.com
+HJ assets.fitchconnect.com
+HJ https://assets.fitchconnect.com
+DJ fitchconnect.com
+DJ fitchconnect-qa.com
+DJ fitchconnect-stg.com
+Find ": "https://assets.fitchconnect-stg.com
+Replace ": "https://^sassets.fitchconnect-stg.com^
+Find ": "https://assets.fitchconnect.com
+Replace ": "https://^sassets.fitchconnect.com^
+NeverProxy purple.fitchconnect.com
+NeverProxy visitors.fitchconnect.com
+NeverProxy fr.fitchconnect.com
+NeverProxy rp.fitch.group
+NeverProxy app.datawrapper.fitchconnect.com
+AnonymousURL -*
