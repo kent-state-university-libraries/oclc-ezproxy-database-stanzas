@@ -1,4 +1,9 @@
-Title University of Buckingham Press (updated 20191231)
-URL http://ubplj.org/
+Title University of Buckingham Press (updated 20211117)
+URL http://www.ubplj.org/
+HJ https://ubplj.org
 HJ ubplj.org
+HJ www.ubplj.org
+HJ http://www.ubplj.org/
+HJ http://www.intmaritimeengineering.org
+HJ http://ijpcm.org
 DJ ubplj.org

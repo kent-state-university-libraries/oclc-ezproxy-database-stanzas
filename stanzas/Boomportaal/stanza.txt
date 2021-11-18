@@ -1,8 +1,10 @@
 AnonymousURL +https://middleware.boomportaal.nl/boom/services/rest/*
 AnonymousURL +https://pdfkit-budh.boom.nl/i/d/*
 AnonymousURL +https://pspdfkit.boomportaal.nl/*
-Title Boomportaal (updated 20210812)
+Title Boomportaal (updated 20211018)
 MimeFilter text/plain https://www.boomportaal.nl/header.* javascript
+HTTPHeader -response -block Content-Security-Policy
+HTTPHeader -response -block X-Frame-Options
 HTTPHeader -request -process PSPDFKit-Platform
 HTTPHeader -request -process PSPDFKit-Version
 HTTPHeader -request -process Token
