@@ -38,7 +38,7 @@ HTTPMethod OPTIONS
 AnonymousURL +http://syndic8.scopus.com/*
 AnonymousURL +https://components.scopus.com/*
 AnonymousURL -OPTIONS +https://components.scopus.com/*
-Title Scopus (updated 20211116)
+Title Scopus (updated 20211122)
 MimeFilter text/uri-list .* javascript
 MimeFilter application/json .* javascript
 URL https://www.scopus.com/home.url
