@@ -1,4 +1,4 @@
-Title University Press Scholarship Online (updated 20200710)
+Title University Press Scholarship Online (updated 20211124)
 URL https://www.universitypressscholarship.com/
 HJ britishacademy.universitypressscholarship.com
 HJ cairo.universitypressscholarship.com
@@ -104,7 +104,9 @@ HJ https://www.princeton.universitypressscholarship.com
 HJ https://www.stanford.universitypressscholarship.com
 HJ https://www.universitypressscholarship.com
 HJ https://www.yale.universitypressscholarship.com
-HJ http://www.oxfordscholarship.com
+HJ https://oxfordscholarship.com
 HJ https://www.oxfordscholarship.com
+HJ oxfordscholarship.com
+HJ www.oxfordscholarship.com
 DJ oxfordscholarship.com
 DJ universitypressscholarship.com
