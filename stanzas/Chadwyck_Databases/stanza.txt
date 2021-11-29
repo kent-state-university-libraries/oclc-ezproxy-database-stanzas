@@ -3,52 +3,224 @@ URL http://www.chadwyck.com
 HJ www.chadwyck.com
 DJ chadwyck.com
 HJ www.chadwyck.co.uk
+HJ archives.chadwyck.com
 DJ chadwyck.co.uk
 
-Title Chadwyck African American Biographical Database
+Title -hide Chadwyck African American Biographical Database
 URL http://aabd.chadwyck.com
 HJ aabd.chadwyck.com
 
-Title Chadwyck American Film Institute Catalog
+Title -hide Chadwyck American Film Institute Catalog
 URL http://afi.chadwyck.com
 HJ afi.chadwyck.com
 HJ afi.chadwyck.co.uk
 
-Title Chadwyck Black Studies Center, Abolitionist Papers, History Makers, and BSC Dissertations
+Title -hide Chadwyck Black Studies Center, Abolitionist Papers, History Makers, and BSC Dissertations
 URL http://bsc.chadwyck.com/
 HJ bsc.chadwyck.com
 HJ bsc.chadwyck.co.uk
 
-Title Chadwyck Colonial State Papers Collection
+Title -hide Chadwyck Colonial State Papers Collection
 URL http://colonial.chadwyck.com/
 HJ colonial.chadwyck.com
 HJ colonial.chadwyck.co.uk
 
-Title Chadwyck Digital National Security Archive
+Title -hide Chadwyck Digital National Security Archive
 URL http://nsarchive.chadwyck.com/
 HJ nsarchive.chadwyck.com
 
-Title Chadwyck Early European Books
+Title -hide Chadwyck Early European Books
 URL http://eeb.chadwyck.com
 HJ eeb.chadwyck.com
 HJ eeb.chadwyck.co.uk
 
-Option CookiePassThrough
-Title Early English Books Online
+Title -hide Chadwyck Early English Books Online
 URL http://eebo.chadwyck.com
-DJ eebo.chadwyck.com
-Find &url=http://
-Replace &url=http://^A
-Find "eebo.chadwyck.com" == document.location.host
-Replace true
-Option Cookie
+HJ https://eebo.chadwyck.com
+HJ eebo.chadwyck.com
 
-Title Chadwyck FIAF International Index to Film Periodicals
+Title -hide Annual Register: a Record of World Events
+URL http://annualregister.chadwyck.co.uk/
+HJ annualregister.chadwyck.co.uk
+HJ annualregister.chadwyck.com
+
+Title -hide Chadwyck FIAF International Index to Film Periodicals
 URL http://fiaf.chadwyck.com/
 HJ fiaf.chadwyck.com
 HJ fiaf.chadwyck.co.uk
 
-Title Chadwyck Film Index International
+Title -hide Chadwyck Film Index International
 URL http://fii.chadwyck.com
 HJ fii.chadwyck.com
 HJ fii.chadwyck.co.uk
+
+Title -hide Chadwyck Film Index Online
+URL http://film.chadwyck.com
+HJ film.chadwyck.com
+HJ film.chadwyck.co.uk
+
+Title -hide Chadwyck Gerritsen's Women's History Collection
+URL http://gerritsen.chadwyck.com
+HJ gerritsen.chadwyck.com
+
+Title -hide Chadwyck Historical Newspapers
+URL http://history.chadwyck.co.uk
+HJ history.chadwyck.co.uk
+
+Title -hide Chadwyck Historical Newspapers Online
+URL http://historynews.chadwyck.com
+HJ historynews.chadwyck.com
+
+Title -hide Chadwyck History Makers
+URL http://historymakers.chadwyck.com
+HJ historymakers.chadwyck.com
+
+Title -hide Chadwyck Paley Center Seminars
+URL http://paley.chadwyck.com/
+HJ paley.chadwyck.com
+
+Title -hide Chadwyck iibp
+URL http://iibp.chadwyck.com
+HJ iibp.chadwyck.com
+
+Title -hide Chadwyck IIMP
+URL http://iimp.chadwyck.com
+HJ iimp.chadwyck.com
+HJ iimp.chadwyck.co.uk
+
+Title -hide Chadwyck IIMP Full Text
+URL http://iimpft.chadwyck.com
+HJ iimpft.chadwyck.com
+HJ iimpft.chadwyck.co.uk
+
+Title -hide Chadwyck IIPA
+URL http://iipa.chadwyck.com
+HJ iipa.chadwyck.com
+HJ iipa.chadwyck.co.uk
+
+Title -hide Chadwyck John Johnson Collection
+URL http://johnjohnson.chadwyck.com/
+HJ johnjohnson.chadwyck.com
+HJ johnjohnson.chadwyck.co.uk
+
+Title -hide Chadwyck Luthers Werke
+URL http://luther.chadwyck.com/
+HJ luther.chadwyck.com
+HJ luther.chadwyck.co.uk
+
+Title -hide Chadwyck Literature Collections
+URL http://collections.chadwyck.com
+HJ collections.chadwyck.com
+HJ collections.chadwyck.co.uk
+Find + sDomain +
+Replace + 'collections.chadwyck.com' +
+
+Title -hide Chadwyck Literature Online
+URL http://lion.chadwyck.com
+HJ lion.chadwyck.com
+HJ lion.chadwyck.co.uk
+
+Title -hide Chadwyck Music
+URL http://music.chadwyck.com
+HJ music.chadwyck.com
+
+Title -hide Chadwyck Nineteenth Century Short Title -hide Catalogue
+URL http://nstc.chadwyck.com/
+HJ nstc.chadwyck.com
+
+Title -hide Chadwyck Patrologia Latina
+URL http://pld.chadwyck.co.uk
+HJ pld.chadwyck.co.uk
+HJ pld.chadwyck.com
+
+Title -hide Chadwyck Periodicals Contents Index
+URL http://pci.chadwyck.com
+HJ pci.chadwyck.com
+
+Title -hide Chadwyck Periodicals Contents Index Full-Text
+URL http://pao.chadwyck.com
+HJ pao.chadwyck.com
+HJ pao.chadwyck.co.uk
+
+Title -hide Chadwyck Periodicals Index Online
+URL http://pio.chadwyck.com
+HJ pio.chadwyck.com
+HJ pio.chadwyck.co.uk
+
+Title -hide Chadwyck Queen Victoria's Journals
+URL http://qvj.chadwyck.com
+HJ qvj.chadwyck.com
+
+Title -hide Chadwyck ProQuest British Periodicals
+URL http://britishperiodicals.chadwyck.co.uk
+DJ britishperiodicals.chadwyck.co.uk
+HJ bp.chadwyck.co.uk
+
+Title -hide Chadwyck FT Archive
+URL http://ft.chadwyck.co.uk
+D ft.chadwyck.co.uk
+
+Title -hide Chadwyck Wellesley Index to Victorian Periodicals
+URL http://wellesley.chadwyck.co.uk
+HJ wellesley.chadwyck.co.uk
+HJ wellesley.chadwyck.com
+
+Title -hide C19:The Nineteenth Century Index
+URL http://c19index.chadwyck.com
+HJ c19index.chadwyck.co.uk
+HJ c19index.chadwyck.com
+HJ https://c19index.chadwyck.com
+
+Title -hide Monthly Catalog of US Government publications, 1895-1976
+URL http://monthlycatalog.chadwyck.com
+HJ monthlycatalog.chadwyck.com
+
+Title -hide Acta Sanctorum
+URL http://acta.chadwyck.co.uk
+HJ acta.chadwyck.co.uk
+
+Title -hide Acta Sanctorum
+U http://acta.chadwyck.com
+HJ acta.chadwyck.com
+
+Title -hide Bertolt Brechts Wereke (US)
+URL http://brecht.chadwyck.com
+HJ brecht.chadwyck.com
+
+Title -hide Biografa de la Literatura Expanola
+URL http://ble.chadwyck.com
+HJ ble.chadwyck.com
+
+Title -hide Black Abolitionist Papers
+URL http://bap.chadwyck.com
+HJ bap.chadwyck.com
+
+Title -hide Cecil Papers
+URL http://cecilpapers.chadwyck.com
+HJ cecilpapers.chadwyck.com
+
+Title -hide Die Deutsche Lyrik in Reclams Universal-Bibliothek
+URL http://glp.chadwyck.com
+HJ glp.chadwyck.com
+
+Title -hide Documents on British Policy Overseas
+URL http://dbpo.chadwyck.com
+HJ dbpo.chadwyck.com
+HJ dbpo.chadwyck.co.uk
+
+Title -hide Goethes Werke
+URL http://goethe.chadwyck.com
+HJ goethe.chadwyck.com
+
+Title -hide Kafkas Werke
+URL http://kafka.chadwyck.com
+HJ kafka.chadwyck.com
+
+Title -hide Schillers Werke
+URL http://schiller.chadwyck.com
+HJ schiller.chadwyck.com
+
+Title -hide Teatro Espanol del Siglo de Oro
+URL http://teso.chadwyck.com
+HJ teso.chadwyck.com
+HJ teso.chadwyck.co.uk

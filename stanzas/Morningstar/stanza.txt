@@ -1,8 +1,10 @@
-Title Morningstar Investment Research Center (updated 20210520)
+Title Morningstar Investment Research Center (updated 20211125)
 URL https://ar.morningstar.com/mirc/membership/default.aspx
 HJ https://ar.morningstar.com
+HJ https://datanalysis.morningstar.com.au
 HJ https://library.morningstar.com
 DJ morningstar.com
+DJ morningstar.com.au
 NeverProxy api-global.morningstar.com
 NeverProxy im.morningstar.com
 NeverProxy news.morningstar.com
