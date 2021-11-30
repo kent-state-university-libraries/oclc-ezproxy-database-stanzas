@@ -1,32 +1,38 @@
 ProxyHostnameEdit www.ncbi.nlm.nih.gov$ www-ncbi-nlm-nih-gov
+ProxyHostnameEdit pubmed.ncbi.nlm.nih.gov$ pubmed-ncbi-nlm-nih-gov
 AnonymousURL http://www.ncbi.nlm.nih.gov/corehtml/query/static/pubmedsearch.xml*
+AnonymousURL http://pubmed.ncbi.nlm.nih.gov/corehtml/query/static/pubmedsearch.xml*
 Option CookiePassThrough
-Title PubMed
-URL https://www.ncbi.nlm.nih.gov/pubmed
+Title PubMed (updated 20211130)
+URL https://pubmed.ncbi.nlm.nih.gov/
+HJ https://www.ncbi.nlm.nih.gov/
+HJ https://pub.ncbi.nlm.nih.gov/
 HJ https://blast.ncbi.nlm.nih.gov
 HJ https://druginfo.nlm.nih.gov
 HJ https://europepmc.org
 HJ https://eutils.ncbi.nlm.nih.gov
 HJ https://ncbi.nlm.nih.gov
 HJ https://pubchem.ncbi.nlm.nih.gov
-HJ https://www.ncbi.nlm.nih.gov
 HJ https://www.pubmedcentral.nih.gov
 HJ ncbi.nlm.nih.gov
 HJ www.ncbi.nlm.nih.gov
+HJ pub.ncbi.nlm.nih.gov
+HJ pubmed.ncbi.nlm.nih.gov
+HJ www.pubmedcentral.nih.gov
 DJ nih.gov
 DJ static.pubmed.gov
 # dx.doi.org provides linking Nature, Springer, Wiley, and others
 DJ dx.doi.org
 # linkinghub.elsevier.com provides linking to Elsevier and ScienceDirect
 DJ linkinghub.elsevier.com
+DJ wkhealth.com
 Find &url=http://
 Replace &url=http://^A
 Find fref.fcgi?http://
 Replace fref.fcgi?http://^A
 Find 'https://' + window.location.hostname
-Replace 'https://^swww.ncbi.nlm.nih.gov^'
+Replace 'https://^spubmed.ncbi.nlm.nih.gov^'
 Find 'https://' + window.location.host +
-Replace 'https://^swww.ncbi.nlm.nih.gov^' +
-AnonymousURL -*
-DJ wkhealth.com
+Replace 'https://^spubmed.ncbi.nlm.nih.gov^' +
 Option Cookie
+AnonymousURL -*

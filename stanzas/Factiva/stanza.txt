@@ -1,5 +1,8 @@
 ProxyHostnameEdit global.factiva.com$ global-factiva-com
-Title Factiva (updated 20211022)
+Title Factiva (updated 20211130)
+HTTPHeader -request -process credentials
+HTTPHeader -request -process preferences
+HTTPHeader -request -process product
 URL https://global.factiva.com/
 HJ http://www.factiva.com
 DJ factiva.com
