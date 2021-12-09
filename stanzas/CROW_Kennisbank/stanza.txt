@@ -1,8 +1,11 @@
-Title CROW Kennisbank
-URL http://kennisbank.crow.nl
+Title CROW Kennisbank (updated 20211209)
+HTTPHeader -response -edit Location RewriteURL(REReplace("!https%3A%2F%2Fkennisbank\.crow\.nl!g", RewriteURL("https://kennisbank.crow.nl"), hh:value))
+URL https://kennisbank.crow.nl
 HJ crow.nl
+HJ crowsso.b2clogin.com
 HJ emvi.crow.nl
 HJ https://crow.nl
+HJ https://crowsso.b2clogin.com
 HJ https://emvi.crow.nl
 HJ https://iampro-e.crow.nl
 HJ https://iampro.crow.nl
@@ -23,3 +26,5 @@ HJ www.crow.nl
 HJ www.iampro-portaal.nl
 DJ crow.nl
 DJ iampro-portaal.nl
+Find https%3A%2F%2Fkennisbank.crow.nl
+Replace https%3A%2F%2F^Skennisbank.crow.nl^

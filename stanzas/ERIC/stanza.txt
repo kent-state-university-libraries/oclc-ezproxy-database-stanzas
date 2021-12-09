@@ -1,0 +1,6 @@
+Title ERIC (updated 20211209)
+URL https://eric.ed.gov
+HJ eric.ed.gov
+HJ https://eric.ed.gov
+HJ www.eric.ed.gov
+DJ eric.ed.gov
