@@ -1,12 +1,12 @@
-Title Annual Reviews (updated 20210909)
+Title Annual Reviews (updated 20211214)
 URL https://www.annualreviews.org/
-HJ annualreviews.org
-HJ knowablemagazine.org
 HJ anchem.annualreviews.org
 HJ animal.annualreviews.org
+HJ annualreviews.org
 HJ anthro.annualreviews.org
 HJ arcompsci.annualreviews.org
 HJ arjournals.annualreviews.org
+HJ arplant.annualreviews.org
 HJ astro.annualreviews.org
 HJ biochem.annualreviews.org
 HJ biodatasci.annualreviews.org
@@ -31,7 +31,10 @@ HJ food.annualreviews.org
 HJ genet.annualreviews.org
 HJ genom.annualreviews.org
 HJ http://www.annualreviews.org
+HJ https://annualreviews.org
+HJ https://arplant.annualreviews.org
 HJ immunol.annualreviews.org
+HJ knowablemagazine.org
 HJ lawsocsci.annualreviews.org
 HJ linguistics.annualreviews.org
 HJ marine.annualreviews.org
