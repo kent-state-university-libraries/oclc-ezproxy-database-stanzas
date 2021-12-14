@@ -1,7 +1,7 @@
 AnonymousURL +https://media.digitaltheatreplus.com/drm*
 AnonymousURL +https://counter.digitaltheatreplus.com/*
 AnonymousURL +https://api.digitaltheatreplus.com/*
-Title Digital Theatre Plus (updated 20211128)
+Title Digital Theatre Plus (updated 20211214)
 HTTPHeader -request -process Bearer
 HTTPHeader -request -process x-dt-auth-token
 URL https://edu.digitaltheatreplus.com
@@ -15,10 +15,14 @@ Host assets.ctfassets.net
 Host d10eeigq6mvk6z.cloudfront.net
 Host lic.drmtoday.com
 Host cdn.contentful.com
-HJ media.digitaltheatreplus.com
 HJ analytics.digitaltheatreplus.com
-HJ edu.digitaltheatreplus.com
-HJ counter.digitaltheatreplus.com
 HJ api.digitaltheatreplus.com
+HJ counter.digitaltheatreplus.com
+HJ digitaltheatreplus.com
+HJ edu.digitaltheatreplus.com
+HJ https://digitaltheatreplus.com
+HJ https://www.digitaltheatreplus.com
+HJ media.digitaltheatreplus.com
+HJ www.digitaltheatreplus.com
 DJ digitaltheatreplus.com
 AnonymousURL -*

@@ -1,8 +1,11 @@
-Title American Physiological Society (updated 20200513)
+Title American Physiological Society (updated 20211214)
 URL https://journals.physiology.org
-HJ http://www.physiology.org
-HJ journals.physiology.org
-HJ https://journals.physiology.org
-HJ https://d2avczb82rh8fa.cloudfront.net
 HJ d2avczb82rh8fa.cloudfront.net
+HJ https://d2avczb82rh8fa.cloudfront.net
+HJ https://journals.physiology.org
+HJ https://physiology.org
+HJ https://www.physiology.org
+HJ journals.physiology.org
+HJ physiology.org
+HJ www.physiology.org
 DJ physiology.org

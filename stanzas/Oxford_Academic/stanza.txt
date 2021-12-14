@@ -1,4 +1,4 @@
-Title Oxford Academic (formerly Oxford Journals) (updated 20211015)
+Title Oxford Academic (formerly Oxford Journals) (updated 20211214)
 URL https://academic.oup.com/
 HJ https://academic.oup.com
 HJ https://global.oup.com
@@ -10,5 +10,6 @@ DJ oup.com
 DJ watermark.silverchair.com
 Find domain="//global.oup.com"
 Replace domain="//^sglobal.oup.com^"
-NeverProxy live.oi-underbar.oup.com
-NeverProxy oi-underbar.oup.com
+NeverProxy oup3-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup-idp.sams-sigma.com
