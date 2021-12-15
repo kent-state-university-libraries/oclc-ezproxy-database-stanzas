@@ -1,7 +1,7 @@
 AnonymousURL +https://middleware.boomportaal.nl/boom/services/rest/*
 AnonymousURL +https://pdfkit-budh.boom.nl/i/d/*
 AnonymousURL +https://pspdfkit.boomportaal.nl/*
-Title Boomportaal (updated 20211018)
+Title Boomportaal (OCLC IncludeFile updated 20211215)
 MimeFilter text/plain https://www.boomportaal.nl/header.* javascript
 HTTPHeader -response -block Content-Security-Policy
 HTTPHeader -response -block X-Frame-Options
@@ -83,6 +83,8 @@ Replace \x22//^swww.boomportaal.nl^
 Find url += "&origin=" + encodeURIComponent(origin);
 Replace url += "&origin=https://^Awww.boomportaal.nl";
 Find "&redirect_uri="+encodeURIComponent(l)
-Replace "&redirect_uri=https://^Awww.boomportaal.nl"
+Replace "&redirect_uri=https%3A%2F%2Fwww.boomportaal.nl%2F"
+Find c+="&redirect_uri="+e.redirectUri
+Replace c+="&redirect_uri=https%3A%2F%2Fwww.boomportaal.nl%2F"
 AnonymousURL -*
 NeverProxy static.boomportaal.nl
