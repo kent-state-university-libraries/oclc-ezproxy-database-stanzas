@@ -8,7 +8,7 @@ Option Cookie
 #
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (updated 20211105)
+Title EBSCOhost (updated 20211217)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
 URL https://search.ebscohost.com/login.aspx
@@ -105,5 +105,6 @@ NeverProxy auth.ebsco.zone
 NeverProxy pdc-evs.ebscohost.com
 NeverProxy sdc-evs.ebscohost.com
 NeverProxy app-na.readspeaker.com
+NeverProxy kg.ebscohost.com
 AnonymousURL -*
 AddUserHeader
