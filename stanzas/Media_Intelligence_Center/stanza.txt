@@ -1,0 +1,22 @@
+AnonymousURL +https://devbiserver3-auditedmedia-com.cptest.idm.oclc.org/iportal/loginservlet*
+AnonymousURL +https://biserver3-auditedmedia-com.cptest.idm.oclc.org/iportal/loginservlet*
+Title Media Intelligence Center (Updated 20211220)
+HTTPHeader -request -process __cfduid "*"
+HTTPHeader -request -process X-Requested-With "*"
+HTTPHeader -response -process X-Requested-With "*"
+URL https://abcas3_beta.auditedmedia.com/MICenter/MICenter
+HJ https://abcas3_beta.auditedmedia.com
+HJ https://abcas3.auditedmedia.com
+HJ https://brandview.auditedmedia.com
+HJ https://digitalaudit.aamsitecertifier.com
+HJ devbiserver3.auditedmedia.com
+HJ https://devbiserver3.auditedmedia.com
+HJ biserver3.auditedmedia.com
+HJ https://biserver3.auditedmedia.com
+HJ aamsitecertifier.com
+HJ https://aamsitecertifier.com
+DJ aamsitecertifier.com
+DJ auditedmedia.com
+NeverProxy chartservice.auditedmedia.com
+NeverProxy https://xhr.spec.whatwg.org/
+AnonymousURL -*
