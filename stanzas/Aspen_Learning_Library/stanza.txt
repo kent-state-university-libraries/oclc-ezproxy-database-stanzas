@@ -1,0 +1,9 @@
+Title Aspen Learning Library (updated 20211221)
+URL https://aspenlearninglibrary.com/
+HJ https://aspenlearninglibrary.com
+HJ aspenlearninglibrary.com
+HJ https://ebooks.aspenlaw.com/
+HJ ebooks.aspenlaw.com
+DJ aspenlaw.com
+DJ aspenlearninglibrary.com
+NeverProxy d3t0z66hbmymka.cloudfront.net
