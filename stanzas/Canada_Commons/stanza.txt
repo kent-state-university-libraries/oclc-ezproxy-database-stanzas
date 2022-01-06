@@ -1,0 +1,7 @@
+Title Canada Commons (updated 20220106)
+URL https://canadacommons.ca
+DJ canadacommons.ca
+NeverProxy https://coherent-commons.s3.amazonaws.com
+NeverProxy https://res.cloudinary.com
+NeverProxy https://posthog.coherentdigital.net
+NeverProxy https://i2.wp.com
