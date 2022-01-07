@@ -1,0 +1,13 @@
+Title Association for Information Systems (AIS) (updated 20220107)
+URL http://aisel.aisnet.org/
+HJ aisel.aisnet.org
+HJ https://aisel.aisnet.org
+HJ https://misq.org
+HJ https://misq.umn.edu
+HJ https://www.misq.org
+HJ misq.umn.edu
+HJ misqe.org
+HJ www.misq.org
+DJ aisnet.org
+DJ misq.org
+DJ misq.umn.edu
