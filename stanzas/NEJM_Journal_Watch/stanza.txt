@@ -1,6 +1,6 @@
 AnonymousURL +https://api-production.jwatch.org/*
 AnonymousURL +https://api-production.nejmgroup.org/*
-Title NEJM Journal Watch
+Title NEJM Journal Watch (updated 20180317)
 HTTPHeader -request -process access-control-allow-origin
 HTTPHeader -request -process x-api-key
 URL https://www.jwatch.org

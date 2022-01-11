@@ -1,7 +1,9 @@
-Title Burlington Magazine Publishing Ltd. (updated 20200605)
+Option DomainCookieOnly
+Title Burlington Magazine Publishing Ltd. (Updated 20220110)
 URL https://www.burlington.org.uk/
-HJ https://www.burlington.org.uk
-HJ https://burlington.org.uk
-HJ www.burlington.org.uk
 HJ burlington.org.uk
+HJ https://burlington.org.uk
+HJ https://www.burlington.org.uk
+HJ www.burlington.org.uk
 DJ burlington.org.uk
+Option Cookie

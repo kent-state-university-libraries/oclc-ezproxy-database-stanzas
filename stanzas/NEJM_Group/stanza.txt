@@ -1,0 +1,30 @@
+AnonymousURL +https://api-production.jwatch.org/*
+AnonymousURL +https://api-production.nejmgroup.org/*
+AnonymousURL +https://myaccount.nejm.org/api/*
+AnonymousURL +https://myaccount.nejm.org/session/*
+AnonymousURL +https://myaccount.nejm.org/mmssession/*
+AnonymousURL +https://api.nejmgroup.org/nejm-api/*
+AnonymousURL +https://examservice.nejm.org/ExamService/*
+AnonymousURL +https://cssjs.nejm.org/fonts/*
+Title NEJM Group (updated 20220110)
+HTTPHeader -request -process access-control-allow-origin
+HTTPHeader -request -process x-api-key
+HTTPHeader -request -process X-Requested-With
+URL https://www.nejm.org
+HJ https://www.nejm.org
+HJ https://evidence.nejm.org
+HJ https://catalyst.nejm.org
+HJ https://store.nejm.org
+HJ https://myaccount.nejm.org
+HJ https://knowledgeplus.nejm.org
+HJ https://resident360.nejm.org
+HJ https://libraryhub.nejm.org
+HJ https://www.jwatch.org
+HJ https://www.nejmcareercenter.org
+DJ nejmcareercenter.org
+DJ jwatch.org
+DJ nejmgroup.org
+DJ nejm.org
+Find "//examservice.nejm.org/
+Replace "//^sexamservice.nejm.org^/
+AnonymousURL -*

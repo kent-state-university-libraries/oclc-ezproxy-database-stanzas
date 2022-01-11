@@ -1,0 +1,10 @@
+AddUserHeader X-User
+Title VitalSource Resolver (updated 20220110)
+URL https://resolver.vitalsource.com
+HJ https://resolver.vitalsource.com
+HJ resolver.vitalsource.com
+DJ vitalsource.com
+NeverProxy jigsaw.vitalsource.com
+NeverProxy bookshelf.vitalsource.com
+NeverProxy www.recaptcha.net
+AddUserHeader
