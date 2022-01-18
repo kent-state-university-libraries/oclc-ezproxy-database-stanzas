@@ -1,4 +1,12 @@
-Title EMS Publishing (updated 20190916)
+Title EMS Publishing (updated 20220118)
 URL https://www.ems-ph.org/
+HJ ems-ph.org
+HJ ems.press
+HJ https://ems-ph.org
+HJ https://ems.press
+HJ https://www.ems-ph.org
+HJ https://www.ems.press
 HJ www.ems-ph.org
+HJ www.ems.press
 DJ ems-ph.org
+DJ ems.press

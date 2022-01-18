@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20211208)
+Title Adam Matthew Digital (updated 20220117)
 URL http://www.login.amdigital.co.uk
 HJ https://www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk
@@ -67,6 +67,7 @@ HJ https://www.literarymanuscriptsberg.amdigital.co.uk
 HJ https://www.literarymanuscriptsleeds.amdigital.co.uk
 HJ https://www.perditamanuscripts.amdigital.co.uk
 HJ resources.amdigital.co.uk
+HJ www.18thcjournals.amdigital.co.uk
 HJ www.aap.amdigital.co.uk
 HJ www.am-explorer.com
 HJ www.americanhistory.amdigital.co.uk
