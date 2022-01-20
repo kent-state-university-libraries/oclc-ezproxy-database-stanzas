@@ -4,7 +4,7 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (OCLC IncludeFile updated 20211220)
+Title Wiley Online (updated 20220120)
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 HTTPHeader -request -process X-Requested-With
@@ -96,6 +96,7 @@ HJ rsaiconnect.onlinelibrary.wiley.com
 HJ sfamjournals.onlinelibrary.wiley.com
 HJ sttipubs.onlinelibrary.wiley.com
 HJ wchh.onlinelibrary.wiley.com
+HJ bvajournals.onlinelibrary.wiley.com
 HJ www.birpublications.org
 HJ www.clinmicronow.org
 HJ www.embopress.org
@@ -209,6 +210,7 @@ HJ https://sfamjournals.onlinelibrary.wiley.com
 HJ https://sttipubs.onlinelibrary.wiley.com
 HJ https://wchh.onlinelibrary.wiley.com
 HJ https://wildlife.onlinelibrary.wiley.com
+HJ https://bvajournals.onlinelibrary.wiley.com
 DJ wiley.com
 DJ esajournals.org
 DJ wileyopenaccess.com
