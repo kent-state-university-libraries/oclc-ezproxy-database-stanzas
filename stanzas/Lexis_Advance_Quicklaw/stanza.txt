@@ -1,7 +1,7 @@
 PHE www.lexisnexis.com$ www-lexisnexis-com
 PHE www.nexis.com www-nexis-com
 Option CookiePassThrough
-Title Lexis Advance Quicklaw (updated 20180423)
+Title Lexis Advance Quicklaw (updated 20220121)
 HTTPHeader -request -unrewrite X-LN-PreviousRequestId
 HTTPHeader -request -unrewrite X-RequestedWith
 HTTPHeader -request -unrewrite X-LN-CurrentRequestId
@@ -9,7 +9,7 @@ HTTPHeader -request -unrewrite X-RE-Ref
 HTTPHeader -request -unrewrite X-UA-Compatible
 HTTPHeader -request -unrewrite X-LN-InstanceId
 HTTPHeader -request -unrewrite X-LN-PageMode
-HTTPHeader -request X-NewRelic-ID
+HTTPHeader -request -process X-NewRelic-ID
 HTTPHeader -response -process X-LN-PreviousRequestId
 HTTPHeader -response -process X-RequestedWith
 HTTPHeader -response -process X-LN-CurrentRequestId
