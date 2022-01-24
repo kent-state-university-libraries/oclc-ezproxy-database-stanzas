@@ -1,5 +1,5 @@
 PHE journals.rcni.com$ journals-rcni-com
-Title RCN Publishing (updated 20180510)
+Title RCN Publishing (updated 20220124)
 URL http://journals.rcni.com
 HJ cancernursingpractice.rcnpublishing.co.uk
 HJ emergencynurse.rcnpublishing.co.uk
@@ -9,10 +9,11 @@ HJ learningdisabilitypractice.rcnpublishing.co.uk
 HJ mentalhealthpractice.rcnpublishing.co.uk
 HJ nm.rcni.com
 HJ nurseresearcher.rcnpublishing.co.uk
+HJ nursing-standard.co.uk
 HJ nursingchildrenandyoungpeople.rcnpublishing.co.uk
 HJ nursingmanagement.rcnpublishing.co.uk
 HJ nursingolderpeople.rcnpublishing.co.uk
-HJ nursing-standard.co.uk
+HJ nursingstandard.rcnpublishing.co.uk
 HJ paediatricnursing.rcnpublishing.co.uk
 HJ primaryhealthcare.rcnpublishing.co.uk
 HJ rcnbulletinjobs.co.uk
@@ -30,5 +31,6 @@ HJ www.rcnpublishing.co.uk
 HJ https://rcni.com
 HJ https://www.rcni.com
 DJ rcnbulletinjobs.co.uk
-DJ rcnpublishing.com
 DJ rcni.com
+DJ rcnpublishing.co.uk
+DJ rcnpublishing.com

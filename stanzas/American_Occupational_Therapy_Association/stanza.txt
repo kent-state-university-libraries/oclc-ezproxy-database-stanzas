@@ -1,11 +1,19 @@
-Title American Occupational Therapy Association
+Title American Occupational Therapy Association (updated 20220124)
 URL http://www1.aota.org/otsearch/index.asp
-HJ https://www1.aota.org
-HJ www1.aota.org
-HJ https://www.aota.org
-HJ www.aota.org
-HJ otsearch.aota.org
-HJ https://ajot.aota.org
 HJ ajot.aota.org
+HJ ajot.aotapress.net
+HJ aota.org
+HJ https://ajot.aota.org
+HJ https://ajot.aotapress.net
 HJ https://aota.org
+HJ https://research.aota.org
+HJ https://www.aota.org
+HJ https://www.research.aota.org
+HJ https://www1.aota.org
+HJ otsearch.aota.org
+HJ research.aota.org
+HJ www.aota.org
+HJ www.research.aota.org
+HJ www1.aota.org
 DJ aota.org
+DJ aotapress.net

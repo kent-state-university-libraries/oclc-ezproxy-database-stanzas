@@ -2,7 +2,7 @@
 
 #Includes World Christian Database, World Religion Database and Arkyves
 
-Title BrillOnline (updated 20210930)
+Title BrillOnline (updated 20220124)
 HTTPHeader -request -process x-projectname
 HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
@@ -51,6 +51,12 @@ HJ https://www.mentis.de/
 HJ http://www.fink.de/
 HJ http://www.schoeningh.de/
 HJ http://www.mentis.de/
+HJ booksandjournals.brillonline.com
+HJ brillonline.com
+HJ https://booksandjournals.brillonline.com
+HJ https://brillonline.com
+HJ https://www.brillonline.com
+HJ www.brillonline.com
 DJ fink.de
 DJ schoeningh.de
 DJ mentis.de

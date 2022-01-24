@@ -1,20 +1,25 @@
 HTTPMethod DELETE
+ProxyHostnameEdit calculators.cch.com$ calculators-cch-com
+ProxyHostnameEdit taxcalendar.cch.com$ taxcalendar-cch-com
+ProxyHostnameEdit tools.cch.com$ tools-cch-com
+ProxyHostnameEdit smartcharts.cch.com$ smartcharts-cch-com
 ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
-HTTPHeader X-GWT-*
-HTTPHeader X-ApiKey
-HTTPHeader X-CPID
-Title CCH Intelliconnect (updated 20190411)
-URL http://intelliconnect.cch.com
-HJ intelliconnect.wkasiapacific.com
+Title CCH IntelliConnect (updated 20220124)
+HTTPHeader -request -process X-GWT-*
+HTTPHeader -request -process X-ApiKey
+HTTPHeader -request -process X-CPID
+URL https://intelliconnect.cch.com
 HJ https://intelliconnect.cch.com
-HJ https://intelliconnect.wkasiapacific.com
-HJ https://login.intelliconnect.cch.com
-HJ https://login.wkasiapacific.com
-HJ https://login.wolterskluwer.com
-HJ prod.resource.cch.com
-DJ wkcheetah.com
+DJ kluwercompetitionlaw.com
+DJ kluwerarbitration.com
+DJ kluweriplaw.com
 DJ cch.com
+DJ taxcomply.com
+DJ www.salestaxradar.com
 DJ wolterskluwer.com
-MimeFilter application/json .* javascript
-Find http:\/\/
-Replace http://
+HJ https://tax.cchgroup.com
+HJ https://tools.cch.com
+HJ https://calculators.cch.com
+HJ https://smartcharts.cch.com
+HJ https://taxcalendar.cch.com
+Mimefilter application/json .* javascript

@@ -1,4 +1,4 @@
-Title Gale Products (updated 20210830)
+Title Gale Products (updated 20220124)
 URL https://link.gale.com/apps/menu
 MimeFilter text/plain .* javascript
 HJ auth.go.gale.com
@@ -11,6 +11,7 @@ HJ galeapps.gale.com
 HJ galenet.gale.com
 HJ galepages.com
 HJ gdc.gale.com
+HJ gdc.galegroup.com
 HJ go.gale.com
 HJ https://auth.go.gale.com
 HJ https://bi.gale.com
@@ -19,6 +20,7 @@ HJ https://find.gale.com
 HJ https://find.galegroup.com
 HJ https://galenet.gale.com
 HJ https://gdc.gale.com
+HJ https://gdc.galegroup.com
 HJ https://go.gale.com
 HJ https://infotrac.gale.com
 HJ https://infotrac.galegroup.com

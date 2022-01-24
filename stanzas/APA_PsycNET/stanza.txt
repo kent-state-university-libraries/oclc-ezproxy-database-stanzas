@@ -1,22 +1,25 @@
-Title APA PsycNET (updated 20210607)
+Title APA PsycNET (updated 20220124)
 URL https://psycnet.apa.org
 HJ content.apa.org
 HJ doi.apa.org
+HJ http://psycnet.apa.org
+HJ https://doi.apa.org
+HJ https://psycinfo.apa.org
+HJ https://psycnet.apa.org
+HJ https://psyctherapy.apa.org
+HJ https://psyctherapyalpha.apa.org/
+HJ https://sso.apa.org
+HJ https://www.apa.org
 HJ my.apa.org
 HJ proxies.apa.org
+HJ psycinfo.apa.org
 HJ psycinfo.com
 HJ psycnet.apa.org
 HJ psyctherapy.apa.org
 HJ psyctherapyalpha.apa.org
 HJ search.apa.org
+HJ sso.apa.org
 HJ www.apa.org
 HJ www.psycinfo.com
-HJ sso.apa.org
-HJ http://psycnet.apa.org
-HJ https://psyctherapy.apa.org
-HJ https://psyctherapyalpha.apa.org/
-HJ https://psycnet.apa.org
-HJ https://www.apa.org
-HJ https://sso.apa.org
 DJ apa.org
 DJ psycinfo.com
