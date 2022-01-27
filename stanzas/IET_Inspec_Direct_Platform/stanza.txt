@@ -5,7 +5,9 @@ AnonymousURL +https://inspec-auth.theiet.org/*
 AnonymousURL +https://inspec-direct-api.theiet.org/*
 AnonymousURL +https://ietsso.b2clogin.com/*
 AnonymousURL +https://ietpb2cstorage.blob.core.windows.net/*
-Title IET Inspec Direct Platform (updated 20210803)
+AnonymousURL +https://inspec-direct.theiet.org/*
+AnonymousURL +https://inspec-elastic-api.theiet.org/*
+Title IET Inspec Direct Platform (updated 20220127)
 HTTPHeader -request -process X-Alt-Referer
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process Ocp-Apim-Subscription-Key
