@@ -1,4 +1,4 @@
-Title Tumblebooks (updated 20200520)
+Title Tumblebooks (updated 20220128)
 URL https://www.tumblebooks.com/
 HJ https://www.tumblebooks.com
 HJ www.tumblebooks.com
@@ -30,3 +30,4 @@ HJ tumblereadables.com
 DJ tumblereadables.com
 HJ https://www.romancebookcloud.com
 DJ romancebookcloud.com
+NeverProxy cdn.tumblebooks.com

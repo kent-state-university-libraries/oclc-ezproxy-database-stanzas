@@ -1,4 +1,5 @@
-Title Infobase (updated 20210303)
+AnonymousURL +https://ibaseptn.infobase.com/graphql
+Title Infobase (updated 20220128)
 URL https://login.infobase.com
 HJ login.infobase.com
 HJ https://online.infobaselearning.com
@@ -16,6 +17,8 @@ HJ https://video.infobase.com
 HJ video.infobase.com
 HJ https://learn360.infobase.com
 HJ https://www.learn360.infobase.com
+HJ https://online.infobase.com
+HJ https://icof.infobaselearning.com
 HJ learn360.infobase.com
 HJ www.learn360.infobase.com
 HJ bio.infobaselearning.com
@@ -38,3 +41,4 @@ DJ infobasepublishing.com
 DJ infobase.com
 NeverProxy ptn.infobase.com
 NeverProxy tsof.infobase.com
+AnonymousURL -*
