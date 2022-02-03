@@ -1,0 +1,14 @@
+Title Society for Nuclear Medicine (SNM) Journals (updated 20220203)
+URL http://jnm.snmjournals.org/
+HJ https://jnm.snmjournals.org
+HJ https://tech.snmjournals.org
+HJ https://www.snmjournals.org
+HJ interactive.snm.org
+HJ jnm.snmjournals.org
+HJ snmjournals.org
+HJ tech.snmjournals.org
+HJ www.snmjournals.org
+HJ www.snmmi.org
+DJ snm.org
+DJ snmmi.org
+DJ snmjournals.org
