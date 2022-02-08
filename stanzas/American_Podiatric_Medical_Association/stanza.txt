@@ -1,5 +1,5 @@
-Title American Podiatric Medical Association (updated 20220124)
-HTTP Header -request -process X-Requested-With
+Title American Podiatric Medical Association (updated 20220207)
+HTTPHeader -request -process X-Requested-With
 URL https://www.japmaonline.org/
 HJ https://japmaonline.org
 HJ https://www.japmaonline.org
