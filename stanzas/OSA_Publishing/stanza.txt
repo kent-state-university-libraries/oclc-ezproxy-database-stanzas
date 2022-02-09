@@ -1,5 +1,6 @@
-Title OSA Publishing (updated 20211026)
-URL https://www.osapublishing.org/default.cfm
+Title Optica Publishing Group (formerly OSA) (updated 20220127)
+URL https://opg.optica.org/default.cfm
+HJ http://opg.optica.org
 HJ ao.osa.org
 HJ col.osa.org
 HJ https://www.osa.org
