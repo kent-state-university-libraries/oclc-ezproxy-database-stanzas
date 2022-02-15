@@ -1,16 +1,19 @@
-Title Bioscientifica (updated 20200807)
+Title Bioscientifica (updated 20220215)
 HTTPHeader -request -process X-Requested-With
 URL https://www.bioscientifica.com
 HJ https://ec.bioscientifica.com
 HJ https://edm.bioscientifica.com
 HJ https://eje.bioscientifica.com
 HJ https://erc.bioscientifica.com
-HJ https://erp.bioscientifica.com
 HJ https://jme.bioscientifica.com
 HJ https://joe.bioscientifica.com
 HJ https://rep.bioscientifica.com
 HJ https://vb.bioscientifica.com
 HJ http://www.vascularbiology.com
+HJ https://eo.bioscientifica.com
+HJ https://eor.bioscientifica.com
+HJ https://etj.bioscientifica.com
+HJ https://raf.bioscientifica.com
 HJ www.vascularbiology.com
 HJ http://www.bone-abstracts.org
 HJ www.bone-abstracts.org
@@ -23,7 +26,10 @@ DJ ec.bioscientifica.com
 DJ edm.bioscientifica.com
 DJ eje.bioscientifica.com
 DJ erc.bioscientifica.com
-DJ erp.bioscientifica.com
+DJ eo.bioscientifica.com
+DJ eor.bioscientifica.com
+DJ etj.bioscientifica.com
+DJ raf.bioscientifica.com
 DJ jme.bioscientifica.com
 DJ joe.bioscientifica.com
 DJ rep.bioscientifica.com
