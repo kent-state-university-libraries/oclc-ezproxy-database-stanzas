@@ -1,4 +1,7 @@
-Title Symptom Media (updated 20190516)
+Title Symptom Media (updated 20220216)
 URL https://symptommedia.com
+MimeFilter application/x-www-form-urlencoded .* javascript
 HJ http://symptommedia.com
 DJ symptommedia.com
+Find symptommedia.com
+Replace ^Ssymptommedia.com^
