@@ -1,0 +1,17 @@
+AnonymousURL +https://prodbiserver3-auditedmedia-com.*
+Title Alliance for Audited Media (updated 20220223)
+HTTPHeader -request -process __cfduid "*"
+HTTPHeader -request -process X-Requested-With "*"
+HTTPHeader -response -process X-Requested-With "*"
+URL https://abcas3.auditedmedia.com/MICenter/MICenter
+HJ https://brandview.auditedmedia.com
+HJ https://digitalaudit.aamsitecertifier.com
+HJ https://prodbiserver3.auditedmedia.com
+HJ prodbiserver3.auditedmedia.com
+HJ https://aamsitecertifier.com
+HJ aamsitecertifier.com
+DJ auditedmedia.com
+DJ aamsitecertifier.com
+NeverProxy chartservice.auditedmedia.com
+NeverProxy https://xhr.spec.whatwg.org/
+AnonymousURL -*

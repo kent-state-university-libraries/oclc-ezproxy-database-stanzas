@@ -1,8 +1,9 @@
 Option DomainCookieOnly
-Title Chicago Manual of Style Online (updated 20180821)
+Title Chicago Manual of Style Online (updated 20220223)
 URL http://www.chicagomanualofstyle.org
 HJ https://www.chicagomanualofstyle.org
 HJ chicagomanualofstyle.org
+HJ www.chicagomanualofstyle.org
 HJ login.chicagomanualofstyle.org
 DJ chicagomanualofstyle.org
 DJ login.chicagomanualofstyle.org
