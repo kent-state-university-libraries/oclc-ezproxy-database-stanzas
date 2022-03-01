@@ -1,10 +1,22 @@
-Title Anatomy.TV (updated 20210511)
-URL https://www.anatomy.tv/
+Option CookiePassThrough
+AnonymousURL +*.json
+AnonymousURL +*.png
+AnonymousURL +*.jpg
+AnonymousURL +*.html
+AnonymousURL +*.unityweb
+Title Anatomy TV (updated 20220224)
+URL https://anatomy.tv
 HJ https://anatomy.tv
+HJ anatomy.tv
 HJ www.anatomy.tv
 HJ https://www.anatomy.tv
-HJ anatomy.tv
 DJ www.anatomy.tv
 DJ anatomy.tv
-NeverProxy *.cloudfront.net
+Domain www.anatomy.tv
+Domain .anatomy.tv
+NeverProxy d11pbpfqgyaka7.cloudfront.net
 NeverProxy cdn.anatomy.tv
+NeverProxy *.prod.anatomy.tv
+NeverProxy anatomysearch.anatomy.tv
+AnonymousURL -*
+Option Cookie
