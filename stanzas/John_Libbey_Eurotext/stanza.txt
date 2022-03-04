@@ -1,8 +1,13 @@
-T John Libbey Eurotext (updated 20191223)
-U https://www.jle.com/
+Title John Libbey Eurotext (updated 20220304)
+URL https://www.jle.com/
 HJ www.jle.com
 HJ www.john-libbey-eurotext.fr
+HJ https://www.john-libbey-eurotext.fr
+HJ https://www.revuedeneuropsychologie.com
 HJ www.revuedeneuropsychologie.com
+HJ www.librairiemedicale.com
+HJ https://www.librairiemedicale.com
 DJ jle.com
 DJ john-libbey-eurotext.fr
+DJ librairemedicale.com
 DJ revuedeneuropsychologie.com
