@@ -1,5 +1,5 @@
-Title Institute of Arts and Ideas
-URL https://iai.tv (updated 20210915)
+Title Institute of Arts and Ideas (updated 20220307)
+URL https://iai.tv
 HJ http://www.iai.tv
 DJ iai.tv
 DJ www.iai.tv

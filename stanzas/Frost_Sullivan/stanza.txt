@@ -1,8 +1,7 @@
-Title Frost & Sullivan (updated 20190328)
-URL http://www.frost.com
+Title Frost & Sullivan (updated 20220307)
+URL https://cds.frost.com
 HJ https://cds.frost.com
 HJ cds.frost.com
-Host www.frost.com
 DJ frost.com
-Find e.href = "http:"+e.href.substr(6)
-Replace e.href = "http://^pwww.frost.com^/"; + e.pathname + e.search
+Find e.href = "https:"+e.href.substr(6)
+Replace e.href = "https://^scds.frost.com^/"; + e.pathname + e.search
