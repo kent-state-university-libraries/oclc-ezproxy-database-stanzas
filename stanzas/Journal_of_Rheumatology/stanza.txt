@@ -1,0 +1,7 @@
+Title Journal of Rheumatology (updated 20220309)
+URL http://www.jrheum.org
+HJ https://jrheum.org
+HJ https://www.jrheum.org
+HJ jrheum.org
+HJ www.jrheum.org
+DJ jrheum.org
