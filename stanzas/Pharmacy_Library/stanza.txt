@@ -1,10 +1,10 @@
 Option DomainCookieOnly
-Title APhA PharmacyLibrary (updated 20210325)
+Title APhA PharmacyLibrary (updated 20220310)
 URL https://www.pharmacylibrary.com
 HJ https://pharmacylibrary.com
+HJ https://login.personifygo.com
 HJ pharmacylibrary.com
 HJ pharmacist.com
-HJ https://ebusiness.pharmacist.com
 DJ pharmacylibrary.com
 DJ pharmacist.com
 NeverProxy apharma-prod-streaming.literatumonline.com
