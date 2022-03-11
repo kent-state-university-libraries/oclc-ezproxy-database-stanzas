@@ -1,5 +1,5 @@
 AnonymousURL +*
-Title -hide CookieLaw (updated 20210714)
+Title -hide CookieLaw (updated 20220311)
 HTTPHeader -Request -process Sec-*
 HTTPHeader -Response -process CF-*
 HTTPHeader -Response -process Expect-CT
@@ -9,5 +9,7 @@ DJ onetrust.com
 Find domain=."+i[0]+"
 Replace domain="+location.hostname+"
 Find domain=."+l[0]+"
+Replace domain="+location.hostname+"
+Find domain=."+a[0]+"
 Replace domain="+location.hostname+"
 AnonymousURL -*

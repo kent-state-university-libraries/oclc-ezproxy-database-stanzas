@@ -4,7 +4,7 @@ AnonymousURL -OPTIONS +https://notification-service.euromonitor.com/*
 AnonymousURL +https://productclaim-ui.euromonitor.com/*
 AnonymousURL +https://cdn.media.euromonitor.com/*
 HTTPMethod OPTIONS
-Title Passport (Euromonitor International) (updated 20211102)
+Title Passport (Euromonitor International) (updated 20220311)
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Access-Control-Expose-Headers
 MimeFilter text/html https://cdn.media.euromonitor.com/*  html
@@ -21,12 +21,16 @@ HJ https://portal.euromonitor.com
 HJ https://lv-sportsui-wus-cdn.azureedge.net
 HJ https://productclaim-ui.euromonitor.com
 HJ https://microfrontend-passport.euromonitor.com
+HJ https://economic-barometer-extract.euromonitor.com
 DJ lv-sportsui-wus-cdn.azureedge.net
 DJ euromonitor.com
 Find //www.portal.euromonitor.com/
 Replace //^swww.portal.euromonitor.com^/
 Find //cdn.media.euromonitor.com
 Replace //^scdn.media.euromonitor.com^
+NeverProxy economic-barometer.euromonitor.com
+NeverProxy travel-forecastmodel.euromonitor.com
+NeverProxy tableau.euromonitor.com
 NeverProxy microservices.euromonitor.com
 NeverProxy consulting.euromonitor.com
 NeverProxy covid-analytics-ui.euromonitor.com

@@ -1,11 +1,17 @@
-Title Transparent Language (updated 20210511)
-URL https://education.transparent.com/saultcollege/game/ng/#/login
-URL https://education.transparent.com/cambriancollege
-Domain transparent.com
-HostJavaScript https://education.transparent.com
-Host https://education.transparent.com
-Host education.transparent.com
-HostJavaScript education.transparent.com
-DomainJavaScript transparent.com
+#Stanza for library customers
+
+Title Transparent Language Online (updated 20220310)
+URL https://library.transparent.com/
+HJ library.transparent.com
+DJ transparent.com
+NeverProxy transparent.com
+NeverProxy library.transparent.com
+
+#Stanza for education customers
+
+Title Transparent Language Online (updated 20220310)
+URL https://education.transparent.com/
+HJ education.transparent.com
+DJ transparent.com
 NeverProxy transparent.com
 NeverProxy education.transparent.com
