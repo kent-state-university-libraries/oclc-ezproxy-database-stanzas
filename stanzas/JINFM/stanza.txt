@@ -1,0 +1,19 @@
+HTTPMethod OPTIONS
+HTTPMethod PATCH
+AnonymousURL +http://aplayer.js.org/*
+AnonymousURL +https://prod.jinfm.net/ear/public/api/*
+AnonymousURL +https://prod.jinfm.net/lambda/*
+AnonymousURL -OPTIONS +https://prod.jinfm.net/*
+Title 一刻鯨選 (updated 20220316)
+ByteServe https://prod\.jinfm\.net/media/.*
+HTTPHeader -request -process kms-data
+URL https://jinfm.net/org/nutc
+HJ https://www.nutc.edu.tw
+HJ www.nutc.edu.tw
+DJ nutc.edu.tw
+DJ jinfm.net
+Find prod.jinfm.net
+Replace ^sprod.jinfm.net^
+NeverProxy 7f2634ab02503490a050083667b6ffd4.cloudfront.net
+NeverProxy aplayer.js.org
+AnonymousURL -*
