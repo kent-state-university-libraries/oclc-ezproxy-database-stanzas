@@ -1,11 +1,10 @@
 #This stanza is required to resolve the Cookie Banner popup solution IncludeFile databases/cookielaw.txt
 
-AnonymousURL +*
 HTTPMethod PUT
 HTTPMethod PATCH
 HTTPMethod OPTIONS
 HTTPMethod DELETE
-Title JSTOR (updated 20220316)
+Title JSTOR (updated 20220317)
 HTTPHeader -request -process X-Requested-With
 URL http://www.jstor.org/
 HJ https://www.jstor.org
@@ -31,8 +30,6 @@ HJ https://about.jstor.org
 HJ https://plants.jstor.org
 HJ https://uk.jstor.org
 DJ jstor.org
-NeverProxy ithaka-labs.s3.amazonaws.com
-AnonymousURL -*
 
 HTTPHeader -request -process X-Requested-With
 Title JSTOR Aluka
