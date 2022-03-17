@@ -4,7 +4,7 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20220309)
+Title Wiley Online (updated 20220317)
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 HTTPHeader -request -process X-Requested-With
@@ -44,8 +44,10 @@ HJ beva.onlinelibrary.wiley.com
 HJ bjssjournals.onlinelibrary.wiley.com
 HJ bjui-journals.onlinelibrary.wiley.com
 HJ bpspubs.onlinelibrary.wiley.com
+HJ bsssjournals.onlinelibrary.wiley.com
 HJ ceramics.onlinelibrary.wiley.com
 HJ chemistry-europe.onlinelibrary.wiley.com
+HJ compass.onlinelibrary.wiley.com
 HJ conbio.onlinelibrary.wiley.com
 HJ currentprotocols.onlinelibrary.wiley.com
 HJ doi.wiley.com
@@ -67,6 +69,7 @@ HJ obgyn.onlinelibrary.wiley.com
 HJ physoc.onlinelibrary.wiley.com
 HJ rmets.onlinelibrary.wiley.com
 HJ rai.onlinelibrary.wiley.com
+HJ resjournals.onlinelibrary.wiley.com
 HJ rss.onlinelibrary.wiley.com
 HJ secure.onlinelibrary.wiley.com
 HJ setac.onlinelibrary.wiley.com
@@ -136,8 +139,10 @@ HJ https://aspenjournals.onlinelibrary.wiley.com
 HJ https://besjournals.onlinelibrary.wiley.com
 HJ https://bjssjournals.onlinelibrary.wiley.com
 HJ https://bsapubs.onlinelibrary.wiley.com
+HJ https://bsssjournals.onlinelibrary.wiley.com
 HJ https://ceramics.onlinelibrary.wiley.com
 HJ https://currentprotocols.onlinelibrary.wiley.com
+HJ https://compass.onlinelibrary.wiley.com
 HJ https://doi.wiley.com
 HJ https://efsa.onlinelibrary.wiley.com
 HJ https://www.embopress.org
@@ -155,6 +160,7 @@ HJ https://nyaspubs.onlinelibrary.wiley.com
 HJ https://obgyn.onlinelibrary.wiley.com
 HJ https://physoc.onlinelibrary.wiley.com
 HJ https://rai.onlinelibrary.wiley.com
+HJ https://resjournals.onlinelibrary.wiley.com
 HJ https://rgs-ibg.onlinelibrary.wiley.com
 HJ https://rmets.onlinelibrary.wiley.com
 HJ https://rss.onlinelibrary.wiley.com
