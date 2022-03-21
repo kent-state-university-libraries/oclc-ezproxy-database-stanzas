@@ -1,0 +1,10 @@
+AnonymousURL +https://api.digitalconcerthall.com/*
+AnonymousURL +https://sentry.digitalconcerthall.com/*
+AnonymousURL +https://plausible.digitalconcerthall.com/*
+Title Digital Concert Hall(updated 20220321)
+URL https://www.digitalconcerthall.com
+HJ https://www.digitalconcerthall.com
+HJ www.digitalconcerthall.com
+DJ digitalconcerthall.com
+AnonymousURL -*
+NeverProxy https://images.digitalconcerthall.com
