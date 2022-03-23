@@ -1,5 +1,7 @@
-Title Healio
-URL http://www.healio.com/
+Title Healio (updated 20220323)
+URL https://www.healio.com/
 HJ www.healio.com
 HJ healio.com
+HJ https://healio.com
+HJ https://journals.healio.com
 DJ healio.com
