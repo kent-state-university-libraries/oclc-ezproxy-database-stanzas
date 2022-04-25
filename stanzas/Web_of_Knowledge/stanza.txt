@@ -2,7 +2,7 @@ Option CookiePassThrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
 AnonymousURL +https://csi.webofknowledge.com/CSI/*
-Title Web of Knowledge (updated 20210915)
+Title Web of Science (Formerly Web of Knowledge) (updated 20220425)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process AWSEnv
