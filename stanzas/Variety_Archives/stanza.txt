@@ -1,0 +1,6 @@
+Option CookiePassThrough
+Title Variety Archives (updated 20220426)
+URL http://www.varietyultimate.com/
+HJ https://varietyultimate.com
+DJ varietyultimate.com
+Option Cookie

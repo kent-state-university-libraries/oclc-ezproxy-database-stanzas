@@ -1,7 +1,8 @@
-Title Lippincott TelemedInsights (updated 20210719)
+Title Lippincott TelemedInsights (updated 20220426)
 URL https://telemedinsights.lww.com
 HJ https://telemedinsights-assets.lww.com
 HJ www.telemedinsights.lww.com
 HJ lns-sso.lww.com
 DJ telemedinsights.lww.com
 DJ telemedinsights-assets.lww.com
+NeverProxy phoenix-viewer.thepoint.lww.com
