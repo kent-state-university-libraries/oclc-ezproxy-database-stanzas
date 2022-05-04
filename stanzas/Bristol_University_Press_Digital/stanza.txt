@@ -1,0 +1,9 @@
+Title Bristol University Press Digital (updated 20220502)
+HTTPHeader -request -process X-Requested-With
+URL https://bristoluniversitypressdigital.com/
+HJ www.bristoluniversitypressdigital.com
+HJ bristoluniversitypressdigital.com
+HJ https://bristoluniversitypressdigital.com
+HJ https://ams.bristoluniversitypressdigital.com
+HJ ams.bristoluniversitypressdigital.com
+DJ bristoluniversitypressdigital.com

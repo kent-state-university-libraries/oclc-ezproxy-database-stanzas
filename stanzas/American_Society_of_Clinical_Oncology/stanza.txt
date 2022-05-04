@@ -1,5 +1,6 @@
-Title American Society of Clinical Oncology (ASCO) (updated 20190424)
-URL https://ascopubs.org
+T American Society of Clinical Oncology (ASCO) (OCLC IncludeFile updated 20220502)
+HTTPHeader -response -block Content-Security-Policy
+U https://ascopubs.org
 HJ ascopubs.org
 HJ click.broadcastemail.asco.org
 HJ edbook.ascopubs.org
