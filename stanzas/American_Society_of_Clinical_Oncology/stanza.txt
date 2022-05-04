@@ -1,4 +1,4 @@
-T American Society of Clinical Oncology (ASCO) (OCLC IncludeFile updated 20220502)
+T American Society of Clinical Oncology (ASCO) (updated 20220502)
 HTTPHeader -response -block Content-Security-Policy
 U https://ascopubs.org
 HJ ascopubs.org
