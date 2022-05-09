@@ -1,4 +1,4 @@
-Title Knovel (updated 20210521)
+T Knovel (updated 20220509)
 URL https://app.knovel.com/kn
 HJ http://app.knovel.com
 HJ https://app.knovel.com
@@ -6,3 +6,11 @@ HJ https://www.knovel.com
 HJ app.knovel.com
 DJ knovel.com
 NeverProxy content.knovel.com
+
+Title -hide Elsevier Identity
+URL https://id.elsevier.com
+HJ https://id.elsevier.com
+HJ id.elsevier.com
+DJ id.elsevier.com
+Find redirect_uri=https://
+Replace redirect_uri=https://^A

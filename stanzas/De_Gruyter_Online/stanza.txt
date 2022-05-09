@@ -1,7 +1,9 @@
 AnonymousURL +https://apikeys.civiccomputing.com/*
-Title De Gruyter (updated 20210408)
+AnonymousURL +https://aow-api.degruyter.com/*
+Title De Gruyter (updated 20220509)
 HTTPHeader -request -process X-Requested-With
 URL https://www.degruyter.com
+HJ https://aow.degruyter.com
 HJ db.degruyter.com
 HJ degruyter.com
 HJ degruyter.de
@@ -16,6 +18,7 @@ HJ tll.degruyter.com
 HJ apikeys.civiccomputing.com
 HJ columbia.degruyter.com
 HJ cornellup.degruyter.com
+HJ aow.degruyter.com
 HJ hup.degruyter.com
 HJ princetonup.degruyter.com
 HJ penn.degruyter.com
