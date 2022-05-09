@@ -1,7 +1,13 @@
-Title Journal of Chinese Medicine (updated 20191231)
-URL https://www.jcm.co.uk/
+T Journal of Chinese Medicine (updated 20220429)
+U https://www.jcm.co.uk/
 HJ https://www.jcm.co.uk
 HJ https://jcm.co.uk
 HJ www.jcm.co.uk
 HJ jcm.co.uk
 DJ jcm.co.uk
+Find https\u003A\u002F\u002Fwww.jcm.co.uk
+Replace https\u003A\u002F\u002F^Swww.jcm.co.uk^
+Find "https:\/\/www.jcm.co.uk
+Replace "https:\/\/^swww.jcm.co.uk^
+Find "domain": ".www.jcm.co.uk",
+Replace "domain": ".^swww.jcm.co.uk^",
