@@ -1,12 +1,27 @@
-Title Cobouw (updated 20200526)
+AnonymousURL https://vmnmedia-community.azurewebsites.net/account
+AnonymousURL https://vmnmedia-community.azurewebsites.net/tracking
+AnonymousURL https://vmnmedia-community.azurewebsites.net/Consumable*
+AnonymousURL +https://vmnmedia-community.azurewebsites.net/UpSellProducts
+AnonymousURL +*.woff*
+AnonymousURL +*.woff2*
+AnonymousURL +*.ttf*
+T Cobouw (updated 20220405)
 HTTPHeader -request -process X-XSRF-TOKEN
-URL https://www.cobouw.nl/digitaal-magazine
+HTTPHeader -request -process X-VMN-Origin
+HTTPHeader -request -process X-VMN-Request-IpAddress
+HTTPHeader -request -process X-VMN-Publisher
+HTTPHeader -request -process X-VMN-User-Agent
+HTTPHeader -request -process api_key
+U https://www.cobouw.nl/digitaal-magazine
 HJ atex.cobouw.nl
+HJ cdn.vakmedianet.com
 HJ cobouw.nl
 HJ dagblad.cobouw.nl
 HJ duurzameenergie.cobouw.nl
+HJ https://cdn.vakmedianet.com
 HJ https://cobouw.nl
 HJ https://privacy.vakmedianet.nl
+HJ https://vmnmedia-community.azurewebsites.net
 HJ https://www.cobouw.nl
 HJ machineveiligheid.cobouw.nl
 HJ nen1010.cobouw.nl
@@ -14,8 +29,12 @@ HJ nen3140.cobouw.nl
 HJ powerquality.cobouw.nl
 HJ privacy.vakmedianet.nl
 HJ schakelenverdeel.cobouw.nl
+HJ vmnmedia-community.azurewebsites.net
 HJ www.cobouw.nl
 DJ cobouw.nl
 DJ vakmedianet.nl
 Find https:\/\/privacy.vakmedianet.nl\/
 Replace https:\/\/^sprivacy.vakmedianet.nl^\/
+Find https:\u002F\u002F
+Replace https://
+AnonymousURL -*

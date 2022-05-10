@@ -1,0 +1,9 @@
+Title TaxNotes  (updated 20220509)
+HTTPHeader -request -process X-Authcache
+HTTPHeader -request -process X-Requested-With
+URL https://taxnotes.com/user
+HJ https://www.taxnotes.com
+HJ www.taxnotes.com
+HJ callrail.com
+HJ newrelic.com
+DJ taxnotes.com
