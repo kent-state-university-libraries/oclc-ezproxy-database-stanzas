@@ -1,6 +1,5 @@
 Option CookiePassThrough
-AnonymousURL +https://research.wolters-kluwer-online.de/*
-Title WoltersKluwer Online (updated 20211222)
+Title WoltersKluwer Online (updated 20220510)
 HTTPMethod DELETE
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process X-GWT-*
@@ -10,7 +9,7 @@ HTTPHeader -request -process productId
 HTTPHeader -request -process Tenant
 HTTPHeader -request -process ClientInfo.ClientId
 MimeFilter application/json .* javascript
-URL https://research.wolterskluwer-online.de/
+U https://research.wolterskluwer-online.de/
 HJ https://shop.wolterskluwer-online.de
 HJ https://login.wolterskluwer.eu
 HJ cdn.polyfill.io
@@ -26,5 +25,4 @@ Find redirect_uri=https%3A%2F%2Fresearch.wolterskluwer-online.de
 Replace redirect_uri:https://^sresearch.wolterskluwer-online.de^
 Find error=https%3A%2F%2Fresearch.wolterskluwer-online.de
 Replace error=https://^Sresearch.wolterskluwer-online.de^
-AnonymousURL -*
 Option Cookie
