@@ -1,0 +1,30 @@
+HTTPMethod DELETE
+HTTPMethod OPTIONS
+HTTPMethod PATCH
+HTTPMethod PUT
+Title Faculty Opinions (formerly F1000) (updated 20220513)
+ProxyHostnameEdit facultyopinions.com$ facultyopinions
+ProxyHostnameEdit sciwheel.com$ sciwheel
+URL https://facultyopinions.com
+HJ facultyopinions.com
+HJ sciwheel.com
+HJ f1000.com
+HJ https://facultyopinions.com
+HJ https://sciwheel.com
+HJ https://f1000.com
+HJ https://www.facultyopinions.com
+HJ https://www.sciwheel.com
+HJ https://www.f1000.com
+HJ www.facultyopinions.com
+HJ www.sciwheel.com
+HJ www.f1000.com
+DJ facultyopinions.com
+DJ sciwheel.com
+DJ f1000.com
+NeverProxy api.f1000.com
+NeverProxy api.sciwheel.com
+NeverProxy app.f1000.com
+NeverProxy app.sciwheel.com
+NeverProxy messaging.f1000.com
+NeverProxy messaging.sciwheel.com
+NeverProxy badge.facultyopinions.com
