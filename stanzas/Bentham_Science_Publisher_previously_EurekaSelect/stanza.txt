@@ -1,5 +1,7 @@
-Title Bentham Science Publisher (previously Eurekaselet) (updated 20220223)
-URL http://www.eurekaselect.com/
+T Bentham Science Publisher (Previously Eurekaselect) (updated 20220523)
+U http://www.eurekaselect.com/
+HJ https://www.eurekaselect.com
+HJ https://eurekaselect.com
 HJ beta.eurekaselect.com
 HJ bsp-cms.eurekaselect.com
 HJ eurekaselect.com
