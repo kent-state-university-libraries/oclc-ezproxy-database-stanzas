@@ -1,0 +1,20 @@
+Title -hide Weston Medical Publishing
+URL https://wmpllc.org/
+HJ http://wmpllc.org/
+DJ wmpllc.org
+
+Title Journal of Emergency Management
+URL http://www.emergencymanagementjournal.com
+HJ https://emergencymanagementjournal.com
+
+Title American Journal of Disaster Medicine
+URL http://www.disastermedicinejournal.com
+HJ https://disastermedicinejournal.com
+
+Title Journal of Opioid Management
+URL http://www.opioidmanagement.com
+HJ https://opoidmanagement.com
+
+Title American Journal of Recreation Therapy
+URL http://www.recreationtherapy.org
+HJ https://recreationtherapy.org
