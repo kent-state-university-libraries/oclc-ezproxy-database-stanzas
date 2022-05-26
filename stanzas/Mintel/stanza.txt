@@ -1,6 +1,6 @@
 HTTPMethod OPTIONS
 AnonymousURL -OPTIONS +https://www.gnpd.com/sinatra/api/*
-Title Mintel (updated 20211004)
+Title Mintel (updated 20220524)
 HTTPHeader -request -process X-CSRFToken
 URL https://clients.mintel.com/
 HJ clients.mintel.com
@@ -21,6 +21,9 @@ HJ https://trends.mintel.com
 HJ https://academic.mintel.com
 HJ https://data.mintel.com
 HJ https://marketsizes.mintel.com
+HJ help.mintel.com
+HJ https://help.mintel.com
+HJ http://help.mintel.com
 DJ mintel.com
 Find src="/jwplayer/wmvplayer/
 Replace src="http://^A/jwplayer/wmvplayer/
