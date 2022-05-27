@@ -1,9 +1,10 @@
-Title APA PsycNET (updated 20220124)
+Title APA PsycNET (updated 20220527)
 URL https://psycnet.apa.org
 HJ content.apa.org
 HJ doi.apa.org
 HJ http://psycnet.apa.org
 HJ https://doi.apa.org
+HJ https://my.apa.org
 HJ https://psycinfo.apa.org
 HJ https://psycnet.apa.org
 HJ https://psyctherapy.apa.org
