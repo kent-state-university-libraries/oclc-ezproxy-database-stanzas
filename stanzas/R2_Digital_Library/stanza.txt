@@ -1,4 +1,6 @@
-Title r2library.com
-URL http://www.r2library.com
-HOST www.r2library.com
+T R2 Digital Library (updated 20220530)
+U https://www.r2library.com
+HJ https://r2library.com
+HJ www.r2library.com
+HJ r2library.com
 DJ r2library.com
