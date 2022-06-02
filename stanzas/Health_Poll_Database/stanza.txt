@@ -1,0 +1,6 @@
+AnonymousURL +https://www.healthpolldatabase.org*
+Title Health Poll Database (updated 20220602)
+URL https://www.healthpolldatabase.org/hpd/
+HJ http://www.healthpolldatabase.org/hpd/
+DJ healthpolldatabase.org
+AnonymousURL -*
