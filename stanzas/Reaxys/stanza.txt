@@ -1,8 +1,10 @@
-Title Reaxys (updated 20211006)
+Title Reaxys (updated 20220602)
 ByteServe https://www\.reaxys\.com/cdn/.*\.chemdrawweb/core/asm\.js/chemdraw-asm\..*\.mem
 URL https://www.reaxys.com
-HJ https://www.reaxys.com
+HJ https://new.reaxys.com
 HJ https://sc.elsevier.com
+HJ https://www.reaxys.com
+HJ new.reaxys.com
 HJ sc.elsevier.com
 HJ www.reaxys.com
 DJ www.reaxys.com
