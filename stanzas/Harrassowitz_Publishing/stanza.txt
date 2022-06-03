@@ -1,4 +1,4 @@
-Title Harrassowitz Publishing
+Title Harrassowitz Publishing (updated 20220602)
 URL http://www.harrassowitz-library.com
 Host https://harrassowitz-library.com/
 HJ https://www.harrassowitz-library.com
