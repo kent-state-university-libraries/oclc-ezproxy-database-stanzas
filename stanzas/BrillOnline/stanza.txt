@@ -1,8 +1,8 @@
 #This stanza is required to resolve the Cookie Banner pop-up issue IncludeFile databases/cookielaw.txt
 
 #Includes World Christian Database, World Religion Database and Arkyves
-
-Title BrillOnline (updated 20220124)
+AnonymousURL +https://labs.brill.com/lci2/*
+Title BrillOnline (updated 20220524)
 HTTPHeader -request -process x-projectname
 HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
@@ -70,3 +70,4 @@ DJ labs.brill.com
 NeverProxy iiif.arkyves.org
 NeverProxy data.brill.com
 NeverProxy prize-papers-atlas-online.brillonline.com
+AnonymousURL -*

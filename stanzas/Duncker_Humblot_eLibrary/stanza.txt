@@ -1,5 +1,10 @@
-Title Duncker & Humblot eLibrary (updated 20200807)
+Title Duncker & Humblot eLibrary (OCLC IncludeFile updated 20220610)
+HTTPHeader -response -edit Location RewriteURL(REReplace("!https://elibrary\.duncker-humblot\.com/pdf!g", RewriteURL("https://elibrary.duncker-humblot.com/pdf"), hh:value))
 URL https://elibrary.duncker-humblot.com/
 HJ https://elibrary.duncker-humblot.com
 HJ elibrary.duncker-humblot.com
 DJ duncker-humblot.com
+Find const COOKIE_DOMAIN = 'elibrary.duncker-humblot.com';
+Replace const COOKIE_DOMAIN = '^Selibrary.duncker-humblot.com^';
+Find https:\/\/elibrary.duncker-humblot.com
+Replace https:\/\/^Selibrary.duncker-humblot.com^

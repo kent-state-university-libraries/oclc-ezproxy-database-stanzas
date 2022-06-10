@@ -1,7 +1,10 @@
-T Prometheus
-HTTPHeader Stream-Format-Class
-U http://prometheus-bildarchiv.de/
-Domain prometheus-bildarchiv.de
+Title Prometheus (updated 20220527)
+URL https://www.prometheus-bildarchiv.de
+HJ https://prometheus-bildarchiv.de
+HJ https://prometheus.uni-koeln.de
+HJ https://www.prometheus-bildarchiv.de
+HJ prometheus-bildarchiv.de
+HJ prometheus.uni-koeln.de
+HJ www.prometheus-bildarchiv.de
 DJ prometheus-bildarchiv.de
-Domain prometheus.uni-koeln.de
 DJ prometheus.uni-koeln.de
