@@ -1,4 +1,4 @@
-Title SpringerLink (updated 20200825)
+Title SpringerLink (updated 20220517)
 URL https://link.springer.com
 HJ aa.springer.de
 HJ adisonline.com
@@ -27,4 +27,3 @@ DJ springerlink.com
 DJ springer.com
 DJ sprn.gr
 DJ springer-ny.com
-NeverProxy static-content.springer.com

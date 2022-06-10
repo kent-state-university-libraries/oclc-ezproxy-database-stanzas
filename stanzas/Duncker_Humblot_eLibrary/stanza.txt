@@ -1,4 +1,4 @@
-Title Duncker & Humblot eLibrary (OCLC IncludeFile updated 20220610)
+Title Duncker & Humblot eLibrary (updated 20220610)
 HTTPHeader -response -edit Location RewriteURL(REReplace("!https://elibrary\.duncker-humblot\.com/pdf!g", RewriteURL("https://elibrary.duncker-humblot.com/pdf"), hh:value))
 URL https://elibrary.duncker-humblot.com/
 HJ https://elibrary.duncker-humblot.com
