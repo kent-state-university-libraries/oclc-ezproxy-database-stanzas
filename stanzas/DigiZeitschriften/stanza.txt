@@ -1,4 +1,5 @@
-Title DigiZeitschriften (updated 20200504)
+AnonymousURL +https://www.digizeitschriften.de/manifest.json
+Title DigiZeitschriften (updated 20220613)
 URL http://www.digizeitschriften.de/
 HJ digizeitschriften.de
 HJ docserver.digizeitschriften.de
@@ -10,3 +11,4 @@ Hj resolver.sub.uni-goettingen.de
 DJ digizeitschriften.de
 DJ dfg-viewer.de
 DJ resolver.sub.uni-goettingen.de
+AnonymousURL -
