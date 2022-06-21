@@ -1,0 +1,13 @@
+Title American Society of Neuroradiology & AJNR (updated 20220621)
+URL http://www.ajnr.org
+HJ ajnr.org
+HJ asnr.org
+HJ https://asnr.org
+HJ https://www.ajnr.org
+HJ https://www.asnr.org
+HJ neurographics.org
+HJ www.asnr.org
+HJ www.neurographics.org
+DJ ajnr.org
+DJ asnr.org
+DJ neurographics.org

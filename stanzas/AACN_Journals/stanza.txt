@@ -1,4 +1,12 @@
-Title AACN Journals (updated 20200414)
+Title AACN Journals (updated 20220621)
 URL https://aacnjournals.org/
 HJ aacnjournals.org
+HJ acc.aacnjournals.org
+HJ ajcc.aacnjournals.org
+HJ ccn.aacnjournals.org
+HJ https://acc.aacnjournals.org
+HJ https://ajcc.aacnjournals.org
+HJ https://ccn.aacnjournals.org
+HJ https://www.aacnjournals.org
+HJ www.aacnjournals.org
 DJ aacnjournals.org
