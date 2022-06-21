@@ -1,0 +1,9 @@
+AnonymousURL +https://ebooks-gideononline.com*
+Title GIDEON Online (updated 20220621)
+URL https://app.gideononline.com
+HJ app.gideononline.com
+HJ www.gideononline.com
+HJ https://ebooks.gideononline.com
+DJ gideononline.com
+AnonymousURL -*
+NeverProxy https://cloudfront.gideononline.com

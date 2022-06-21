@@ -1,4 +1,4 @@
-#Stanza for library customers
+#Stanza for library customers# (updated 20220607)
 Title Transparent Language Online
 URL https://library.transparent.com
 HJ library.transparent.com
@@ -6,7 +6,7 @@ DJ transparent.com
 NeverProxy transparent.com
 NeverProxy library.transparent.com
 
-#Stanza for education customers
+*Stanza for education customers*
 Title Transparent Language Online
 URL https://education.transparent.com
 HJ education.transparent.com

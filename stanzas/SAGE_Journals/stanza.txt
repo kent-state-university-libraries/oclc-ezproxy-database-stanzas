@@ -9,7 +9,7 @@
 # This method allows you to replace the file at a later date
 # without the need to integrate updates directly into config.txt/ezproxy.cfg
 #
-Title Sage Journals (updated 20220520)
+Title Sage Journals (updated 20220621)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process __RequestVerificationToken
 HTTPHeader -request -process X-XSRF-Token
@@ -63,13 +63,17 @@ DJ physiology.org
 DJ sagepub.co.uk
 DJ sagepub.com
 NeverProxy widgets.sagepub.com
+NeverProxy widgetscdn.sagepub.com
+NeverProxy scpassetsrepcdn.sagepub.com
+NeverProxy scpassetscdn.sagepub.com
+NeverProxy scpassetsreplegcdn.sagepub.com
+NeverProxy scpassetslegcdn.sagepub.com
 Find url = "http://
 Replace url = "http://^A
 Find url = "https://
 Replace url = "https://^A
 Find url = document.location.protocol + "//" + document.location.host
 Replace url = "https://journals.sagepub.com/"
-
 Title Sage Publications (updated 20201207)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process __RequestVerificationToken

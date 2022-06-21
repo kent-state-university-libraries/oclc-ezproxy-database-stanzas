@@ -1,7 +1,12 @@
-Title ASM International (20200129)
-URL https://dl.asminternational.org/
-HJ https://dl.asminternational.org
+T ASM International (updated 20220621)
+U https://dl.asminternational.org/
+HJ amp.asminternational.org
+HJ asminternational.org
 HJ dl.asminternational.org
 HJ https://amp.asminternational.org
-HJ amp.asminternational.org
+HJ https://dl.asminternational.org
+HJ https://matdata.asminternational.org
+HJ https://www.asminternational.org
+HJ matdata.asminternational.org
+HJ www.asminternational.org
 DJ asminternational.org

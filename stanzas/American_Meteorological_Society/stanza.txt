@@ -1,8 +1,12 @@
-Title American Meteorological Society (updated 20201210)
+T American Meteorological Society (updated 20220621)
 HTTPHeader -request -process X-Requested-With
 URL http://journals.ametsoc.org
-HJ https://journals.ametsoc.org
+HJ ametsoc.org
+HJ https://ametsoc.org
 HJ https://ams-journals.ametsoc.org
+HJ https://journals.ametsoc.org
+HJ https://www.ametsoc.org
 HJ journals.ametsoc.org
+HJ www.ametsoc.org
 DJ ams-journals.ametsoc.org
 DJ ametsoc.org
