@@ -1,5 +1,7 @@
-Title Ichushi-Web (20190221)
+Title Ichushi-Web (updated 2022-06-22)
 URL https://login.jamas.or.jp/
 HJ https://login.jamas.or.jp
-HJ http://login.jamas.or.jp
+HJ https://search.jamas.or.jp
+HJ https://kango-sakuin.nurse.or.jp
 DJ jamas.or.jp
+DJ nurse.or.jp
