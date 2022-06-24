@@ -1,8 +1,11 @@
-Title Cairn
+Title Cairn (updated 20220624)
 URL https://www.cairn.info/
-HJ www.cairn.info
-HJ www.cairn-int.info
-HJ https://www.cairn.info
+HJ cairn-int.info
+HJ cairn.info
+HJ https://cairn-int.info
+HJ https://cairn.info
 HJ https://www.cairn-int.info
-DJ cairn.info
+HJ www.cairn-int.info
+HJ www.cairn.info
 DJ cairn-int.info
+DJ cairn.info

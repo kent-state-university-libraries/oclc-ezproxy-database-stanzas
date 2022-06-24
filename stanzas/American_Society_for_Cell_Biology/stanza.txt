@@ -1,6 +1,10 @@
-Title American Society for Cell Biology (updated 20190916)
+Title American Society for Cell Biology (updated 20220624)
 URL https://www.lifescied.org/
+HJ https://lifescied.org
+HJ https://molbiolcell.org
 HJ https://www.molbiolcell.org
+HJ lifescied.org
+HJ molbiolcell.org
 HJ www.lifescied.org
 HJ www.molbiolcell.org
 DJ lifescied.org

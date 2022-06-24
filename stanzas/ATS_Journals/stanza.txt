@@ -1,0 +1,12 @@
+Ttitle ATS Journals (updated 20220624)
+URL https://www.atsjournals.org/
+HJ atsjournals.org
+HJ ajrccm.atsjournals.org
+HJ https://atsjournals.org
+HJ pats.atsjournals.org
+HJ www.ajrccm.org
+HJ www.ajrcmb.org
+HJ www.atsjournals.org
+DJ atsjournals.org
+DJ ajrccm.org
+DJ ajrcmb.org
