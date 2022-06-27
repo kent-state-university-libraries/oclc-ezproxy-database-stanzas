@@ -1,5 +1,6 @@
-Title Guilford Publications (updated 20220324)
+Title Guilford Publications (updated 20220627)
 URL https://guilfordjournals.com/
-HJ http://guilfordjournals.com
 HJ guilfordjournals.com
+HJ https://www.guilfordjournals.com
+HJ www.guilfordjournals.com
 DJ guilfordjournals.com

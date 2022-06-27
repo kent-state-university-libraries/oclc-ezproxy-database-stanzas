@@ -1,0 +1,18 @@
+Title European Respiratory Society (updated 20220627)
+URL https://erj.ersjournals.com/
+HJ books.ersjournals.com
+HJ breathe.ersjournals.com
+HJ erj.ersjournals.com
+HJ err.ersjournals.com
+HJ ersjournals.com
+HJ erspublications.com
+HJ https://books.ersjournals.com
+HJ https://breathe.ersjournals.com
+HJ https://err.ersjournals.com
+HJ https://openres.ersjournals.com
+HJ https://www.ersjournals.com
+HJ openres.ersjournals.com
+HJ www.erj.ersjournals.com
+HJ www.ersjournals.com
+DJ ersjournals.com
+DJ erspublications.com

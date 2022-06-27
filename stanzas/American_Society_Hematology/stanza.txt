@@ -1,22 +1,24 @@
-Title American Society of Hematology (updated 20190917)
+Title American Society of Hematology (OCLC IncludeFile Updated 20220627)
 URL https://www.hematology.org/
-HJ http://www.hematology.org
 HJ ash-sap.org
 HJ asheducationbook.hematologylibrary.org
 HJ ashpublications.org
-HJ https://ashpublications.org
 HJ bloodjournal.hematologylibrary.org
+HJ bloodjournal.org
+HJ https://ashpublications.org
+HJ https://bloodjournal.org
 HJ https://hematology.org
+HJ https://www.ashclinicalnews.org
+HJ https://www.bloodjournal.org
+HJ https://www.hematology.org
 HJ imagebank.hematology.org
 HJ signin.hematology.org
 HJ www.ash-sap.org
 HJ www.ashclinicalnews.org
-HJ https://www.ashclinicalnews.org
 HJ www.asheducationbook.org
 HJ www.bloodjournal.hematologylibrary.org
 HJ www.bloodjournal.org
 HJ www.hematology.org
-HJ https://www.hematology.org
 DJ ash-sap.org
 DJ ashclinicalnews.org
 DJ asheducationbook.org

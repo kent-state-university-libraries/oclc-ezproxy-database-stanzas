@@ -1,4 +1,4 @@
-Title Gale Products (updated 20220124)
+Title Gale Products (updated 20220627)
 URL https://link.gale.com/apps/menu
 MimeFilter text/plain .* javascript
 HJ auth.go.gale.com
@@ -33,6 +33,7 @@ HJ https://tinyurl.gale.com
 HJ https://worldscholar.gale.com
 HJ https://www.chiltonlibrary.com
 HJ https://www.galepages.com
+HJ infotrac.gale.com
 HJ infotrac.galegroup.com
 HJ link.gale.com
 HJ lst.gale.com

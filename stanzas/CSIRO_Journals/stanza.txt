@@ -1,0 +1,11 @@
+Title CSIRO Journals (updated 20220627)
+URL https://www.publish.csiro.au/journals
+HJ csiro.au
+HJ https://csiro.au
+HJ https://publish.csiro.au
+HJ https://www.csiro.au
+HJ publish.csiro.au
+HJ www.csiro.au
+HJ www.publish.csiro.au
+DJ csiro.au
+DJ publish.csiro.au

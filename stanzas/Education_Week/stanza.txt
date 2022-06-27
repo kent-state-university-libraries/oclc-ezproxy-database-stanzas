@@ -1,5 +1,7 @@
-Title Education Week (updated 20210630)
+Title Education Week (updated 20220627)
 URL https://www.edweek.org
-HJ http://www.edweek.org
+HJ edweek.org
+HJ https://edweek.org
+HJ www.edweek.org
 DJ edweek.org
 DJ erightsweb.com
