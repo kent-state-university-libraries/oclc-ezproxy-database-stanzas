@@ -1,0 +1,30 @@
+Option DomainCookieOnly
+HTTPHeader X-ST
+Title IMF eLibrary Statistics (updated 20220627)
+HTTPHeader -request -process X-Requested-With
+MimeFilter application/json .* javascript
+URL http://elibrary-data.imf.org/
+HJ data.imf.org
+HJ datahelp.imf.org
+HJ elibrary-data.imf.org
+HJ elibrary.imf.org
+HJ https://data.imf.org
+HJ https://elibrary.imf.org
+HJ https://imf.org
+HJ https://www.bookstore.imf.org
+HJ https://www.elibrary-areaer.imf.org
+HJ https://www.elibrary.imf.org
+HJ https://www.imf.org
+HJ https://www.imfbookstore.org
+HJ imf.org
+HJ www.bookstore.imf.org
+HJ www.elibrary-areaer.imf.org
+HJ www.elibrary.imf.org
+HJ www.imf.org
+HJ www.imfbookstore.org
+HJ www.imfstatistics.org
+DJ imf.org
+DJ imfstatistics.org
+NeverProxy by.uservoice.com
+NeverProxy widget.uservoice.com
+Option Cookie

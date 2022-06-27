@@ -1,5 +1,5 @@
 AnonymousURL +https://aow-api.degruyter.com/*
-Title De Gruyter (updated 20220511)
+Title De Gruyter (updated 20220627)
 HTTPHeader -request -process X-Requested-With
 URL https://www.degruyter.com
 HJ https://aow.degruyter.com
@@ -27,6 +27,7 @@ HJ chicago.degruyter.com
 HJ yaleup.degruyter.com
 HJ rutgers.degruyter.com
 HJ aow.degruyter.com
+HJ bdt.degruyter.com
 HJ transcript.degruyter.com
 HJ https://apikeys.civiccomputing.com
 HJ https://www.degruyter.de
@@ -51,6 +52,7 @@ HJ https://yaleup.degruyter.com/
 HJ https://rutgers.degruyter.com/
 HJ https://transcript.degruyter.com/
 HJ https://aow.degruyter.com
+HJ https://bdt.degruyter.com
 DJ degruyter.com
 DJ pschyrembel.de
 DJ saur.de
