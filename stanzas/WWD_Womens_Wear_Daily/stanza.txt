@@ -1,0 +1,8 @@
+Option CookiePassThrough
+Title Women's Wear Daily (updated 20220627)
+URL http://wwd.com/
+HJ https://wwd.com
+DJ wwd.com
+Find https:\/\/
+Replace https://
+Option Cookie
