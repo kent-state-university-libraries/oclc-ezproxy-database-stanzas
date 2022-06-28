@@ -1,0 +1,9 @@
+Title UHM Society Journal (updated 20220628)
+URL https://www.uhms.org/
+HJ https://uhms.org
+HJ https://www.uhms.org
+HJ uhms.org
+HJ www.uhms.org
+HJ archive.rubicon-foundation.org
+DJ rubicon-foundation.org
+DJ uhms.org
