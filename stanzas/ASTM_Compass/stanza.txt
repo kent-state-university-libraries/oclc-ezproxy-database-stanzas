@@ -20,3 +20,4 @@ NeverProxy iam.astm.org
 NeverProxy compass.astm.org
 NeverProxy v2compass.astm.org
 NeverProxy cdn.jsdelivr.net
+AnonymousURL -*

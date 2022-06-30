@@ -1,9 +1,9 @@
-Title Dalloz (updated 20201126)
+Title Dalloz (OCLC IncludeFile Updated 20201126)
 HTTPHeader -request -process Book-Authorization
 HTTPHeader -request -process Accept-Encoding
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
-U https://www.dalloz.fr/etudiants
+URL https://www.dalloz.fr/etudiants
 HJ dalloz-actualite.fr
 HJ dalloz-avocats.fr
 HJ dalloz-bibliotheque.fr
@@ -17,6 +17,7 @@ HJ editions-dalloz.fr
 HJ https://connexion.dalloz.fr
 HJ https://secureidpga.dalloz.fr
 HJ https://www.jurisprudence.dalloz-avocats.fr
+HJ https://www.dalloz-bibliotheque.fr
 HJ prepa-dalloz.fr
 HJ www.dalloz-actualite.fr
 HJ www.dalloz-avocats.fr
