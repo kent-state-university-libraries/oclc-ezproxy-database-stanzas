@@ -1,4 +1,4 @@
-Title ASME Digital Collection (updated 20210929)
+Title ASME Digital Collection (updated 20220712)
 URL http://asmedigitalcollection.asme.org
 HJ appliedmechanics.asmedigitalcollection.asme.org
 HJ appliedmechanicsreviews.asmedigitalcollection.asme.org
@@ -52,6 +52,7 @@ HJ https://turbomachinery.asmedigitalcollection.asme.org
 HJ https://verification.asmedigitalcollection.asme.org
 HJ https://vibrationacoustics.asmedigitalcollection.asme.org
 HJ https://www.asme.org
+HJ https://www.asmedigitalcollection.asme.org
 HJ journals.asmedigitalcollection.asme.org
 HJ manufacturingscience.asmedigitalcollection.asme.org
 HJ materialstechnology.asmedigitalcollection.asme.org
