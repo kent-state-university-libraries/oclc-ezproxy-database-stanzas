@@ -1,8 +1,9 @@
 AnonymousURL -Options +https://charting.capitaliq.com/*
 AnonymousURL -Options +https://iag-ciqplus.capitaliq.com/*
+AnonymousURL -Options +https://qt-iag-ciqplus.capitaliq.com/*
 Option CookiePassThrough
-Title S&P Global NetAdvantage (updated 20211007)
-URL http://na.capitaliq.com/
+Title S&P Global NetAdvantage (updated 20220712)
+URL http://na.capitaliq.com/ip/VILLA
 HJ https://www.capitaliq.com
 HJ http://www.capitaliq.com
 HJ https://na.capitaliq.com
@@ -18,3 +19,4 @@ DJ spglobal.com
 Find location.hostname
 Replace location.host
 Option Cookie
+AnonymousURL -*
