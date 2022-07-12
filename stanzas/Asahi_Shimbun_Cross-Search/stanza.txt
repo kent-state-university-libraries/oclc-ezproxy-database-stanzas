@@ -1,0 +1,10 @@
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://api.dango.asahi.com*
+Title Asahi Shimbun Cross-Search
+URL https://xsearch.asahi.com/iplogin2/
+HOST https://xsearch.asahi.com
+HJ xsearch.asahi.com
+DJ xsearch.asahi.com
+HJ api.dango.asahi.com
+DJ api.dango.asahi.com
+AnonymousURL -*
