@@ -1,4 +1,4 @@
-Title Nexis Uni (updated 20210507)
+Title Nexis Uni (OCLC IncludeFile updated 20220713)
 HTTPMethod PUT
 HTTPMethod DELETE
 HTTPMethod PATCH
@@ -24,6 +24,9 @@ DJ lexis.com
 DJ advance.lexis.com
 DJ signin.lexisnexis.com
 DJ nexisuni.com
+DJ lexis360intelligence.fr
+HJ https://www.lexis360intelligence.fr
+HJ lexis360intelligence.fr
 HJ beta.lexis360.fr
 HJ https://beta.lexis360.fr
 HJ www.nexisuni.com
