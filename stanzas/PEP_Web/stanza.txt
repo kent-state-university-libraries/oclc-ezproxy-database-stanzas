@@ -1,10 +1,12 @@
 Option CookiePassThrough
-Title PEP Web (updated 20220701)
+Title PEP Web (updated 20220715)
 HTTPHeader -request -process X-*
 HTTPHeader -request -process Accept-Encoding
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Origin
 U https://pep-web.org
+HJ https://www.pep-web.org
+HJ www.pep-web.org
 HJ https://api.pep-web.org
 HJ https://pads.pep-web.org
 HJ api.pep-web.org
