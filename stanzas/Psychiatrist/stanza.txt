@@ -1,5 +1,6 @@
 ProxyHostnameEdit www.psychiatrist.com www-psychiatrist-com
-Title Journal of Clinical Psychiatry (updated 20190807)
+Title Journal of Clinical Psychiatry (updated 20220715)
+MimeFilter text/event-stream .* javascript
 URL https://www.psychiatrist.com
 HJ www.psychiatrist.com
 HJ article.psychiatrist.com
@@ -14,3 +15,5 @@ Find -state=SecurityToken http://
 Replace http://^A
 Find -state=SecurityToken https://
 Replace https://^A
+Find www.psychiatrist.com
+Replace ^Swww.psychiatrist.com^
