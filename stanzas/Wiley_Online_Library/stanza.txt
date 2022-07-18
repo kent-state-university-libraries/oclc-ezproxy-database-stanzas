@@ -1,10 +1,11 @@
+AnonymousURL +https://*.onlinelibrary.wiley.com/action/*
 Option DomainCookieOnly
 Option X-Forwarded-For
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20220317)
+Title Wiley Online (OCLC IncludeFile updated 20220718)
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 HTTPHeader -request -process X-Requested-With
@@ -228,3 +229,4 @@ Find /doi/epdf/
 Replace /doi/pdf/
 Option NoX-Forwarded-For
 Option Cookie
+AnonymousURL -*

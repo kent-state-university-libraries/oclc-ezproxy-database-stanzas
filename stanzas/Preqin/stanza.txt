@@ -1,12 +1,17 @@
+Option CookiePassThrough
+AnonymousURL +*.woff*
+AnonymousURL +*.ttf
 AnonymousURL +https://id.preqin.com*
 AnonymousURL +https://*.pro.preqin.com*
-Title Preqin (updated 20190806)
-URL https://www.preqin.com/
-HJ https://www.preqin.com/
-HJ www.preqin.com
-HJ pro.preqin.com
-HJ id.preqin.com
-DJ  preqin.com
+Title Preqin - Production (updated 20220718)
+HTTPHeader -request -process RequestVerificationToken
+HTTPHeader -request -process __RequestVerificationToken
+URL https://www.preqin.com/login.aspx?al=true&userid=[USERID]&c=[PASSWORD]
+HJ https://pro.preqin.com
+HJ https://classic.preqin.com
+HJ https://www.preqin.com
+DJ preqin.com
 Find "issuer":"https://
 Replace "issuer":"https://^A
 AnonymousURL -*
+Option Cookie

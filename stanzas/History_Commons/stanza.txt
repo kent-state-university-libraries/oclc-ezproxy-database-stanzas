@@ -1,0 +1,7 @@
+T History Commons
+URL https://history-commons.net
+DJ history-commons.net
+NeverProxy https://coherent-commons.s3.amazonaws.com
+NeverProxy https://res.cloudinary.com
+NeverProxy https://posthog.coherentdigital.net
+NeverProxy https://i2.wp.com
