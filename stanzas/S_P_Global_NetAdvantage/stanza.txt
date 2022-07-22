@@ -2,8 +2,8 @@ AnonymousURL -Options +https://charting.capitaliq.com/*
 AnonymousURL -Options +https://iag-ciqplus.capitaliq.com/*
 AnonymousURL -Options +https://qt-iag-ciqplus.capitaliq.com/*
 Option CookiePassThrough
-Title S&P Global NetAdvantage (updated 20220712)
-URL http://na.capitaliq.com/ip/VILLA
+Title S&P Global NetAdvantage (updated 20220720)
+URL http://na.capitaliq.com/ip/[SITEID]
 HJ https://www.capitaliq.com
 HJ http://www.capitaliq.com
 HJ https://na.capitaliq.com

@@ -1,28 +1,28 @@
-Title Visible Body Courseware (updated 20210114)
-URL https://courseware.visiblebody.com
+T Visible Body Courseware (updated 20210114)
+U https://courseware.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 
-Title Visible Body Human Anatomy Atlas (updated 20210114)
-URL https://atlas.visiblebody.com
-DJ visiblebody.com
-Option AllowSendGZip
-NeverProxy cdn.visiblebody.com
-
-Title Visible Body Muscle Premium (updated 20210114)
-URL https://muscle.visiblebody.com
+T Visible Body Human Anatomy Atlas (updated 20210114)
+U https://atlas.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Anatomy & Physiology (updated 20210114)
-URL https://aandp.visiblebody.com
+T Visible Body Muscle Premium (updated 20210114)
+U https://muscle.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
 
-Title Visible Body Physiology & Pathology (updated 20210114)
-URL https://pandp.visiblebody.com
+T Visible Body Anatomy & Physiology (updated 20210114)
+U https://aandp.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip
+NeverProxy cdn.visiblebody.com
+
+T Visible Body Physiology & Pathology (updated 20210114)
+U https://pandp.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
@@ -50,3 +50,8 @@ URL http://aandf.visiblebody.com
 DJ visiblebody.com
 Option AllowSendGZip
 NeverProxy cdn.visiblebody.com
+
+T Visible Body Web Suite (OCLC IncludeFile updated 20220721)
+U https://websuite.visiblebody.com
+DJ visiblebody.com
+Option AllowSendGZip

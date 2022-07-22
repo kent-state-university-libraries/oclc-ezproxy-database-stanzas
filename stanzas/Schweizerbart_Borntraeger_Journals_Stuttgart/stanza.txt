@@ -1,0 +1,12 @@
+Title Schweizerbart/Borntraeger Journals, Stuttgart (updated 20220718)
+URL https://www.schweizerbart.de
+HJ https://www.schweizerbart.de
+HJ www.schweizerbart.de
+HJ schweizerbart.de
+HJ https://schweizerbart.de
+HJ http://www.schweizerbart.com
+HJ www.schweizerbart.com
+HJ https://schweizerbart.com
+HJ schweizerbart.com
+DJ schweizerbart.de
+DJ schweizerbart.com

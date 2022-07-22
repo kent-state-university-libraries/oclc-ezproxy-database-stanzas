@@ -1,6 +1,6 @@
-T History Commons (20220718)
-URL https://history-commons.net
-DJ history-commons.net
+T South Asia Commons (20220718)
+URL South Asia Commons
+DJ southasiacommons.net
 NeverProxy https://coherent-commons.s3.amazonaws.com
 NeverProxy https://res.cloudinary.com
 NeverProxy https://posthog.coherentdigital.net
