@@ -1,5 +1,5 @@
 AnonymousURL +*
-Title -hide CookieLaw (updated 20220512)
+Title -hide CookieLaw (updated 20220725)
 HTTPHeader -Request -process Sec-*
 HTTPHeader -Response -process CF-*
 HTTPHeader -Response -process Expect-CT
@@ -13,4 +13,6 @@ Find domain=."+l[0]+"
 Replace domain="+location.hostname+"
 Find domain=."+a[0]+"
 Replace domain="+location.hostname+"
+Find "bmj.com"
+Replace "^H"
 AnonymousURL -*

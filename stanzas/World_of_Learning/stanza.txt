@@ -1,0 +1,10 @@
+AnonymousURL +https://api.taylorfrancis.com/*
+AnonymousURL +https://events.taylorandfrancis.com/*
+Title World of Learning (updated 20220512)
+URL https://www.worldoflearning.com
+HJ https://www.worldoflearning.com
+HJ https://api.taylorfrancis.com
+HJ https://events.taylorandfrancis.com
+HJ www.worldoflearning.com
+DJ worldoflearning.com
+AnonymousURL -*

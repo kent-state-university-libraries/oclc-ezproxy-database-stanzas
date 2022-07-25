@@ -1,7 +1,10 @@
-Title Open Book Publishers
+AnonymousURL +https://api.openbookpublishers.com*
+Title Open Book Publishers (updated 20220722)
 URL https://www.openbookpublishers.com
 HJ https://openbookpublishers.com
 HJ https://www.openbookpublishers.com
 HJ openbookpublishers.com
 HJ www.openbookpublishers.com
+HJ books.openbookpublishers.com
 DJ openbookpublishers.com
+AnonymousURL -*
