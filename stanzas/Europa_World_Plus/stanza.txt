@@ -8,10 +8,3 @@ HJ https://events.taylorandfrancis.com
 HJ www.europaworld.com
 DJ europaworld.com
 AnonymousURL -*
-
-
-# The information below is retained for Hosted Sites only. Please don't add to public website.
-# These two stanzas were originally included in europaworld.txt, too. They are now separate IncludeFiles:
-
-IncludeFile databases/world_whos_who.txt
-IncludeFile databases/world_of_learning.txt
