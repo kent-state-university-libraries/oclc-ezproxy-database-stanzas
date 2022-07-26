@@ -1,6 +1,6 @@
-Title Sagamore Publishing  (updated 20220501)
+Title Sagamore Publishing (updated 20220725)
 URL https://js.sagamorepub.com
 HJ http://js.sagamorepub.com
 DJ sagamorepub.com
-Find var pdfUrl = "https://js.sagamorepub.com
+Find var pdfUrl = "https:\/\/js.sagamorepub.com
 Replace var pdfUrl = "https:\/\/^Sjs.sagamorepub.com^
