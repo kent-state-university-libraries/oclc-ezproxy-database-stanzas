@@ -1,0 +1,14 @@
+Title Aida Updated 20220728)
+URL https://aida.bvdinfo.com/ip
+HJ aida.bvdep.com
+HJ aida.bvdinfo.com
+HJ www.aida.bvdep.com
+HJ https://aida.bvdep.com
+HJ login.bvdinfo.com
+HJ https://login.bvdinfo.com
+HJ aida-r1.bvdinfo.com
+HJ login.bvdinfo.com
+HJ https://aida-r1.bvdinfo.com
+HJ https://aida-r0.bvdinfo.com
+DJ bvdep.com
+DJ bvdinfo.com

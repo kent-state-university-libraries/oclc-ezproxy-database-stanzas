@@ -1,8 +1,14 @@
-Title Zephyr (updated 20150831)
-URL https://zephyr.bvdep.com/ip
+Title Zephyr
+URL https://zephyr.bvdinfo.com/ip
 HJ https://zephyr.bvdep.com
 HJ https://zephyr.bvdinfo.com
 HJ https://zephyr2.bvdep.com
 HJ zephyr.bvdep.com
 HJ zephyr.bvdinfo.com
 HJ zephyr2.bvdep.com
+HJ login.bvdinfo.com
+HJ https://login.bvdinfo.com
+HJ zephyr-r1.bvdinfo.com
+HJ https://zephyr-r1.bvdinfo.com
+HJ https://zephyr-r0.bvdinfo.com
+HJ https://zephyr.bvdinfo.com

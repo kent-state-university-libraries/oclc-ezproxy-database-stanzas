@@ -1,4 +1,4 @@
-Title Fame
+Title Fame (Updated 20220728)
 URL https://fame.bvdinfo.com/ip
 HJ fame.bvdinfo.com
 HJ fame.bvdep.com
@@ -10,5 +10,11 @@ HJ https://fame.bvdep.com
 HJ https://fame2.bvdinfo.com
 HJ https://fame2.bvdep.com
 HJ https://fame4.bvdinfo.com
+HJ login.bvdinfo.com
+HJ https://login.bvdinfo.com
+HJ fame-r1.bvdinfo.com
+HJ https://fame-r1.bvdinfo.com
+HJ https://fame-r0.bvdinfo.com
+HJ https://fame.bvdinfo.com
 DJ bvdep.com
 DJ bvdinfo.com
