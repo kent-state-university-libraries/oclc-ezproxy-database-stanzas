@@ -1,4 +1,4 @@
-Title Amadeus
+Title Amadeus (updated 20220728)
 URL https://amadeus.bvdinfo.com/ip
 HJ https://amadeus.bvdep.com
 HJ https://amadeus.bvdinfo.com
@@ -6,5 +6,11 @@ HJ https://amadeus2.bvdep.com
 HJ amadeus.bvdep.com
 HJ amadeus.bvdinfo.com
 HJ amadeus2.bvdep.com
+HJ login.bvdinfo.com
+HJ https://login.bvdinfo.com
+HJ amadeus-r1.bvdinfo.com
+HJ https://amadeus-r1.bvdinfo.com
+HJ https://amadeus-r0.bvdinfo.com
+HJ https://amadeus.bvdinfo.com
 DJ bvdep.com
 DJ bvdinfo.com

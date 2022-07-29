@@ -1,10 +1,16 @@
-Title Reach - Bureau van Dijk
-URL https://reach2.bvdinfo.com/ip
+Title Reach - Bureau van Dijk (updated 20220728)
+URL https://reach.bvdinfo.com/ip
 HJ https://reach.bvdinfo.com
 HJ https://reach.bvdep.com
 HJ https://reach2.bvdinfo.com
 HJ reach.bvdinfo.com
 HJ reach.bvdep.com
 HJ reach2.bvdinfo.com
+HJ login.bvdinfo.com
+HJ https://login.bvdinfo.com
+HJ reach-r1.bvdinfo.com
+HJ https://reach-r1.bvdinfo.com
+HJ https://reach-r0.bvdinfo.com
+HJ https://reach.bvdinfo.com
 DJ bvdep.com
 DJ bvdinfo.com

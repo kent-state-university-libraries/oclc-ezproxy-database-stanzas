@@ -1,4 +1,4 @@
-Title Orbis (updated 20201214)
+Title Orbis (updated 20220728)
 URL https://orbis.bvdinfo.com/ip
 HJ orbis.bvdinfo.com
 HJ orbis.bvdep.com
@@ -9,5 +9,11 @@ HJ https://orbis.bvdep.com
 HJ https://orbis2.bvdep.com
 HJ https://orbis4.bvdinfo.com
 HJ https://orbiseurope.bvdinfo.com
+HJ login.bvdinfo.com
+HJ https://login.bvdinfo.com
+HJ orbis-r1.bvdinfo.com
+HJ https://orbis-r1.bvdinfo.com
+HJ https://orbis-r0.bvdinfo.com
+HJ https://orbis.bvdinfo.com
 DJ bvdep.com
 DJ bvdinfo.com
