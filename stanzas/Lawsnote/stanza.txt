@@ -1,0 +1,18 @@
+AnonymousURL +https://ws.lawsnote.com/*
+AnonymousURL +https://pay.lawsnote.com/*
+AnonymousURL +https://api2.lawsnote.com/*
+Title Lawsnote (updated 20220729)
+HTTPHeader -request -process Access-Control-Allow-Origin
+HTTPHeader -request -process access-token
+HTTPHeader -request -process Authorization
+HTTPHeader -request -process X-BFP
+URL https://www.lawsnote.com
+HJ https://www.lawsnote.com
+HJ www.lawsnote.com
+HJ api2.lawsnote.com
+HJ pay.lawsnote.com
+HJ ws.lawsnote.com
+DJ lawsnote.com
+Find ROOT_DOMAIN:".lawsnote.com"
+Replace ROOT_DOMAIN:"^L"
+AnonymousURL -*
