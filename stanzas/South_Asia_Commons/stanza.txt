@@ -1,5 +1,5 @@
-T South Asia Commons (20220718)
-URL South Asia Commons
+T South Asia Commons (20220803)
+URL https://southasiacommons.net
 DJ southasiacommons.net
 NeverProxy https://coherent-commons.s3.amazonaws.com
 NeverProxy https://res.cloudinary.com
