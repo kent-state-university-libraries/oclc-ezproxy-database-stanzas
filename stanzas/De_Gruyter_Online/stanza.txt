@@ -1,5 +1,5 @@
 AnonymousURL +https://aow-api.degruyter.com/*
-Title De Gruyter (updated 20220627)
+Title De Gruyter (updated 20220805)
 HTTPHeader -request -process X-Requested-With
 URL https://www.degruyter.com
 HJ https://aow.degruyter.com
@@ -59,4 +59,6 @@ DJ saur.de
 DJ civiccomputing.com
 Find encodeURIComponent(document.location.hostname)
 Replace encodeURIComponent(document.location.hostname.split('.', 1)[0].replace(/-/g, '.'))
+Find window.location.hostname.split(".").slice(-2).join(".")
+Replace window.location.hostname.split(".").slice(-3).join(".")
 AnonymousURL -*
