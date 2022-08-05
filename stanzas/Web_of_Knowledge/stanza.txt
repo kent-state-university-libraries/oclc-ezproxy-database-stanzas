@@ -1,8 +1,7 @@
 Option CookiePassThrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
-AnonymousURL +https://csi.webofknowledge.com/CSI/*
-Title Web of Science (Formerly Web of Knowledge) (updated 20220425)
+Title Web of Science (Formerly Web of Knowledge) (updated 20220805)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process AWSEnv
@@ -12,50 +11,10 @@ HTTPHeader -request -process bm_mi
 HTTPHeader -request -process bm_sz
 HTTPHeader -request -process _abck
 URL http://www.webofscience.com
-HJ ac.webofknowledge.com
-HJ https://ac.webofknowledge.com
-DJ ac.webofknowledge.com
-DJ https://ac.webofknowledge.com
-HJ admin-apps.webofknowledge.com
-HJ https://admin-apps.webofknowledge.com
-DJ admin-apps.webofknowledge.com
-DJ https://admin-apps.webofknowledge.com
-HJ admin-router.webofknowledge.com
-HJ https://admin-router.webofknowledge.com
-DJ admin-router.webofknowledge.com
-DJ https://admin-router.webofknowledge.com
-HJ admin.webofknowledge.com
-HJ https://admin.webofknowledge.com
-DJ admin.webofknowledge.com
-DJ https://admin.webofknowledge.com
-HJ app.webofknowledge.com
-HJ https://app.webofknowledge.com
-DJ app.webofknowledge.com
-DJ https://app.webofknowledge.com
-HJ apps.webofknowledge.com
-HJ https://apps.webofknowledge.com
-DJ apps.webofknowledge.com
-DJ https://apps.webofknowledge.com
-HJ d3rm6si6l6yzgk.cloudfront.net
-HJ https://d3rm6si6l6yzgk.cloudfront.net
-DJ d3rm6si6l6yzgk.cloudfront.net
-DJ https://d3rm6si6l6yzgk.cloudfront.net
-HJ dl3iz8tnp4bmj.cloudfront.net
-HJ https://dl3iz8tnp4bmj.cloudfront.net
-DJ dl3iz8tnp4bmj.cloudfront.net
-DJ https://dl3iz8tnp4bmj.cloudfront.net
-HJ esi.webofknowledge.com
-HJ https://esi.webofknowledge.com
-DJ esi.webofknowledge.com
-DJ https://esi.webofknowledge.com
 HJ gateway.webofknowledge.com
 HJ https://gateway.webofknowledge.com
 DJ gateway.webofknowledge.com
 DJ https://gateway.webofknowledge.com
-HJ www.highlycited.com
-HJ https://www.highlycited.com
-DJ www.highlycited.com
-DJ https://www.highlycited.com
 HJ images.webofknowledge.com
 HJ https://images.webofknowledge.com
 DJ images.webofknowledge.com
@@ -68,22 +27,10 @@ HJ www.isiknowledge.com
 HJ https://www.isiknowledge.com
 DJ www.isiknowledge.com
 DJ https://www.isiknowledge.com
-HJ isiwebofknowledge.com
-HJ https://isiwebofknowledge.com
-DJ isiwebofknowledge.com
-DJ https://isiwebofknowledge.com
-HJ links.webofknowledge.com
-HJ https://links.webofknowledge.com
-DJ links.webofknowledge.com
-DJ https://links.webofknowledge.com
 HJ login.webofknowledge.com
 HJ https://login.webofknowledge.com
 DJ login.webofknowledge.com
 DJ https://login.webofknowledge.com
-HJ pcs.webofknowledge.com
-HJ https://pcs.webofknowledge.com
-DJ pcs.webofknowledge.com
-DJ https://pcs.webofknowledge.com
 HJ www.researcherid.com
 HJ https://www.researcherid.com
 DJ www.researcherid.com
@@ -92,26 +39,10 @@ HJ rss.webofknowledge.com
 HJ https://rss.webofknowledge.com
 DJ rss.webofknowledge.com
 DJ https://rss.webofknowledge.com
-HJ search.webofknowledge.com
-HJ https://search.webofknowledge.com
-DJ search.webofknowledge.com
-DJ https://search.webofknowledge.com
-HJ sushi.webofknowledge.com
-HJ https://sushi.webofknowledge.com
-DJ sushi.webofknowledge.com
-DJ https://sushi.webofknowledge.com
-HJ toc.webofknowledge.com
-HJ https://toc.webofknowledge.com
-DJ toc.webofknowledge.com
-DJ https://toc.webofknowledge.com
 HJ usagereports.webofscience.com
 HJ https://usagereports.webofscience.com
 DJ usagereports.webofscience.com
 DJ https://usagereports.webofscience.com
-HJ wcs.webofknowledge.com
-HJ https://wcs.webofknowledge.com
-DJ wcs.webofknowledge.com
-DJ https://wcs.webofknowledge.com
 HJ webofknowledge.com
 HJ https://webofknowledge.com
 DJ webofknowledge.com
@@ -128,22 +59,16 @@ HJ www.webofscience.com
 HJ https://www.webofscience.com
 DJ www.webofscience.com
 DJ https://www.webofscience.com
-HJ ws.isiknowledge.com
-HJ https://ws.isiknowledge.com
-DJ ws.isiknowledge.com
-DJ https://ws.isiknowledge.com
+HJ http://snowplow.apps.clarivate.com
+HJ https://snowplow.apps.clarivate.com
 Find value="http://
 Replace value="http://^A
 Find VALUE="http://
 Replace VALUE="http://^A
 Find rurl=http://
 Replace rurl=http://^A
-Find product_st_thomas=http://
-Replace product_st_thomas=http://^A
 Find return_url=http://
 Replace return_url=http://^A
-Find ST_URL=http://
-Replace ST_URL=http://^A
 Find "CIT.GATEWAY_URL">gateway.webofknowledge.com
 Replace "CIT.GATEWAY_URL">^pgateway.webofknowledge.com^
 Find value='gateway.webofknowledge.com/gateway/Gateway.cgi'
@@ -160,10 +85,6 @@ Option Cookie
 Option CookiePassThrough
 PHE access.clarivate.com$ access-clarivate-com
 Title OnePlatform Auth Login Micro UI
-URL https://access.clarivate.com
-HTTPHeader -request -process generatedOn
-HTTPHeader -request -process text
-HTTPHeader -request -process textInput
 HJ https://access.clarivate.com
 Host https://access.clarivate.com
 DJ access.clarivate.com

@@ -1,0 +1,12 @@
+Title The Salt Lake Tribune (Added 20220805)
+URL https://www.sltrib.com/
+HJ www.sltrib.com
+HJ c2.piano.io
+HJ https://c2.piano.io/
+HJ experience.tinypass.com
+HJ https://experience.tinypass.com/
+DJ c2.piano.io
+DJ https://c2.piano.io/
+DJ experience.tinypass.com
+DJ https://experience.tinypass.com/
+DJ sltrib.com

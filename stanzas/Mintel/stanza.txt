@@ -1,6 +1,6 @@
 HTTPMethod OPTIONS
 AnonymousURL -OPTIONS +https://www.gnpd.com/sinatra/api/*
-Title Mintel (updated 20220524)
+Title Mintel (OCLC IncludeFile updated 20220805)
 HTTPHeader -request -process X-CSRFToken
 URL https://clients.mintel.com/
 HJ clients.mintel.com
