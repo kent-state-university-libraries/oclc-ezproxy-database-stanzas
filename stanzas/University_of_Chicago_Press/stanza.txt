@@ -1,18 +1,20 @@
 Option DomainCookieOnly
-Title University of Chicago Press Journals (updated 20220128)
-URL http://www.journals.uchicago.edu
-HJ https://www.journals.uchicago.edu
-HJ https://journals.uchicago.edu
-HJ https://artfl-project.uchicago.edu
-HJ www.journals.uchicago.edu
-HJ journals.uchicago.edu
+T University of Chicago Press Journals (OCLC IncludeFile updated 20220810)
+U http://www.journals.uchicago.edu
 HJ artfl-project.uchicago.edu
-HJ humanities.uchicago.edu
-HJ letterpress.uchicago.edu
-HJ www.press.uchicago.edu
-HJ press.uchicago.edu
-HJ www.lib.uchicago.edu
-HJ lib.uchicago.edu
 HJ cjtcs.cs.uchicago.edu
+HJ el.press.uchicago.edu
+HJ https://artfl-project.uchicago.edu
+HJ https://el.press.uchicago.edu
+HJ https://journals.uchicago.edu
+HJ https://www.journals.uchicago.edu
+HJ humanities.uchicago.edu
+HJ journals.uchicago.edu
+HJ letterpress.uchicago.edu
+HJ lib.uchicago.edu
+HJ press.uchicago.edu
+HJ www.journals.uchicago.edu
+HJ www.lib.uchicago.edu
+HJ www.press.uchicago.edu
 DJ uchicago.edu
 Option Cookie
