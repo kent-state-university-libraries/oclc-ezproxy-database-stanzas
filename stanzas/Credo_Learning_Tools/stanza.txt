@@ -1,0 +1,11 @@
+Title Credo Learning Tools (20220815)
+URL https://frame.credocourseware.com
+HJ https://frame.credocourseware.com
+HJ https://infolit.credocourseware.com
+HJ https://learning.credocourseware.com
+HJ https://learning-frame.credocourseware.com
+DJ frame.credocourseware.com
+DJ infolit.credocourseware.com
+DJ learning.credocourseware.com
+DJ learning-frame.credocourseware.com
+DJ credocourseware.com
