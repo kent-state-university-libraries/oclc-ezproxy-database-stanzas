@@ -1,4 +1,11 @@
-Title PLI PLUS (updated 20220622)
-URL https://plus.pli.edu/
+T PLI Plus (Updated 20220818)
+HTTPMethod PUT
+HTTPMethod DELETE
+HTTPHeader -request -process X-CSRF-Token
+U https://plus.pli.edu/
+HJ https://pli.edu
+HJ plus.pli.edu
 HJ pli.edu
 DJ pli.edu
+NeverProxy www.pli.edu
+NeverProxy media.pli.edu
