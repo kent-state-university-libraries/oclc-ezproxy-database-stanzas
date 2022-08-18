@@ -1,7 +1,10 @@
 PHE www.lexisnexis.com$ www-lexisnexis-com
 PHE www.nexis.com$ www-nexis-com
 Option CookiePassThrough
-Title LexisNexis (updated 20181002)
+Title LexisNexis (updated 20220818)
+HTTPHeader -request -process x-ln-currentrequestid
+HTTPHeader -request -process X-LN-PageMode
+HTTPHeader -request -process x-ln-previousrequestid
 URL http://www.lexisnexis.com/hottopics/lnacademic
 DJ lexis-nexis.com
 DJ lexisnexis.com
@@ -16,6 +19,8 @@ DJ nexis.com
 HJ www.lexisnexis.fr
 DJ lexisnexis.fr
 DJ lexis-nexis.com
+DJ plus.lexis.com
+HJ https://plus.lexis.com
 HJ https://www.lexisnexis.com
 HJ https://web.lexisnexis.com
 HJ web.lexis-nexis.com
