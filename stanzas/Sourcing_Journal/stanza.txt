@@ -1,0 +1,10 @@
+Option CookiePassThrough (Added 20220830)
+Title Sourcing Journal
+URL http://sourcingjournal.com/
+HJ https://sourcingjournal.com
+DJ sourcingjournal.com
+DJ piano.io
+DJ tinypass.com
+Find https:\/\/
+Replace https://
+Option Cookie
