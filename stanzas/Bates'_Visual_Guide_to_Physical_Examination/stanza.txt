@@ -1,0 +1,6 @@
+T Bates' Visual Guide to Physical Examination
+U http://batesvisualguide.com/
+HJ batesvisualguide.com
+HJ https://batesvisualguide.com
+HJ www.batesvisualguide.com
+DJ batesvisualguide.com
