@@ -1,0 +1,5 @@
+Title fanyunc (Added 20220902)
+URL http://fanyun.dhcdb.com.tw/
+HJ fanyun.dhcdb.com.tw
+HJ https://fanyun.dhcdb.com.tw/
+DJ fanyun.dhcdb.com.tw
