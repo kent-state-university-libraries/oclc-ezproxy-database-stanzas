@@ -1,5 +1,5 @@
-Option CookiePassThrough (Added 20220830)
-Title Sourcing Journal
+Option CookiePassThrough
+Title Sourcing Journal (Added 20220830)
 URL http://sourcingjournal.com/
 HJ https://sourcingjournal.com
 DJ sourcingjournal.com
