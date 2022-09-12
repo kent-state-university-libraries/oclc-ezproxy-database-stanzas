@@ -1,11 +1,10 @@
-T The China Project (Added 20220909)
+T The China Project (Updated 20220912)
 U https://thechinaproject.com/subscribe/
-HJ http://thechinaproject.com
+HJ http://thechinaproject.com/
 HJ c2.piano.io
 HJ https://c2.piano.io
 HJ experience.tinypass.com
 HJ https://experience.tinypass.com
-DJ c2.piano.io
-DJ https://c2.piano.io
-DJ experience.tinypass.com
+DJ piano.io
+DJ tinypass.com
 DJ thechinaproject.com
