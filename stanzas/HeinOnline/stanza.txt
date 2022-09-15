@@ -1,7 +1,9 @@
 AnonymousURL +https://my.heinonline.org/myhein/*
 AnonymousURL +https://my.heinonline.org/js/*
 AnonymousURL +https://heinonline.org/HOL/*
-Title HeinOnline (updated 20220901)
+AnonymousURL +https://heinonline.org/static/*
+AnonymousURL +https://heinonline.org/HeinDocs/*
+Title HeinOnline (updated 20220915)
 MimeFilter text/event-stream .* javascript
 URL http://www.heinonline.org/HOL/Welcome
 HJ heinonline.org
