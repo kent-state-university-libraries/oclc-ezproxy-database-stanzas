@@ -1,6 +1,5 @@
 AnonymousURL +https://my.heinonline.org/myhein/*
 AnonymousURL +https://my.heinonline.org/js/*
-AnonymousURL +https://heinonline.org/HOL/*
 AnonymousURL +https://heinonline.org/static/*
 AnonymousURL +https://heinonline.org/HeinDocs/*
 Title HeinOnline (updated 20220915)

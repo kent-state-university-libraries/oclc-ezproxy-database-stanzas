@@ -1,0 +1,4 @@
+Title MAISAKU
+URL https://dbs.g-search.or.jp/WMAI/WMAI_ipcu_login.html
+HJ dbs.g-search.or.jp
+DJ g-search.or.jp
