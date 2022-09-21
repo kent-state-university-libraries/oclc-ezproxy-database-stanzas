@@ -1,0 +1,83 @@
+#This stanza below should not be in the production Database Stanzas website - but is needed for legacy link management.
+T -hide Frost old
+U http://www.frost.com
+HJ www.frost.com
+Find e.href = "http:"+e.href.substr(6)
+Replace e.href = "http://^pwww.frost.com^/"; + e.pathname + e.search
+
+AnonymousURL +https://memberchatbotapi.frost.com/*
+AnonymousURL +https://membercoreapi.frost.com/*
+AnonymousURL +https://memberkehtml.frost.com/*
+AnonymousURL +https://memberkeredirect.frost.com/*
+AnonymousURL +https://membermasterapi.frost.com/*
+AnonymousURL +https://memberportalapi.frost.com/*
+AnonymousURL +https://memberscenariomodelingapi.frost.com/*
+AnonymousURL +https://memberssoapi.frost.com/*
+AnonymousURL +https://membervadapi.frost.com/*
+Title Frost & Sullivan (Member Portal) (updated 20220921)
+HTTPMethod PUT
+HTTPMethod DELETE
+HTTPHeader -request -process assetid
+HTTPHeader -request -process Authorization
+HTTPHeader -request -process AuthorizationId
+HTTPHeader -request -process emailid
+HTTPHeader -request -process euid
+HTTPHeader -request -process filename
+HTTPHeader -request -process filter
+HTTPHeader -request -process firstname
+HTTPHeader -request -process genericUser
+HTTPHeader -request -process If-None-Match
+HTTPHeader -request -process jobcode
+HTTPHeader -request -process lastname
+HTTPHeader -request -process loginas
+HTTPHeader -request -process mode
+HTTPHeader -request -process newSystemTimeResult
+HTTPHeader -request -process otp
+HTTPHeader -request -process pageno
+HTTPHeader -request -process pagesize
+HTTPHeader -request -process resultstartfrom
+HTTPHeader -request -process sessionid
+HTTPHeader -request -process source
+HTTPHeader -request -process subid
+HTTPHeader -request -process subscriptionid
+HTTPHeader -request -process tenantenterpriseuser
+HTTPHeader -request -process tenantenterpriseuserid
+HTTPHeader -request -process tenantenterpriseuseridguid
+HTTPHeader -request -process tenantenterpriseuseruuid
+HTTPHeader -request -process tenantuserid
+HTTPHeader -request -process teuserid
+HTTPHeader -request -process teuuid
+HTTPHeader -request -process totalnumofrecordsdisplayed
+HTTPHeader -request -process tourkey
+HTTPHeader -request -process type
+HTTPHeader -request -process userid
+MimeFilter text/html .* javascript
+URL https://member.frost.com
+HJ https://www.frost.com
+HJ www.frost.com
+HJ member.frost.com
+HJ https://research.frost.com
+HJ research.frost.com
+HJ https://memberchatbotapi.frost.com
+HJ memberchatbotapi.frost.com
+HJ https://membercoreapi.frost.com
+HJ membercoreapi.frost.com
+HJ https://memberkehtml.frost.com
+HJ memberkehtml.frost.com
+HJ memberkeredirect.frost.com
+HJ https://memberkeredirect.frost.com
+HJ membermasterapi.frost.com
+HJ https://membermasterapi.frost.com
+HJ https://memberportalapi.frost.com
+HJ memberportalapi.frost.com
+HJ https://memberscenariomodelingapi.frost.com
+HJ memberscenariomodelingapi.frost.com
+HJ https://memberssoapi.frost.com
+HJ memberssoapi.frost.com
+HJ https://membervadapi.frost.com
+HJ membervadapi.frost.com
+DJ frost.com
+NeverProxy wwwcdn.frost.com
+Find e.href = "https:"+e.href.substr(6)
+Replace e.href = "https://^smember.frost.com^/"; + e.pathname + e.search
+AnonymousURL -*
