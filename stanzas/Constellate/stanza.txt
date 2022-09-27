@@ -1,4 +1,4 @@
-TTPMethod PUT
+HTTPMethod PUT
 HTTPMethod PATCH
 HTTPMethod OPTIONS
 HTTPMethod DELETE
