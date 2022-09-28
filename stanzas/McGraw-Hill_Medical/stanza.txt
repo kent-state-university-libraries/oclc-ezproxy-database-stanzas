@@ -1,6 +1,10 @@
-Title McGraw-Hill Medical (updated 20211214)
+Title McGraw-Hill Medical (Updated 20220927)
 HTTPHeader -request -process X-Requested-With
 URL http://www.mhmedical.com
+HJ https://apn.mhmedical.com
+HJ https://dermatology.mhmedical.com
+HJ https://fadavisat.mhmedical.com
+HJ https://murtagh.mhmedical.com
 HJ accessanesthesiology.com
 HJ accessanesthesiology.mhmedical.com
 HJ accesscardiology.mhmedical.com
@@ -79,4 +83,4 @@ HJ www.ommbid.mhmedical.com
 HJ www.ppp.mhmedical.com
 DJ mhmedical.com
 DJ ommbid.com
-DJ jamaevidence.com
+DJ jamaevidence.comom
