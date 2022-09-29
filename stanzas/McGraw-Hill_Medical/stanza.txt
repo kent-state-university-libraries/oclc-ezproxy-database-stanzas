@@ -1,4 +1,4 @@
-Title McGraw-Hill Medical (Updated 20220927)
+Title McGraw-Hill Medical (Updated 20220929)
 HTTPHeader -request -process X-Requested-With
 URL http://www.mhmedical.com
 HJ https://apn.mhmedical.com
