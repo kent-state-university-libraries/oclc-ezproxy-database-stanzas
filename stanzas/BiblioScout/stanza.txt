@@ -1,0 +1,5 @@
+T BiblioScout (Added 20221006)
+U https://biblioscout.net
+HJ https://biblioscout.net
+HJ biblioscout.net
+DJ biblioscout.net
