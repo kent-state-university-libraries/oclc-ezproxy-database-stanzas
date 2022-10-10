@@ -1,5 +1,5 @@
-Title EMS Publishing (updated 20220118)
-URL https://www.ems-ph.org/
+T EMS Publishing (OCLC IncludeFile updated 20221010)
+U https://www.ems-ph.org/
 HJ ems-ph.org
 HJ ems.press
 HJ https://ems-ph.org
@@ -10,3 +10,4 @@ HJ www.ems-ph.org
 HJ www.ems.press
 DJ ems-ph.org
 DJ ems.press
+NeverProxy content.ems.press

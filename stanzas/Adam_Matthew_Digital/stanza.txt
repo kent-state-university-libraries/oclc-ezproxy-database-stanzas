@@ -1,9 +1,10 @@
-Title Adam Matthew Digital (updated 20220926)
+Title Adam Matthew Digital (updated 20221010)
 URL http://www.login.amdigital.co.uk
 HJ https://www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk
 HJ https://www.18thcjournals.amdigital.co.uk
 HJ https://www.aac.amdigital.co.uk
+HJ https://www.aap.amdigital.co.uk
 HJ https://www.africanamericancommunities.amdigital.co.uk
 HJ https://www.aihc.amdigital.co.uk
 HJ https://www.am-explorer.com
