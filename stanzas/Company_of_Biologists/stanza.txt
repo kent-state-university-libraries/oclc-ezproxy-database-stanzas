@@ -1,4 +1,14 @@
-Title The Company of Biologists (updated 20210413)
+Title The Company of Biologists (updated 20221024)
 URL https://www.biologists.com/
 HJ https://journals.biologists.com
+HJ bio.biologists.org
+HJ https://bio.biologists.org
+HJ dev.biologists.org
+HJ https://dev.biologists.org
+HJ dmm.biologists.org
+HJ https://dmm.biologists.org
+HJ jcs.biologists.org
+HJ https://jcs.biologists.org
+HJ jeb.biologists.org
+HJ https://jeb.biologists.org
 DJ biologists.com
