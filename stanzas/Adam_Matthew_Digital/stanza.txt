@@ -1,5 +1,7 @@
-Title Adam Matthew Digital (updated 20221010)
+Title Adam Matthew Digital (updated 20221028)
 URL http://www.login.amdigital.co.uk
+HJ https://www.amresearchmethods.amdigital.co.uk (https://www.amresearchmethods.amdigital.co.uk)
+HJ https://www.amscholar.amdigital.co.uk (https://www.amscholar.amdigital.co.uk)
 HJ https://www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk
 HJ https://www.18thcjournals.amdigital.co.uk
@@ -13,6 +15,8 @@ HJ https://www.americainworldwartwo.amdigital.co.uk
 HJ https://www.americanconsumerculture.amdigital.co.uk
 HJ https://www.americanindiannewspapers.amdigital.co.uk
 HJ https://www.americanwest.amdigital.co.uk
+HJ https://www.amresearchmethods.amdigital.co.uk
+HJ https://www.amscholar.amdigital.co.uk
 HJ https://www.archiveexplorer.amdigital.co.uk
 HJ https://www.archivesdirect.amdigital.co.uk
 HJ https://www.childrensliterature.amdigital.co.uk
@@ -77,6 +81,8 @@ HJ resources.amdigital.co.uk
 HJ www.aap.amdigital.co.uk
 HJ www.am-explorer.com
 HJ www.americanhistory.amdigital.co.uk
+HJ www.amresearchmethods.amdigital.co.uk
+HJ www.amscholar.amdigital.co.uk
 HJ www.archiveexplorer.amdigital.co.uk
 HJ www.archivesdirect.amdigital.co.uk
 HJ www.empire.amdigital.co.uk
