@@ -1,7 +1,7 @@
-Title Adam Matthew Digital (updated 20221028)
+Title Adam Matthew Digital (updated 20221102)
 URL http://www.login.amdigital.co.uk
-HJ https://www.amresearchmethods.amdigital.co.uk (https://www.amresearchmethods.amdigital.co.uk)
-HJ https://www.amscholar.amdigital.co.uk (https://www.amscholar.amdigital.co.uk)
+HJ https://www.amresearchmethods.amdigital.co.uk
+HJ https://www.amscholar.amdigital.co.uk
 HJ https://www.login.amdigital.co.uk
 HJ www.login.amdigital.co.uk
 HJ https://www.18thcjournals.amdigital.co.uk
