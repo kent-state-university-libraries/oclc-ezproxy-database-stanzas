@@ -2,8 +2,9 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 AnonymousURL -OPTIONS +https://secure.astm.org/*
+AnonymousURL +https://secure.astm.org/*
 AnonymousURL +https://compass.astm.org/*
-Title ASTM Compass 2.0 (updated 20210914)
+Title ASTM Compass 2.0 (updated 20221108)
 HTTPHeader -request -process x-okta-user-agent-extended
 HTTPHeader -request -process x-okta-request-id
 HTTPHeader -request -process XSRF-TOKEN "*"
