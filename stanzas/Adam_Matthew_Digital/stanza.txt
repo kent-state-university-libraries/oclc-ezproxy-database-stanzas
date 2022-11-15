@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20221102)
+Title Adam Matthew Digital (updated 20221115)
 URL http://www.login.amdigital.co.uk
 HJ https://www.amresearchmethods.amdigital.co.uk
 HJ https://www.amscholar.amdigital.co.uk
@@ -77,6 +77,7 @@ HJ https://www.victorianpopularculture.amdigital.co.uk
 HJ https://www.victoriansonfilm.amdigital.co.uk
 HJ https://www.virginiacompanyarchives.amdigital.co.uk
 HJ https://www.worldsfairs.amdigital.co.uk
+HJ https://www.lifeatsea.amdigital.co.uk
 HJ resources.amdigital.co.uk
 HJ www.aap.amdigital.co.uk
 HJ www.am-explorer.com
