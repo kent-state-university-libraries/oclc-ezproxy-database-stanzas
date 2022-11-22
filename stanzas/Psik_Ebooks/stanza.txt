@@ -1,0 +1,9 @@
+AnonymousURL +https://api-ebooks.psik.io/graphql
+T Psik Ebooks (Last Updated 20221122)
+U https://ebooks.psik.io
+HJ https://ebooks.psik.io
+HJ ebooks.psik.io
+HJ https://api-ebooks.psik.io
+HJ api-ebooks.psik.io
+DJ psik.io
+AnonymousURL -*
