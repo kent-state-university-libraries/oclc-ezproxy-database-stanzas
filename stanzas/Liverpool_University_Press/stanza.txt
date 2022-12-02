@@ -1,8 +1,8 @@
-Title Liverpool University Press (updated 20210615)
-URL https://www.liverpooluniversitypress.co.uk/
-H www.liverpooluniversitypress.co.uk
-H https://liverpooluniversitypress.co.uk
-H https://online.liverpooluniversitypress.co.uk
-H online.liverpooluniversitypress.co.uk
-H liverpooluniversitypress.co.uk
-D liverpooluniversitypress.co.uk
+Option DomainCookieOnly
+Title Liverpool University Press (Updated 20221129)
+U https://www.liverpooluniversitypress.co.uk
+HJ http://www.liverpooluniversitypress.co.uk
+HJ www.liverpooluniversitypress.co.uk
+HJ liverpooluniversitypress.co.uk
+DJ liverpooluniversitypress.co.uk
+Option Cookie
