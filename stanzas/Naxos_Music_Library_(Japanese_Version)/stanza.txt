@@ -1,0 +1,6 @@
+Title Naxos Music Library (Japanese Version) (Added 20221202)
+URL https://.ml.naxos.jp
+HJ http://.ml.naxos.jp
+HJ https://ml.naxos.jp
+HJ ml.naxos.jp
+DJ naxos.jp

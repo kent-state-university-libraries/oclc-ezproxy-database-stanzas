@@ -1,0 +1,7 @@
+T Conference Board (Added 20221202)
+HTTPHeader -response -process X-XSRF-TOKEN
+HTTPHeader -response -process X-CSRF-TOKEN
+URL https://www.conference-board.org
+HJ http://www.conference-board.org
+HJ https://data-central.conference-board.org
+DJ conference-board.org

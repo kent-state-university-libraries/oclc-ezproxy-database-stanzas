@@ -1,0 +1,8 @@
+T Africa Commons (Added 20221202)
+URL https://africacommons.net
+HJ http://africacommons.net
+DJ africacommons.net
+NeverProxy https://coherent-commons.s3.amazonaws.com
+NeverProxy https://res.cloudinary.com
+NeverProxy https://posthog.coherentdigital.net
+NeverProxy https://i2.wp.com
