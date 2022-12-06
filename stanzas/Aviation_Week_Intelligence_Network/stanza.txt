@@ -1,8 +1,9 @@
 AddUserHeader X-User-username
-Title Aviation Week Intelligence Network (updated 20211111)
+Title Aviation Week Intelligence Network (updated 20221202)
 URL https://awin.aviationweek.com
 HJ https://aviationweek.com
 HJ https://aviationweek.auth0.com
 HJ https://www.aviationweek.com
+HJ https://login.aviationweek.com
 DJ auth0.com
 DJ aviationweek.com

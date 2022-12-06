@@ -1,0 +1,5 @@
+T Chunichi Shimbun & Tokyo Shimbun Database (Added 20221206)
+U https://ace.cnc.ne.jp/GU100.php
+HJ https://ace.cnc.ne.jp
+HJ http://ace.cnc.ne.jp
+DJ ace.cnc.ne.jp

@@ -1,4 +1,4 @@
-T American Speech-Language-Hearing Association (ASHA) (updated 20220621)
+T American Speech-Language-Hearing Association (ASHA) (updated 20221206)
 HTTPHeader -request -process X-Requested-With
 U http://www.asha.org/publications/
 HJ https://www.asha.org/publications/
@@ -22,6 +22,8 @@ HJ https://on.asha.org
 HJ https://perspectives.pubs.asha.org
 HJ https://pubs.asha.org
 HJ https://www.pubs.asha.org
+HJ https://lhss.pubs.asha.org
+HJ http//lhss.pubs.asha.org
 HJ journals.pubs.asha.org
 HJ jshd.asha.org
 HJ jshd.pubs.asha.org
