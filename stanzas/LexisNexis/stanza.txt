@@ -1,7 +1,8 @@
 PHE www.lexisnexis.com$ www-lexisnexis-com
 PHE www.nexis.com$ www-nexis-com
 Option CookiePassThrough
-Title LexisNexis (updated 20220818)
+Title LexisNexis (updated 20221206)
+HTTPMethod PATCH
 HTTPHeader -request -process x-ln-currentrequestid
 HTTPHeader -request -process X-LN-PageMode
 HTTPHeader -request -process x-ln-previousrequestid
