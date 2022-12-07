@@ -1,0 +1,23 @@
+AnonymousURL +https://aisel.aisnet.org/do/api/site/stats/*
+T Association for Information Systems (AIS) (OCLC IncludeFile updated 20221207)
+U http://aisel.aisnet.org/
+HJ aisel.aisnet.org
+HJ https://aisel.aisnet.org
+HJ https://misq.org
+HJ https://misq.umn.edu
+HJ https://www.misq.org
+HJ misq.umn.edu
+HJ misqe.org
+HJ www.misq.org
+DJ aisnet.org
+DJ misq.org
+DJ misq.umn.edu
+Find value='virtual_ancestor_link:"https://
+Replace value='virtual_ancestor_link:"https://^A
+Find fq=virtual_ancestor_link:%22https://
+Replace fq=virtual_ancestor_link:%22https://^A
+Find "/cgi/login.cgi?context=https://
+Replace "/cgi/login.cgi?context=https://^A
+Find "/cgi/useradd.cgi?context=https://
+Replace "/cgi/useradd.cgi?context=https://^A
+AnonymousURL -*
