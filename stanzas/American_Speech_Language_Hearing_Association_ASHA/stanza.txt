@@ -23,7 +23,7 @@ HJ https://perspectives.pubs.asha.org
 HJ https://pubs.asha.org
 HJ https://www.pubs.asha.org
 HJ https://lshss.pubs.asha.org
-HJ http://lhss.pubs.asha.org
+HJ http://lshss.pubs.asha.org
 HJ journals.pubs.asha.org
 HJ jshd.asha.org
 HJ jshd.pubs.asha.org
