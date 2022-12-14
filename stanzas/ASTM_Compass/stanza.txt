@@ -3,7 +3,7 @@ HTTPMethod DELETE
 HTTPMethod PUT
 AnonymousURL -OPTIONS +https://secure.astm.org/*
 AnonymousURL +https://compass.astm.org/*
-Title ASTM Compass 2.0 (updated 20221110)
+Title ASTM Compass 2.0 (updated 20221214)
 HTTPHeader -request -process x-okta-user-agent-extended
 HTTPHeader -request -process x-okta-request-id
 HTTPHeader -request -process XSRF-TOKEN "*"
@@ -22,4 +22,6 @@ NeverProxy v2compass.astm.org
 NeverProxy cdn.jsdelivr.net
 Find proxycl=https://
 Replace proxycl=https://^A
+Find www.astm.org
+Replace ^Swww.astm.org^
 AnonymousURL -*
