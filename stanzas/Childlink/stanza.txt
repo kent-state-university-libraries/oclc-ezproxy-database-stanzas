@@ -1,5 +1,7 @@
-Title Childlink
-URL http://www.childlink.co.uk/
+T Childlink (Updated 20221219)
+U http://www.childlink.co.uk/
+HJ https://www.nscph.com
+HJ https://nscph.com
 HJ childlink.co.uk
 HJ hse.nscph.com
 HJ https://childlink.co.uk
