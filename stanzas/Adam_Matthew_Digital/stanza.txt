@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20221115)
+Title Adam Matthew Digital (updated 20221227)
 URL http://www.login.amdigital.co.uk
 HJ https://www.amresearchmethods.amdigital.co.uk
 HJ https://www.amscholar.amdigital.co.uk
@@ -87,6 +87,7 @@ HJ www.amscholar.amdigital.co.uk
 HJ www.archiveexplorer.amdigital.co.uk
 HJ www.archivesdirect.amdigital.co.uk
 HJ www.empire.amdigital.co.uk
+HJ www.genderidentityandsocialchange.amdigital.co.uk
 HJ www.grandtour.amdigital.co.uk
 HJ www.medievalfamilylife.amdigital.co.uk
 HJ www.slavery.amdigital.co.uk
