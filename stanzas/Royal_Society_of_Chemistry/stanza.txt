@@ -1,4 +1,4 @@
-T Royal Society of Chemistry (OCLC IncludeFile updated 20221125)
+T Royal Society of Chemistry (OCLC IncludeFile updated 20221220)
 U http://pubs.rsc.org/
 HJ cds.rsc.org
 HJ ebook.rsc.org
@@ -7,9 +7,11 @@ HJ eic.rsc.org
 HJ https://cds.rsc.org
 HJ https://edu.rsc.org
 HJ https://eic.rsc.org
+HJ https://marinlit.rsc.org
 HJ https://pubs.rsc.org
 HJ https://rsc.org
 HJ https://www.rsc.org
+HJ marinlit.rsc.org
 HJ pubs.rsc.org
 HJ rsc.org
 HJ www.rsc.org
