@@ -1,0 +1,18 @@
+Option CookiePassThrough
+AnonymousURL +https://vha.usc.edu/appdata/fonts/*
+Title Visual History Archive (SHOAH) (updated 20230104)
+HTTPHeader -request -process x-csrf
+HTTPHeader -response -process Access-Control-Allow-Origin
+HTTPHeader -response -process Access-Control-Allow-Credentials
+HTTPHeader -request -process Referer
+URL https://vha.usc.edu
+HJ http://vha.usc.edu
+HJ https://sfi-ids.usc.edu
+HJ http://sfi-ids.usc.edu
+HJ https://iwitness.usc.edu
+HJ http://iwitness.usc.edu
+DJ sfi-ids.usc.edu
+DJ iwitness.usc.edu
+DJ vha.usc.edu
+AnonymousURL -*
+Option Cookie
