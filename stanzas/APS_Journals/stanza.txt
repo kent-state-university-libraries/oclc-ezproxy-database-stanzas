@@ -1,6 +1,7 @@
-Title APS Journals (updated 20190920)
+T APS Journals (OCLC IncludeFile updated 20230104)
 MimeFilter application/json .* javascript
-URL https://publish.aps.org
+U https://journals.aps.org
+HJ https://publish.aps.org
 HJ https://journals.aps.org
 HJ https://link.aps.org
 HJ https://physics.aps.org
@@ -24,3 +25,4 @@ HJ rmp.aps.org
 HJ searchapi.aps.org
 HJ www.aps.org
 DJ aps.org
+NeverProxy cdn.journals.aps.org
