@@ -1,5 +1,9 @@
-Title Gale Products (updated 20220627)
+HTTPMethod OPTIONS
+AnonymousURL -Options +https://appapi.chiltonlibrary.com/*
+AnonymousURL +https://appapi.chiltonlibrary.com/*
+Title Gale Products (updated 20230106)
 URL https://link.gale.com/apps/menu
+MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 HJ auth.go.gale.com
 HJ bi.gale.com
@@ -13,34 +17,36 @@ HJ galepages.com
 HJ gdc.gale.com
 HJ gdc.galegroup.com
 HJ go.gale.com
-HJ https://auth.go.gale.com
-HJ https://bi.gale.com
-HJ https://dnow.gale.com
-HJ https://find.gale.com
-HJ https://find.galegroup.com
-HJ https://galenet.gale.com
-HJ https://gdc.gale.com
-HJ https://gdc.galegroup.com
-HJ https://go.gale.com
-HJ https://infotrac.gale.com
-HJ https://infotrac.galegroup.com
-HJ https://link.gale.com
-HJ https://lst.gale.com
-HJ https://misshumblebee.com
-HJ https://natgeo.gale.com
-HJ https://sa.gale.com
-HJ https://tinyurl.gale.com
-HJ https://worldscholar.gale.com
-HJ https://www.chiltonlibrary.com
-HJ https://www.galepages.com
-HJ infotrac.gale.com
-HJ infotrac.galegroup.com
 HJ link.gale.com
 HJ lst.gale.com
 HJ natgeo.gale.com
 HJ sa.gale.com
 HJ tinyurl.gale.com
 HJ worldscholar.gale.com
+HJ infotrac.galegroup.com
+HJ demographicsnow.gale.com
+HJ https://auth.go.gale.com
+HJ https://bi.gale.com
+HJ https://dnow.gale.com
+HJ https://find.gale.com
+HJ https://galenet.gale.com
+HJ https://gdc.gale.com
+HJ https://go.gale.com
+HJ https://infotrac.gale.com
+HJ https://link.gale.com
+HJ https://lst.gale.com
+HJ https://misshumblebee.com
+HJ https://natgeo.gale.com
+HJ https://sa.gale.com
+HJ https://tinyurl.gale.com
+HJ https://www.galepages.com
+HJ https://worldscholar.gale.com
+HJ https://infotrac.galegroup.com
+HJ https://demographicsnow.gale.com
+HJ https://galenet.galegroup.com
+HJ https://app.chiltonlibrary.com
+HJ https://appcontent.chiltonlibrary.com
+HJ https://appapi.chiltonlibrary.com
 DJ gale.com
 DJ galegroup.com
 DJ galepages.com
@@ -50,3 +56,4 @@ NeverProxy gale.udemy.com
 NeverProxy careerprep.petersons.com
 NeverProxy tcpr.petersons.com
 NeverProxy sso.connect.pingidentity.com
+AnonymousURL -*

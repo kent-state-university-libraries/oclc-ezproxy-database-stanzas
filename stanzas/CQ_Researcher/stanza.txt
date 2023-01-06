@@ -1,8 +1,4 @@
-Title CQ Researcher  (updated 20210804)
-HTTPHeader Wicket-Ajax
-HTTPHeader Wicket-FocusedElementId
-HTTPHeader Wicket-Ajax-BaseURL
-HTTPMethod wicketAjaxGet
+Title CQ Researcher  (updated 20230106)
 URL http://library.cqpress.com/cqresearcher/
 HJ library.cqpress.com
 DJ library.cqpress.com
