@@ -1,4 +1,4 @@
-Title Highwire Press (updated 20210219)
+Title Highwire Press (updated 20230110)
 URL https://www.highwirepress.com/
 HJ highwire.org
 HJ highwire.stanford.edu
@@ -12,6 +12,7 @@ HJ openurl.highwire.org
 HJ plato.stanford.edu
 HJ www.highwire.org
 HJ www.highwirepress.com
-DJ highwire.org
+HJ https://portal.highwire.org
+â€ŒHJ portal.highwire.org
 DJ highwirepress.com
 DJ stanford.edu
