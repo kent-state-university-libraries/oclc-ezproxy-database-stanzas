@@ -13,6 +13,6 @@ HJ plato.stanford.edu
 HJ www.highwire.org
 HJ www.highwirepress.com
 HJ https://portal.highwire.org
-â€ŒHJ portal.highwire.org
+HJ portal.highwire.org
 DJ highwirepress.com
 DJ stanford.edu
