@@ -1,0 +1,71 @@
+AnonymousURL +https://*.onlinelibrary.wiley.com/action/*
+Option DomainCookieOnly
+Option X-Forwarded-For
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
+Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
+Title Wiley Online (OCLC IncludeFile updated 20230119)
+MimeFilter application/json .* javascript
+MimeFilter text/plain .* javascript
+HTTPHeader -request -process X-Requested-With
+HTTPHeader -response -block X-Frame-Options
+HTTPHeader -response -block Content-Security-Policy
+HTTPHeader -request -process x-application-id
+HTTPHeader -request -process x-Request-ID
+HTTPHeader -request -process X-Transient-SubjectID
+URL https://onlinelibrary.wiley.com
+H http://onlinelibrary.wiley.com
+HJ https://pericles.one-lts.literatumonline.com/
+HJ http://pericles.one-lts.literatumonline.com/
+HJ https://it.iucr.org
+HJ it.iucr.org
+HJ aap.onlinelibrary.wiley.com
+HJ aapm.onlinelibrary.wiley.com
+HJ aasldpubs.onlinelibrary.wiley.com
+HJ acsess.onlinelibrary.wiley.com
+HJ accp1.onlinelibrary.wiley.com
+HJ accpjournals.onlinelibrary.wiley.com
+HJ acsjournals.onlinelibrary.wiley.com
+HJ afspubs.onlinelibrary.wiley.com/
+HJ agupubs.onlinelibrary.wiley.com
+HJ aiche.onlinelibrary.wiley.com
+HJ alz-journals.onlinelibrary.wiley.com
+HJ anatomypubs.onlinelibrary.wiley.com
+HJ anthrosource.onlinelibrary.wiley.com
+HJ aocs.onlinelibrary.wiley.com
+HJ aornjournal.onlinelibrary.wiley.com
+HJ anzjsurg.onlinelibrary.wiley.com
+HJ api.wiley.com
+HJ ascpt.onlinelibrary.wiley.com
+HJ aslopubs.onlinelibrary.wiley.com
+HJ aspenjournals.onlinelibrary.wiley.com
+HJ asbmr.onlinelibrary.wiley.com
+HJ besjournals.onlinelibrary.wiley.com
+HJ beva.onlinelibrary.wiley.com
+HJ bjssjournals.onlinelibrary.wiley.com
+HJ bjui-journals.onlinelibrary.wiley.com
+HJ bpspubs.onlinelibrary.wiley.com
+HJ bsssjournals.onlinelibrary.wiley.com
+HJ ceramics.onlinelibrary.wiley.com
+HJ chemistry-europe.onlinelibrary.wiley.com
+HJ compass.onlinelibrary.wiley.com
+HJ conbio.onlinelibrary.wiley.com
+HJ currentprotocols.onlinelibrary.wiley.com
+HJ doi.wiley.com
+HJ efsa.onlinelibrary.wiley.com
+HJ el.wiley.com
+HJ esajournals.onlinelibrary.wiley.com
+HJ faseb.onlinelibrary.wiley.com
+HJ febs.onlinelibrary.wiley.com
+HJ iaap-journals.onlinelibrary.wiley.com
+HJ ietresearch.onlinelibrary.wiley.com
+HJ ila.onlinelibrary.wiley.com
+HJ interscience.wiley.com
+HJ iubmb.onlinelibrary.wiley.com
+HJ londmathsoc.onlinelibrary.wiley.com
+HJ mrw.interscience.wiley.com
+HJ nph.onlinelibrary.wiley.com
+HJ nyaspubs.onlinelibrary.wiley.com
+HJ obgyn.onlinelibrary.wiley.com
+HJ physoc.onlinelibrary.wiley.com
