@@ -1,5 +1,5 @@
-Title Stash Media (updated 20210302)
-URL https://www.stashmedia.tv/login.php
-HJ http://www.stashmedia.tv
+Title Stash Media (Updated 20230118)
+URL https://www.stashmedia.tv/login
+HJ https://www.stashmedia.tv
 HJ www.stashmedia.tv
 DJ stashmedia.tv
