@@ -1,6 +1,10 @@
-AnonymousURL +https://www.healthpolldatabase.org*
-Title Health Poll Database (updated 20220602)
+Option CookiePassThrough
+Title Health Poll Database (updated 20230120)
+HTTPHeader -request -process X-XSRF-TOKEN
 URL https://www.healthpolldatabase.org/hpd/
-HJ http://www.healthpolldatabase.org/hpd/
-DJ healthpolldatabase.org
-AnonymousURL -*
+HJ https://www.healthpolldatabase.org
+Find "http:\/\/www.healthpolldatabase.org\/
+Replace "http:\/\/^pwww.healthpolldatabase.org^\/
+Find "https:\/\/www.healthpolldatabase.org\/
+Replace "https:\/\/^swww.healthpolldatabase.org^\/
+Option Cookie
