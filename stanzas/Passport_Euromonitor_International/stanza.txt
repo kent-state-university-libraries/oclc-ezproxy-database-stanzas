@@ -5,7 +5,7 @@ AnonymousURL +https://productclaim-ui.staging.euromonitor.com/*
 AnonymousURL +https://cdn.media.euromonitor.com/*
 AnonymousURL +https://www.prep.euromonitor.com/*
 HTTPMethod OPTIONS
-Title Passport (Euromonitor International) (updated 20221214)
+Title Passport (Euromonitor International) (updated 20230120)
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Access-Control-Expose-Headers
 MimeFilter text/html https://cdn.media.euromonitor.com/* html
@@ -35,7 +35,7 @@ NeverProxy tableau.dev.euromonitor.com
 NeverProxy microservices.euromonitor.com
 NeverProxy consulting.euromonitor.com
 NeverProxy covid-analytics-ui.euromonitor.com
-NeverProxy lv-searchservice-we-wa1.azurewebsites.net
+NeverProxy search-service.euromonitor.com
 NeverProxy service-portal.euromonitor.com
 NeverProxy notification-service.euromonitor.com
 NeverProxy brandshareservice.euromonitor.com
