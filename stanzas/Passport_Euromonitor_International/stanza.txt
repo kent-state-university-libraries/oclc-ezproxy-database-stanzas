@@ -1,16 +1,15 @@
+HTTPMethod OPTIONS
 AnonymousURL +https://www.euromonitor.com/*
 AnonymousURL +https://pro.fontawesome.com/*
 AnonymousURL -OPTIONS +https://staging-notification-service.euromonitor.com/*
 AnonymousURL +https://productclaim-ui.staging.euromonitor.com/*
 AnonymousURL +https://cdn.media.euromonitor.com/*
 AnonymousURL +https://www.prep.euromonitor.com/*
-HTTPMethod OPTIONS
-Title Passport (Euromonitor International) (updated 20230120)
+Title Passport (Euromonitor International) (updated 20230123)
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Access-Control-Expose-Headers
 MimeFilter text/html https://cdn.media.euromonitor.com/* html
 URL https://www.portal.euromonitor.com
-#HJ https://portal.euromonitor.com
 HJ https://emi-st-forecastdashboard-we-endp.azureedge.net
 HJ https://www.portal.euromonitor.com
 HJ http://productclaim-ui.euromonitor.com
