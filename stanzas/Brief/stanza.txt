@@ -1,0 +1,13 @@
+AnonymousURL +https://www.brief.science/api/*
+T Brief.science (Added 20230124)
+U https://www.brief.science
+HJ https://www.brief.science
+HJ https://app.brief.science
+DJ brief.science
+Find "//www.").concat(
+Replace "//www-").concat(
+Find domain:"brief.science"
+Replace domain:"^Sbrief.science^"
+Find "https://www.".concat(
+Replace "https://www-".concat
+AnonymousURL -*
