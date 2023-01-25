@@ -1,7 +1,7 @@
 # Elsevier ScienceDirect
 Cookie BROWSER_SUPPORTS_COOKIES=1;domain=.sciencedirect.com
 AnonymousURL +https://rss.sciencedirect.com/
-Title ScienceDirect (updated 20200807)
+Title ScienceDirect (Updated 20220125)
 URL https://www.sciencedirect.com
 HJ https://www.sciencedirect.com
 HJ https://sciencedirect.com
@@ -30,6 +30,8 @@ Find pdfurl="//www.sciencedirect.com/
 Replace pdfurl="//^swww.sciencedirect.com^/
 Find redirect_uri=https://
 Replace redirect_uri=https://^A
+Find "null/
+Replace "//^swww.sciencedirect.com^/
 AnonymousURL -*
 
 #Elsevier Scopus
