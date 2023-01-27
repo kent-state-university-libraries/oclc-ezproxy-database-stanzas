@@ -1,16 +1,29 @@
-Title Royal Boom Publishing (updated 20210315)
-URL https://www.boom.nl/
+IncludeFile databases/boomportaal.txt
+
+T Royal Boom Publishing (OCLC IncludeFile updated 20230127)
+U https://www.boom.nl/
 HJ cdv.boomtijdschriften.nl
 HJ cookies.budh.nl
+HJ directievetherapie.nl
 HJ dth.boomtijdschriften.nl
 HJ gedragenorganisatie.nl
 HJ https://cookies.budh.nl
+HJ https://directievetherapie.nl
 HJ https://logon.budh.nl
+HJ https://tijdschriftcdv.nl
 HJ https://tijdschriften.boombestuurskunde.nl
+HJ https://tijdschriftgedragstherapie.nl
+HJ https://tijdschriftles.nl
+HJ https://tijdschriftsysteemtherapie.nl
 HJ https://www.bjutijdschriften.nl
 HJ https://www.boomtijdschriften.nl
+HJ https://www.directievetherapie.nl
 HJ https://www.gedragenorganisatie.nl
+HJ https://www.tijdschriftcdv.nl
+HJ https://www.tijdschriftgedragstherapie.nl
 HJ https://www.tijdschriftkwalon.nl
+HJ https://www.tijdschriftles.nl
+HJ https://www.tijdschriftsysteemtherapie.nl
 HJ https://www.tijdschriftvoorarbeidsvraagstukken.nl
 HJ https://www.tijdschriftvoorcommunicatiewetenschap.nl
 HJ https://www.tijdschriftvoorpsychoanalyse.nl
@@ -21,8 +34,12 @@ HJ mgv.boomtijdschriften.nl
 HJ send.boomtijdschriften.nl
 HJ store.budh.nl
 HJ systeemtherapie.boomtijdschriften.nl
+HJ tijdschriftcdv.nl
 HJ tijdschriften.boombestuurskunde.nl
+HJ tijdschriftgedragstherapie.nl
 HJ tijdschriftkwalon.nl
+HJ tijdschriftles.nl
+HJ tijdschriftsysteemtherapie.nl
 HJ tijdschriftvoorarbeidsvraagstukken.nl
 HJ tijdschriftvoorcommunicatiewetenschap.nl
 HJ tijdschriftvoorpsychoanalyse.nl
@@ -37,8 +54,13 @@ HJ www.bjutijdschriften.nl
 HJ www.boom.nl
 HJ www.boomlemmatijdschriften.nl
 HJ www.boomtijdschriften.nl
+HJ www.directievetherapie.nl
 HJ www.gedragenorganisatie.nl
+HJ www.tijdschriftcdv.nl
+HJ www.tijdschriftgedragstherapie.nl
 HJ www.tijdschriftkwalon.nl
+HJ www.tijdschriftles.nl
+HJ www.tijdschriftsysteemtherapie.nl
 HJ www.tijdschriftvoorarbeidsvraagstukken.nl
 HJ www.tijdschriftvoorcommunicatiewetenschap.nl
 HJ www.tijdschriftvoorpsychoanalyse.nl
@@ -49,4 +71,9 @@ DJ boom.nl
 DJ boombestuurskunde.nl
 DJ boomlemmatijdschriften.nl
 DJ budh.nl
+DJ directievetherapie.nl
+DJ tijdschriftcdv.nl
+DJ tijdschriftgedragstherapie.nl
+DJ tijdschriftles.nl
+DJ tijdschriftsysteemtherapie.nl
 DJ tvnp.nl
