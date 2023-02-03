@@ -1,4 +1,4 @@
-Title Scientific.NET - Trans Tech Publications (updated 20230131)
+Title Scientific.NET - Trans Tech Publications (updated 20230203)
 URL https://www.scientific.net
 HJ https://main.scientific.net
 HJ www.scientific.net
