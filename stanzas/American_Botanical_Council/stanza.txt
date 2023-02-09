@@ -1,0 +1,10 @@
+T American Botanical Council (OCLC IncludeFile updated 20220109)
+U http://cms.herbalgram.org
+HJ cms.herbalgram.org
+HJ abc.herbalgram.org
+HJ content.herbalgram.org
+HJ https://www.herbalgram.org
+HJ https://herbalgram.org
+DJ herbalgram.org
+Find document.title += ('RF[+key1+']')
+Replace document.title += ('RF[+key1+']')^A
