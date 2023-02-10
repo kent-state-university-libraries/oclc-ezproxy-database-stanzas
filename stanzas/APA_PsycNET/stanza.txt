@@ -1,4 +1,4 @@
-Title APA PsycNET (updated 20220527)
+Title APA PsycNET (OCLC IncludeFile updated 20230210)
 URL https://psycnet.apa.org
 HJ content.apa.org
 HJ doi.apa.org
@@ -24,3 +24,5 @@ HJ www.apa.org
 HJ www.psycinfo.com
 DJ apa.org
 DJ psycinfo.com
+NeverProxy https://static.apa.org
+NeverProxy https://cdnjs.cloudflare.com
