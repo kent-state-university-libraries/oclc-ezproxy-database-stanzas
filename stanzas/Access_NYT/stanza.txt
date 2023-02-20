@@ -1,4 +1,4 @@
-Title Access NYT (OCLC IncludeFile updated 20230217)
+Title Access NYT (OCLC IncludeFile updated 20230218)
 URL https://ezmyaccount.nytimes.com/group-pass
-H http://ezmyaccount.nytimes.com
+H ezmyaccount.nytimes.com
 D ezmyaccount.nytimes.com
