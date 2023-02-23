@@ -1,13 +1,15 @@
-Title Liebert (updated 20210122)
-URL https://www.liebertpub.com
+T Liebert (updated 20230223)
+U https://www.liebertpub.com
 HJ home.liebertpub.com
 HJ https://home.liebertpub.com
 HJ https://liebertonline.com
 HJ https://liebertpub.com
+HJ https://mal.scienceconnect.io
 HJ https://online.liebertpub.com
 HJ https://www.liebertonline.com
 HJ liebertonline.com
 HJ liebertpub.com
+HJ mal.scienceconnect.io
 HJ online.liebertpub.com
 HJ www.liebertonline.com
 HJ www.liebertpub.com
