@@ -1,6 +1,7 @@
 NeverProxy instance.metastore.ingenta.com
 NeverProxy pub2web.metastore.ingenta.com
-T Intellect Discover  (Added 20230104)
+T Intellect Discover  (Added 20230227)
 U https://intellectdiscover.com
+HJ https://www.intellectdiscover.com
 HJ http://intellectdiscover.com
 DJ intellectdiscover.com
