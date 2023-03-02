@@ -1,0 +1,16 @@
+Option CookiePassThrough
+PHE access.clarivate.com$ access-clarivate-com
+Title Clarivate Authentication (updated 20230301)
+URL https://access.clarivate.com
+HTTPHeader -request -process generatedOn
+HTTPHeader -request -process text
+HTTPHeader -request -process textInput
+HJ https://access.clarivate.com
+Host https://access.clarivate.com
+DJ access.clarivate.com
+DJ d3gs88v2si9epo.cloudfront.net
+DJ apps.clarivate.com
+DJ dlt9ksh5o30zl.cloudfront.net
+Find access.clarivate.com
+Replace ^saccess.clarivate.com^
+Option Cookie
