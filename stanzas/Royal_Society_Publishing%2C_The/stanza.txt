@@ -1,6 +1,23 @@
-Title The Royal Society Publishing
+#This stanza is required to resolve the Cookie Banner pop-up issue IncludeFile databases/cookielaw.txt
+Title The Royal Society Publishing (OCLC IncludeFile updated 20230303)
+HTTPHeader -response -edit Location RewriteURL(REReplace("!https%3A%2F%2Froyalsocietypublishing\.org!g", RewriteURL("https://royalsocietypublishing.org"), hh:value))
 URL https://royalsociety.org/journals/
+HJ https://royalsocietypublishing.org
+HJ https://rsbl.royalsocietypublishing.org
+HJ https://rsbm.royalsocietypublishing.org
+HJ https://rsfs.royalsocietypublishing.org
+HJ https://rsif.royalsocietypublishing.org
+HJ https://rsnr.royalsocietypublishing.org
+HJ https://rsob.royalsocietypublishing.org
+HJ https://rsos.royalsocietypublishing.org
+HJ https://rspa.royalsocietypublishing.org
+HJ https://rspb.royalsocietypublishing.org
+HJ https://rspl.royalsocietypublishing.org
+HJ https://rsta.royalsocietypublishing.org
+HJ https://rstb.royalsocietypublishing.org
+HJ https://rstl.royalsocietypublishing.org
 HJ https://www.royalsociety.org
+HJ https://www.royalsocietypublishing.org
 HJ royalsociety.org
 HJ royalsocietypublishing.org
 HJ rsbl.royalsocietypublishing.org

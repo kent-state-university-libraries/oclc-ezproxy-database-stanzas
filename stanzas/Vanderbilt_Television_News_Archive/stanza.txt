@@ -1,4 +1,11 @@
-Title Vanderbilt Television News Archive
-URL https://tvnews.vanderbilt.edu/
-HJ classic.tvnews.vanderbilt.edu
+AnonymousURL -RE +https://.+streamlock\.net.*/tvna-direct/.*
+T Vanderbilt Television News Archive (updated 20230303)
+HTTPHeader -response -process access-control-allow-origin
+U https://tvnews.vanderbilt.edu/
+HJ https://tvnews.vanderbilt.edu
+HJ https://57cfde5d5a7ad.streamlock.net
+HJ tvnews.vanderbilt.edu
+HJ 57cfde5d5a7ad.streamlock.net
 DJ vanderbilt.edu
+DJ streamlock.net
+AnonymousURL -*

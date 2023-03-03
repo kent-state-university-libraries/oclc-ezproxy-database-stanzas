@@ -1,5 +1,5 @@
 # Cambridge Core
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cambridge_Core](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cambridge_Core) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cambridge_Core](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cambridge_Core) **
 
 ## Some of OCLC's notes for this stanza
 

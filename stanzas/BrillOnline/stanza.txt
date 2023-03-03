@@ -2,7 +2,7 @@
 
 #Includes World Christian Database, World Religion Database and Arkyves
 AnonymousURL +https://labs.brill.com/lci2/*
-Title BrillOnline (updated 20220524)
+Title BrillOnline (updated 20230303)
 HTTPHeader -request -process x-projectname
 HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
@@ -22,6 +22,7 @@ HJ scholarlyeditions.brill.com
 HJ https://scholarlyeditions.brill.com
 HJ https://www.worldchristiandatabase.org
 HJ https://bibliographies.brillonline.com
+HJ https://bibliographies.brill.com
 HJ https://brillonline.com
 HJ https://chinesereferenceshelf.brillonline.com
 HJ https://dictionaries.brillonline.com
@@ -32,6 +33,7 @@ HJ https://ybio.brillonline.com
 HJ http://arkyves.org
 HJ https://www.arkyves.org
 HJ www.arkyves.org
+HJ http://bibliographies.brill.com
 HJ https://www.worldchristiandatabase.org
 HJ www.worldchristiandatabase.org
 HJ https://worldreligiondatabase.org
@@ -67,6 +69,7 @@ DJ brillonline.com
 DJ brill.com
 DJ dh.brill.com
 DJ labs.brill.com
+DJ bibliographies.brill.com
 NeverProxy iiif.arkyves.org
 NeverProxy data.brill.com
 NeverProxy prize-papers-atlas-online.brillonline.com
