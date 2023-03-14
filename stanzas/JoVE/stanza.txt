@@ -1,6 +1,9 @@
-Title JoVE (updated 20201117)
+Title JoVE (updated 20230314)
 URL https://www.jove.com/
 HJ https://www.jove.com
+HJ https://app.jove.com
+HJ https://stats.jove.com
+HJ app.jove.com
 HJ www.jove.com
 HJ stats.jove.com
 DJ jove.com

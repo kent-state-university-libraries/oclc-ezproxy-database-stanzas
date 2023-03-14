@@ -1,0 +1,5 @@
+T urbanNet Lexicon (Added 20230314)
+U https://urbannext.net
+HJ http://urbannext.net
+DJ urbannext.net
+NeverProxy vimeo.com
