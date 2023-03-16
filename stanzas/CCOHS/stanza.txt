@@ -1,6 +1,6 @@
 ProxyHostnameEdit ccohsid.ccohs.ca ccohsid-ccohs-ca
 Option DomainCookieOnly
-Title CCOHS (Updated 20230303)
+Title CCOHS (Updated 20230316)
 URL https://www.ccohs.ca/ccinfoweb/asp/
 HJ https://ccinfoweb2.ccohs.ca
 HJ http://ccinfoweb2.ccohs.ca
@@ -16,5 +16,5 @@ HJ www.ilocis.org
 DJ ccohs.ca
 DJ ilocis.org
 Find urlRecordPDF: 'https://x-data-server/
-Replace urlRecordPDF: 'http://^Pccinfoweb2.ccohs.ca/^
+Replace urlRecordPDF: 'http://^Pccinfoweb2.ccohs.ca^/
 Option Cookie
