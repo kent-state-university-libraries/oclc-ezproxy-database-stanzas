@@ -1,0 +1,14 @@
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
+AnonymousURL -OPTIONS +https://app.underline.io/api/*
+AnonymousURL +https://app.underline.io/api/*
+T Underline.io (updated 20230320)
+U https://underline.io
+HJ http://underline.io
+HJ https://app.underline.io
+HJ http://app.underline.io
+HJ https://assets.underline.io
+HJ http://assets.underline.io
+DJ underline.io
+AnonymousURL -*
