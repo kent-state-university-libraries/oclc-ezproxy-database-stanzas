@@ -1,5 +1,5 @@
 # Adam Matthew Digital
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Adam_Matthew_Digital](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Adam_Matthew_Digital) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital) **
 
 ## Some of OCLC's notes for this stanza
 
