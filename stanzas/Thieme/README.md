@@ -1,5 +1,5 @@
 # Thieme
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thieme](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thieme) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme) **
 
 ## Some of OCLC's notes for this stanza
 

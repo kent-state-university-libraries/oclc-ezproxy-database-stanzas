@@ -1,0 +1,10 @@
+Option CookiePassThrough
+Title Rolling Stone (Added 20230404)
+URL http://www.rollingstone.com
+HJ https://www.rollingstone.com
+HJ http://rollingstone.com
+HJ https://rollingstone.com
+DJ www.rollingstone.com
+Find https:\/\/
+Replace https://
+Option Cookie

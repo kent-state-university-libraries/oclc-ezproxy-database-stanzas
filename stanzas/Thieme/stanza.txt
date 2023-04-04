@@ -1,5 +1,5 @@
-Title Thieme E-Journals (updated 20210111)
-URL https://www.thieme-connect.com/products/all/home.html
+T Thieme E-Journals (OCLC IncludeFile updated 20210111)
+U https://www.thieme-connect.com/products/all/home.html
 HJ http://www.thieme-connect.com
 HJ https://www.thieme-connect.de
 HJ www.thieme-connect.de
@@ -9,8 +9,8 @@ HJ profile.thieme.de
 DJ profile.thieme.de
 
 AnonymousURL -OPTIONS +http://cfs.thiemeteachingassistant.com/*
-Title Thieme Teaching Assistant (updated 20210215)
-URL https://www.thiemeteachingassistant.com
+Title Thieme Teaching Assistant (OCLC IncludeFile updated 20210215)
+U https://www.thiemeteachingassistant.com
 D thiemeteachingassistant.com
 H thiemeteachingassistant.com
 DJ thiemeteachingassistant.com
@@ -18,53 +18,60 @@ HJ thiemeteachingassistant.com
 NeverProxy cfs.thiemeteachingassistant.com
 AnonymousURL -*
 
-Title Pharmaceutical Substances (updated 20210215)
-URL https://pharmaceutical-substances.thieme.com
+Title MedOne Thieme Teaching Assistant Anatomy (OCLC IncludeFile updated 20230403)
+URL https://tta.thieme.com
+HJ tta.thieme.com
+HJ https://profile.thieme.de
+HJ http://profile.thieme.de
+DJ thieme.de
+
+Title Pharmaceutical Substances (OCLC IncludeFile updated 20210215)
+U https://pharmaceutical-substances.thieme.com
 D pharmaceutical-substances.thieme.com
 H pharmaceutical-substances.thieme.com
 DJ pharmaceutical-substances.thieme.com
 
-Title RÖMPP Online (updated 20210215)
-URL https://roempp.thieme.de
+Title RÖMPP Online (OCLC IncludeFile updated 20210215)
+U https://roempp.thieme.de
 D roempp.thieme.de
 H roempp.thieme.de
 DJ roempp.thieme.de
 
-Title Science of Synthesis (updated 20210927)
+T Science of Synthesis (OCLC IncludeFile updated 20210927)
 HTTPHeader -request -process X-Token
-URL https://science-of-synthesis.thieme.com/
+U https://science-of-synthesis.thieme.com/
 HJ http://science-of-synthesis.thieme.com
 HJ science-of-synthesis.thieme.com
 DJ science-of-synthesis.thieme.com
 HJ profile.thieme.de
 DJ profile.thieme.de
 
-Title Thieme Bilddatenbank Anatomie (updated 20201201)
-URL https://www.thiemebilddatenbankanatomie.de/
+T Thieme Bilddatenbank Anatomie (OCLC IncludeFile updated 20201201)
+U https://www.thiemebilddatenbankanatomie.de/
 HJ http://www.thiemebilddatenbankanatomie.de
 HJ thiemebilddatenbankanatomie.de
 DJ thiemebilddatenbankanatomie.de
 HJ profile.thieme.de
 DJ profile.thieme.de
 
-Title CNE (updated 20201201)
-URL http://www.thieme.de/cne/
+T CNE (OCLC IncludeFile updated 20201201)
+U http://www.thieme.de/cne/
 HJ https://www.thieme.de
 DJ thieme.de
 HJ thieme.de
 HJ profile.thieme.de
 DJ profile.thieme.de
 
-Title Thieme examen online (updated 20201201)
-URL https://examenonline.thieme.de/
+T Thieme examen online (OCLC IncludeFile updated 20201201)
+U https://examenonline.thieme.de/
 HJ http://examenonline.thieme.de
 HJ examenonline.thieme.de
 DJ examenonline.thieme.de
 HJ profile.thieme.de
 DJ profile.thieme.de
 
-Title eRef (updated 20201201)
-URL https://eRef.thieme.de/
+T eRef (OCLC IncludeFile updated 20201201)
+U https://eRef.thieme.de/
 HJ http://eRef.thieme.de
 HJ eRef.thieme.de
 DJ eRef.thieme.de
@@ -72,7 +79,7 @@ HJ profile.thieme.de
 DJ profile.thieme.de
 
 
-Title Thieme Via Medici (updated 20210712)
+Title Thieme Via Medici (OCLC IncludeFile updated 20210712)
 URL https://viamedici.thieme.de/
 HJ http://viamedici.thieme.de
 HJ viamedici.thieme.de

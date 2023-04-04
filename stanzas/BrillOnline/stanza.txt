@@ -2,13 +2,12 @@
 
 #Includes World Christian Database, World Religion Database and Arkyves
 AnonymousURL +https://labs.brill.com/lci2/*
-Title BrillOnline (updated 20230303)
+Title BrillOnline (Updated 20230404)
 HTTPHeader -request -process x-projectname
 HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
 URL https://www.brill.com
 HJ https://brill.com
-HJ http://www.brillonline.com
 HJ brill.com
 HJ bibliographies.brillonline.com
 HJ brillonline.com
@@ -23,7 +22,6 @@ HJ https://scholarlyeditions.brill.com
 HJ https://www.worldchristiandatabase.org
 HJ https://bibliographies.brillonline.com
 HJ https://bibliographies.brill.com
-HJ https://brillonline.com
 HJ https://chinesereferenceshelf.brillonline.com
 HJ https://dictionaries.brillonline.com
 HJ https://primarysources.brillonline.com
@@ -34,7 +32,6 @@ HJ http://arkyves.org
 HJ https://www.arkyves.org
 HJ www.arkyves.org
 HJ http://bibliographies.brill.com
-HJ https://www.worldchristiandatabase.org
 HJ www.worldchristiandatabase.org
 HJ https://worldreligiondatabase.org
 HJ https://www.worldreligiondatabase.org
@@ -54,11 +51,8 @@ HJ http://www.fink.de/
 HJ http://www.schoeningh.de/
 HJ http://www.mentis.de/
 HJ booksandjournals.brillonline.com
-HJ brillonline.com
 HJ https://booksandjournals.brillonline.com
 HJ https://brillonline.com
-HJ https://www.brillonline.com
-HJ www.brillonline.com
 DJ fink.de
 DJ schoeningh.de
 DJ mentis.de
