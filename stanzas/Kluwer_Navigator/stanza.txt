@@ -1,5 +1,5 @@
-Title Kluwer navigator (updated 20200717)
-URL https://navigator.kluwer.nl/
+T Kluwer navigator (Updated 20230404)
+U https://navigator.kluwer.nl/
 HJ broker.kluwer.nl
 HJ deeplinking.kluwer.nl
 HJ https://deeplinking.kluwer.nl
@@ -10,6 +10,8 @@ HJ https://idp.kluwer.nl
 HJ https://m.navigator.kluwer.nl
 HJ https://navigator.kluwer.nl
 HJ https://www.navigator.nl
+HJ https://new.navigator.nl
+HJ new.navigator.nl
 HJ m.navigator.kluwer.nl
 HJ navigator.kluwer.nl
 HJ valet.navigator.kluwer.nl
