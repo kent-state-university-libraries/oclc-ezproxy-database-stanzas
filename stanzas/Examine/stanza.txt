@@ -1,0 +1,6 @@
+AnonymousURL +https://api.examine.com/v1/*
+T Examine
+U https://examine.com
+HJ http://examine.com
+DJ examine.com
+AnonymousURL -*
