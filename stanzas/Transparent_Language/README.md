@@ -1,5 +1,5 @@
-# Transparent Language
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Transparent_Language](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Transparent_Language) **
+# Transparent Language Online
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Transparent_Language](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Transparent_Language) **
 
 ## Some of OCLC's notes for this stanza
 
