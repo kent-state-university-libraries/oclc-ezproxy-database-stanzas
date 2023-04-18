@@ -1,4 +1,7 @@
-Title Computing Reviews
-URL http://www.computingreviews.com/
+T Computing Reviews (OCLC IncludeFile updated 20230417)
+U https://www.computingreviews.com/
+HJ computingreviews.com
+HJ https://computingreviews.com
+HJ https://www.computingreviews.com
 HJ www.computingreviews.com
 DJ computingreviews.com
