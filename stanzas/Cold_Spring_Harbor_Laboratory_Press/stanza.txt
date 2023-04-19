@@ -1,5 +1,5 @@
-Title Cold Spring Harbor Laboratory Press (updated 20201210)
-URL https://www.cshlpress.org
+T Cold Spring Harbor Laboratory Press (OCLC IncludeFile updated 20230419)
+U https://www.cshlpress.org
 HJ cshperspectives.cshlp.org
 HJ cshprotocols.cshlp.org
 HJ genesdev.cshlp.org
@@ -13,6 +13,7 @@ HJ https://www.rnajournal.org
 HJ learnmem.cshlp.org
 HJ rnajournal.cshlp.org
 HJ rnajournal.org
+HJ m.cshprotocols.cshlp.org
 HJ symposium.cshlp.org
 HJ www.cshlp.org
 HJ www.cshlpress.org
