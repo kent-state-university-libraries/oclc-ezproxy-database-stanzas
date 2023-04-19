@@ -18,12 +18,13 @@ HJ thiemeteachingassistant.com
 NeverProxy cfs.thiemeteachingassistant.com
 AnonymousURL -*
 
-Title MedOne Thieme Teaching Assistant Anatomy (OCLC IncludeFile updated 20230403)
+Title MedOne Thieme Teaching Assistant Anatomy (OCLC IncludeFile updated 20230418)
 URL https://tta.thieme.com
 HJ tta.thieme.com
 HJ https://profile.thieme.de
 HJ http://profile.thieme.de
 DJ thieme.de
+DJ thieme.com
 
 Title Pharmaceutical Substances (OCLC IncludeFile updated 20210215)
 U https://pharmaceutical-substances.thieme.com
