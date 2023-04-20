@@ -1,5 +1,5 @@
-Title AHA Journals (Lippincott Williams & Wilkins-LWW) (updated 20201023)
-URL http://atvb.ahajournals.org/
+T AHA Journals (Lippincott Williams & Wilkins-LWW) (OCLC Includefile updated 20230420)
+U http://atvb.ahajournals.org/
 H advisor.lww.com
 H atvb.ahajournals.org
 H circep.ahajournals.org
@@ -26,6 +26,9 @@ H www.anesthesia-analgesia.org
 H www.jvir.org
 H www.nephrologytimes.com
 H www.neurology.org
+H https://www.neurology.org
+H https://neurology.org
+H neurology.org
 H www.newslettersonline.com
 H www.ovid.com
 H www.psychosomaticmedicine.org
