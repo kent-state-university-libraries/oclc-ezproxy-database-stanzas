@@ -1,9 +1,11 @@
 # Ovid
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ovid](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ovid) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Ovid](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Ovid) **
 
 ## Some of OCLC's notes for this stanza
 
 OCLC has completed provisional testing on this database definition. Modifications may be required once Ovid completely implements their new environment.
+
+&nbsp; Note:&nbsp;EZproxy stand-alone users, please add the CookieLaw stanza above the Ovid stanza to resolve the Cookie Banner pop-up issue.
 
 These additional lines should be included until the environment migration is complete.
 

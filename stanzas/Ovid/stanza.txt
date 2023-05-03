@@ -1,7 +1,7 @@
 HTTPMethod DELETE
 HTTPMethod PUT
 Option CookiePassThrough
-Title Ovid HTTPS (updated 20211022)
+Title Ovid HTTPS (OCLC IncludeFile updated 20230501)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
@@ -34,6 +34,9 @@ HJ https://insights.ovid.com
 HJ linksolver.ovid.com
 HJ linksolver.dc1.ovid.com
 HJ login.wolterskluwer.com
+HJ https://login.wolterskluwer.com
+HJ login.wolterskluwer.eu
+HJ https://login.wolterskluwer.eu
 HJ nursing.dc1.ovid.com
 HJ https://nursing.dc1.ovid.com
 HJ nursing.dc2.ovid.com

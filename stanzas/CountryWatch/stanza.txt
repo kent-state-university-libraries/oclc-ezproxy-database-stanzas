@@ -1,8 +1,12 @@
-Title CountryWatch
+Title CountryWatch (Updated 20230429)
 URL http://www.countrywatch.com/ip
-HJ www.countrywatch.com
+HJ https://www.countrywatch.com/ip
 HJ search.countrywatch.com
 HJ data.countrywatch.com
 HJ youthedition.countrywatch.com
 HJ forecast.countrywatch.com
+HJ services.countrywatch.com
+HJ pib.countrywatch.com
+HJ videos.countrywatch.com
+HJ countrywatch.com
 DJ countrywatch.com

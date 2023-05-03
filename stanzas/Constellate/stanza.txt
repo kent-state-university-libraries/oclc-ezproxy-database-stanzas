@@ -2,6 +2,7 @@ HTTPMethod PUT
 HTTPMethod PATCH
 HTTPMethod OPTIONS
 HTTPMethod DELETE
+AnonymousURL +https://api-prod.constellate.org/constellate/*
 AnonymousURL +https://auth-v3-prod.constellate.org/v1/sessions/create
 AnonymousURL +https://auth-v3-prod.constellate.org/action/showLogin
 AnonymousURL +https://auth-v3-prod.constellate.org/v1/accounts/*
@@ -30,11 +31,12 @@ AnonymousURL +https://backend.constellate.org/viz/*
 AnonymousURL +https://backend.constellate.org/email
 AnonymousURL +https://backend.constellate.org/list-routes
 AnonymousURL +https://backend.constellate.org/schema
-Title Constellate (Added 20220926)
+Title Constellate (updated 20230501)
 HTTPHeader -request -process X-Requested-With
 URL http://www.constellate.org
 HJ https://www.constellate.org
 HJ https://constellate.org
+HJ https://api-prod.constellate.org
 HJ https://auth-v3-prod.constellate.org
 HJ https://backend.constellate.org
 HJ https://backend-v3-prod.constellate.org
