@@ -1,4 +1,5 @@
-Title SpringerLink (updated 20220517)
+Option DomainCookieOnly
+Title SpringerLink (Updated OCLC IncludeFile 20230502)
 URL https://link.springer.com
 HJ aa.springer.de
 HJ adisonline.com
@@ -27,3 +28,11 @@ DJ springerlink.com
 DJ springer.com
 DJ sprn.gr
 DJ springer-ny.com
+Find id="doi-url">https://
+Replace id="doi-url">https://^A
+Find DOI: https://
+Replace DOI: https://^A
+Find DOI: https://
+Replace  DOI: https://^A
+NeverProxy static-content.springer.com
+Option Cookie

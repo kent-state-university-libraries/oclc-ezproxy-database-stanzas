@@ -1,5 +1,5 @@
 # EBSCO Information Services
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCO_Information_Services](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCO_Information_Services) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services) **
 
 ## Some of OCLC's notes for this stanza
 

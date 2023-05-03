@@ -1,0 +1,9 @@
+Title Mathematical Reports (Added 20230501)
+URL https://mr.math.ca/
+HJ http://mr.math.ca/
+HJ https://cr.math.ca
+HJ http://cr.math.ca
+HJ https://mathreports.ca
+HJ http://mathreports.ca
+DJ mathreports.ca
+DJ math.ca

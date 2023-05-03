@@ -6,9 +6,10 @@ HJ linksource.ebsco.com
 HJ https://linksource.ebsco.com
 Option Cookie
 #
+ProxyHostnameEdit healthlibrary.epnet.com$ healthlibrary-epnet-com
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (OCLC IncludeFile updated 20230206)
+Title EBSCOhost (OCLC IncludeFile updated 20230501)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process X-EIS-STSTOKEN
@@ -78,6 +79,10 @@ HJ https://publications.ebsco.com/
 HJ publications.ebsco.com
 DJ publications.ebsco.com
 HJ www.europeanamericana.com
+HJ healthlibrary.epnet.com
+HJ https://healthlibrary.epnet.com
+HJ therapy.epnet.com
+HJ https://therapy.epnet.com
 Find proxy.cfm?url=http://
 Replace proxy.cfm?url=http://^A
 Find /login?url=http://
