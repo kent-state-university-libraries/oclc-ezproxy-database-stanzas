@@ -1,11 +1,12 @@
-Title PressReader (updated 20200714)
+Title PressReader (OCLC IncludeFile updated 20230425)
 HTTPHeader -request -process Access-Control-Allow-*
 URL https://www.pressreader.com
 HJ https://library.pressdisplay.com
-HJ https://www.pressreader.com
+HJ https://pressreader.com
 Host https://www.pressdisplay.com
+HJ https://www.pressreader.com
+HJ pressreader.com
 Host www.pressreader.com
-Host https://www.pressreader.com
 DJ pressdisplay.com
 D pressreader.com
 HJ ndcdsca005.cloudapp.net

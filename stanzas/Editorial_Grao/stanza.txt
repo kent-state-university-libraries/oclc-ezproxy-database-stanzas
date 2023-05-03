@@ -1,5 +1,5 @@
-Title Editorial Grao (updated 20200414)
-URL https://www.grao.com/
+T Editorial Grao (OCLC IncludeFile updated 20230427)
+U https://www.grao.com/
 HJ alambique.grao.com
 HJ articles.grao.com
 HJ aula.grao.com
@@ -7,6 +7,7 @@ HJ auladesecundaria.grao.com
 HJ aulainfantil.grao.com
 HJ crecerenfamilia.grao.com
 HJ eufonia.grao.com
+HJ grao.co
 HJ guix.grao.com
 HJ https://alambique.grao.com
 HJ https://articles.grao.com
@@ -15,15 +16,18 @@ HJ https://auladesecundaria.grao.com
 HJ https://aulainfantil.grao.com
 HJ https://crecerenfamilia.grao.com
 HJ https://eufonia.grao.com
+HJ https://grao.co
 HJ https://guix.grao.com
 HJ https://iber.grao.com
 HJ https://tandem.grao.com
 HJ https://textos.grao.com
 HJ https://uno.grao.com
-HJ https://www.grao.com
+HJ https://www.grao.co
 HJ iber.grao.com
 HJ tandem.grao.com
 HJ textos.grao.com
 HJ uno.grao.com
+HJ www.grao.co
 HJ www.grao.com
+DJ grao.co
 DJ grao.com

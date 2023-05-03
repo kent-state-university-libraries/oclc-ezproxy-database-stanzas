@@ -1,16 +1,19 @@
-Title Portland Press Limited (updated 20200513)
-URL http://www.portlandpress.com/
-HJ https://www.portlandpress.com
-HJ https://portlandpress.com
+T Portland Press Limited (Updated 20230425)
+U https://portlandpress.com/
 HJ bab.portlandpress.com
+HJ biochemistry.org
 HJ bst.portlandpress.com
 HJ cs.portlandpress.com
 HJ essays.biochemistry.org
+HJ https://biochemistry.org
+HJ https://www.biochemistry.org
+HJ https://www.portlandpress.com
 HJ neuronalsignaling.org
 HJ portlandpress.com
 HJ portlandpresspublishing.com
 HJ symposia.biochemistry.org
 HJ www.asnneuro.org
+HJ www.biochemistry.org
 HJ www.biochemj.org
 HJ www.biochemsoctrans.org
 HJ www.biolcell.org

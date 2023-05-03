@@ -1,6 +1,6 @@
 Option DomainCookieOnly
-Title Teaching Times (updated 20181210)
-URL https://www.teachingtimes.com/
+T Teaching Times (OCLC IncludeFile updated 20230425)
+U https://www.teachingtimes.com/
 H creativeteachingandlearning.teachingtimes.com
 H e-learning-update.teachingtimes.com
 H everychildjournal.teachingtimes.com
@@ -20,6 +20,7 @@ H library.teachingtimes.com
 H professionaldevelopmenttoday.teachingtimes.com
 H schoolleadershiptoday.teachingtimes.com
 H teachingtimes.com
+H www.teachingtimes.com
 H www.teachingtimeslibrary.co.uk
 DJ teachingtimes.com
 DJ teachingtimeslibrary.co.uk

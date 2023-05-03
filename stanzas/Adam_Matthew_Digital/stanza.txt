@@ -1,12 +1,12 @@
-Title Adam Matthew Digital (updated 20230404)
+Title Adam Matthew Digital (updated 20230427)
 URL http://www.login.amdigital.co.uk
-HJ https://www.amresearchmethods.amdigital.co.uk
-HJ https://www.amscholar.amdigital.co.uk
-HJ https://www.login.amdigital.co.uk
-HJ www.login.amdigital.co.uk
+HJ broadcastingamerica.amdigital.co.uk
+HJ https://broadcastingamerica.amdigital.co.uk
+HJ https://royalshakespearecompanyarchives.amdigital.co.uk
 HJ https://www.18thcjournals.amdigital.co.uk
 HJ https://www.aac.amdigital.co.uk
 HJ https://www.aap.amdigital.co.uk
+HJ https://www.africaandthenewimperialism.amdigital.co.uk
 HJ https://www.africanamericancommunities.amdigital.co.uk
 HJ https://www.aihc.amdigital.co.uk
 HJ https://www.am-explorer.com
@@ -16,6 +16,8 @@ HJ https://www.americanconsumerculture.amdigital.co.uk
 HJ https://www.americanindiannewspapers.amdigital.co.uk
 HJ https://www.americanwest.amdigital.co.uk
 HJ https://www.amresearchmethods.amdigital.co.uk
+HJ https://www.amresearchmethods.amdigital.co.uk
+HJ https://www.amscholar.amdigital.co.uk
 HJ https://www.amscholar.amdigital.co.uk
 HJ https://www.archiveexplorer.amdigital.co.uk
 HJ https://www.archivesdirect.amdigital.co.uk
@@ -41,13 +43,16 @@ HJ https://www.gender.amdigital.co.uk
 HJ https://www.genderidentityandsocialchange.amdigital.co.uk
 HJ https://www.gildedage.amdigital.co.uk
 HJ https://www.globalcommodities.amdigital.co.uk
+HJ https://www.grandtour.amdigital.co.uk
 HJ https://www.indiaraj.amdigital.co.uk
 HJ https://www.interwarculture.amdigital.co.uk
 HJ https://www.jewishlife.amdigital.co.uk
 HJ https://www.jwtadvertisingamerica.amdigital.co.uk
+HJ https://www.lifeatsea.amdigital.co.uk
 HJ https://www.literarymanuscriptsberg.amdigital.co.uk
 HJ https://www.literarymanuscriptsleeds.amdigital.co.uk
 HJ https://www.literaryprintculture.amdigital.co.uk
+HJ https://www.login.amdigital.co.uk
 HJ https://www.londonlowlife.amdigital.co.uk
 HJ https://www.marketresearch.amdigital.co.uk
 HJ https://www.massobservation.amdigital.co.uk
@@ -67,6 +72,7 @@ HJ https://www.researchmethodsprimarysources.amdigital.co.uk
 HJ https://www.researchsource.amdigital.co.uk
 HJ https://www.rockandroll.amdigital.co.uk
 HJ https://www.romanticism.amdigital.co.uk
+HJ https://www.royalshakespearecompanyarchives.amdigital.co.uk
 HJ https://www.servicenewspapers.amdigital.co.uk
 HJ https://www.sexandsexuality.amdigital.co.uk
 HJ https://www.shakespeareinperformance.amdigital.co.uk
@@ -79,27 +85,25 @@ HJ https://www.victorianpopularculture.amdigital.co.uk
 HJ https://www.victoriansonfilm.amdigital.co.uk
 HJ https://www.virginiacompanyarchives.amdigital.co.uk
 HJ https://www.worldsfairs.amdigital.co.uk
-HJ https://www.lifeatsea.amdigital.co.uk
-HJ https://www.grandtour.amdigital.co.uk
-HJ https://www.africaandthenewimperialism.amdigital.co.uk
-HJ https://broadcastingamerica.amdigital.co.uk
 HJ resources.amdigital.co.uk
+HJ royalshakespearecompanyarchives.amdigital.co.uk
 HJ www.aap.amdigital.co.uk
+HJ www.africaandthenewimperialism.amdigital.co.uk
 HJ www.am-explorer.com
 HJ www.americanhistory.amdigital.co.uk
 HJ www.amresearchmethods.amdigital.co.uk
 HJ www.amscholar.amdigital.co.uk
 HJ www.archiveexplorer.amdigital.co.uk
 HJ www.archivesdirect.amdigital.co.uk
+HJ www.broadcastingamerica.amdigital.co.uk
 HJ www.empire.amdigital.co.uk
 HJ www.grandtour.amdigital.co.uk
+HJ www.login.amdigital.co.uk
 HJ www.medievalfamilylife.amdigital.co.uk
 HJ www.migration.amdigital.co.uk
+HJ www.royalshakespearecompanyarchives.amdigital.co.uk
 HJ www.slavery.amdigital.co.uk
 HJ www.travelwriting.amdigital.co.uk
-HJ www.africaandthenewimperialism.amdigital.co.uk
-HJ www.broadcastingamerica.amdigital.co.uk
-HJ broadcastingamerica.amdigital.co.uk
 DJ amdigital.co.uk
 
 Find "http://"+getPrefix()+".massobservation.amdigital.co.uk/

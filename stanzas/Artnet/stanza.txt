@@ -1,0 +1,9 @@
+Title Artnet (Added 20230501)
+URL https://www.artnet.com
+HJ https://www.artnet.com
+HJ http://www.artnet.com
+HJ https://login.artnet.com
+HJ http://login.artnet.com
+HJ https://gateway.artnet.com
+HJ http://gateway.artnet.com
+DJ artnet.com
