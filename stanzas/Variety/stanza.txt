@@ -1,0 +1,13 @@
+Option CookiePassThrough
+Title Variety (updated 20230501)
+URL https://variety.com
+HJ http://variety.com
+HJ https://www.varietyultimate.com
+HJ http://www.varietyultimate.com
+HJ https://varietyultimate.com
+HJ http://varietyultimate.com
+DJ varietyultimate.com
+DJ variety.com
+Find https:\/\/
+Replace https://
+Option Cookie
