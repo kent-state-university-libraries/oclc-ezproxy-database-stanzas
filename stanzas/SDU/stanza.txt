@@ -1,6 +1,6 @@
-Title SDU (updated 20211026)
+T SDU (OCLC IncludeFile updated 20230509)
 HTTPHeader -request -process Book-Authorization
-URL http://www.sdu.nl/
+U http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
 HJ advocatensupport.sdu.nl
 HJ advocatiemagazine.sdu.nl
@@ -38,6 +38,7 @@ HJ https://nationaliteitsrecht.sdu.nl
 HJ https://ndsz.nl
 HJ https://notariaat.sdu.nl
 HJ https://opmaat.sdu.nl
+HJ https://opmaat2.sdu.nl
 HJ https://portal.vindbestuursrecht.nl
 HJ https://portal.vindburgerzaken.nl
 HJ https://portal.vindhandhaving.nl
@@ -65,6 +66,7 @@ HJ nationaliteitsrecht.sdu.nl
 HJ ndsz.nl
 HJ notariaat.sdu.nl
 HJ opmaat.sdu.nl
+HJ opmaat2.sdu.nl
 HJ opmaataanbestedingsrecht.sdu.nl
 HJ opmaatafval.sdu.nl
 HJ opmaatarbeidsrecht.sdu.nl
