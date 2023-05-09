@@ -1,4 +1,4 @@
-itle Thesaurus Linguae Graecae (Updated 20230505)
+Title Thesaurus Linguae Graecae (Updated 20230505)
 HTTPHeader -request -process X-Requested-With
 URL https://stephanus.tlg.uci.edu/
 HJ http://stephanus.tlg.uci.edu/
