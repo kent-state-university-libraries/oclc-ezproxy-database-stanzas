@@ -1,7 +1,7 @@
 HTTPMethod OPTIONS
 AnonymousURL -Options +https://appapi.chiltonlibrary.com/*
 AnonymousURL +https://appapi.chiltonlibrary.com/*
-Title Gale Products (updated 20230106)
+Title Gale Products (updated 20230509)
 URL https://link.gale.com/apps/menu
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
@@ -29,6 +29,7 @@ HJ https://auth.go.gale.com
 HJ https://bi.gale.com
 HJ https://dnow.gale.com
 HJ https://find.gale.com
+HJ https://find.galegroup.com
 HJ https://galenet.gale.com
 HJ https://gdc.gale.com
 HJ https://go.gale.com
