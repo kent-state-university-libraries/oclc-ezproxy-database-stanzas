@@ -1,0 +1,7 @@
+Title American National Biography Online (OCLC IncludeFile updated 20230515)
+URL https://www.anb.org
+HJ anb.org
+HJ https://anb.org
+HJ www.anb.org
+DJ anb.org
+#This resource also required the Oxford Reference stanza
