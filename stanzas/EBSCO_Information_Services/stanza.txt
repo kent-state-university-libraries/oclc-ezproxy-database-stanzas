@@ -9,7 +9,7 @@ Option Cookie
 ProxyHostnameEdit healthlibrary.epnet.com$ healthlibrary-epnet-com
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (OCLC IncludeFile updated 20230501)
+Title EBSCOhost (OCLC IncludeFile updated 20230515)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process X-EIS-STSTOKEN
@@ -83,6 +83,8 @@ HJ healthlibrary.epnet.com
 HJ https://healthlibrary.epnet.com
 HJ therapy.epnet.com
 HJ https://therapy.epnet.com
+HJ https://research.ebsco.com
+HJ research.ebsco.com
 Find proxy.cfm?url=http://
 Replace proxy.cfm?url=http://^A
 Find /login?url=http://
@@ -99,10 +101,9 @@ NeverProxy rpsimages.ebscohost.com
 NeverProxy epmedia.ebscohost.com
 NeverProxy imageserver.ebscohost.com
 NeverProxy *.footnotelibrary.com
-#NeverProxy *.ebsco-content.com
 NeverProxy app.rs.ebscohost.com
 NeverProxy media.rs.ebscohost.com
-neverProxy neverproxy.ebsco.com
+NeverProxy neverproxy.ebsco.com
 NeverProxy vttts.rs.ebscohost.com
 NeverProxy nvntts.rs.ebscohost.com
 NeverProxy ivotts.rs.ebscohost.com

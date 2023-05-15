@@ -1,0 +1,6 @@
+ProxyHostnameEdit www.mgebooks.cn$ www-mgebooks-cn
+T Modern Chinese Books Database (Added 20230515)
+U https://www.mgebooks.cn
+HJ https://www.mgebooks.cn
+HJ www.mgebooks.cn
+DJ mgebooks.cn
