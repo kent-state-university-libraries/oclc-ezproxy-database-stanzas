@@ -1,14 +1,16 @@
 ProxyHostnameEdit ^exacteditions.com$ exacteditions-com
 ProxyHostnameEdit .exacteditions.com$ -exacteditions-com
-Title Exact Editions (updated 20190410)
+Title Exact Editions (OCLC IncludeFile updated 20230519)
 URL http://www.exacteditions.com/
 HJ exacteditions.com
 HJ https://exacteditions.com
 HJ https://login.exacteditions.com
+HJ https://papyrus.exacteditions.com
 HJ https://reader.exacteditions.com
 HJ https://shop.exacteditions.com
 HJ https://www.exacteditions.com
 HJ login.exacteditions.com
+HJ papyrus.exacteditions.com
 HJ reader.exacteditions.com
 HJ shop.exacteditions.com
 DJ exacteditions.com
