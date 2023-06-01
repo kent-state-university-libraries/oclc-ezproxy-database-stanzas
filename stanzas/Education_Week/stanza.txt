@@ -1,7 +1,10 @@
-Title Education Week (updated 20220627)
-URL https://www.edweek.org
-HJ edweek.org
-HJ https://edweek.org
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS https://www.pelcro.com/*
+AnonymousURL +https://www.pelcro.com/*
+AnonymousURL +https://www.edweek.org/*
+Title Education Week (OCLC IncludeFile updated 20230601)
+URL https://www.edweek.org/
 HJ www.edweek.org
 DJ edweek.org
-DJ erightsweb.com
+DJ pelcro.com
+AnonymousURL -*
