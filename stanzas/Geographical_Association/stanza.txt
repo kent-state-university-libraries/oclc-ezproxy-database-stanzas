@@ -1,0 +1,7 @@
+T Geographical Association (updated 20230606)
+U https://www.geography.org.uk/
+HJ https://portal.geography.org.uk
+HJ portal.geography.org.uk
+HJ www.geography.org.uk
+HJ geography.org.uk
+DJ geography.org.uk
