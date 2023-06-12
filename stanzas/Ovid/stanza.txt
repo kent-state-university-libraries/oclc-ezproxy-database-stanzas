@@ -58,7 +58,7 @@ HJ ovidsp.ovid.com
 HJ jbi.dc1.ovid.com
 HJ jbi.dc2.ovid.com
 HJ api.my.jbi.global
-https://api.my.jbi.global
+HJ https://api.my.jbi.global
 HJ app.paces.jbi.global
 HJ https://ovidsp.ovid.com
 HJ ovidsp.dc1.ovid.com
