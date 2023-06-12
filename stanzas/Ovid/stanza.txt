@@ -1,7 +1,9 @@
+#This stanza is required to resolve the Cookie Banner popup solution IncludeFile databases/cookielaw.txt
+
 HTTPMethod DELETE
 HTTPMethod PUT
 Option CookiePassThrough
-Title Ovid HTTPS (OCLC IncludeFile updated 20230501)
+Title Ovid HTTPS (OCLC IncludeFile updated 20230612)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
@@ -56,6 +58,7 @@ HJ ovidsp.ovid.com
 HJ jbi.dc1.ovid.com
 HJ jbi.dc2.ovid.com
 HJ api.my.jbi.global
+https://api.my.jbi.global
 HJ app.paces.jbi.global
 HJ https://ovidsp.ovid.com
 HJ ovidsp.dc1.ovid.com
