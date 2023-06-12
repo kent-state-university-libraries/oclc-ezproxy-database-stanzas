@@ -1,5 +1,7 @@
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://assets.lovethework.com*
 AnonymousURL -OPTIONS +https://gemini-backend.lovethework.com*
-Title Love the Work (updated 20230106)
+Title Love the Work (updated 20230612)
 URL https://www.lovethework.com
 HJ https://lovethework.com
 HJ lovethework.com

@@ -1,4 +1,10 @@
-Title Vitallaw Premium (updated 20211101)
+Title Vitallaw Premium (OCLC IncludeFile updated 20230612)
+Mimefilter application/json .* javascript
+HTTPHeader -request -process X-GWT-*
+HTTPHeader -request -process X-ApiKey
+HTTPHeader -request -process X-CPID
+HTTPHeader -request -process X-Api-Key
+HTTPHeader -request -process X-CSRF-Token
 URL https://my.vitallaw.com
 HJ http://my.vitallaw.com
 HJ https://login.wolterskluwer.com
@@ -13,6 +19,5 @@ DJ IntelliConnect.cch.com
 DJ cch.com
 DJ wolterskluwer.com
 DJ vitallaw.com
-Mimefilter application/json .* javascript
 Find http:\/\/
 Replace http://
