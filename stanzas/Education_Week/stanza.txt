@@ -1,10 +1,5 @@
-HTTPMethod OPTIONS
-AnonymousURL -OPTIONS https://www.pelcro.com/*
-AnonymousURL +https://www.pelcro.com/*
-AnonymousURL +https://www.edweek.org/*
-Title Education Week (OCLC IncludeFile updated 20230601)
+Title Education Week (OCLC IncludeFile updated 20230615)
 URL https://www.edweek.org/
 HJ www.edweek.org
 DJ edweek.org
 DJ pelcro.com
-AnonymousURL -*
