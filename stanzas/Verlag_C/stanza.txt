@@ -1,0 +1,9 @@
+T Verlag C.H.Beck (OCLC IncludeFile updated 20230414)
+HTTPHeader -request -process X-Requested-With
+U https://beck-online.beck.de/Home
+H beck-online.beck.de
+H chbeck.metapress.com
+H https://beck-online.beck.de
+H rsw.beck.de
+DJ beck.de
+DJ metapress.com
