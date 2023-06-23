@@ -1,0 +1,8 @@
+T CareLit (OCLC IncludeFile updated 20230623)
+U https://app.carelit.de
+HJ app.carelit.de
+HJ carelit.de
+HJ https://carelit.de
+HJ https://www.carelit.de
+HJ www.carelit.de
+DJ carelit.de
