@@ -1,5 +1,5 @@
 # Factiva
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Factiva](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Factiva) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Factiva](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Factiva) **
 
 ## Some of OCLC's notes for this stanza
 
