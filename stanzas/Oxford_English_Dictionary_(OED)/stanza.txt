@@ -1,0 +1,25 @@
+Option CookiePassThrough
+HTTPMethod OPTIONS
+HTTPMethod PATCH
+HTTPMethod DELETE
+AnonymousURL -OPTIONS +https://oed.com/css/*
+AnonymousURL +https://oed.com/css/*
+Title Oxford English Dictionary (OED) (Updated 20230705)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
+URL https://www.oed.com
+HJ https://oed.com/
+HJ https://www.oed.com/
+HJ https://oup-idp.sams-sigma.com
+HJ https://oup3-idp.sams-sigma.com
+HJ https://oup2-idp.sams-sigma.com
+HJ oed.com
+HJ dictionary.oed.com
+HJ english.oxforddictionaries.com
+HJ oxforddictionaries.com
+DJ oed.com
+DJ oxforddictionaries.com
+DJ oed-text-visualizer.oxfordlanguages.com
+DJ sams-sigma.com
+AnonymousURL -*
+NeverProxy cdn.privado.ai
+Option Cookie
