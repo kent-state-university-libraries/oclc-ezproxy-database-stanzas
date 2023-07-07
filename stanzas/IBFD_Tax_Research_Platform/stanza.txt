@@ -1,0 +1,14 @@
+Title IBFD Tax Research Platform (OCLC IncludeFile updated 20230707)
+HTTPHeader -request -process X-Prototype-Version
+HTTPHeader -request -process sdcsrf
+URL https://research.ibfd.org
+HJ https://ibfd.org
+HJ https://library.ibfd.org
+HJ https://online.ibfd.org
+HJ https://www.ibfd.org
+HJ ibfd.org
+HJ library.ibfd.org
+HJ online.ibfd.org
+HJ research.ibfd.org
+HJ www.ibfd.org
+DJ ibfd.org
