@@ -9,7 +9,7 @@
 # This method allows you to replace the file at a later date
 # without the need to integrate updates directly into config.txt/ezproxy.cfg
 #
-Title Sage Journals (updated 20230707)
+Title Sage Journals (updated 20230710)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process __RequestVerificationToken
 HTTPHeader -request -process X-XSRF-Token
@@ -35,6 +35,8 @@ HJ www.physiology.org
 HJ www.sagepub.co.uk
 HJ www.sagepub.com
 HJ campus.sagepub.com
+HJ cqpress.sagepub.com
+HJ https://cqpress.sagepub.com
 HJ https://campus.sagepub.com
 HJ https://advance.sagepub.com/
 HJ https://au.sagepub.com

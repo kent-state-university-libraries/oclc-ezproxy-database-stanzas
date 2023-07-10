@@ -1,9 +1,0 @@
-Title CQ Researcher  (updated 20230106)
-URL http://library.cqpress.com/cqresearcher/
-HJ library.cqpress.com
-DJ library.cqpress.com
-DJ cqpress.com
-Find &url=http://
-Replace &url=http://^A
-Find &url=https://
-Replace &url=https://^A
