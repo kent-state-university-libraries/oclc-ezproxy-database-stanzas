@@ -1,7 +1,9 @@
-Title -hide Weston Medical Publishing (updated 20220602)
+Title -hide Weston Medical Publishing (Updated 20230710)
 URL https://wmpllc.org/
 HJ http://wmpllc.org/
 DJ wmpllc.org
+Find wmpllc.org
+Replace ^swmpllc.org^
 
 Title Journal of Emergency Management
 URL http://www.emergencymanagementjournal.com
