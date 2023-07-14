@@ -1,4 +1,4 @@
-Title -hide Weston Medical Publishing (Updated 20230710)
+Title -hide Weston Medical Publishing (Updated 20230714)
 URL https://wmpllc.org/
 HJ http://wmpllc.org/
 DJ wmpllc.org
@@ -7,16 +7,16 @@ Replace ^swmpllc.org^
 
 Title Journal of Emergency Management
 URL http://www.emergencymanagementjournal.com
-HJ https://emergencymanagementjournal.com
+HJ http://emergencymanagementjournal.com
 
 Title American Journal of Disaster Medicine
 URL http://www.disastermedicinejournal.com
-HJ https://disastermedicinejournal.com
+HJ http://disastermedicinejournal.com
 
 Title Journal of Opioid Management
 URL http://www.opioidmanagement.com
-HJ https://opoidmanagement.com
+HJ http://opioidmanagement.com
 
 Title American Journal of Recreation Therapy
 URL http://www.recreationtherapy.org
-HJ https://recreationtherapy.org
+HJ http://recreationtherapy.org
