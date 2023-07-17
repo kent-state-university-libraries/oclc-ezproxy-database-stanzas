@@ -1,0 +1,10 @@
+T HathiTrust Digital Library (Updated 20230717)
+U https://www.hathitrust.org
+HJ https://www.hathitrust.org
+HJ www.hathitrust.org
+HJ hathitrust.org
+HJ https://babel.hathitrust.org
+HJ babel.hathitrust.org
+HJ https://catalog.hathitrust.org
+HJ catalog.hathitrust.org
+DJ hathitrust.org
