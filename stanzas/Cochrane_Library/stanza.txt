@@ -1,26 +1,28 @@
-Title Cochrane (updated 202220815)
+Title Cochrane (Updated 20230717)
 HTTPHeader -request -process X-Requested-With
 URL http://www.cochranelibrary.com/
 HJ cochrane.org
-HJ cochranelibrary.com
 HJ cochranelibrary-wiley.com
+HJ cochranelibrary.com
 HJ handbook.cochrane.org
+HJ https://cochrane.org
+HJ https://cochranelibrary-wiley.com
+HJ https://cochranelibrary.com
+HJ https://handbook.cochrane.org
+HJ https://revman.cochrane.org
+HJ https://thecochranelibrary.com
+HJ https://training.cochrane.org
+HJ https://www.cochrane.org
+HJ https://www.cochranelibrary.com
+HJ https://www.thecochranelibrary.com
+HJ https://www.wileyhealthlearning.com
+HJ revman.cochrane.org
 HJ thecochranelibrary.com
 HJ training.cochrane.org
 HJ www.cochrane.org
 HJ www.cochranejournalclub.com
 HJ www.cochranelibrary.com
 HJ www.thecochranelibrary.com
-HJ https://cochrane.org
-HJ https://cochranelibrary.com
-HJ https://cochranelibrary-wiley.com
-HJ https://handbook.cochrane.org
-HJ https://thecochranelibrary.com
-HJ https://www.cochrane.org
-HJ https://www.cochranelibrary.com
-HJ https://www.thecochranelibrary.com
-HJ https://www.wileyhealthlearning.com
-HJ https://training.cochrane.org
 DJ cochrane.org
 DJ cochranejournalclub.com
 DJ cochranelibrary.com
