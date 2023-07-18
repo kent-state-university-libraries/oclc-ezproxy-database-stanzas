@@ -4,12 +4,19 @@ ProxyHostnameEdit taxcalendar.cch.com$ taxcalendar-cch-com
 ProxyHostnameEdit tools.cch.com$ tools-cch-com
 ProxyHostnameEdit smartcharts.cch.com$ smartcharts-cch-com
 ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
-Title CCH IntelliConnect (updated 20220124)
+Title CCH IntelliConnect (OCLC IncludeFile udpated 20230718)
+Mimefilter application/json .* javascript
 HTTPHeader -request -process X-GWT-*
 HTTPHeader -request -process X-ApiKey
 HTTPHeader -request -process X-CPID
+HTTPHeader -request -process X-CSRF-Token
 URL https://intelliconnect.cch.com
 HJ https://intelliconnect.cch.com
+HJ https://tax.cchgroup.com
+HJ https://tools.cch.com
+HJ https://calculators.cch.com
+HJ https://smartcharts.cch.com
+HJ https://taxcalendar.cch.com
 DJ kluwercompetitionlaw.com
 DJ kluwerarbitration.com
 DJ kluweriplaw.com
@@ -17,9 +24,3 @@ DJ cch.com
 DJ taxcomply.com
 DJ www.salestaxradar.com
 DJ wolterskluwer.com
-HJ https://tax.cchgroup.com
-HJ https://tools.cch.com
-HJ https://calculators.cch.com
-HJ https://smartcharts.cch.com
-HJ https://taxcalendar.cch.com
-Mimefilter application/json .* javascript
