@@ -1,14 +1,15 @@
-T BREPOLiS (updated 20230717)
+T BREPOLiS (updated 20230718)
 URL http://apps.brepolis.net/LTool/Entrance.aspx?w=1
-HJ brepolis.net
-HJ www.brepolis.net
-HJ clt.brepolis.net
-HJ apps.brepolis.net
-HJ cpps.brepolis.net
 HJ about.brepolis.net
+HJ brepolis.net
+HJ clt.brepolis.net
+HJ cpps.brepolis.net
 HJ https://about.brepolis.net
-HJ https://www.brepolis.net
+HJ https://apps.brepolis.net
 HJ https://brepolis.net
+HJ https://cpps.brepolis.net
+HJ https://www.brepolis.net
+HJ www.brepolis.net
 DJ brepolis.net
 DJ www.brepolis.net
 DJ clt.brepolis.net
