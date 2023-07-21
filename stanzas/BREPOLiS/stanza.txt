@@ -1,18 +1,23 @@
-T BREPOLiS (OCLC IncludeFile updated 20230718)
-URL http://apps.brepolis.net/LTool/Entrance.aspx?w=1
+T BREPOLiS (OCLC IncludeFile updated 20230721)
+U http://apps.brepolis.net/LTool/Entrance.aspx?w=1
 HJ about.brepolis.net
 HJ brepolis.net
+HJ clavis.brepols.net
 HJ clt.brepolis.net
 HJ cpps.brepolis.net
 HJ https://about.brepolis.net
 HJ https://apps.brepolis.net
 HJ https://brepolis.net
+HJ https://clavis.brepols.net
 HJ https://clt.brepolis.net
 HJ https://cpps.brepolis.net
 HJ https://www.brepolis.net
 HJ www.brepolis.net
 DJ brepolis.net
-DJ www.brepolis.net
-DJ clt.brepolis.net
-DJ apps.brepolis.net
-DJ cpps.brepolis.net
+DJ brepols.net
+Find window.location.href = "//apps.brepolis.net/
+Replace window.location.href = "https://^Sapps.brepolis.net^/
+Find window.location.href = "//cpps.brepolis.net/
+Replace window.location.href = "https://^Scpps.brepolis.net^/
+Find window.location.href = "//clt.brepolis.net/
+Replace window.location.href = "https://^Sclt.brepolis.net^/
