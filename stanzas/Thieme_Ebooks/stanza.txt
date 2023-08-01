@@ -1,4 +1,0 @@
-T Thieme Ebooks
-U http://ebooks.thieme.com
-H ebooks.thieme.com
-DJ ebooks.thieme.com

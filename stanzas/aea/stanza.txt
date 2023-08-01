@@ -1,9 +1,0 @@
-HTTPHeader X-CSRF-Token
-HTTPHeader X-Key
-HTTPHeader X-Requested-With
-Title American Economic Association
-URL https://www.aeaweb.org/
-HJ aeaweb.org
-HJ pubs.aeaweb.org
-HJ www.aeaweb.org
-DJ aeaweb.org

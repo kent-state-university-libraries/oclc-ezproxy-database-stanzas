@@ -1,4 +1,0 @@
-T Sage Reference
-U http://www.sage-ereference.com/
-H www.sage-ereference.com
-DJ sage-ereference.com

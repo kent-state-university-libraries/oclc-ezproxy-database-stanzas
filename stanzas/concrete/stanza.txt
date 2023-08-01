@@ -1,7 +1,0 @@
-Title American Concrete Institute
-URL https://www.concrete.org/securedsignin.aspx
-DJ concrete.org
-Find name="dnn$ctr11973$Login$txtUsername"
-Replace name="dnn$ctr11973$Login$txtUsername" value="USERNAMEHERE"
-Find name="dnn$ctr11973$Login$txtPassword"
-Replace name="dnn$ctr11973$Login$txtPassword" value="PASSWORDHERE"

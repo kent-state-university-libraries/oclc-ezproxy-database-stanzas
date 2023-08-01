@@ -1,9 +1,0 @@
-Title Max Planck Encyclopedia of Public International Law
-URL http://opil.ouplaw.com/
-HJ mpepil.com
-HJ opil.ouplaw.com
-HJ oxfordlawreports.com
-HJ www.mpepil.com
-HJ www.opil.ouplaw.com
-HJ www.oxfordlawreports.com
-DJ ouplaw.com 

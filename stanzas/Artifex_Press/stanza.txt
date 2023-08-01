@@ -1,8 +1,0 @@
-Title Cahiers d'Art Institute (updated 20210928)
-HTTPHeader -request -process X-CSRF-Token
-URL https://www.cahiersdartinstitute.org/
-HJ http://www.cahiersdartinstitute.org
-HJ https://www.artifexpress.com
-HJ http://www.artifexpress.com
-DJ artifexpress.com
-DJ cahiersdartinstitute.org

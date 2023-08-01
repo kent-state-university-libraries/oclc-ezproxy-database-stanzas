@@ -1,8 +1,0 @@
-Title Ready Reference
-HTTPHeader -request -process X-Requested-With
-HTTPHeader -request -process X-GWT-*
-URL https://readyreference.data-planet.com
-HJ http://readyreference.data-planet.com
-DJ data-planet.com
-DJ conquestsystems.com
-DJ data-planet.libguides.com
