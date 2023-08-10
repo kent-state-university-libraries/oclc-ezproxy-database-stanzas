@@ -1,5 +1,5 @@
 # EBSCO LinkSource
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCO_LinkSource](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCO_LinkSource) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_LinkSource](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_LinkSource) **
 
 ## Some of OCLC's notes for this stanza
 
