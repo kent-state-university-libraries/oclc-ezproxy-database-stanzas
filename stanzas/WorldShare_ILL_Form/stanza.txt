@@ -1,0 +1,6 @@
+Title WorldShare ILL Form (Added 20230814)
+HTTPHeader -request -process timezone
+HTTPHeader -request -process locale
+URL https://[regid].account.worldcat.org/account/route/wsill/openurl?
+HJ http://[regid].account.worldcat.org
+DJ account.worldcat.org
