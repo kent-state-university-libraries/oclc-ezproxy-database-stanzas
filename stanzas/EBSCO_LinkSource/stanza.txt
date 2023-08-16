@@ -1,0 +1,125 @@
+#this seems to now be required before any EBSCOhost stanza to prevent linking issues
+Option DomainCookieOnly
+Title -hide EBSCO LinkSource
+URL https://linksource.ebsco.com
+HJ linksource.ebsco.com
+HJ https://linksource.ebsco.com
+Option Cookie
+#
+ProxyHostnameEdit healthlibrary.epnet.com$ healthlibrary-epnet-com
+AddUserHeader -base64 X-EBSCO-PROXY-Username
+AnonymousURL https://ppws.ebsco-content.com/*
+Title EBSCOhost (OCLC IncludeFile updated 20230810)
+HTTPHeader -request -process userIdentifier
+HTTPHeader -request -process Authorization
+HTTPHeader -request -process X-EIS-STSTOKEN
+HTTPHeader -request -process OPAQUE-TOKEN
+URL https://search.ebscohost.com/login.aspx
+HJ https://search.ebscohost.com
+HJ https://resolver.ebscohost.com
+HJ https://www.ebscohost.com
+HJ https://openurl.ebscohost.com
+HJ logon.ebsco.zone
+HJ https://logon.ebsco.zone
+DJ logon.ebsco.zone
+DJ apis.ebsco.com
+DJ api.ebsco.io
+DJ ebscois-live.apigee.net
+DJ ebsco.babelscape.com
+HJ https://m-eon-search.ebscohost.com
+HJ ebsco.smartimagebase.com
+HJ eds.a.ebscohost.com
+HJ eds.b.ebscohost.com
+HJ eds.c.ebscohost.com
+HJ eds.d.ebscohost.com
+HJ eds.e.ebscohost.com
+HJ ehis.ebscohost.com
+HJ connection.ebscohost.com
+HJ eoncontent.ebscohost.com
+HJ discovery.ebsco.com
+HJ https://discovery.ebsco.com
+HJ m.ebscohost.com
+HJ https://openurl.ebsco.com
+HJ openurl.ebscohost.com
+HJ resolver.ebscohost.com
+HJ search.ebscohost.com
+HJ search.ebscohost.mobi
+HJ search.epnet.com
+HJ novelist.epnet.com
+HJ web.a.ebscohost.com
+HJ web.b.ebscohost.com
+HJ web.c.ebscohost.com
+HJ web.d.ebscohost.com
+HJ web.e.ebscohost.com
+HJ web.ebscohost.com
+HJ https://web.p.ebscohost.com
+HJ web.p.ebscohost.com
+HJ web.s.ebscohost.com
+HJ eds.p.ebscohost.com
+HJ eds.s.ebscohost.com
+HJ www.netlibrary.com
+HJ exports.ebscohost.com
+HJ therapy.ebscohost.com
+HJ support.ebscohost.com
+HJ flipster.ebsco.com
+HJ e.ebsco.com
+HJ video.ebscohost.com
+HJ https://video.ebscohost.com
+DJ ppws.ebsco-content.com
+DJ ebscohost.com
+DJ ebscohost.mobi
+DJ epnet.com
+HJ support.ebsco.com
+HJ www.ebsconet.com
+DJ ebsco.com
+DJ discovery.ebsco.com
+DJ netlibrary.com
+DJ smartimagebase.com
+HJ www.teacherreference.com
+DJ teacherreference.com
+HJ https://publications.ebsco.com/
+HJ publications.ebsco.com
+DJ publications.ebsco.com
+HJ www.europeanamericana.com
+HJ healthlibrary.epnet.com
+HJ https://healthlibrary.epnet.com
+HJ therapy.epnet.com
+HJ https://therapy.epnet.com
+HJ https://research.ebsco.com
+HJ research.ebsco.com
+Find proxy.cfm?url=http://
+Replace proxy.cfm?url=http://^A
+Find /login?url=http://
+Replace /login?url=http://^A
+Find proxy.cfm?url=https://
+Replace proxy.cfm?url=https://^A
+Find /login?url=https://
+Replace /login?url=https://^A
+NeverProxy *.eoncontent.ebscohost.com
+NeverProxy content.ebscohost.com
+NeverProxy ebscovideos.ebscohost.com
+NeverProxy rps2images.ebscohost.com
+NeverProxy rpsimages.ebscohost.com
+NeverProxy epmedia.ebscohost.com
+NeverProxy imageserver.ebscohost.com
+NeverProxy *.footnotelibrary.com
+NeverProxy app.rs.ebscohost.com
+NeverProxy media.rs.ebscohost.com
+NeverProxy neverproxy.ebsco.com
+NeverProxy vttts.rs.ebscohost.com
+NeverProxy nvntts.rs.ebscohost.com
+NeverProxy ivotts.rs.ebscohost.com
+NeverProxy widgets.ebscohost.com
+NeverProxy connect.ebsco.com
+NeverProxy signin.ebsco.zone
+NeverProxy imagesrvr.epnet.com
+NeverProxy shibboleth.ebscohost.com
+NeverProxy auth.ebsco.zone
+NeverProxy pdc-evs.ebscohost.com
+NeverProxy sdc-evs.ebscohost.com
+NeverProxy app-na.readspeaker.com
+NeverProxy kg.ebscohost.com
+NeverProxy sdc-edm.ebscohost.com
+NeverProxy pdc-edm.ebscohost.com
+AnonymousURL -*
+AddUserHeader
