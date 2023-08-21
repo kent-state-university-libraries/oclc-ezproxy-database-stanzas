@@ -1,0 +1,21 @@
+T CCH IknowConnect (created 20230808)
+MimeFilter application/json .* javascript
+HTTPHeader -request -process entinfo.Domainversion
+HTTPHeader -request -process Clientinfo.Frameworkversion
+HTTPHeader -request -process Clientinfo.Instancetag
+HTTPHeader -request -process Clientinfo.Locale
+HTTPHeader -request -process Clientinfo.Operatingsystemname
+HTTPHeader -request -process Clientinfo.Runtimename
+HTTPHeader -request -process Clientinfo.Runtimeversion
+HTTPHeader -request -process Clientinfo.Timezone
+HTTPHeader -request -process Productid
+HTTPHeader -request -process Tenant
+U https://iknowconnect.cch.com
+HJ https://iknowconnect.cch.com
+HJ iknowconnect.cch.com
+HJ https://login.wkasiapacific.com
+HJ prod.resource.wkasiapacific.com
+DJ iknowconnect.cch.com
+DJ wolterskluwer.com
+Find http:\/\/
+Replace http://
