@@ -1,0 +1,17 @@
+Title -hide Frost & Sullivan (Updated 20220307)
+URL https://cds.frost.com
+HJ https://cds.frost.com
+HJ cds.frost.com
+Find e.href = "https:"+e.href.substr(6)
+Replace e.href = "https://^scds.frost.com^/"; + e.pathname + e.search
+
+Title Frost & Sullivan Member Portal (updated 20230828)
+MimeFilter text/html .* javascript
+URL https://member.frost.com
+HJ https://member.frost.com
+HJ https://research.frost.com
+DJ frost.com
+NeverProxy wwwcdn.frost.com
+NeverProxy memberportalapi.frost.com
+Find e.href = "https:"+e.href.substr(6)
+Replace e.href = "https://^smember.frost.com^/"; + e.pathname + https://e.search

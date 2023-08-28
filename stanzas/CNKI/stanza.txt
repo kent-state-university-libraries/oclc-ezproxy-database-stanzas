@@ -1,6 +1,6 @@
 Option CookiePassThrough
 AnonymousURL +https://o.oversea.cnki.net/EcpApi_oversea/OLoginApi/IpLogin*
-Title CNKI Main Page (OCLC IncludeFile updated 20230803)
+Title CNKI Main Page (OCLC IncludeFile updated 20230828)
 HTTPHeader -request -process Appid
 HTTPHeader -request -process Clientid
 HTTPHeader -request -process Signature
@@ -32,6 +32,7 @@ HJ global.cnki.net
 HJ gongjushu.oversea.cnki.net
 HJ hd.cnki.net
 HJ https://ar.cnki.net
+HJ https://bar.cnki.net
 HJ https://big5.oversea.cnki.net
 HJ https://book.oversea.cnki.net
 HJ https://cadt.cnki.net
@@ -46,11 +47,13 @@ HJ https://cjcr.cnki.net
 HJ https://cn.oversea.cnki.net
 HJ https://cnki.net
 HJ https://cstm.cnki.net
-HJ https://cstm.cnki.net
+HJ https://dangjian.oversea.cnki.net
 HJ https://dbpub.cnki.net
+HJ https://docdown.cnki.net
 HJ https://en.oversea.cnki.net
 HJ https://eng.oversea.cnki.net
 HJ https://expert.cnki.net
+HJ https://gaojiao.oversea.cnki.net
 HJ https://gb.oversea.cnki.net
 HJ https://global.cnki.net
 HJ https://gongjushu.oversea.cnki.net
@@ -58,26 +61,37 @@ HJ https://hd.cnki.net
 HJ https://icst.cnki.net
 HJ https://image.cnki.net
 HJ https://itgh.cnki.net
+HJ https://jingji.oversea.cnki.net
 HJ https://jtp.cnki.net
+HJ https:kepu.oversea.cnki.net
 HJ https://kns.cnki.net
 HJ https://lczl.cnki.net
 HJ https://o.cnki.net
+HJ https://o.oversea.cnki.net
 HJ https://pj.cnki.net
 HJ https://ref.cnki.net
 HJ https://ship.cnki.net
 HJ https://sy.cnki.net
+HJ https://t.cnki.net
 HJ https://tcmv.cnki.net
 HJ https://tongji.oversea.cnki.net
 HJ https://tra.oversea.cnki.net
 HJ https://usad.cnki.net
 HJ https://www.cnki.net
+HJ https://zhengbao.oversea.cnki.net
+HJ dangjian.oversea.cnki.net
+HJ gaojiao.oversea.cnki.net
+HJ bar.cnki.net
+HJ docdown.cnki.net
 HJ icst.cnki.net
 HJ image.cnki.net
 HJ itgh.cnki.net
+HJ jingji.oversea.cnki.net
 HJ jtp.cnki.net
 HJ kns.cnki.net
 HJ lczl.cnki.net
 HJ o.cnki.net
+HJ o.oversea.cnki.net
 HJ oversea.cnki.net
 HJ pj.cnki.net
 HJ ref.cnki.net
@@ -88,7 +102,11 @@ HJ tongji.oversea.cnki.net
 HJ tra.oversea.cnki.net
 HJ usad.cnki.net
 HJ www.cnki.net
+HJ wenhua.oversea.cnki.net
+HJ wenyi.oversea.cnki.net
+HJ kepu.oversea.cnki.net
+HJ t.cnki.net
+HJ zhengbao.oversea.cnki.net
 DJ cnki.net
-DJ oversea.cnki.net
 AnonymousURL -*
 OPTION Cookie
