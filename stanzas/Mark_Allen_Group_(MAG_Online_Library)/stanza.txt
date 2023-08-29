@@ -1,17 +1,12 @@
-T MAG Online Library (OCLC IncludeFile updated 20230828)
+T MAG Online Library (OCLC IncludeFile updated 20210829)
 U http://www.magonlinelibrary.com
 HJ https://magonlinelibrary.com
 HJ https://mag.scienceconnect.io
 HJ https://www.magonlinelibrary.com
-HJ https://www.fwi.co.uk
-HJ https://fwi.co.uk
 HJ intermid.co.uk
 HJ internurse.com
 HJ magonlinelibrary.com
 HJ www.intermid.co.uk
 HJ www.internurse.com
 HJ www.magonlinelibrary.com
-HJ www.fwi.co.uk
-HJ fwi.co.uk
-DJ fwi.co.uk
 DJ magonlinelibrary.com
