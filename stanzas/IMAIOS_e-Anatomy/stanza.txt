@@ -1,0 +1,10 @@
+Title IMAIOS e-Anatomy
+URL https://www.imaios.com
+HJ cdns.imaios.com
+HJ cdni.imaios.com
+HJ cdne.imaios.com
+HJ https://imaios.com
+HJ https://www.imaios.com
+HJ imaios.com
+HJ www.imaios.com
+DJ imaios.com
