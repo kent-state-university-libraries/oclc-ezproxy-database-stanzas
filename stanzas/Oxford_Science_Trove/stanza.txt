@@ -1,0 +1,8 @@
+Title Oxford Science Trove (Added 20230830)
+URL https://oxfordsciencetrove.com
+HJ https://www.oxfordsciencetrove.com
+HJ https://oxfordsciencetrove.com
+HJ http://oxfordsciencetrove.com
+HJ www.oxfordsciencetrove.com
+HJ oxfordsciencetrove.com
+DJ oxfordsciencetrove.com
