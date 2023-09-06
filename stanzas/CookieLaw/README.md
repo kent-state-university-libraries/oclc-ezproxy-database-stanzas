@@ -1,5 +1,5 @@
 # CookieLaw
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CookieLaw](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CookieLaw) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CookieLaw](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CookieLaw) **
 
 ## Some of OCLC's notes for this stanza
 

@@ -1,0 +1,8 @@
+T Meiner eLibrary (OCLC IncludeFile updated 20230905)
+HTTPHeader -response -edit Location RewriteURL(REReplace("!https://meiner-elibrary\.de/pdf!g", RewriteURL("https://meiner-elibrary.de/pdf"), hh:value))
+U https://meiner-elibrary.de/
+HJ https://meiner-elibrary.de
+HJ meiner-elibrary.de
+DJ meiner-elibrary.de
+Find meiner-elibrary.de
+Replace ^Smeiner-elibrary.de^

@@ -1,0 +1,14 @@
+T Explorer for Institutions (OCLC IncludeFile updated 20230904)
+HTTPHeader -process -request Origin
+HTTPHeader -process -request X-CSRF-Token
+U https://www.altmetric.com/explorer
+HJ altmetric.com
+HJ altmetricexplorer.com
+HJ https://altmetric.com
+HJ https://altmetricexplorer.com
+HJ https://www.altmetric.com
+HJ https://www.altmetricexplorer.com
+HJ www.altmetric.com
+HJ www.altmetricexplorer.com
+DJ altmetric.com
+DJ altmetricexplorer.com
