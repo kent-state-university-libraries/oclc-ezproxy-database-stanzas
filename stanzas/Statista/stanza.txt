@@ -2,20 +2,24 @@
 
 AnonymousURL https://statcdn.com/*
 AnonymousURL https://cdn.statcdn.com/*
-TITLE Statista (IncludeFile Updated 20230116)
+TITLE Statista (IncludeFile Updated 20230912)
 URL https://www.statista.com
 HJ de.statista.com
 HJ en.statista.com
 HJ es.statista.com
 HJ fr.statista.com
-HJ https://statista.com
 HJ https://de.statista.com
 HJ https://en.statista.com
 HJ https://es.statista.com
 HJ https://fr.statista.com
+HJ https://statista.com
+HJ https://statista.fr
 HJ https://www.statista.com
+HJ https://www.statista.fr
 HJ statista.com
+HJ statista.fr
 HJ www.statista.com
+HJ www.statista.fr
 DJ statista.com
 NeverProxy cdn*.statista.com
 NeverProxy static*.statista.com
