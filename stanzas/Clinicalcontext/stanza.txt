@@ -1,0 +1,6 @@
+T Clinicalcontext (updated 20230913)
+HTTPHeader -request -process X-Lcc-Organization-Id
+HTTPHeader -request -process X-Lcc-Site-Id
+URL https://clinicalcontext.lww.com
+HJ https://clinicalcontext.lww.com
+DJ clinicalcontext.lww.com
