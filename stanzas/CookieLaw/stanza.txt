@@ -1,0 +1,24 @@
+AnonymousURL +*
+Title -hide CookieLaw (OCLC IncludeFile updated 20230905)
+HTTPHeader -Request -process Sec-*
+HTTPHeader -Response -process CF-*
+HTTPHeader -Response -process Expect-CT
+URL https://cdn.cookielaw.org
+DJ cookielaw.org
+DJ cookiepro.com
+DJ onetrust.com
+Find domain=."+i[0]+"
+Replace domain="+location.hostname+"
+Find domain=."+l[0]+"
+Replace domain="+location.hostname+"
+Find domain=."+a[0]+"
+Replace domain="+location.hostname+"
+Find "bmj.com"
+Replace "^H"
+Find "www.astctjournal.org"
+Replace "^H"
+Find "astctjournal.org"
+Replace "^H"
+Find "econtent.hogrefe.com"
+Replace "^H"
+AnonymousURL -*
