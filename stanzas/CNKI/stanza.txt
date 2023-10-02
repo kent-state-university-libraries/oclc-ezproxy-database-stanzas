@@ -1,6 +1,7 @@
+http://svn.dev.oclc.org/viewvc/hosted_ezproxy_databases/trunk/cnki.txt
 Option CookiePassThrough
 AnonymousURL +https://o.oversea.cnki.net/EcpApi_oversea/OLoginApi/IpLogin*
-Title CNKI Main Page (OCLC IncludeFile updated 20230828)
+Title CNKI Main Page (updated 20230922)
 HTTPHeader -request -process Appid
 HTTPHeader -request -process Clientid
 HTTPHeader -request -process Signature
@@ -63,7 +64,7 @@ HJ https://image.cnki.net
 HJ https://itgh.cnki.net
 HJ https://jingji.oversea.cnki.net
 HJ https://jtp.cnki.net
-HJ https:kepu.oversea.cnki.net
+HJ https://kepu.oversea.cnki.net
 HJ https://kns.cnki.net
 HJ https://lczl.cnki.net
 HJ https://o.cnki.net

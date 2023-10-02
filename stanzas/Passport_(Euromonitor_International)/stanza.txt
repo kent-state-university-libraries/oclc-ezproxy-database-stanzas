@@ -1,0 +1,43 @@
+http://svn.dev.oclc.org/viewvc/hosted_ezproxy_databases/trunk/gmid.txt
+AnonymousURL +https://www.euromonitor.com/*
+AnonymousURL +https://pro.fontawesome.com/*
+AnonymousURL +https://productclaim-ui.euromonitor.com/*
+AnonymousURL +https://cdn.media.euromonitor.com/*
+Title Passport (Euromonitor International)(Updated 20230922)
+HTTPHeader -request -process Access-Control-Allow-Origin
+HTTPHeader -request -process Access-Control-Expose-Headers
+MimeFilter text/html https://cdn.media.euromonitor.com/* html
+URL https://www.portal.euromonitor.com
+HJ https://www.portal.euromonitor.com
+HJ http://productclaim-ui.euromonitor.com
+HJ www.portal.euromonitor.com
+HJ portal.euromonitor.com
+HJ cdn.media.euromonitor.com
+HJ https://cdn.media.euromonitor.com
+HJ https://portal.euromonitor.com
+HJ https://lv-sportsui-wus-cdn.azureedge.net
+HJ https://productclaim-ui.euromonitor.com
+HJ https://microfrontend-passport.euromonitor.com
+HJ https://economic-barometer-extract.euromonitor.com
+DJ euromonitor.com
+Find //www.portal.euromonitor.com/
+Replace //swww.portal.euromonitor.com/
+Find cdn.media.euromonitor.com
+Replace scdn.media.euromonitor.com
+NeverProxy economic-barometer.euromonitor.com
+NeverProxy tableau.euromonitor.com
+NeverProxy tableau.dev.euromonitor.com
+NeverProxy microservices.euromonitor.com
+NeverProxy consulting.euromonitor.com
+NeverProxy covid-analytics-ui.euromonitor.com
+NeverProxy search-service.euromonitor.com
+NeverProxy service-portal.euromonitor.com
+NeverProxy notification-service.euromonitor.com
+NeverProxy brandshareservice.euromonitor.com
+NeverProxy companyshareservice.euromonitor.com
+NeverProxy dashboard-service-portal.euromonitor.com
+NeverProxy countryreportui.euromonitor.com
+NeverProxy www.euromonitor.com
+NeverProxy mediaconverter.euromonitor.com
+NeverProxy api.passport.euromonitor.com
+AnonymousURL -*
