@@ -1,4 +1,3 @@
-http://svn.dev.oclc.org/viewvc/hosted_ezproxy_databases/trunk/mintel.txt
 Option MetaEZproxyRewriting
 HTTPMethod OPTIONS
 AnonymousURL -OPTIONS +https://www.gnpd.com/sinatra/api/*

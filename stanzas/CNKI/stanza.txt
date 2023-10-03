@@ -1,4 +1,3 @@
-http://svn.dev.oclc.org/viewvc/hosted_ezproxy_databases/trunk/cnki.txt
 Option CookiePassThrough
 AnonymousURL +https://o.oversea.cnki.net/EcpApi_oversea/OLoginApi/IpLogin*
 Title CNKI Main Page (updated 20230922)
