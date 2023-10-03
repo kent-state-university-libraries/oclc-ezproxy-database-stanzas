@@ -1,4 +1,3 @@
-http://svn.dev.oclc.org/viewvc/hosted_ezproxy_databases/trunk/gmid.txt
 AnonymousURL +https://www.euromonitor.com/*
 AnonymousURL +https://pro.fontawesome.com/*
 AnonymousURL +https://productclaim-ui.euromonitor.com/*
