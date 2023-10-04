@@ -20,9 +20,9 @@ HJ https://microfrontend-passport.euromonitor.com
 HJ https://economic-barometer-extract.euromonitor.com
 DJ euromonitor.com
 Find //www.portal.euromonitor.com/
-Replace //swww.portal.euromonitor.com/
+Replace //^swww.portal.euromonitor.com^/
 Find cdn.media.euromonitor.com
-Replace scdn.media.euromonitor.com
+Replace ^scdn.media.euromonitor.com^
 NeverProxy economic-barometer.euromonitor.com
 NeverProxy tableau.euromonitor.com
 NeverProxy tableau.dev.euromonitor.com
