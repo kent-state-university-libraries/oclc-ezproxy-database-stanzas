@@ -1,5 +1,5 @@
 # CABI Resources
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CABI_Resources](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CABI_Resources) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CABI_Resources](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CABI_Resources) **
 
 ## Some of OCLC's notes for this stanza
 

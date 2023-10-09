@@ -1,4 +1,4 @@
-Title CABI Resources (OCLC IncludeFile updated 20221010)
+Title CABI Resources (OCLC IncludeFile updated 20231006)
 URL https://www.cabi.org/
 HJ https://cabi.org
 HJ https://www.cabi.org
@@ -13,9 +13,10 @@ NeverProxy https://api.cabi.org
 Option DomainCookieOnly
 Title CABI digital library
 URL https://cabidigitallibrary.org
-HJ https://cabidigitallibrary.org
 HJ cabidigitallibrary.org
 HJ https://tourism.cabi.org
+HJ https://www.cabidigitallibrary.org
 HJ tourism.cabi.org
+HJ www.cabidigitallibrary.org
 DJ cabidigitallibrary.org
 Option Cookie
