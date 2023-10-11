@@ -1,9 +1,9 @@
 # Ebook Central
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ebook_Central](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ebook_Central) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Ebook_Central](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Ebook_Central) **
 
 ## Some of OCLC's notes for this stanza
 
-The stanzas on this page are intended for new Ebook Central customers only. If you are migrating to Ebook Central from EBL or ebrary, please see the EBL or ebrary stanza pages, respectively.
+The stanzas on this page are intended for new Ebook Central customers only. If you are migrating to Ebook Central from EBL or ebrary, please see the EBL stanza page.
 
 Ebook Central has two options for remote access - Single-Sign-On or Patron Login + EZproxy. Please confirm which method you are using with ProQuest Support, and add the database stanza that corresponds with your method.
 
@@ -21,6 +21,6 @@ Replace YOURSITE with the YOURSITE name provided by ProQuest. If you have questi
 
 NOTE: You will need to pre-proxy the URL in the 856 field of your Ebook Central MARC records.
 
-If you are migrating to Ebook Central from an existing EBL or ebrary subscription, please see the EBL or ebrary stanza page for migration details.
+If you are migrating to Ebook Central from an existing EBL or ebrary subscription, please see the EBL stanza page for migration details.
 
 &nbsp;

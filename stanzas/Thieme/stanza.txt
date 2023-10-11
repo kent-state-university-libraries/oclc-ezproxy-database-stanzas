@@ -1,89 +1,127 @@
-T Thieme E-Journals (OCLC IncludeFile updated 20210111)
+HTTPMethod PUT
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://authentication.thieme.de/*
+AnonymousURL -OPTIONS +https://authentication.taal.thieme.de/*
+AnonymousURL -OPTIONS +https://directory.taal.thieme.de/*
+AnonymousURL -OPTIONS +https://account.taal.thieme.de/*
+AnonymousURL -OPTIONS +https://thieme-account-bff.taal.thieme.de/*
+AnonymousURL -OPTIONS +https://viamedici.thieme.de/*
+AnonymousURL -OPTIONS +https://examenonline-service.thieme.de/*
+AnonymousURL +https://examenonline.thieme.de/icons-*
+AnonymousURL +https://examenonline-service.thieme.de/login
+AnonymousURL +https://examenonline-service.thieme.de/baseparameter/*
+AnonymousURL +https://examenonline-service.thieme.de/sitzung/campus
+AnonymousURL +https://viamedici.thieme.de/api/e-module/examen-online/*
+AnonymousURL +https://authentication-service.thieme.de/*
+T Thieme (2023-10-04)
+HTTPHeader -request -process v
+HTTPHeader -request -process erights
+HTTPHeader -request -process X-CSRF-TOKEN
+HTTPHeader -request -process X-Token
 U https://www.thieme-connect.com/products/all/home.html
-HJ http://www.thieme-connect.com
+HJ https://www.thieme-connect.com
 HJ https://www.thieme-connect.de
 HJ www.thieme-connect.de
+HJ https://thieme-connect.com
 HJ thieme-connect.com
-DJ thieme-connect.com
-HJ profile.thieme.de
-DJ profile.thieme.de
-
-AnonymousURL -OPTIONS +http://cfs.thiemeteachingassistant.com/*
-Title Thieme Teaching Assistant (OCLC IncludeFile updated 20210215)
-U https://www.thiemeteachingassistant.com
-D thiemeteachingassistant.com
-H thiemeteachingassistant.com
-DJ thiemeteachingassistant.com
+HJ https://www.thiemeteachingassistant.com
+HJ www.thiemeteachingassistant.com
+HJ https://thiemeteachingassistant.com
 HJ thiemeteachingassistant.com
-NeverProxy cfs.thiemeteachingassistant.com
-AnonymousURL -*
-
-Title MedOne Thieme Teaching Assistant Anatomy (OCLC IncludeFile updated 20230418)
-URL https://tta.thieme.com
+HJ https://tta.thieme.com
 HJ tta.thieme.com
+HJ https://pharmaceutical-substances.thieme.com
+HJ pharmaceutical-substances.thieme.com
+HJ https://roempp.thieme.de
+HJ roempp.thieme.de
+HJ https://science-of-synthesis.thieme.com
+HJ science-of-synthesis.thieme.com
+HJ https://www.thiemebilddatenbankanatomie.de
+HJ www.thiemebilddatenbankanatomie.de
+HJ https://thiemebilddatenbankanatomie.de
+HJ thiemebilddatenbankanatomie.de
+HJ https://www.thieme.de
+HJ www.thieme.de
+HJ https://thieme.de
+HJ thieme.de
+HJ https://examenonline.thieme.de
+HJ examenonline.thieme.de
+HJ https://examenonline-service.thieme.de
+HJ examenonline-service.thieme.de
+HJ https://eRef.thieme.de
+HJ eRef.thieme.de
+HJ https://viamedici.thieme.de
+HJ viamedici.thieme.de
+HJ https://medone-neurosurgery.thieme.com
+HJ medone-neurosurgery.thieme.com
+HJ https://medone-radiology.thieme.com
+HJ medone-radiology.thieme.com
+HJ https://medone-education.thieme.com
+HJ medone-education.thieme.com
+HJ https://medone-comsci.thieme.com
+HJ medone-comsci.thieme.com
+HJ https://medone-plasticsurgery.thieme.com
+HJ medone-plasticsurgery.thieme.com
+HJ https://medone-otolaryngology.thieme.com
+HJ medone-otolaryngology.thieme.com
+HJ https://medone-ophthalmology.thieme.com
+HJ medone-ophthalmology.thieme.com
+HJ https://account.thieme.de
+HJ https://authentication.thieme.de
 HJ https://profile.thieme.de
-HJ http://profile.thieme.de
+HJ profile.thieme.de
+HJ https://eref-taal.thieme.de
+HJ eref-taal.thieme.de
+HJ https://medone-taal.thieme.com
+HJ medone-taal.thieme.com
+HJ https://pia.thieme.de
+HJ pia.thieme.de
+HJ https://medone.thieme.com
+HJ medone.thieme.com
+HJ https://isapsmedone.thieme.com
+HJ isapsmedone.thieme.com
+HJ https://KSPRSmedone.thieme.com
+HJ KSPRSmedone.thieme.com
+HJ https://vetcenter.thieme.de
+HJ vetcenter.thieme.de
+HJ https://osteothek.thieme.de
+HJ osteothek.thieme.de
+HJ https://icare.thieme.de
+HJ icare.thieme.de
+HJ https://rettenonline.thieme.de
+HJ rettenonline.thieme.de
+HJ https://notfallsanitaeter-trainer.thieme.de
+HJ notfallsanitaeter-trainer.thieme.de
+HJ https://hp-trainer-psy.thieme.de
+HJ hp-trainer-psy.thieme.de
+HJ https://hp-trainer.thieme.de
+HJ hp-trainer.thieme.de
+HJ https://physio-elearning.thieme.de
+HJ physio-elearning.thieme.de
+HJ https://physiolink.thieme.de
+HJ physiolink.thieme.de
+HJ https://ergolink.thieme.de
+HJ ergolink.thieme.de
+HJ https://cne.thieme.de
+HJ cne.thieme.de
+HJ https://cme.thieme.de
+HJ cme.thieme.de
+DJ thieme-connect.com
+DJ profile.thieme.de
 DJ thieme.de
 DJ thieme.com
-
-Title Pharmaceutical Substances (OCLC IncludeFile updated 20210215)
-U https://pharmaceutical-substances.thieme.com
-D pharmaceutical-substances.thieme.com
-H pharmaceutical-substances.thieme.com
-DJ pharmaceutical-substances.thieme.com
-
-Title RÖMPP Online (OCLC IncludeFile updated 20210215)
-U https://roempp.thieme.de
-D roempp.thieme.de
-H roempp.thieme.de
-DJ roempp.thieme.de
-
-T Science of Synthesis (OCLC IncludeFile updated 20210927)
-HTTPHeader -request -process X-Token
-U https://science-of-synthesis.thieme.com/
-HJ http://science-of-synthesis.thieme.com
-HJ science-of-synthesis.thieme.com
-DJ science-of-synthesis.thieme.com
-HJ profile.thieme.de
-DJ profile.thieme.de
-
-T Thieme Bilddatenbank Anatomie (OCLC IncludeFile updated 20201201)
-U https://www.thiemebilddatenbankanatomie.de/
-HJ http://www.thiemebilddatenbankanatomie.de
-HJ thiemebilddatenbankanatomie.de
-DJ thiemebilddatenbankanatomie.de
-HJ profile.thieme.de
-DJ profile.thieme.de
-
-T CNE (OCLC IncludeFile updated 20201201)
-U http://www.thieme.de/cne/
-HJ https://www.thieme.de
-DJ thieme.de
-HJ thieme.de
-HJ profile.thieme.de
-DJ profile.thieme.de
-
-T Thieme examen online (OCLC IncludeFile updated 20201201)
-U https://examenonline.thieme.de/
-HJ http://examenonline.thieme.de
-HJ examenonline.thieme.de
-DJ examenonline.thieme.de
-HJ profile.thieme.de
-DJ profile.thieme.de
-
-T eRef (OCLC IncludeFile updated 20201201)
-U https://eRef.thieme.de/
-HJ http://eRef.thieme.de
-HJ eRef.thieme.de
-DJ eRef.thieme.de
-HJ profile.thieme.de
-DJ profile.thieme.de
-
-
-Title Thieme Via Medici (OCLC IncludeFile updated 20210712)
-URL https://viamedici.thieme.de/
-HJ http://viamedici.thieme.de
-HJ viamedici.thieme.de
-DJ viamedici.thieme.de
-HJ profile.thieme.de
-DJ profile.thieme.de
+DJ authentication.thieme.de
+DJ authentication.taal.thieme.de
+DJ account.thieme.de
+DJ account.taal.thieme.de
+DJ directory.taal.thieme.de
+DJ thieme-account-bff.taal.thieme.de
+DJ cdn.thieme.de
+DJ shibboleth.thieme.de
+DJ authentication-broker-oauth2.taal.thieme.de
+Find "domain": ".thieme.de",
+Replace "domain": "^H",
+NeverProxy cdn.thieme.de
+NeverProxy cfs.thiemeteachingassistant.com
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*
