@@ -1,5 +1,5 @@
 AnonymousURL +*
-Title -hide CookieLaw (OCLC IncludeFile updated 20230905)
+Title -hide CookieLaw (OCLC IncludeFile updated 20231017)
 HTTPHeader -Request -process Sec-*
 HTTPHeader -Response -process CF-*
 HTTPHeader -Response -process Expect-CT
@@ -15,10 +15,6 @@ Find domain=."+a[0]+"
 Replace domain="+location.hostname+"
 Find "bmj.com"
 Replace "^H"
-Find "www.astctjournal.org"
-Replace "^H"
-Find "astctjournal.org"
-Replace "^H"
-Find "econtent.hogrefe.com"
-Replace "^H"
+Find domain=."+s[0]+"
+Replace domain="+location.hostname+"
 AnonymousURL -*

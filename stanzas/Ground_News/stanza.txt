@@ -1,0 +1,11 @@
+AnonymousURL -OPTIONS +https://web-api-cdn.ground.news*
+AnonymousURL +https://web-api-cdn.ground.news*
+T Ground News (created 20231017)
+U https://ground.news
+HJ http://ground.news
+HJ https://www.ground.news
+HJ http://www.ground.news
+HJ https://academic.ground.news
+HJ http://academic.ground.news
+HJ https://web-api-cdn.ground.news
+DJ ground.news
