@@ -1,5 +1,3 @@
-IncludeFile databases/clarivate_auth.txt
-
 HTTPMethod PATCH
 Option CookiePassThrough
 AnonymousURL +*.ttf*
