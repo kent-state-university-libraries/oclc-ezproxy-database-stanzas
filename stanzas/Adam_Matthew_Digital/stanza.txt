@@ -11,7 +11,7 @@ HJ https://www.africanamericancommunities.amdigital.co.uk
 HJ https://www.aihc.amdigital.co.uk
 HJ https://www.am-explorer.com
 HJ https://www.amdigital.co.uk
-HJ httlps://www.americanhistory.amdigital.co.uk
+HJ https://www.americanhistory.amdigital.co.uk
 HJ https://www.americainworldwartwo.amdigital.co.uk
 HJ https://www.americanconsumerculture.amdigital.co.uk
 HJ https://www.amnestyinternationalhumanrights.amdigital.co.uk
@@ -119,4 +119,3 @@ NeverProxy fonts-gstatic.com
 Title Adam Matthew Digital: China, America and the Pacific
 URL www.cap.amdigital.co.uk/
 Find www.cap.amdigital.co.uk
-Replace ^pwww.cap.amdigital.co.uk^
