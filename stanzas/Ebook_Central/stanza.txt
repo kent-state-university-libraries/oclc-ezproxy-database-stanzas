@@ -1,8 +1,9 @@
-Title Ebook Central SSO
+Title Ebook Central SSO (Updated 20231026)
 Option ebraryUnencodedTokens
 ebrarySite -URL=https://ebookcentral.proquest.com:443 [sitename]
 URL https://ebookcentral.proquest.com/lib/[sitename]
 HJ http://ebookcentral.proquest.com
+HJ https://ebookcentral.proquest.com
 NeverProxy ebookcentral.proquest.com
 NeverProxy [sitename].ebookcentral.proquest.com
 NeverProxy acs.ebookcentral.proquest.com
