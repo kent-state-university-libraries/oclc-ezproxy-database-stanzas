@@ -1,5 +1,12 @@
-T The Japan Times Alpha Digital Viewer (20231025)
-U https://jtpublishing.co.jp
-HJ https://jtpublishing.co.jp
-HJ http://jtpublishing.co.jp
-DJ jtpublishing.co.jp
+Title The Japan Times Digital (Added 20230706)
+URL https://www.japantimes.co.jp
+HJ https://www.japantimes.co.jp
+HJ http://www.japantimes.co.jp
+HJ https://www.piano.io
+HJ http://www.piano.io
+HJ http://alpha.japantimes.co.jp
+HJ https://alpha.japantimes.co.jp
+HJ https://epaper.japantimes.co.jp
+HJ epaper.japantimes.co.jp
+DJ japantimes.co.jp
+DJ piano.io
