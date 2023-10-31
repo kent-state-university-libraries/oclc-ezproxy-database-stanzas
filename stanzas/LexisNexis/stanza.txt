@@ -1,7 +1,4 @@
-PHE www.lexisnexis.com$ www-lexisnexis-com
-PHE www.nexis.com$ www-nexis-com
-Option CookiePassThrough
-Title LexisNexis (updated 20221206)
+Title LexisNexis (updated 20231031)
 HTTPMethod PATCH
 HTTPHeader -request -process x-ln-currentrequestid
 HTTPHeader -request -process X-LN-PageMode
@@ -21,6 +18,7 @@ HJ www.lexisnexis.fr
 DJ lexisnexis.fr
 DJ lexis-nexis.com
 DJ plus.lexis.com
+HJ https://dniaeeyvroj2l.cloudfront.net
 HJ https://plus.lexis.com
 HJ https://www.lexisnexis.com
 HJ https://web.lexisnexis.com
@@ -80,3 +78,4 @@ Replace mq.set("rt", "http://^A
 Find if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1)
 Replace if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1 || forwardTo.indexOf("lexis-com") != -1 || forwardTo.indexOf("nexis-com") != -1)
 Option Cookie
+AnonymousURL -*

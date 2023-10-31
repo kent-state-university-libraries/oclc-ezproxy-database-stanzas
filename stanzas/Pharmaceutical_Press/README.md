@@ -1,5 +1,5 @@
 # Pharmaceutical Press
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Pharmaceutical_Press](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Pharmaceutical_Press) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Pharmaceutical_Press](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Pharmaceutical_Press) **
 
 ## Some of OCLC's notes for this stanza
 

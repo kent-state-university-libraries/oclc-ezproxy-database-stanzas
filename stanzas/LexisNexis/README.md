@@ -1,5 +1,5 @@
 # LexisNexis
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LexisNexis](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LexisNexis) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LexisNexis](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LexisNexis) **
 
 ## Some of OCLC's notes for this stanza
 

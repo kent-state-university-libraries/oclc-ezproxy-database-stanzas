@@ -1,9 +1,8 @@
-AnonymousURL +https://pharmaceutical-journal.com/wp-json/pj/hsauth/v1/ip-access-check*
-AnonymousURL +https://pharmaceutical-journal.com/wp-json/pj/premium-content/v1/access-check*
-Title Pharmaceutical Press (updated 20210924)
+Title Pharmaceutical Press (updated 20231031)
 URL https://www.medicinescomplete.com/
 HJ about.medicinescomplete.com
 HJ https://about.medicinescomplete.com
+HJ https://cdn.printfriendly.com
 HJ https://idp.sams-sigma.com
 HJ https://medicinescomplete.com
 HJ https://pharmj.wpengine.com
@@ -24,4 +23,6 @@ DJ pjonline.com
 DJ pharmaceutical-journal.com
 Find https:\/\/pharmaceutical-journal.com
 Replace https:\/\/^spharmaceutical-journal.com^
+Find pf.redirect();
+Replace pf.launch();
 AnonymousURL -*
