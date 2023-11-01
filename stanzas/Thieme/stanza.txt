@@ -13,7 +13,7 @@ AnonymousURL +https://examenonline-service.thieme.de/baseparameter/*
 AnonymousURL +https://examenonline-service.thieme.de/sitzung/campus
 AnonymousURL +https://viamedici.thieme.de/api/e-module/examen-online/*
 AnonymousURL +https://authentication-service.thieme.de/*
-T Thieme (2023-10-04)
+T Thieme (updated 2023-10-04)
 HTTPHeader -request -process v
 HTTPHeader -request -process erights
 HTTPHeader -request -process X-CSRF-TOKEN
@@ -125,3 +125,13 @@ NeverProxy cdn.thieme.de
 NeverProxy cfs.thiemeteachingassistant.com
 NeverProxy examenonline-medone.thieme.de
 AnonymousURL -*
+Find &redirect_uri=https://
+Replace &redirect_uri=https://^A
+Find &tRedirectUrl=https://
+Replace &tRedirectUrl=https://^A
+Find ?redirect_uri=https://
+Replace ?redirect_uri=https://^A
+Find ?tRedirectUrl=https://
+Replace ?tRedirectUrl=https://^A
+Find APP_URL: "https://
+Replace APP_URL: "https://^A

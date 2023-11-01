@@ -1,3 +1,7 @@
+AnonymousURL +https://dniaeeyvroj2l.cloudfront.net/index.html
+PHE www.lexisnexis.com$ www-lexisnexis-com
+PHE www.nexis.com$ www-nexis-com
+Option CookiePassThrough
 Title LexisNexis (updated 20231031)
 HTTPMethod PATCH
 HTTPHeader -request -process x-ln-currentrequestid

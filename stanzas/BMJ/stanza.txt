@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title BMJ (Updated 20231020)
+Title BMJ (updated 20231020)
 URL http://journals.bmj.com
 Domain group.bmj.com
 HJ https://journals.bmj.com
@@ -160,7 +160,7 @@ HJ sti.bmjjournals.com
 HJ student.bmj.com
 HJ https://student.bmj.com
 HJ tc.bmj.com
-HJ http://tc.bmj.com
+HJ https://tc.bmj.com
 HJ thorax.bmj.com
 HJ https://thorax.bmj.com
 HJ thorax.bmjjournals.com

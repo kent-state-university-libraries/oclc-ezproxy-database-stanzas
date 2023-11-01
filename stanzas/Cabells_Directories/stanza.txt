@@ -1,34 +1,38 @@
-AnonymousURL  +https://search-academic.cabells.com/*
-AnonymousURL  +https://search-medicine.cabells.com/*
-AnonymousURL  +https://auth.cabells.com/*
-AnonymousURL  +https://contact.cabells.com/*
-AnonymousURL  +https://signup-medicine.cabells.com/*
-AnonymousURL  +https://usage.cabells.com/*
-Title Cabells Directories (updated 20231025)
+AnonymousURL +https://search-academic.cabells.com/*
+AnonymousURL +https://search-medicine.cabells.com/*
+AnonymousURL +https://auth.cabells.com/*
+AnonymousURL +https://contact.cabells.com/*
+AnonymousURL +https://signup-medicine.cabells.com/*
+AnonymousURL +https://usage.cabells.com/*
+Title Cabells Directories (updated 20231101)
 HTTPHeader -request -process x-functions-key
 HTTPHeader -request -process SESSION_ID
 HTTPHeader -request -process USER_ID
 URL https://app.cabells.com
+HJ http://www2.cabells.com/
 HJ https://www2.cabells.com
 HJ https://journalytics-medicine.cabells.com
+HJ http://journalytics-medicine.cabells.com
 HJ https://medicine.cabells.com
+HJ http://medicine.cabells.com
 HJ https://www.cabells.com
+HJ http://www.cabells.com
+HJ https://app.cabells.com
+HJ http://app.cabells.com
 HJ https://search-academic.cabells.com
+HJ http://search-academic.cabells.com
 HJ https://search-medicine.cabells.com
-HJ https://www.datacorp.net
+HJ http://search-medicine.cabells.com
 HJ https://contact.cabells.com
+HJ http://contact.cabells.com
 HJ https://usage.cabells.com
-HJ https://auth.cabells.com/
+HJ http://usage.cabells.com
+HJ https://auth.cabells.com
+HJ http://auth.cabells.com
 HJ https://signup-medicine.cabells.com
-HJ www.cabells.com
-HJ www2.cabells.com
-HJ app.cabells.com
-HJ contact.cabells.com
-HJ journalytics-medicine.cabells.com
-HJ medicine.cabells.com
-HJ search-academic.cabells.com
-HJ search-medicine.cabells.com
-HJ www.datacorp.net
+HJ http://signup-medicine.cabells.com
+HJ https://www.datacorp.net
+HJ http://www.datacorp.net
 DJ cabells.com
 DJ datacorp.net
 NeverProxy cms.cabells.com

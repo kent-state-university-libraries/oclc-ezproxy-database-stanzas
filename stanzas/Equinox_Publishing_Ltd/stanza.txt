@@ -1,5 +1,5 @@
-Title Equinox Publishing Ltd. (updated 20210629)
-URL https://www.equinoxpub.com/home/
+T Equinox Publishing Ltd. (updated 20231101)
+U https://www.equinoxpub.com/home/
 HJ equinoxpub.com
 HJ https://equinoxpub.com
 HJ https://journal.equinoxpub.com
@@ -11,3 +11,5 @@ HJ www.equinoxjournals.com
 HJ www.equinoxpub.com
 DJ equinoxjournals.com
 DJ equinoxpub.com
+Find pdfUrl = "https:\/\/journal.equinoxpub.com
+Replace pdfUrl = "https:\/\/^Sjournal.equinoxpub.com^
