@@ -119,3 +119,4 @@ NeverProxy fonts-gstatic.com
 Title Adam Matthew Digital: China, America and the Pacific
 URL www.cap.amdigital.co.uk/
 Find www.cap.amdigital.co.uk
+Replace ^pwww.cap.amdigital.co.uk^
