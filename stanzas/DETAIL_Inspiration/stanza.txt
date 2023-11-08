@@ -1,7 +1,0 @@
-T DETAIL Inspiration (updated 20231026)
-U https://www.detail.de/inspiration
-HJ https://inspiration.detail.de
-HJ https://www.detail.de
-HJ inspiration.detail.de
-HJ www.detail.de
-DJ detail.de
