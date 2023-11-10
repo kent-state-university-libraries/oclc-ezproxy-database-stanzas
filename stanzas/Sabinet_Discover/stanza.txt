@@ -1,4 +1,7 @@
-T Sabinet Discover (OCLC IncludeFile updated 20221128)
+T Sabinet Discover (updated 20231110)
+HTTPHeader -request -process X-Amz-Target
+HTTPHeader -request -process X-Amz-User-Agent
+HTTPHeader -request -process jwt
 U https://discover.sabinet.co.za
 HJ discover.sabinet.co.za
 HJ https://reference.sabinet.co.za

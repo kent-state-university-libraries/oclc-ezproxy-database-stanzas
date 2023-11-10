@@ -1,5 +1,6 @@
-Title Vitallaw Premium (OCLC IncludeFile updated 20230612)
+Title Vitallaw Premium (updated 20231110)
 Mimefilter application/json .* javascript
+HTTPHeader -response -block Content-Security-Policy
 HTTPHeader -request -process X-GWT-*
 HTTPHeader -request -process X-ApiKey
 HTTPHeader -request -process X-CPID
