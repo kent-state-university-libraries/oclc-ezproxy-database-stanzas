@@ -1,0 +1,24 @@
+Title Vitallaw Premium (updated 20231110)
+Mimefilter application/json .* javascript
+HTTPHeader -response -block Content-Security-Policy
+HTTPHeader -request -process X-GWT-*
+HTTPHeader -request -process X-ApiKey
+HTTPHeader -request -process X-CPID
+HTTPHeader -request -process X-Api-Key
+HTTPHeader -request -process X-CSRF-Token
+URL https://my.vitallaw.com
+HJ http://my.vitallaw.com
+HJ https://login.wolterskluwer.com
+HJ https://tools.cch.com
+HJ https://smartcharts.cch.com
+HJ https://smartcharts.wolterskluwer.com
+HJ https://www.kluwerarbitration.com
+HJ https://www.kluwercompetitionlaw.com
+HJ https://www.kluweriplaw.com
+HJ https://www.rbsourcefilings.com
+DJ IntelliConnect.cch.com
+DJ cch.com
+DJ wolterskluwer.com
+DJ vitallaw.com
+Find http:\/\/
+Replace http://
