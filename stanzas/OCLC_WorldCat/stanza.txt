@@ -1,0 +1,9 @@
+Cookie ezproxy_s=1; domain=.worldcat.org
+T OCLC WorldCat.org (updated 20231107)
+U https://search.worldcat.org
+HJ https://search.worldcat.org
+HJ https://www.worldcat.org
+HJ https://worldcat.org
+HJ www.worldcat.org
+HJ search.worldcat.org
+DJ worldcat.org
