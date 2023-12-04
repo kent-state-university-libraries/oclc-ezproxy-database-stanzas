@@ -1,0 +1,9 @@
+T Health Affairs (added 20231031)
+U https://www.healthaffairs.org
+HJ https://www.healthaffairs.org
+HJ htttp://www.healthaffairs.org
+HJ https://healthaffairs.org
+HJ http://healthaffairs.org
+HJ https://content.healthaffairs.org
+HJ http://content.healthaffairs.org
+DJ healthaffairs.org
