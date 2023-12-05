@@ -1,4 +1,5 @@
-Title IBISWorld (updated 20191127)
+AnonymousURL +https://content.ibisworld.com/umbraco/api/*
+Title IBISWorld (OCLC IncludeFile updated 20231129)
 URL https://my.ibisworld.com
 HJ my.ibisworld.com
 HJ www.ibisworld.com
@@ -29,6 +30,8 @@ HJ clients1.ibisworld.de
 HJ https://clients1.ibisworld.de
 HJ client.procurementiq.com
 HJ https://client.procurementiq.com
+HJ https://content.ibisworld.com
+HJ content.ibisworld.com
 DJ ibisworld.com
 DJ ibisworld.com.au
 DJ ibisworld.com.cn
@@ -36,3 +39,4 @@ DJ ibisworld.co.uk
 DJ ibisworld.de
 DJ ibisworld.ca
 DJ procurementiq.com
+AnonymousURL -*

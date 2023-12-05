@@ -1,4 +1,4 @@
-T Van Dale Online (Updated 20230929)
+T Van Dale Online (Updated 20231129)
 U http://www.vandale.nl
 HJ https://vandale.nl
 HJ https://www.vandale.nl
@@ -11,6 +11,6 @@ HJ vandale.nl
 HJ www.vandale.nl
 HJ pakket169.vandale.nl
 HJ kb.vandale.com
-HJ https://hh.vandale.nlÂ
+HJ https://hh.vandale.nl
 HJ hh.vandale.nl
 DJ vandale.nl

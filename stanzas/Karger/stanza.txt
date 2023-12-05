@@ -1,4 +1,9 @@
-Title Karger Publishers
+AnonymousURL +https://kit.fontawesome.com/*.js
+AnonymousURL +https://kit.fontawesome.com/*.css
+AnonymousURL +https://ka-p.fontawesome.com/releases/*.css*
+AnonymousURL +https://ka-p.fontawesome.com/releases/*.woff*
+AnonymousURL +https://ka-p.fontawesome.com/releases/*.tff*
+Title Karger Publishers (updated 20231129)
 URL https://www.karger.com
 HJ http://www.karger.com
 HJ content.karger.ch
@@ -14,6 +19,11 @@ HJ online.karger.com
 HJ search.karger.com
 HJ www.karger.ch
 HJ www.karger.com
+HJ https://kit.fontawesome.com
+HJ kit.fontawesome.com
+HJ ka-p.fontawesome.com
+HJ https://ka-p.fontawesome.com
 DJ mag.digitalpc.co.uk
 DJ karger.com
 DJ karger.ch
+AnonymousURL -*

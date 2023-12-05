@@ -1,0 +1,9 @@
+Title Politique étrangère (updated 20231129)
+URL https://www.revues.armand-colin.com/politique-etrangere
+HJ https://www.revues.armand-colin.com
+HJ https://revues.armand-colin.com
+HJ http://www.revues.armand-colin.com
+HJ http://revues.armand-colin.com
+DJ http://revues.armand-colin.com
+Find http://www.revues
+Replace https://www.revues
