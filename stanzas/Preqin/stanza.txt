@@ -3,7 +3,8 @@ AnonymousURL +*.woff*
 AnonymousURL +*.ttf
 AnonymousURL +https://id.preqin.com*
 AnonymousURL +https://*.pro.preqin.com*
-Title Preqin - Production (updated 20220718)
+AnonymousURL +https://*.cms.preqin.com*
+Title Preqin - Production (updated 20231113)
 HTTPHeader -request -process RequestVerificationToken
 HTTPHeader -request -process __RequestVerificationToken
 URL https://www.preqin.com/login.aspx?al=true&userid=[USERID]&c=[PASSWORD]

@@ -1,11 +1,11 @@
-Title Baobab Ebooks (updated 20190815)
-URL https://www.baobab-ebooks.com
+T Baobab Ebooks (OCLC IncludeFile updated 20231114)
+U https://www.baobab-ebooks.com
 HJ www.baobab-ebooks.com
 HJ https://acs.baobab-ebooks.com
 HJ acs.baobab-ebooks.com
-HJ koha.baobab-ebooks.com
 HJ https://koha.baobab-ebooks.com
-HJ baobab-ebooks.com
+HJ koha.baobab-ebooks.com
+HJ https://ebooks.africanbookscollective.com
+HJ ebooks.africanbookscollective.com
 DJ baobab-ebooks.com
-DJ acs.baobab-ebooks.com
-DJ koha.baobab-ebooks.com
+DJ africanbookscollective.com
