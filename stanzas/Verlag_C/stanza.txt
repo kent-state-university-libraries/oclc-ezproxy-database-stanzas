@@ -1,9 +1,16 @@
-T Verlag C.H.Beck (OCLC IncludeFile updated 20230414)
+AnonymousURL +https://beck-online-settings.beck.de/fonts/*
+AnonymousURL +https://beck-online-settings.beck.de/assets/*
+AnonymousURL +https://beck-online-store.beck.de/assets/*
+AnonymousURL +https://beck-online-ui-elements.beck.de/assets/*
+T Verlag C.H.Beck (OCLC IncludeFile updated 20231130)
+HTTPHeader -response -block Content-Security-Policy
 HTTPHeader -request -process X-Requested-With
 U https://beck-online.beck.de/Home
-H beck-online.beck.de
-H chbeck.metapress.com
-H https://beck-online.beck.de
-H rsw.beck.de
+HJ beck-online.beck.de
+HJ chbeck.metapress.com
+HJ https://beck-online.beck.de
+HJ rsw.beck.de
+HJ https://beck.matomo.cloud
 DJ beck.de
 DJ metapress.com
+AnonymousURL -*
