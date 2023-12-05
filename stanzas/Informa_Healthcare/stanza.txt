@@ -1,5 +1,7 @@
-Title Informa Healthcare
-URL http://informahealthcare.com/
+Title Informa Healthcare (updated 20231115)
+URL https://informahealthcare.com/
+HJ https://informahealthcare.com
+HJ https://www.informahealthcare.com
 HJ informahealthcare.com
 HJ www.informahealthcare.com
 DJ informahealthcare.com

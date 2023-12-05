@@ -1,0 +1,9 @@
+Title American Journal of Roentgenology AJR (added 20231121)
+URL https://www.ajronline.org
+HJ https://www.ajronline.org
+HJ https://ajronline.org
+HJ intl.ajronline.org
+HJ www.ajronline.org
+HJ www.arrs.org
+DJ ajronline.org
+DJ arrs.org

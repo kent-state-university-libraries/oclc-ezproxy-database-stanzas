@@ -1,9 +1,11 @@
-Title Crossref (updated 20211026)
+T Crossref (OCLC IncludeFile updated 20231122)
 URL http://www.crossref.org
 HJ apps.crossref.org
+HJ chooser.crossref.org
 HJ crossref.org
 HJ doi.crossref.org
 HJ https://apps.crossref.org
+HJ https://chooser.crossref.org
 HJ https://crossref.org
 HJ https://doi.crossref.org
 HJ https://mr.crossref.org
