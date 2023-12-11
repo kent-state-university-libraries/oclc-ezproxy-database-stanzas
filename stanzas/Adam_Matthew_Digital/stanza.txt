@@ -1,9 +1,11 @@
-Title Adam Matthew Digital (updated 20231110)
+Title Adam Matthew Digital (updated 20231206)
 URL http://www.login.amdigital.co.uk
+HJ https://1980scultureandsociety.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://broadcastingamerica.amdigital.co.uk
 HJ https://royalshakespearecompanyarchives.amdigital.co.uk
 HJ https://www.18thcjournals.amdigital.co.uk
+HJ https://www.1980scultureandsociety.amdigital.co.uk
 HJ https://www.aac.amdigital.co.uk
 HJ https://www.aap.amdigital.co.uk
 HJ https://www.africaandthenewimperialism.amdigital.co.uk
