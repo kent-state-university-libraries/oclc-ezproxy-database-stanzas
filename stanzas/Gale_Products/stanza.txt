@@ -1,7 +1,8 @@
 HTTPMethod OPTIONS
 AnonymousURL -Options +https://appapi.chiltonlibrary.com/*
 AnonymousURL +https://appapi.chiltonlibrary.com/*
-Title Gale Products (updated 20230810)
+Title Gale Products (updated 20231212)
+HTTPHeader -request -process X-XSRF-TOKEN
 URL https://link.gale.com/apps/menu
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
