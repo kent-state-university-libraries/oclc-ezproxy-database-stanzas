@@ -1,5 +1,5 @@
 # NEJM Group
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NEJM_Group](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NEJM_Group) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NEJM_Group](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NEJM_Group) **
 
 ## Some of OCLC's notes for this stanza
 

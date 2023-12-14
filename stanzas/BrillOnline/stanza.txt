@@ -2,7 +2,7 @@
 
 #Includes World Christian Database, World Religion Database and Arkyves
 AnonymousURL +https://labs.brill.com/lci2/*
-Title BrillOnline (Updated 20230404)
+Title BrillOnline (Updated 20231212)
 HTTPHeader -request -process x-projectname
 HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
@@ -53,6 +53,14 @@ HJ http://www.mentis.de/
 HJ booksandjournals.brillonline.com
 HJ https://booksandjournals.brillonline.com
 HJ https://brillonline.com
+HJ https://www.dialogueacrossborders.com
+HJ www.dialogueacrossborders.com
+HJ https://dialogueacrossborders.com
+HJ dialogueacrossborders.com
+HJ https://research.rkd.nl
+HJ research.rkd.nl
+DJ rkd.nl
+DJ dialogueacrossborders.com
 DJ fink.de
 DJ schoeningh.de
 DJ mentis.de

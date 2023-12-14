@@ -1,3 +1,4 @@
+Option MetaEZproxyRewriting
 AnonymousURL +https://api-production.jwatch.org/*
 AnonymousURL +https://api-production.nejmgroup.org/*
 AnonymousURL +https://myaccount.nejm.org/api/*
@@ -6,15 +7,17 @@ AnonymousURL +https://myaccount.nejm.org/mmssession/*
 AnonymousURL +https://api.nejmgroup.org/nejm-api/*
 AnonymousURL +https://examservice.nejm.org/ExamService/*
 AnonymousURL +https://cssjs.nejm.org/fonts/*
-Title NEJM Group (updated 20220628)
+Title NEJM Group (updated 20231211)
 HTTPHeader -request -process access-control-allow-origin
 HTTPHeader -request -process x-api-key
 HTTPHeader -request -process X-Requested-With
 URL https://www.nejm.org
 HJ catalyst.nejm.org
 HJ evidence.nejm.org
+HJ ai.nejm.org
 HJ https://catalyst.nejm.org
 HJ https://evidence.nejm.org
+HJ https://ai.nejm.org
 HJ https://knowledgeplus.nejm.org
 HJ https://libraryhub.nejm.org
 HJ https://myaccount.nejm.org
@@ -41,3 +44,4 @@ DJ nejmgroup.org
 Find "//examservice.nejm.org/
 Replace "//^sexamservice.nejm.org^/
 AnonymousURL -*
+Option NoMetaEZproxyRewriting
