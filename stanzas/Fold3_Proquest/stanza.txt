@@ -1,0 +1,6 @@
+Title Fold3 Proquest (updated 20231201)
+MimeFilter application/json .* javascript
+URL https://fold3library.proquest.com
+HJ fold3library.proquest.com
+DJ fold3library.proquest.com
+NeverProxy fold3.com
