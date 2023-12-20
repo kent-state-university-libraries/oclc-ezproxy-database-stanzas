@@ -1,0 +1,34 @@
+Option CookiePassThrough
+HTTPMethod DELETE
+HTTPMethod PUT
+HTTPMethod OPTIONS
+Title Lippincott (updated 20231215)
+HTTPHeader -request -process ez-proxy-request-hostname
+HTTPHeader -request -process X-CORRELATION-ID
+U https://lippincottsolutionssuite.lww.com
+HJ https://lippincottsolutionssuite.lww.com
+HJ https://procedures.lww.com
+HJ https://advisor.lww.com
+HJ https://competency.lww.com
+HJ https://blendedlearning.lww.com
+HJ https://learning.lww.com
+HJ https://lns-sso.lww.com
+HJ https://legacy-lippincottsolutionssuite.lww.com
+HJ https://legacy-procedures.lww.com
+HJ https://legacy-advisor.lww.com
+HJ https://legacy-competency.lww.com
+HJ https://legacy-blendedlearning.lww.com
+HJ http://lippincottsolutionssuite.lww.com
+HJ http://procedures.lww.com
+HJ http://advisor.lww.com
+HJ http://competency.lww.com
+HJ http://blendedlearning.lww.com
+HJ http://learning.lww.com
+HJ http://lns-sso.lww.com
+HJ http://legacy-lippincottsolutionssuite.lww.com
+HJ http://legacy-procedures.lww.com
+HJ http://legacy-advisor.lww.com
+HJ http://legacy-competency.lww.com
+HJ http://legacy-blendedlearning.lww.com
+DJ lww.com
+Option Cookie
