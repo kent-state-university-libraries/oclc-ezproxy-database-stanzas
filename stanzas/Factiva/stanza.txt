@@ -1,5 +1,6 @@
 ProxyHostnameEdit global.factiva.com$ global-factiva-com
-Title Factiva (OCLC IncludeFile updated 20230720)
+AnonymousURL +*//api.dowjones.com/*
+Title Factiva (updated 20231218)
 HTTPHeader -request -process credentials
 HTTPHeader -request -process preferences
 HTTPHeader -request -process product
@@ -25,6 +26,6 @@ Replace name="landingPage" value="http://^A
 Find name="targetsite" value="http://
 Replace name="targetsite" value="http://^A
 NeverProxy widgets.dowjones.com
-NeverProxy api.dowjones.com
 NeverProxy types.factiva.com
 NeverProxy utilityhandlers.dowjones.com
+AnonymousURL -*

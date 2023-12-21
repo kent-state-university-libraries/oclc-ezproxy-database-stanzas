@@ -1,0 +1,32 @@
+AnonymousURL -Options +https://pdfssj.sslibrary.com/*
+AnonymousURL +https://pdfssj.sslibrary.com/*
+Title SuperStar Book World (added 20231217)
+URL https://bookworld.sslibrary.com/
+HJ https://bookworld.sslibrary.com
+HJ https://pdfssj.sslibrary.com
+HJ https://bookworld.sslibrary.com
+HJ https://read.sslibrary.com/
+HJ bookworld.sslibrary.com
+HJ read.sslibrary.com
+HJ bookworld.5read.com
+HJ https://bfts.5read.com
+HJ bfts.5read.com
+HJ https://nfts.5read.com
+HJ nfts.5read.com
+HJ epub.sslibrary.com
+HJ https://epub.sslibrary.com
+HJ log.sslibrary.com
+HJ https://log.sslibrary.com
+DJ aichaoxing.com
+DJ chaoxing.com
+DJ sslibrary.com
+NeverProxy captcha.chaoxing.com
+Neverproxy img.sslibrary.com
+Neverproxy img.duxiu.com
+Neverproxy bpng1.5read.com
+Neverproxy npng1.5read.com
+Neverproxy image1.5read.com
+NeverProxy img.sslibrary.com
+Neverproxy img.duxiu.com
+Neverproxy cover.duxiu.com
+AnonymousURL -*
