@@ -1,0 +1,7 @@
+Title Kluwer Law Digital Book Platform (added 20231212)
+URL https://wkldigitalbooks.integra.co.in
+HJ http://wkldigitalbooks.integra.co.in
+HJ wkldigitalbooks.integra.co.in
+DJ wkldigitalbooks.integra.co.in
+Find wkldigitalbooks.integra.co.in
+Replace ^swkldigitalbooks.integra.co.in^
