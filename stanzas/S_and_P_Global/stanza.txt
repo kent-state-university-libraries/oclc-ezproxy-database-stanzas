@@ -1,0 +1,76 @@
+Option CookiePassThrough
+AnonymousURL -Options +https://qt-iag-ciqplus.capitaliq.com/*
+AnonymousURL -Options +https://charting.capitaliq.com/*
+AnonymousURL -Options +https://iag-ciqplus.capitaliq.com/*
+T S&P Global (added 20231213)
+HTTPHeader -request -process X-CSRF-Token
+HTTPHeader -request -process com-gmi-*
+HTTPHeader -request -process SNL-*
+HTTPHeader -request -process -unrewrite Authorization
+HTTPHeader -response -edit Access-Control-Allow-Origin "https://www.snl.com"
+MimeFilter text/event-stream .* javascript
+URL https://www.capitaliq.com
+HJ https://www.capitaliq.com
+HJ http://www.capitaliq.com
+HJ https://capitaliq.com
+HJ http://capitaliq.com
+HJ https://capitaliq.spglobal.com
+HJ https://www.snl.com
+HJ www.snl.com
+HJ app.snl.com
+HJ app1.snl.com
+HJ app2.snl.com
+HJ https://capitaliq.spglobal.com
+HJ capitaliq.spglobal.com
+HJ https://www.capitaliq.spglobal.com
+HJ http://www.capitaliq.spglobal.com
+HJ www.capitaliq.spglobal.com
+HJ https://www.capitaliq.spglobal.com
+HJ https://www.capitaliqpro.com
+HJ www.capitaliqpro.com
+HJ platform.mi.spglobal.com
+HJ https://platform.mi.spglobal.com
+HJ platform.marketintelligence.spglobal.com
+HJ https://platform.marketintelligence.spglobal.com
+HJ platform.spgi.spglobal.com
+HJ https://platform.spgi.spglobal.com
+HJ http://na.capitaliq.com/
+HJ https://www.capitaliq.com
+HJ http://www.capitaliq.com
+HJ https://na.capitaliq.com
+HJ https://capitaliq.com
+HJ sso.mhfi.com
+HJ login.spglobal.com
+HJ sso.spglobal.com
+HJ na.capitaliq.com
+DJ capitaliq.com
+DJ ciqimg.com
+DJ mhfi.com
+DJ spglobal.com
+DJ snl.com
+Find location.hostname
+Replace location.host
+Find && currentDomain != "localhost"
+Replace && 0
+Find https://www.snl.com/SNL.Services.Export.Service
+Replace https://^swww.snl.com^/SNL.Services.Export.Service
+Find www.capitaliq.spglobal.com
+Replace ^swww.capitaliq.spglobal.com^
+Find xmlns=\"http://
+Replace xmlns=\"http://^A
+Find param="http://
+Replace param="http://^A
+Find xmlns=\"https://
+Replace xmlns=\"https://^A
+Find param="https://
+Replace param="https://^A
+Find platform.marketintelligence.spglobal.com
+Replace ^splatform.marketintelligence.spglobal.com^
+Find platform.mi.spglobal.com
+Replace ^splatform.mi.spglobal.com^
+AnonymousURL -*
+Option Cookie
+NeverProxy app.snl.com
+NeverProxy cdn.spgi.spglobal.com
+NeverProxy walkme.com
+Neverproxy secure.signin.spglobal.com
