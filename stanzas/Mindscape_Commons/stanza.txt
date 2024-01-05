@@ -1,7 +1,7 @@
 Option CookiePassThrough
 AnonymousURL +https://auth.mindscapecommons.net/*
 AnonymousURL +https://dev-w2a8g1r1.auth0.com/*
-Title Mindscape Commons (updated 20211021)
+Title Mindscape Commons (OCLC IncludeFile updated 20240103)
 HTTPHeader -response -process Access-Control-Allow-Origin ""
 URL https://mindscapecommons.net
 HJ auth.mindscapecommons.net
@@ -9,5 +9,6 @@ DJ mindscapecommons.net
 HJ https://auth.mindscapecommons.net
 NeverProxy d1qq4p6p3fiwyq.cloudfront.net
 NeverProxy coherentdigital.uptale.io
+NeverProxy search.mindscapecommons.net
 AnonymousURL -*
 Option Cookie
