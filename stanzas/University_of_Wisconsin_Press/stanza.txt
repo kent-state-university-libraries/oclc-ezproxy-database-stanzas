@@ -1,11 +1,24 @@
-Title University of Wisconsin Press (updated 20220617)
+Title University of Wisconsin Press (OCLC IncludeFile updated 20240112)
 URL http://www.uwpress.org/
 HJ aa.uwpress.org
 HJ aoj.uwpress.org
 HJ cl.uwpress.org
 HJ er.uwpress.org
 HJ hopp.uwpress.org
+HJ https://aa.uwpress.org
+HJ https://aoj.uwpress.org
+HJ https://cl.uwpress.org
+HJ https://er.uwpress.org
 HJ https://hopp.uwpress.org
+HJ https://jhr.uwpress.org
+HJ https://lbr.uwpress.org
+HJ https://le.uwpress.org
+HJ https://lj.uwpress.org
+HJ https://mon.uwpress.org
+HJ https://npj.uwpress.org
+HJ https://sca.uwpress.org
+HJ https://sub.uwpress.org
+HJ https://uwpress.org
 HJ https://uwpress.wisc.edu
 HJ https://www.uwpress.wisc.edu
 HJ jhr.uwpress.org
@@ -15,6 +28,7 @@ HJ lj.uwpress.org
 HJ mon.uwpress.org
 HJ muse.jhu.edu
 HJ npj.uwpress.org
+HJ sca.uwpress.org
 HJ sub.uwpress.org
 HJ uwpress.org
 HJ uwpress.wisc.edu
