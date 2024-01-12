@@ -1,0 +1,7 @@
+Title Symptom Media (updated 20240111)
+URL https://learn.symptommedia.com
+MimeFilter application/x-www-form-urlencoded .* javascript
+HJ http://learn.symptommedia.com
+HJ https://symptommedia.com
+HJ http://symptommedia.com
+DJ symptommedia.com
