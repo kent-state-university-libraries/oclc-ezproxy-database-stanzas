@@ -1,5 +1,5 @@
-# JAMA Network
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JAMA](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JAMA) **
+# JAMA
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JAMA](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JAMA) **
 
 ## Some of OCLC's notes for this stanza
 
