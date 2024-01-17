@@ -1,8 +1,6 @@
-Option DomainCookieOnly
-Title Thesaurus Linguae Graecae (updated 20240103)
+Title Thesaurus Linguae Graecae (updated 20230505)
 HTTPHeader -request -process X-Requested-With
 URL https://stephanus.tlg.uci.edu/
 HJ http://stephanus.tlg.uci.edu/
 HJ stephanus.tlg.uci.edu
 DJ tlg.uci.edu
-Option Cookie

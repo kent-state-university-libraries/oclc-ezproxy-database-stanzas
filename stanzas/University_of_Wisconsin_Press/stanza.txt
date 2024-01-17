@@ -1,4 +1,4 @@
-Title University of Wisconsin Press (OCLC IncludeFile updated 20240112)
+Title University of Wisconsin Press (updated 20240112)
 URL http://www.uwpress.org/
 HJ aa.uwpress.org
 HJ aoj.uwpress.org
