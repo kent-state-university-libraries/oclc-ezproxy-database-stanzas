@@ -1,4 +1,5 @@
-Title El Croquis Digital Library (OCLC IncludeFile updated 20231204)
+AnonymousURL +https://www.elcroquisdigital.com/api/*
+Title El Croquis Digital Library (updated 20240118)
 URL https://www.elcroquisdigital.com
 HJ https://elcroquisdigital.com/
 HJ elcroquisdigital.com
@@ -9,4 +10,5 @@ HJ api-elcroquisdigital.com
 HJ https://free-croquis-pro.s3.eu-west-3.amazonaws.com
 HJ free-croquis-pro.s3.eu-west-3.amazonaws.com
 DJ elcroquisdigital.com
+AnonymousURL -*
 NeverProxy documents-croquis-pro.s3.eu-west-3.amazonaws.com
