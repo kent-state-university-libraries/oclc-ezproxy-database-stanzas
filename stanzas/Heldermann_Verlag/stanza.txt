@@ -1,7 +1,10 @@
-Title Heldermann Verlag (updated 20210112)
+Title Heldermann Verlag (updated 20240123)
 URL https://www.heldermann.de/
 HJ https://heldermann.de
 HJ heldermann.de
 HJ https://www.heldermann.de
 HJ www.heldermann.de
+HJ https://heldermann-verlag.de
+HJ https://www.heldermann-verlag.de
+DJ heldermann-verlag.de
 DJ heldermann.de
