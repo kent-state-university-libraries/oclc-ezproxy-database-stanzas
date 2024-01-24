@@ -1,0 +1,5 @@
+Title Archaeopress Journals
+URL https://archaeopresspublishing.com/
+HJ https://archaeopresspublishing.com/
+HJ http://archaeopresspublishing.com/
+DJ archaeopresspublishing.com
