@@ -1,34 +1,37 @@
-Title OECD iLibrary (updated 20180530)
+AnonymousURL +https://dotstat-search.oecd.org/api/search?tenant=oecd
+Title OECD iLibrary (updated 20240129)
 HTTPHeader -request -process X-Requested-With
 URL https://www.oecd-ilibrary.org/
-DJ oecd.org
-DJ oecdilibrary.org
-DJ oecd-ilibrary.org
-DJ nordic-ilibrary.org
-DJ thecommonwealth-ilibrary.org
-DJ un-ilibrary.org
-DJ itu-ilibrary.org
-DJ wto-ilibrary.org
-HJ www.oecd.org
-HJ www.oecdilibrary.org
-HJ www.oecd-ilibrary.org
-HJ www.nordic-ilibrary.org
-HJ www.thecommonwealth-ilibrary.org
-HJ www.un-ilibrary.org
-HJ www.itu-ilibrary.org
-HJ www.wto-ilibrary.org
-HJ read.oecd-ilibrary.org
-HJ www.keepeek.com
+HJ data-explorer.oecd.org
+HJ https://data-explorer.oecd.org
+HJ https://read.oecd-ilibrary.org
+HJ https://www.itu-ilibrary.org
+HJ https://www.keepeek.com
+HJ https://www.nordic-ilibrary.org
+HJ https://www.oecd-ilibrary.org
 HJ https://www.oecd.org
 HJ https://www.oecdilibrary.org
-HJ https://www.oecd-ilibrary.org
-HJ https://www.nordic-ilibrary.org
 HJ https://www.thecommonwealth-ilibrary.org
 HJ https://www.un-ilibrary.org
-HJ https://www.itu-ilibrary.org
 HJ https://www.wto-ilibrary.org
-HJ https://read.oecd-ilibrary.org
-HJ https://www.keepeek.com
+HJ read.oecd-ilibrary.org
+HJ www.itu-ilibrary.org
+HJ www.keepeek.com
+HJ www.nordic-ilibrary.org
+HJ www.oecd-ilibrary.org
+HJ www.oecd.org
+HJ www.oecdilibrary.org
+HJ www.thecommonwealth-ilibrary.org
+HJ www.un-ilibrary.org
+HJ www.wto-ilibrary.org
+DJ itu-ilibrary.org
+DJ nordic-ilibrary.org
+DJ oecd-ilibrary.org
+DJ oecd.org
+DJ oecdilibrary.org
+DJ thecommonwealth-ilibrary.org
+DJ un-ilibrary.org
+DJ wto-ilibrary.org
 Find xmlns=\"http://
 Replace xmlns=\"http://^A
 Find LENS_BASE_URI = "http://
@@ -45,6 +48,8 @@ Find CONTENT_BASE_URI = "https://
 Replace CONTENT_BASE_URI = "https://^A
 Find param="https://
 Replace param="https://^A
-NeverProxy oecd.metastore.ingenta.com
 NeverProxy data.oecd.org
+NeverProxy oecd.metastore.ingenta.com
+NeverProxy sdmx.oecd.org
 NeverProxy stats.oecd.org
+AnonymousURL -*
