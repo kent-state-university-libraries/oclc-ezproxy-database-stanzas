@@ -1,0 +1,5 @@
+Title DrugBasePlus (updated 20240130)
+URL https://plus.drugbase.de
+HJ https://plus.drugbase.de
+HJ plus.drugbase.de
+DJ plus.drugbase.de
