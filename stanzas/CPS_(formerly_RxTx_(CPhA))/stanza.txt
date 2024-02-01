@@ -1,0 +1,11 @@
+Title CPS (updated 20240131)
+URL https://cps.pharmacists.ca
+HJ https://cps.pharmacists.ca
+HJ cps.pharmacists.ca
+HJ https://www.myrxtx.ca
+HJ www.myrxtx.ca
+HJ https://www.monrxtx.ca
+HJ www.monrxtx.ca
+DJ pharmacists.ca
+DJ myrxtx.ca
+DJ monrxtx.ca
