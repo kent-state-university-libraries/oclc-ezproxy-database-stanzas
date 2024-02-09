@@ -1,0 +1,8 @@
+Title Metropolitan Opera on Demand (updated 20240209)
+URL https://metopera.org/season/on-demand/
+HJ https://ondemand.metopera.org
+HJ https://www.metopera.org
+HJ metopera.org
+HJ ondemand.metopera.org
+HJ www.metopera.org
+DJ metopera.org
