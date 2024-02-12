@@ -1,9 +1,14 @@
-Option CookiePassThrough
-Title Rolling Stone (Added 20230404)
+Title Rolling Stone (updated 20220201)
 URL http://www.rollingstone.com
 HJ https://www.rollingstone.com
 HJ http://rollingstone.com
 HJ https://rollingstone.com
+HJ http://piano.io
+HJ https://piano.io
+HJ http://tinypass.com
+HJ https://tinypass.com
+DJ tinypass.com
+DJ piano.io
 DJ www.rollingstone.com
 Find https:\/\/
 Replace https://

@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title Variety (Updated 20230718)
+Title Variety (updated 20240205)
 URL https://variety.com
 HJ https://variety.com
 HJ http://variety.com
@@ -11,8 +11,14 @@ HJ https://read-archive.variety.com
 HJ http://read-archive.variety.com
 HJ http://varietyultimate.com
 HJ https://varietyultimate.com
+HJ https://piano.io/
+HJ http://piano.io/
+HJ https://tinypass.com/
+HJ http://tinypass.com/
 DJ varietyultimate.com
 DJ variety.com
+DJ piano.io/
+DJ tinypass.com/
 Find https:\/\/
 Replace https://
 Option Cookie

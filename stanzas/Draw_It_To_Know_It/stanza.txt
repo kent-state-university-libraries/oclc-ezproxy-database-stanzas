@@ -1,4 +1,7 @@
 Title Draw It To Know It
-URL http://www.drawittoknowit.com/
-HJ www.drawittoknowit.com
+URL https://ditki.com
+HJ http://ditki.com
+HJ https://www.drawittoknowit.com
+HJ http://www.drawittoknowit.com
+DJ ditki.com
 DJ drawittoknowit.com
