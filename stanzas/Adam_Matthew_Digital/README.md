@@ -9,6 +9,12 @@ Access to any collection must begin at the collection URL, so you must construct
 
 http://ezproxy.abclib.org/login?url=http://www.empire.amdigital.co.uk 
 
+&nbsp;
+
+&nbsp; Note:&nbsp;This resource utilizes SSL/TLS versions that are no longer enabled by default in EZproxy v7.3 and newer. To proxy this resource the following must appear in the EZproxy configuration file if using EZproxy v7.3 or newer. The directive is global:
+
+&nbsp;
+
 A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
 
 &nbsp;
