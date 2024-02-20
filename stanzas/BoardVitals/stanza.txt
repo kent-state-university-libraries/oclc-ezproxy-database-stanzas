@@ -2,5 +2,5 @@ HTTPMethod PUT
 HTTPMethod DELETE
 Title BoardVitals
 URL https://www.boardvitals.com
-DJ boardvitals.com
-HJ https://boardvitals.com/
+H https://boardvitals.com
+D boardvitals.com
