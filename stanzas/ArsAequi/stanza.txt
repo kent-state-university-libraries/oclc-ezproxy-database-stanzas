@@ -1,7 +1,7 @@
 AnonymousURL +https://bzp04q7cwf-1.algolianet.com/*
 AnonymousURL +https://bzp04q7cwf-2.algolianet.com/*
 AnonymousURL +https://bzp04q7cwf-3.algolianet.com/*
-Title ArsAequi (updated 20200522)
+Title ArsAequi (updated 20240206)
 URL https://arsaequi.nl/home/
 HJ arsaequi.nl
 HJ https://arsaequi.nl
@@ -15,10 +15,14 @@ HJ https://www.arsaequi.nl
 HJ juridischeuitgeverij.nl
 HJ www.arsaequi.nl
 DJ arsaequi.nl
-Find this.hosts.write=[this.applicationID+".algolia.net"]
-Replace this.hosts.write=[this.applicationID+"-algolia-net.^H"]
-Find p=(!1===r.dsn?"":"-dsn")+".algolia.net"
-Replace p=(!1===r.dsn?"":"-dsn")+"-algolia-net.^H"
-Find {return e+"-"+t+".algolianet.com"}
-Replace {return e+"-"+t+"-algolianet-com.^H"}
+Find concat(t,"-dsn.algolia.net
+Replace concat(t,"-dsn-algolia-net.^H
+Find concat(t,".algolia.net
+Replace concat(t,"-algolia-net^H
+Find concat(t,"-1.algolianet.com
+Replace concat(t,"-1-algolianet-com.^H
+Find concat(t,"-2.algolianet.com
+Replace concat(t,"-2-algolianet-com.^H
+Find concat(t,"-3.algolianet.com
+Replace concat(t,"-3-algolianet-com.^H
 AnonymousURL -*
