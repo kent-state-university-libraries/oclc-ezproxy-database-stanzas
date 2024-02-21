@@ -1,0 +1,10 @@
+Title STATdx (updated 20240219)
+URL https://my.statdx.com/
+HJ app.statdx.com
+HJ https://app.statdx.com
+HJ https://my.statdx.com
+HJ https://www.statdx.com
+HJ my.statdx.com
+HJ statdx.com
+HJ www.statdx.com
+DJ statdx.com
