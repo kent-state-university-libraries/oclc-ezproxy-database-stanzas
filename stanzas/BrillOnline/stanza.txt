@@ -1,8 +1,9 @@
 #This stanza is required to resolve the Cookie Banner pop-up issue IncludeFile databases/cookielaw.txt
 
 #Includes World Christian Database, World Religion Database and Arkyves
+
 AnonymousURL +https://labs.brill.com/lci2/*
-Title BrillOnline (updated 20240207)
+Title BrillOnline (updated 20240221)
 HTTPHeader -request -process x-projectname
 HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
@@ -27,6 +28,8 @@ HJ https://chinesereferenceshelf.brillonline.com
 HJ https://dictionaries.brillonline.com
 HJ https://primarysources.brillonline.com
 HJ https://referenceworks.brillonline.com
+HJ https://referenceworks.brill.com
+HJ referenceworks.brill.com
 HJ https://www.brillonline.com
 HJ https://ybio.brillonline.com
 HJ http://arkyves.org
