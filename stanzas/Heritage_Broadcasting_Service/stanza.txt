@@ -1,0 +1,8 @@
+Title Heritage Broadcasting Service (updated 20240221)
+Url https://www.uscreen-sso.com
+HJ https://www.uscreen-sso.com
+HJ http://www.uscreen-sso.com
+HJ https://heritagetac.org
+HJ http://heritagetac.org
+DJ heritagetac.org
+DJ uscreen-sso.com

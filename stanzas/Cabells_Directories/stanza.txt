@@ -4,10 +4,13 @@ AnonymousURL +https://auth.cabells.com/*
 AnonymousURL +https://contact.cabells.com/*
 AnonymousURL +https://signup-medicine.cabells.com/*
 AnonymousURL +https://usage.cabells.com/*
-Title Cabells Directories (updated 20231101)
+Title Cabells Directories (updated 20240226)
 HTTPHeader -request -process x-functions-key
 HTTPHeader -request -process SESSION_ID
 HTTPHeader -request -process USER_ID
+HTTPHeader -request -process Datadome
+HTTPHeader -response -process X-DataDome
+HTTPHeader -response -process Accept-CH
 URL https://app.cabells.com
 HJ http://www2.cabells.com/
 HJ https://www2.cabells.com
