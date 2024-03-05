@@ -1,0 +1,17 @@
+T East View Information Services Inc (added 20240304)
+U http://dlib.eastview.com/
+HJ bib.eastview.com
+HJ ccg.eastview.com
+HJ dlib.eastview.com
+HJ eastview.com
+HJ gpa.easview.com
+HJ https://bib.eastview.com
+HJ https://dlib.eastview.com/
+HJ https://eastview.com
+HJ https://gpa.easview.com
+HJ https://www.eastview.com
+HJ news.mosinfo.ru
+HJ online.eastview.com
+HJ www.eastview.com
+DJ eastview.com
+DJ mosinfo.ru
