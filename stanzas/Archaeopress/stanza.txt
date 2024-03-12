@@ -1,0 +1,5 @@
+Title Archaeopress
+URL https://www.archaeopress.com/
+HJ https://www.archaeopress.com
+HJ http://www.archaeopress.com
+DJ archaeopress.com
