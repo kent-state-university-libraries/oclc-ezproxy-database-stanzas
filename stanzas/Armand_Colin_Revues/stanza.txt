@@ -1,0 +1,9 @@
+Title Armand Colin Revues (updated 20240311)
+URL https://www.revues.armand-colin.com
+HJ https://www.revues.armand-colin.com
+HJ https://revues.armand-colin.com
+HJ http://www.revues.armand-colin.com
+HJ http://revues.armand-colin.com
+DJ armand-colin.com
+Find http://www.revues.armand-colin.com
+Replace https://www.revues.armand-colin.com

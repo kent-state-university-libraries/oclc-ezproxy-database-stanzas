@@ -4,7 +4,7 @@ AnonymousURL +https://my.heinonline.org/js/*
 AnonymousURL +https://heinonline.org/static/*
 AnonymousURL +https://heinonline.org/HeinDocs/*
 AnonymousURL +https://heinonline.org/HOL/MyHeinTestMyHein*
-Title HeinOnline (Updated 20230406)
+Title HeinOnline (updated 20240307)
 MimeFilter text/event-stream .* javascript
 MimeFilter ^$ https?://heinonline.org/HOL/.* javascript
 URL http://www.heinonline.org/HOL/Welcome
@@ -20,4 +20,6 @@ HJ https://tim.heinonline.org
 HJ https://my.heinonline.org
 DJ heinonline.org
 Option AllowSendGZip
+Find document.domain
+Replace "heinonline.org"
 AnonymousURL -*
