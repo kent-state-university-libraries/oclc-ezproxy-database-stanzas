@@ -1,4 +1,6 @@
-Title Africa-Confidential
-URL http://www.africa-confidential.com
+Title Africa-Confidential (updated 20240312)
+URL https://www.africa-confidential.com
 HJ africa-confidential.com
+HJ https://africa-confidential.com
+HJ www.africa-confidential.com
 DJ africa-confidential.com
