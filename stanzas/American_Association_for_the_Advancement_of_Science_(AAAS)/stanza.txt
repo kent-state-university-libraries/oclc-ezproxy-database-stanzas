@@ -1,0 +1,11 @@
+T American Association for the Advancement of Science (AAAS) (updated 20240313)
+U https://www.aaas.org
+HJ aaas.org
+HJ account.aaas.org
+HJ https://aaas.org
+HJ https://account.aaas.org
+HJ https://pubs.aaas.org
+HJ https://www.aaas.org
+HJ pubs.aaas.org
+HJ www.aaas.org
+DJ aaas.org
