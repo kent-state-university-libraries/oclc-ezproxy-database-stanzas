@@ -1,5 +1,6 @@
-T Oxford African American Studies Center (updated 20230118)
-U https://www.oxfordaasc.com/
+Title Oxford African American Studies Center (updated 20240319)
+HTTPHeader -request -process X-Requested-With
+URL https://www.oxfordaasc.com/
 HJ https://oxfordaasc.com
 HJ oxfordaasc.com
 HJ www.oxfordaasc.com
