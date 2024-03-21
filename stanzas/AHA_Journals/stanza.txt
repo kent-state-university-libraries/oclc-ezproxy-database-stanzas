@@ -1,5 +1,5 @@
-T AHA Journals (Lippincott Williams & Wilkins-LWW) (OCLC Includefile updated 20230420)
-U http://atvb.ahajournals.org/
+Title AHA Journals (Lippincott Williams & Wilkins-LWW) (updated 20230420)
+URL http://atvb.ahajournals.org/
 H advisor.lww.com
 H atvb.ahajournals.org
 H circep.ahajournals.org
@@ -13,17 +13,21 @@ H circres.ahajournals.org
 H cp.neurology.org
 H https://advisor.lww.com
 H https://journals.lww.com
+H https://lww.com
 H https://procedures.lww.com
 H https://thepoint.lww.com
+H https://www.lww.com
 H thepoint.lww.com
 H hyper.ahajournals.org
 H jaha.ahajournals.org
 H journals.lww.com
+H lww.com
 H procedures.lww.com
 H ovidsp.ovid.com
 H stroke.ahajournals.org
 H www.anesthesia-analgesia.org
 H www.jvir.org
+H www.lww.com
 H www.nephrologytimes.com
 H www.neurology.org
 H https://www.neurology.org
