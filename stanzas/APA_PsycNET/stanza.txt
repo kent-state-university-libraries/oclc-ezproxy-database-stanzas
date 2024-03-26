@@ -1,5 +1,6 @@
-Title APA PsycNET (OCLC IncludeFile updated 20230210)
+Title APA PsycNET (updated 20240325)
 URL https://psycnet.apa.org
+HJ https://content.apa.org
 HJ content.apa.org
 HJ doi.apa.org
 HJ http://psycnet.apa.org

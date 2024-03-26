@@ -1,5 +1,5 @@
 # APA PsycNET
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/APA_PsycNET](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/APA_PsycNET) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_PsycNET](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_PsycNET) **
 
 ## Some of OCLC's notes for this stanza
 
