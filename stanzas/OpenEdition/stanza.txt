@@ -1,6 +1,6 @@
 AnonymousURL +https://search.openedition.org/*
 AnonymousURL +https://search-api.openedition.org/*
-Title OpenEdition (updated 20210427)
+Title OpenEdition (OCLC IncludeFile updated 20240402)
 URL http://www.openedition.org
 NeverProxy static.openedition.org
 NeverProxy static-origin.openedition.org
@@ -22,5 +22,5 @@ DJ openedition.org
 Find http:\/\/
 Replace http://
 Find https:\/\/
-Replace https:\/\/
+Replace https://
 AnonymousURL -*
