@@ -1,5 +1,5 @@
 # Medical Online
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Medical_Online](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Medical_Online) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medical_Online](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medical_Online) **
 
 ## Some of OCLC's notes for this stanza
 
