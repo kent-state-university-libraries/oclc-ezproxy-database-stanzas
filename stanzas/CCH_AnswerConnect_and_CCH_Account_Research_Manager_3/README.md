@@ -3,6 +3,8 @@
 
 ## Some of OCLC's notes for this stanza
 
+&nbsp; Note:&nbsp;If your config.txt file contains stanzas for both CCH AnswerConnect and CCH Account Research Manager 3.0 and Vitallaw Premium, make sure that the CCH AnswerConnect and CCH Account Research Manager 3.0 is above the Wiley Online Library stanza. This will ensure that processing of the CCH AnswerConnect and CCH Account Research Manager 3.0 stanza includes all processing directives in that stanza but will not interfere with the processing of the Vitallaw Premium stanza.
+
 &nbsp;
 
 &nbsp; Note: To access CCH Answerconnect you must use the following starting point URL:
