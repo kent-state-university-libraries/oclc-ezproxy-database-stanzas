@@ -1,14 +1,17 @@
 HTTPMethod DELETE
-Title CCH AnswerConnect and CCH Account Research Manager 3.0 (updated 20240201)
+Title CCH AnswerConnect and CCH Account Research Manager 3.0 (updated 20240405)
 HTTPHeader -request -process X-GWT-*
 HTTPHeader -request -process X-ApiKey
 HTTPHeader -request -process X-CPID
 HTTPHeader -request -process X-Api-Key
-URL http://www.answerconnect.cch.com
-HJ https://www.answerconnect.cch.com
-HJ http://www.answerconnect.cch.com
+HTTPHeader -request -process X-CSRF-Token
+URL https://www.answerconnect.cch.com
+HJ www.answerconnect.cch.com
 HJ https://answerconnect.cch.com
 HJ answerconnect.cch.com
 DJ wolterskluwer.com
 DJ cch.com
+DJ salestaxradar.com
+DJ cchgroup.com
 Neverproxy services.intelliconnect.cch.com
+Neverproxy mediaserver.cch.com
