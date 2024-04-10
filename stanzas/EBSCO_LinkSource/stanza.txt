@@ -8,6 +8,7 @@ Option Cookie
 ProxyHostnameEdit healthlibrary.epnet.com$ healthlibrary-epnet-com
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
+AnonymousURL +https://apis.ebsco.com/public/*
 Title EBSCOhost (OCLC IncludeFile updated 20240320)
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process OPAQUE-TOKEN
@@ -129,6 +130,8 @@ Find proxy.cfm?url=https://
 Replace proxy.cfm?url=https://^A
 Find /login?url=https://
 Replace /login?url=https://^A
+Find https%3A%2F%2Fapis.ebsco.com
+Replace https%3A%2F%2F^Sapis.ebsco.com^
 AnonymousURL -*
 NeverProxy *.eoncontent.ebscohost.com
 NeverProxy *.footnotelibrary.com
