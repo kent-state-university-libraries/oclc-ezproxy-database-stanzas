@@ -1,0 +1,20 @@
+Title National Council of Teachers of English (20240411)
+URL http://www.ncte.org/
+HJ https://cccc.ncte.org
+HJ https://library.ncte.org
+HJ https://ncte.org
+HJ https://secure.ncte.org
+HJ https://status.ncte.org
+HJ https://www.ncte.org
+HJ https://www2.ncte.org
+HJ https://publicationsncte.org
+HJ publicationsncte.org
+HJ cccc.ncte.org
+HJ library.ncte.org
+HJ ncte.org
+HJ status.ncte.org
+HJ www.ncte.org
+HJ www2.ncte.org
+DJ publicationsncte.org
+DJ ncte.org
+Neverproxy apiv2.ncte.org
