@@ -1,0 +1,25 @@
+Title The Arabidopsis Information Resource (updated 20240416)
+URL https://www.arabidopsis.org/
+HJ api.arabidopsis.org
+HJ arabidopsis.org
+HJ data.arabidopsis.org
+HJ gbrowse.arabidopsis.org
+HJ https://api.arabidopsis.org
+HJ https://arabidopsis.org
+HJ https://data.arabidopsis.org
+HJ https://gbrowse.arabidopsis.org
+HJ https://jbrowse.arabidopsis.org
+HJ https://jbrowse2.arabidopsis.org
+HJ https://phylogenes-api.arabidopsis.org
+HJ https://phylogenes-data.arabidopsis.org
+HJ https://phylogenes.arabidopsis.org
+HJ https://seqviewer.arabidopsis.org
+HJ https://www.arabidopsis.org
+HJ jbrowse.arabidopsis.org
+HJ jbrowse2.arabidopsis.org
+HJ phylogenes-api.arabidopsis.org
+HJ phylogenes-data.arabidopsis.org
+HJ phylogenes.arabidopsis.org
+HJ seqviewer.arabidopsis.org
+HJ www.arabidopsis.org
+DJ arabidopsis.org
