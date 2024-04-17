@@ -4,7 +4,7 @@ AnonymousURL +https://my.heinonline.org/js/*
 AnonymousURL +https://heinonline.org/static/*
 AnonymousURL +https://heinonline.org/HeinDocs/*
 AnonymousURL +https://heinonline.org/HOL/MyHeinTestMyHein*
-Title HeinOnline (updated 20240307)
+Title HeinOnline (updated 20240325)
 MimeFilter text/event-stream .* javascript
 MimeFilter ^$ https?://heinonline.org/HOL/.* javascript
 URL http://www.heinonline.org/HOL/Welcome
@@ -18,6 +18,12 @@ HJ https://home.heinonline.org
 HJ https://www.heinonline.org
 HJ https://tim.heinonline.org
 HJ https://my.heinonline.org
+HJ https://delaware.heinonline.org
+HJ http://delaware.heinonline.org
+HJ https://franklin.heinonline.org
+HJ http://franklin.heinonline.org
+HJ https://brandon.heinonline.org
+HJ http://brandon.heinonline.org
 DJ heinonline.org
 Option AllowSendGZip
 Find document.domain

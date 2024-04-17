@@ -31,7 +31,7 @@ AnonymousURL +https://backend.constellate.org/viz/*
 AnonymousURL +https://backend.constellate.org/email
 AnonymousURL +https://backend.constellate.org/list-routes
 AnonymousURL +https://backend.constellate.org/schema
-Title Constellate (updated 20230515)
+Title Constellate (20240402)
 HTTPHeader -request -process X-Requested-With
 URL http://www.constellate.org
 HJ https://www.constellate.org
@@ -41,4 +41,5 @@ HJ https://auth-v3-prod.constellate.org
 HJ https://backend.constellate.org
 DJ constellate.org
 NeverProxy lab.constellate.org
+NeverProxy streamlit-prod.constellate.org
 AnonymousURL -*

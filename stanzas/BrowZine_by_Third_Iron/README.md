@@ -1,4 +1,4 @@
-# Third Iron Library Technologies
+# BrowZine by Third Iron
 ** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrowZine_by_Third_Iron](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrowZine_by_Third_Iron) **
 
 ## Some of OCLC's notes for this stanza
