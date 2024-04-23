@@ -1,4 +1,19 @@
-T STRATFOR
-U https://www.stratfor.com/
+HTTPHeader X-CSRF-Token
+HTTPHeader s4c
+Option CookiePassthrough
+AnonymousURL -OPTIONS *
+Title STRATFOR (updated 20240423)
+URL https://www.stratfor.com
+HJ https://worldview.stratfor.com
 HJ www.stratfor.com
+HJ worldview.stratfor.com
 DJ stratfor.com
+DJ worldview.stratfor.com
+Find API_HOST="www.stratfor.com"
+Replace API_HOST="^swww.stratfor.com^"
+Find ".stratfor.com"
+Replace "^l"
+Find "https:\/\/
+Replace "https://
+AnonymousURL -*
+Option Cookie
