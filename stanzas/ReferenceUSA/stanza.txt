@@ -1,11 +1,12 @@
 Option X-Forwarded-For
 Option DomainCookieOnly
-Title ReferenceUSA
+Title ReferenceUSA (updated 20240424)
 URL http://www.referenceusa.com
 HJ www.referenceusa.com
 HJ https://www.referenceusa.com
 HJ labs.referenceusa.com
 HJ referenceusa.com
 DJ referenceusa.com
+NeverProxy maps.googleapis.com
 Option Cookie
 Option NoX-Forwarded-For
