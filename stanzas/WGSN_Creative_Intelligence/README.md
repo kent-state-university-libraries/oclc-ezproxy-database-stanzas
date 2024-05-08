@@ -1,5 +1,5 @@
 # WGSN Creative Intelligence
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WGSN_Creative_Intelligence](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WGSN_Creative_Intelligence) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WGSN_Creative_Intelligence](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WGSN_Creative_Intelligence) **
 
 ## Some of OCLC's notes for this stanza
 

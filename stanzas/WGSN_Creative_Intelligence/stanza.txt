@@ -1,10 +1,12 @@
 Option CookiePassThrough
 AnonymousURL +https://apigw.wgsn.com/search/*
-Title WGSN (updated 20210507)
+Title WGSN (updated 20240426)
 MimeFilter application/json .* javascript
 URL https://www.wgsn.com/home/
-H www.wgsn.com
+HJ https://wgsn.com
 HJ https://www.wgsn.com
+HJ wgsn.com
+HJ www.wgsn.com
 DJ wgsn.com
 AnonymousURL -*
 Option Cookie
