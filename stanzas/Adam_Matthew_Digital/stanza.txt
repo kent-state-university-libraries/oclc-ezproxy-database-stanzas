@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20240312)
+Title Adam Matthew Digital (updated 20240520)
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://1980scultureandsociety.amdigital.co.uk
@@ -28,6 +28,7 @@ HJ https://www.archiveexplorer.amdigital.co.uk
 HJ https://www.archivesdirect.amdigital.co.uk
 HJ https://www.britishnewsreels.amdigital.co.uk
 HJ https://www.broadcastingamerica.amdigital.co.uk
+HJ https://www.cap.amdigital.co.uk
 HJ https://www.centralasiapersiaandafghanistan.amdigital.co.uk
 HJ https://www.childrensliterature.amdigital.co.uk
 HJ https://www.china.amdigital.co.uk
@@ -62,6 +63,7 @@ HJ https://www.gildedage.amdigital.co.uk
 HJ https://www.globalcommodities.amdigital.co.uk
 HJ https://www.grandtour.amdigital.co.uk
 HJ https://www.indiaraj.amdigital.co.uk
+HJ https://www.hindicinema.amdigital.co.uk/
 HJ https://www.indigenoushistoriesandcultures.amdigital.co.uk
 HJ https://www.indigenoushistoriesandculturesinnorthamerica.amdigital.co.uk
 HJ https://www.indigenousnewspapersinnorthamerica.amdigital.co.uk
@@ -132,15 +134,7 @@ HJ www.slavery.amdigital.co.uk
 HJ www.travelwriting.amdigital.co.uk
 HJ www.womensvoicesandlifewriting.amdigital.co.uk
 DJ amdigital.co.uk
-
-Find "http://"+getPrefix()+".massobservation.amdigital.co.uk/
-Replace "http://^pmassobservation.amdigital.co.uk^/
 NeverProxy am-resources.co.uk
 NeverProxy schemas.microsoft.com
 NeverProxy frontend-api.quartexcollections.com
 NeverProxy fonts-gstatic.com
-
-Title Adam Matthew Digital: China, America and the Pacific
-URL www.cap.amdigital.co.uk/
-Find www.cap.amdigital.co.uk
-Replace ^pwww.cap.amdigital.co.uk^
