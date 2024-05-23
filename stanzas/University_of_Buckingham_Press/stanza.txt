@@ -1,11 +1,12 @@
-Title University of Buckingham Press (updated 20240424)
-URL http://www.ubplj.org/
+Title University of Buckingham Press (updated 20240523)
+URL https://www.ubplj.org/
 HJ https://ubplj.org
+HJ https://www.intmaritimeengineering.org
+HJ https://www.ubplj.org
+HJ ijpcm.org
 HJ ubplj.org
+HJ www.intmaritimeengineering.org
 HJ www.ubplj.org
-HJ http://www.ubplj.org/
-HJ http://www.intmaritimeengineering.org
-HJ http://ijpcm.org
 DJ ubplj.org
 Find www.intmaritimeengineering.org
 Replace ^swww.intmaritimeengineering.org^
