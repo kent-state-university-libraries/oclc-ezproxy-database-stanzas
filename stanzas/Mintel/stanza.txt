@@ -1,12 +1,13 @@
 Option MetaEZproxyRewriting
 HTTPMethod OPTIONS
+AnonymousURL +https://api.mintel.com/*
 AnonymousURL -OPTIONS +https://www.gnpd.com/sinatra/api/*
 AnonymousURL +https://oauth.mintel.com/token/
 AnonymousURL -OPTIONS +https://eks-prod-appshell.otlp-frontend.mintel.cloud/collect
 AnonymousURL +https://eks-prod-appshell.otlp-frontend.mintel.cloud/collect
 AnonymousURL +https://notifications.mintel.com/notification/*
 AnonymousURL +https://portal.mintel.com/*
-Title Mintel (OCLC IncludeFile updated 20230922)
+Title Mintel (updated 20240602)
 HTTPHeader -request -process X-CSRFToken
 URL https://clients.mintel.com/
 HJ clients.mintel.com
@@ -34,6 +35,6 @@ DJ mintel.com
 Find src="/jwplayer/wmvplayer/
 Replace src="http://^A/jwplayer/wmvplayer/
 Find \u0022//portal.mintel.com/\u0022
-Replace \u0022//sportal.mintel.com/\u0022
+Replace \u0022//^sportal.mintel.com^/\u0022
 AnonymousURL -*
 Option NoMetaEZproxyRewriting

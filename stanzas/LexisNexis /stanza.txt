@@ -1,0 +1,103 @@
+AnonymousURL +https://dniaeeyvroj2l.cloudfront.net/index.html
+PHE www.lexisnexis.com$ www-lexisnexis-com
+PHE www.nexis.com$ www-nexis-com
+Option CookiePassThrough
+Title Lexis Nexis (updated 20240603)
+HTTPMethod PUT
+HTTPMethod DELETE
+HTTPMethod PATCH
+HTTPHeader -request -unrewrite X-LN-PreviousRequestId
+HTTPHeader -request -unrewrite X-RequestedWith
+HTTPHeader -request -unrewrite X-LN-CurrentRequestId
+HTTPHeader -request -unrewrite X-RE-Ref
+HTTPHeader -request -unrewrite X-UA-Compatible
+HTTPHeader -request -unrewrite X-LN-InstanceId
+HTTPHeader -request -unrewrite X-LN-PageMode
+HTTPHeader -request -process X-NewRelic-ID
+HTTPHeader -response -process X-LN-PreviousRequestId
+HTTPHeader -response -process X-RequestedWith
+HTTPHeader -response -process X-LN-CurrentRequestId
+HTTPHeader -response -process X-RE-Ref
+HTTPHeader -response -process X-UA-Compatible
+HTTPHeader -response -process X-LN-InstanceId
+HTTPHeader -response -process X-LN-PageMode
+HTTPHeader -response -process X-AspNetMvc-Version
+URL http://www.lexisnexis.com/
+HJ https://advance.lexis.com
+HJ advance.lexis.com
+HJ https://dniaeeyvroj2l.cloudfront.net
+HJ https://lexisadvancequicklaw.ca
+HJ lexisadvancequicklaw.ca
+HJ https://lexisnexis.co.za
+HJ lexisnexis.co.za
+HJ https://mylexisnexis.co.za
+HJ mylexisnexis.co.za
+HJ https://nexis.com
+HJ nexis.com
+HJ https://nexisuni.com
+HJ nexisuni.com
+HJ https://plus.lexis.com
+HJ plus.lexis.com
+HJ https://w3.lexis.com
+HJ w3.lexis.com
+HJ https://w3.nexis.com
+HJ w3.nexis.com
+HJ https://web.lexis-nexis.com
+HJ web.lexis-nexis.com
+HJ https://web.lexisnexis.com
+HJ web.lexisnexis.com
+HJ https://www.lexis.com
+HJ www.lexis.com
+HJ https://www.lexis-nexis.com
+HJ www.lexis-nexis.com
+HJ https://www.lexis360intelligence.fr
+HJ www.lexis360intelligence.fr
+HJ https://www.lexisnexis.co.za
+HJ www.lexisnexis.co.za
+HJ https://www.lexisnexis.com
+HJ www.lexisnexis.com
+HJ https://www.lexisnexis.fr
+HJ www.lexisnexis.fr
+HJ https://www.mylexisnexis.co.za
+HJ www.mylexisnexis.co.za
+HJ https://www.nexis.com
+HJ www.nexis.com
+HJ https://www.nexisuni.com
+HJ www.nexisuni.com
+HJ https://www.totalpatentone.com
+HJ www.totalpatentone.com
+DJ lexis-nexis.com
+DJ lexis360intelligence.fr
+DJ lexis.com
+DJ lexisadvancequicklaw.ca
+DJ lexisnexis.co.za
+DJ lexisnexis.com
+DJ lexisnexis.fr
+DJ mylexisnexis.co.za
+DJ nexis.com
+DJ nexisuni.com
+DJ plus.lexis.com
+Find location.hostname
+Replace location.host
+Find = "www.lexisnexis.com"
+Replace = "^pwww.lexisnexis.com^"
+Find &unix=http://
+Replace &unix=http://^A
+Find GetCookie("LNAUTH")
+Replace "LNAUTH-IP"
+Find NAME="_PRIORREFERER" VALUE="http://
+Replace NAME="_PRIORREFERER" VALUE="http://^A
+Find NAME="_PRIORREFERER" VALUE="https://
+Replace NAME="_PRIORREFERER" VALUE="https://^A
+Find "www.nexis.com"
+Replace "^pwww.nexis.com^"
+Find window.location.replace(redirURL)
+Replace
+Find mq.set("rt", "https://
+Replace mq.set("rt", "https://^A
+Find mq.set("rt", "http://
+Replace mq.set("rt", "http://^A
+Find if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1)
+Replace if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1 || forwardTo.indexOf("lexis-com") != -1 || forwardTo.indexOf("nexis-com") != -1)
+Option Cookie
+AnonymousURL -*

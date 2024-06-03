@@ -1,4 +1,10 @@
-Title Sanford Guide (updated 20220922)
+Title Sanford Guide (updated 20240602)
 HTTPHeader -response -block Content-Security-Policy
-URL https://webedition.sanfordguide.com
+URL https://web.sanfordguide.com
+HJ https://web.sanfordguide.com
+HJ web.sanfordguide.com
+HJ https://www.sanfordguide.com/
+HJ www.sanfordguide.com/
+HJ https://webedition.sanfordguide.com
 HJ webedition.sanfordguide.com
+DJ sanfordguide.com

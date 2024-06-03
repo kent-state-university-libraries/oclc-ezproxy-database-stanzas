@@ -1,0 +1,18 @@
+AnonymousURL +https://ldspdi.bdrc.io/*
+AnonymousURL +https://editserv.brdc.io/*
+AnonymousURL +https://iiifpres.bdrc.io*
+AnonymousURL +https://iiif.bdrc.io*
+Title Buddhist Digital Resource Center (BUDA) (updated 20240603)
+URL https://library.bdrc.io
+HJ http://library.bdrc.io
+HJ https://library.bdrc.io
+HJ https://ldspdi.bdrc.io
+HJ ldspdi.bdrc.io
+HJ https://iiif.bdrc.io
+HJ iiif.bdrc.io
+HJ https://iiifpres.bdrc.io
+HJ iiifpres.bdrc.io
+HJ bdrc.io
+DJ bdrc.io
+AnonymousURL -*
+NeverProxy purl.bdrc.io

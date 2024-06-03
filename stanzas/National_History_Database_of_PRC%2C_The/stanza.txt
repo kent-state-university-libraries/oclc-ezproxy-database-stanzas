@@ -1,0 +1,5 @@
+Title The National History Database of PRC (updated 20240602)
+URL http://prc.goosuudata.com
+HJ https://prc.goosuudata.com
+HJ prc.goosuudata.com
+DJ prc.goosuudata.com
