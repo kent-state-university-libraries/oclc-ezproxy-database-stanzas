@@ -1,6 +1,8 @@
-T APS Journals (OCLC IncludeFile updated 20230104)
+Title APS Journals (updated 20240603)
 MimeFilter application/json .* javascript
-U https://journals.aps.org
+URL https://journals.aps.org
+HJ aps.org
+HJ https://aps.org
 HJ https://publish.aps.org
 HJ https://journals.aps.org
 HJ https://link.aps.org
