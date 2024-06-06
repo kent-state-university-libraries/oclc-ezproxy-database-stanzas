@@ -1,0 +1,10 @@
+Option MetaEZproxyRewriting
+Title British Online Archives (updated 20240606)
+MimeFilter application/json .* javascript
+URL https://microform.digital/boa
+HJ https://microform.digital
+HJ microform.digital
+DJ microform.digital
+Find https:\/\/
+Replace https://
+Option NoMetaEZproxyRewriting
