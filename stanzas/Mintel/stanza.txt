@@ -7,7 +7,7 @@ AnonymousURL -OPTIONS +https://eks-prod-appshell.otlp-frontend.mintel.cloud/coll
 AnonymousURL +https://eks-prod-appshell.otlp-frontend.mintel.cloud/collect
 AnonymousURL +https://notifications.mintel.com/notification/*
 AnonymousURL +https://portal.mintel.com/*
-Title Mintel (updated 20240602)
+Title Mintel (updated 20240624)
 HTTPHeader -request -process X-CSRFToken
 URL https://clients.mintel.com/
 HJ clients.mintel.com
@@ -38,3 +38,4 @@ Find \u0022//portal.mintel.com/\u0022
 Replace \u0022//^sportal.mintel.com^/\u0022
 AnonymousURL -*
 Option NoMetaEZproxyRewriting
+NeverProxy shibboleth.mintel.com
