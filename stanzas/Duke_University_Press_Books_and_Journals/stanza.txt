@@ -1,0 +1,12 @@
+HTTPHeader X-Requested-With
+HTTPHeader X-Tizra-Ajax
+Title Duke University Press Books and Journals (updated 20240603)
+URL https://read.dukeupress.edu
+HJ dukeupress.edu
+HJ read.dukeupress.edu
+HJ reader.dukeupress.edu
+HJ https://dukeupress.edu
+HJ https://www.dukeupress.edu
+HJ https://reader.dukeupress.edu
+HJ www.dukeupress.edu
+DJ dukeupress.edu
