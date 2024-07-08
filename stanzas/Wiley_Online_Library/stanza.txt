@@ -5,7 +5,7 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (OCLC IncludeFile updated 20230725)
+Title Wiley Online (updated 20240708)
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 HTTPHeader -request -process X-Requested-With
@@ -23,6 +23,7 @@ HJ aasldpubs.onlinelibrary.wiley.com
 HJ acamh.onlinelibrary.wiley.com
 HJ accp1.onlinelibrary.wiley.com
 HJ accpjournals.onlinelibrary.wiley.com
+HJ aces.onlinelibrary.wiley.com/
 HJ acsess.onlinelibrary.wiley.com
 HJ acsjournals.onlinelibrary.wiley.com
 HJ afspubs.onlinelibrary.wiley.com/
@@ -65,6 +66,7 @@ HJ efsa.onlinelibrary.wiley.com
 HJ ejpr.onlinelibrary.wiley.com
 HJ el.wiley.com
 HJ esajournals.onlinelibrary.wiley.com
+HJ esskajournals.onlinelibrary.wiley.com/
 HJ faseb.onlinelibrary.wiley.com
 HJ febs.onlinelibrary.wiley.com
 HJ headachejournal.onlinelibrary.wiley.com
@@ -76,6 +78,7 @@ HJ https://aasldpubs.onlinelibrary.wiley.com
 HJ https://acamh.onlinelibrary.wiley.com
 HJ https://accp1.onlinelibrary.wiley.com
 HJ https://accpjournals.onlinelibrary.wiley.com
+HJ https://aces.onlinelibrary.wiley.com/
 HJ https://acsess.onlinelibrary.wiley.com
 HJ https://acsjournals.onlinelibrary.wiley.com
 HJ https://afspubs.onlinelibrary.wiley.com
@@ -120,14 +123,17 @@ HJ https://efsa.onlinelibrary.wiley.com
 HJ https://ejpr.onlinelibrary.wiley.com
 HJ https://esajournals.onlinelibrary.wiley.com
 HJ https://esj-journals.onlinelibrary.wiley.com
+HJ https://esskajournals.onlinelibrary.wiley.com/
 HJ https://faseb.onlinelibrary.wiley.com
 HJ https://febs.onlinelibrary.wiley.com
 HJ https://headachejournal.onlinelibrary.wiley.com
 HJ https://iaap-journals.onlinelibrary.wiley.com
 HJ https://ietresearch.onlinelibrary.wiley.com
 HJ https://ifst.onlinelibrary.wiley.com
+HJ https://ift.onlinelibrary.wiley.com/
 HJ https://ila.onlinelibrary.wiley.com
 HJ https://interscience.wiley.com
+HJ https://isevjournals.onlinelibrary.wiley.com/
 HJ https://it.iucr.org
 HJ https://iubmb.onlinelibrary.wiley.com
 HJ https://jlb.onlinelibrary.wiley.com
@@ -137,6 +143,7 @@ HJ https://myscp.onlinelibrary.wiley.com
 HJ https://nasenjournals.onlinelibrary.wiley.com
 HJ https://ngwa.onlinelibrary.wiley.com
 HJ https://nph.onlinelibrary.wiley.com
+HJ https://nsojournals.onlinelibrary.wiley.com/
 HJ https://nyaspubs.onlinelibrary.wiley.com
 HJ https://obgyn.onlinelibrary.wiley.com
 HJ https://pericles.one-lts.literatumonline.com/
@@ -148,6 +155,7 @@ HJ https://rise.onlinelibrary.wiley.com
 HJ https://rmets.onlinelibrary.wiley.com
 HJ https://rsaiconnect.onlinelibrary.wiley.com
 HJ https://rss.onlinelibrary.wiley.com
+HJ https://scijournals.onlinelibrary.wiley.com/
 HJ https://secure.onlinelibrary.wiley.com
 HJ https://setac.onlinelibrary.wiley.com
 HJ https://sfamjournals.onlinelibrary.wiley.com
@@ -179,8 +187,10 @@ HJ https://www3.interscience.wiley.com
 HJ https://zslpublications.onlinelibrary.wiley.com
 HJ iaap-journals.onlinelibrary.wiley.com
 HJ ietresearch.onlinelibrary.wiley.com
+HJ ift.onlinelibrary.wiley.com/
 HJ ila.onlinelibrary.wiley.com
 HJ interscience.wiley.com
+HJ isevjournals.onlinelibrary.wiley.com/
 HJ it.iucr.org
 HJ iubmb.onlinelibrary.wiley.com
 HJ londmathsoc.onlinelibrary.wiley.com
@@ -189,6 +199,7 @@ HJ myscp.onlinelibrary.wiley.com
 HJ nasenjournals.onlinelibrary.wiley.com
 HJ ngwa.onlinelibrary.wiley.com
 HJ nph.onlinelibrary.wiley.com
+HJ nsojournals.onlinelibrary.wiley.com/
 HJ nyaspubs.onlinelibrary.wiley.com
 HJ obgyn.onlinelibrary.wiley.com
 HJ physoc.onlinelibrary.wiley.com
@@ -198,6 +209,7 @@ HJ rise.onlinelibrary.wiley.com
 HJ rmets.onlinelibrary.wiley.com
 HJ rsaiconnect.onlinelibrary.wiley.com
 HJ rss.onlinelibrary.wiley.com
+HJ scijournals.onlinelibrary.wiley.com/
 HJ secure.onlinelibrary.wiley.com
 HJ setac.onlinelibrary.wiley.com
 HJ sfamjournals.onlinelibrary.wiley.com

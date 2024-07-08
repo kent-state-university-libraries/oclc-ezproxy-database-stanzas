@@ -1,10 +1,9 @@
-Title Adam Matthew Digital (updated 20240520)
+Title Adam Matthew Digital (updated 20240626)
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://1980scultureandsociety.amdigital.co.uk
 HJ https://broadcastingamerica.amdigital.co.uk
 HJ https://royalshakespearecompanyarchives.amdigital.co.uk
-HJ https://search.amdigital.co.uk
 HJ https://www.18thcjournals.amdigital.co.uk
 HJ https://www.1980scultureandsociety.amdigital.co.uk
 HJ https://www.aac.amdigital.co.uk
@@ -21,7 +20,9 @@ HJ https://www.americanindiannewspapers.amdigital.co.uk
 HJ https://www.americanwest.amdigital.co.uk
 HJ https://www.amnestyinternationalhumanrights.amdigital.co.uk
 HJ https://www.amresearchmethods.amdigital.co.uk
+HJ https://www.amresearchmethods.amdigital.co.uk
 HJ https://www.amresearchskills.amdigital.co.uk
+HJ https://www.amscholar.amdigital.co.uk
 HJ https://www.amscholar.amdigital.co.uk
 HJ https://www.apartheidsouthafrica.amdigital.co.uk
 HJ https://www.archiveexplorer.amdigital.co.uk
@@ -62,11 +63,10 @@ HJ https://www.genderidentityandsocialchange.amdigital.co.uk
 HJ https://www.gildedage.amdigital.co.uk
 HJ https://www.globalcommodities.amdigital.co.uk
 HJ https://www.grandtour.amdigital.co.uk
+HJ https://www.hindicinema.amdigital.co.uk
 HJ https://www.indiaraj.amdigital.co.uk
-HJ https://www.hindicinema.amdigital.co.uk/
-HJ https://www.indigenoushistoriesandcultures.amdigital.co.uk
-HJ https://www.indigenoushistoriesandculturesinnorthamerica.amdigital.co.uk
 HJ https://www.indigenousnewspapersinnorthamerica.amdigital.co.uk
+HJ https://www.indigenoushistoriesandculturesinnorthamerica.amdigital.co.uk
 HJ https://www.interwarculture.amdigital.co.uk
 HJ https://www.jewishlife.amdigital.co.uk
 HJ https://www.jwtadvertisingamerica.amdigital.co.uk
@@ -103,17 +103,17 @@ HJ https://www.shakespearesglobearchive.amdigital.co.uk
 HJ https://www.slavery.amdigital.co.uk
 HJ https://www.socialismonfilm.amdigital.co.uk
 HJ https://www.thenixonyears.amdigital.co.uk
+HJ https://www.thetransformationofshopping.amdigital.co.uk
 HJ https://www.tradecatalogues.amdigital.co.uk
 HJ https://www.travelwriting.amdigital.co.uk
 HJ https://www.victorianpopularculture.amdigital.co.uk
 HJ https://www.victoriansonfilm.amdigital.co.uk
 HJ https://www.virginiacompanyarchives.amdigital.co.uk
 HJ https://www.womeninthenationalarchives.amdigital.co.uk
-HJ https://www.womensvoicesandlifewriting.amdigital.co.uk
 HJ https://www.worldsfairs.amdigital.co.uk
+HJ https://www.indigenoushistoriesandcultures.amdigital.co.uk
 HJ resources.amdigital.co.uk
 HJ royalshakespearecompanyarchives.amdigital.co.uk
-HJ search.amdigital.co.uk
 HJ www.aap.amdigital.co.uk
 HJ www.africaandthenewimperialism.amdigital.co.uk
 HJ www.am-explorer.com
@@ -125,16 +125,11 @@ HJ www.archivesdirect.amdigital.co.uk
 HJ www.broadcastingamerica.amdigital.co.uk
 HJ www.empire.amdigital.co.uk
 HJ www.grandtour.amdigital.co.uk
-HJ www.indigenoushistoriesandcultures.amdigital.co.uk
 HJ www.login.amdigital.co.uk
 HJ www.medievalfamilylife.amdigital.co.uk
 HJ www.migration.amdigital.co.uk
 HJ www.royalshakespearecompanyarchives.amdigital.co.uk
 HJ www.slavery.amdigital.co.uk
 HJ www.travelwriting.amdigital.co.uk
-HJ www.womensvoicesandlifewriting.amdigital.co.uk
+HJ www.indigenoushistoriesandcultures.amdigital.co.uk
 DJ amdigital.co.uk
-NeverProxy am-resources.co.uk
-NeverProxy schemas.microsoft.com
-NeverProxy frontend-api.quartexcollections.com
-NeverProxy fonts-gstatic.com
