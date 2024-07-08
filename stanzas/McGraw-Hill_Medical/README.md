@@ -1,5 +1,5 @@
 # McGraw-Hill Medical
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/McGraw-Hill_Medical](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/McGraw-Hill_Medical) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/McGraw-Hill_Medical](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/McGraw-Hill_Medical) **
 
 ## Some of OCLC's notes for this stanza
 

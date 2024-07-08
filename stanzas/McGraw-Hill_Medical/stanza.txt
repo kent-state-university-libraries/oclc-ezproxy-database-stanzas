@@ -1,4 +1,4 @@
-Title McGraw-Hill Medical (Updated 20220929)
+Title McGraw-Hill Medical (Updated 20240708)
 HTTPHeader -request -process X-Requested-With
 URL http://www.mhmedical.com
 HJ https://apn.mhmedical.com
@@ -41,6 +41,7 @@ HJ https://casefiles.mhmedical.com
 HJ https://csm.mhmedical.com
 HJ https://harrisonmedicina.mhmedical.com
 HJ https://hemonc.mhmedical.com/
+HJ https://jamaevidence.mhmedical.com
 HJ https://mhmedical.com
 HJ https://neurology.mhmedical.com/
 HJ https://obgyn.mhmedical.com
