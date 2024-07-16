@@ -5,9 +5,8 @@ AnonymousURL +https://o.oversea.cnki.net/ecpoversea/EcpApi_oversea/OLoginApi/IpL
 AnonymousURL +https://oversea.cnki.net/restapi/*
 AnonymousURL +https://recsys.oversea.cnki.net/RCDService/api/UserDataCenter/*
 AnonymousURL +https://recsys.oversea.cnki.net/RCDService/api/UtilityOpenApi/*
-Title CNKI Main Page (updated 20240711)
-HTTPHeader -response -edit location
-RewriteURL(REReplace("!https%3a%2f%2fo\.oversea\.cnki.\net!g", RewriteURL("https://o.oversea.cnki.net"), hh:value))
+Title CNKI Main Page (updated 20240716)
+HTTPHeader -response -edit location RewriteURL(REReplace("!https%3a%2f%2fo\.oversea\.cnki.\net!g", RewriteURL("https://o.oversea.cnki.net"), hh:value))
 HTTPHeader -request -process Appid
 HTTPHeader -request -process Clientid
 HTTPHeader -request -process Signature

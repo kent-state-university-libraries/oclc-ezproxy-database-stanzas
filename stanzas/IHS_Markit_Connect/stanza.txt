@@ -1,0 +1,104 @@
+Option CookiePassThrough
+AnonymousURL +https://my.ihs.com/*
+AnonymousURL +https://my.ihs.com/*
+AnonymousURL +https://my.ihsmarkit.com/*
+AnonymousURL +https://connectproxy.ihs.com/*
+AnonymousURL +https://proxy.connect.ihsmarkit.com/*
+AnonymousURL +https://cdn.ihs.com/*
+AnonymousURL +https://cdn.ihsmarkit.com/*
+AnonymousURL +https://connect.ihsmarkit.com/*
+AnonymousURL +https://connect.ihsmarkit.com/*
+AnonymousURL +https://connect.ihs.com/*
+AnonymousURL +https://connect.ihs.com/*
+AnonymousURL +https://origin-connectproxy.ihs.com/*
+AnonymousURL +https://origin-proxy.connect.ihsmarkit.com/*
+AnonymousURL +https://notifications.connect.ihsmarkit.com*
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
+Title IHS Connect (updated 20240715)
+MimeFilter text/event-stream .* javascript
+HTTPHeader -request -process Access-Control-Allow-Origin
+HTTPHeader -request -process Access-Control-Allow-Credentials
+URL https://connect.ihsmarkit.com
+HJ api.connect.ihsmarkit.com
+HJ apps.connect.ihsmarkit.com
+HJ cdn.ihs.com
+HJ cis.ihs.com
+HJ connect.ihsmarkit.com
+HJ connectfiles.ihs.com
+HJ connectproxy.ihs.com
+HJ files.connect.ihsmarkit.com
+HJ globalinsight.com
+HJ https://api.connect.ihsmarkit.com
+HJ https://apps.connect.ihsmarkit.com
+HJ https://cdn.ihs.com
+HJ https://cis.ihs.com
+HJ https://connect.ihs.com
+HJ https://connect.ihsmarkit.com
+HJ https://connectfiles.ihs.com
+HJ https://connectproxy.ihs.com
+HJ https://files.connect.ihsmarkit.com
+HJ https://globalinsight.com
+HJ https://ihs.com
+HJ https://mapexport.connect.ihsmarkit.com
+HJ https://maphost.connect.ihsmarkit.com
+HJ https://mapservices.connect.ihsmarkit.com
+HJ https://mapservicesproxy.ihs.com
+HJ https://mapshost.ihs.com
+HJ https://mapsxport.ihs.com
+HJ https://my.ihs.com
+HJ https://my.ihsmarkit.com
+HJ https://notifications.connect.ihsmarkit.com
+HJ https://origin-connect.ihsmarkit.com
+HJ https://origin-connectproxy.ihs.com
+HJ https://origin-files.connect.ihsmarkit.com
+HJ https://origin-proxy.connect.ihsmarkit.com
+HJ https://proxy.connect.ihsmarkit.com
+HJ https://tabviz.connect.ihsmarkit.com
+HJ ihs.com
+HJ mapexport.connect.ihsmarkit.com
+HJ maphost.connect.ihsmarkit.com
+HJ mapservices.connect.ihsmarkit.com
+HJ mapservicesproxy.ihs.com
+HJ mapshost.ihs.com
+HJ mapsxport.ihs.com
+HJ my.ihs.com
+HJ my.ihsmarkit.com
+HJ origin-connect.ihsmarkit.com
+HJ origin-connectproxy.ihs.com
+HJ origin-files.connect.ihsmarkit.com
+HJ origin-proxy.connect.ihsmarkit.com
+HJ proxy.connect.ihsmarkit.com
+HJ tabviz.connect.ihsmarkit.com
+DJ ihsmarkit.com
+DJ globalinsight.com
+DJ ihs.com
+Find connectproxy.ihsmarkit.com
+Replace ^connectproxy.ihsmarkit.com^
+Find proxy.connect.ihsmarkit.com
+Replace ^sproxy.connect.ihsmarkit.com^
+Find connectproxy.ihs.com
+Replace ^sconnectproxy.ihs.com^
+Find ConnectOriginProxyUrl: '//origin-connectproxy.ihsmarkit.com
+Replace ConnectOriginProxyUrl: 'https://^sorigin-connectproxy.ihsmarkit.com^
+Find ConnectOriginProxyUrl: '//origin-proxy.connect.ihsmarkit.com
+Replace ConnectOriginProxyUrl: 'https://^sorigin-proxy.connect.ihsmarkit.com^
+Find ConnectOriginProxyUrl: '//origin-connectproxy.ihs.com
+Replace ConnectOriginProxyUrl: 'https://^sorigin-connectproxy.ihs.com^
+Find visualizationUrl":"//tabviz-connect.ihs.com
+Replace visualizationUrl":"https://^stabviz-connect.ihs.com^
+Find visualizationUrl":"//tabviz.connect.ihsmarkit.com
+Replace visualizationUrl":"//^stabviz.connect.ihsmarkit.com^
+Find ConnectAppsUrl: '//apps.connect.ihsmarkit.com
+Replace  ConnectAppsUrl: 'https://^sapps.connect.ihsmarkit.com^
+Find ConnectOriginProxyUrl: '//notifications.connect.ihsmarkit.com
+Replace ConnectOriginProxyUrl: 'https://^snotifications.connect.ihsmarkit.com^
+Find ConnectNotificationsUrl: '//notifications.connect.ihsmarkit.com
+Replace ConnectNotificationsUrl: 'https://^snotifications.connect.ihsmarkit.com^
+Find ConnectOriginProxyUrl: '//notifications.connect.ihsmarkit.com
+Replace ConnectOriginProxyUrl: 'https://^snotifications.connect.ihsmarkit.com^
+NeverProxy api.mapbox.com
+NeverProxy *.tiles.mapbox.com
+AnonymousURL -*
+Option Cookie
