@@ -1,5 +1,6 @@
-Title TMC Asser Instituut (updated 20191127)
-URL http://www.nipr-online.eu/
+Title TMC Asser Instituut (Updated 20240726)
+URL https://www.nipr-online.eu/
+HJ https://nipr-online.eu
 HJ www.nipr-online.eu
 HJ nipr-online.eu
 DJ nipr-online.eu
