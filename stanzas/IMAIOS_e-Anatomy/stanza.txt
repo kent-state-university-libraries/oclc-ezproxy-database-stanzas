@@ -1,10 +1,22 @@
-Title IMAIOS e-Anatomy
+Title IMAIOS (updated 20240730)
 URL https://www.imaios.com
-HJ cdns.imaios.com
-HJ cdni.imaios.com
-HJ cdne.imaios.com
-HJ https://imaios.com
 HJ https://www.imaios.com
-HJ imaios.com
 HJ www.imaios.com
 DJ imaios.com
+NeverProxy i.imaios.com
+NeverProxy i0.imaios.com
+NeverProxy i1.imaios.com
+NeverProxy i2.imaios.com
+NeverProxy i3.imaios.com
+NeverProxy i4.imaios.com
+NeverProxy cdn1.imaios.com
+NeverProxy cdn2.imaios.com
+NeverProxy cdn3.imaios.com
+NeverProxy cdn4.imaios.com
+NeverProxy images.imaios.com
+NeverProxy static.imaios.com
+NeverProxy files.imaios.com
+NeverProxy support.imaios.com
+NeverProxy counter.imaios.com
+NeverProxy dcm.imaios.com
+NeverProxy sushi.imaios.com

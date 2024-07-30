@@ -1,9 +1,13 @@
 ProxyHostnameEdit global.factiva.com$ global-factiva-com
 AnonymousURL +*//api.dowjones.com/*
-Title Factiva (updated 20231218)
+AnonymousURL +*//accounts.dowjones.com/*
+AnonymousURL +*//dj.factiva.com/*
+Title Factiva (updated 20240730)
 HTTPHeader -request -process credentials
 HTTPHeader -request -process preferences
 HTTPHeader -request -process product
+HTTPHeader -request -process user
+HTTPHeader -request -process token
 URL https://global.factiva.com/en/sess/login.asp?xsid=[PLACE-XSID-HERE]
 HJ www.factiva.com
 DJ factiva.com

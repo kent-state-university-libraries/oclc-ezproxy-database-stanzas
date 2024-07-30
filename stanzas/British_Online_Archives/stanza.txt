@@ -1,10 +1,13 @@
 Option MetaEZproxyRewriting
-Title British Online Archives (updated 20240606)
+Title British Online Archives (updated 20240730)
 MimeFilter application/json .* javascript
-URL https://microform.digital/boa
+URL https://britishonlinearchives.com
+HJ https://britishonlinearchives.com
+HJ britishonlinearchives.com
 HJ https://microform.digital
 HJ microform.digital
 DJ microform.digital
+DJ britishonlinearchives.com
 Find https:\/\/
 Replace https://
 Option NoMetaEZproxyRewriting
