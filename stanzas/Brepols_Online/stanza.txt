@@ -1,8 +1,11 @@
 Option DomainCookieOnly
-Title Brepols Online
+Title Brepols Online (20240806)
 URL https://www.brepolsonline.net
+HJ brepols.scienceconnect.io
 HJ brepolsonline.net
-HJ www.brepolsonline.net
+HJ https://brepols.scienceconnect.io
+HJ https://brepolsonline.net
 HJ https://www.brepolsonline.net
+HJ www.brepolsonline.net
 DJ brepolsonline.net
 Option Cookie
