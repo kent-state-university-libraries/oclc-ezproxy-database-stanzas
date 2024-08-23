@@ -9,10 +9,11 @@ ProxyHostnameEdit healthlibrary.epnet.com$ healthlibrary-epnet-com
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
 AnonymousURL +https://apis.ebsco.com/public/*
-Title EBSCOhost (updated 20240320)
+Title EBSCOhost (updated 20240815)
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process OPAQUE-TOKEN
 HTTPHeader -request -process userIdentifier
+HTTPHeader -request -process X-EIS-FEATURE-FLAG
 HTTPHeader -request -process X-EIS-STSTOKEN
 URL https://search.ebscohost.com/login.aspx
 HJ  https://apis.ebsco.com
@@ -146,6 +147,7 @@ NeverProxy imageserver.ebscohost.com
 NeverProxy imagesrvr.epnet.com
 NeverProxy ivotts.rs.ebscohost.com
 NeverProxy kg.ebscohost.com
+NeverProxy *.locate.ebsco.com
 NeverProxy login.ebsco.com
 NeverProxy media.rs.ebscohost.com
 NeverProxy neverproxy.ebsco.com

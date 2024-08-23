@@ -3,7 +3,7 @@ AnonymousURL +*//api.dowjones.com/*
 AnonymousURL +*//accounts.dowjones.com/*
 AnonymousURL +*//dj.factiva.com/*
 AnonymousURL +*//suggest.factiva.com/*
-Title Factiva (20240724)
+Title Factiva (updated 20240724)
 HTTPHeader -request -process credentials
 HTTPHeader -request -process preferences
 HTTPHeader -request -process product

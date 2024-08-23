@@ -1,20 +1,21 @@
+Option DomainCookieOnly
 AnonymousURL +https://pharmaceutical-journal.com/wp-json/pj/hsauth/v1/ip-access-check*
 AnonymousURL +https://pharmaceutical-journal.com/wp-json/pj/premium-content/v1/access-check*
 AnonymousURL +https://pharmj.wpenginepowered.com/wp-content/themes/pharmaceutical-journal/assets/fonts/*.woff2
-Title Pharmaceutical Press (updated 20231031)
+Title Pharmaceutical Press (updated 20240823)
 URL https://www.medicinescomplete.com/
 HJ about.medicinescomplete.com
 HJ https://about.medicinescomplete.com
 HJ https://cdn.printfriendly.com
 HJ https://idp.sams-sigma.com
 HJ https://medicinescomplete.com
+HJ https://pharmaceutical-journal.com
 HJ https://pharmj.wpengine.com
 HJ https://www.medicinescomplete.com
 HJ https://www.new.medicinescomplete.com
 HJ idp.sams-sigma.com
 HJ medicinescomplete.com
 HJ pharmaceutical-journal.com
-HJ https://pharmaceutical-journal.com
 HJ pharmj.wpengine.com
 HJ pjonline.com
 HJ www.medicinescomplete.com
@@ -29,3 +30,4 @@ Replace https:\/\/^spharmaceutical-journal.com^
 Find pf.redirect();
 Replace pf.launch();
 AnonymousURL -*
+Option Cookie

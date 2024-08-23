@@ -1,6 +1,17 @@
-Title Phytotherapy Desk Reference
-URL https://phytotherapydeskreference.com/app
+AnonymousURL +https://xvrz-msuc-i2zp.n7c.xano.io/api:iLJqSrAL/*
+AnonymousURL +https://api.ipify.org/?format=json
+Title Phytotherapy Desk Reference Database (updated 20240814)
+URL https://app.phytotherapydeskreference.com
+HJ https://app.phytotherapydeskreference.com
+HJ http://app.phytotherapydeskreference.com
 HJ https://www.phytotherapydeskreference.com
 HJ www.phytotherapydeskreference.com
 HJ phytotherapydeskreference.com
+HJ https://xvrz-msuc-i2zp.n7c.xano.io/api:iLJqSrAL/ip/ip_check
+HJ xvrz-msuc-i2zp.n7c.xano.io/api:iLJqSrAL/ip/ip_check
+HJ https://api.ipify.org
+HJ api.ipify.org
 DJ phytotherapydeskreference.com
+Find xvrz-msuc-i2zp.n7c.xano.io
+Replace ^Sxvrz-msuc-i2zp.n7c.xano.io^
+AnonymousURL -*

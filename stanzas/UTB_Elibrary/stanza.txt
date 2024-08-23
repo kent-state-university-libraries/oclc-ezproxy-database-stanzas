@@ -1,4 +1,6 @@
-Title UTB Elibrary (updated 20210205)
+Title UTB Elibrary (updated 20240823)
+HTTPHeader -response -block Content-Security-Policy
+HTTPHeader -response -block X-Frame-Options
 URL https://elibrary.utb.de
 HJ https://www.elibrary.utb.de
 HJ www.elibrary.utb.de

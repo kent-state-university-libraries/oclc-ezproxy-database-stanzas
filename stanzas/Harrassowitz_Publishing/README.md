@@ -1,5 +1,5 @@
 # Harrassowitz Publishing
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Harrassowitz_Publishing](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Harrassowitz_Publishing) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Harrassowitz_Publishing](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Harrassowitz_Publishing) **
 
 ## Some of OCLC's notes for this stanza
 

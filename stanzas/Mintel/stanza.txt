@@ -7,7 +7,8 @@ AnonymousURL -OPTIONS +https://eks-prod-appshell.otlp-frontend.mintel.cloud/coll
 AnonymousURL +https://eks-prod-appshell.otlp-frontend.mintel.cloud/collect
 AnonymousURL +https://notifications.mintel.com/notification/*
 AnonymousURL +https://portal.mintel.com/*
-Title Mintel (updated 20240624)
+Title Mintel (updated 20240802)
+MimeFilter text/event-stream .* javascript
 HTTPHeader -request -process X-CSRFToken
 URL https://clients.mintel.com/
 HJ clients.mintel.com

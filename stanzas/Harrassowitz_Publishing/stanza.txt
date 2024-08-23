@@ -1,4 +1,4 @@
-Title Harrassowitz Publishing (updated 20220602)
+Title Harrassowitz Publishing (updated 20240814)
 URL http://www.harrassowitz-library.com
 Host https://harrassowitz-library.com/
 HJ https://www.harrassowitz-library.com
@@ -11,4 +11,24 @@ HJ https://zdmg.harrassowitz-library.com
 HJ https://zar.harrassowitz-library.com
 HJ https://zal.harrassowitz-library.com
 HJ https://zfb.harrassowitz-library.com
+HJ https://mgh-da.harrassowitz-library.com/
+HJ http://mgh-da.harrassowitz-library.com/
+HJ https://spr.harrassowitz-library.com/
+HJ http://spr.harrassowitz-library.com/
+HJ https://ws.harrassowitz-library.com/
+HJ http://ws.harrassowitz-library.com/
+HJ https://ench.harrassowitz-library.com/
+HJ http://ench.harrassowitz-library.com/
+HJ https://gg.harrassowitz-library.com/
+HJ http://gg.harrassowitz-library.com/
+HJ https://joh.harrassowitz-library.com/
+HJ http://joh.harrassowitz-library.com/
+HJ https://lj.harrassowitz-library.com/
+HJ http://lj.harrassowitz-library.com/
+HJ https://oe.harrassowitz-library.com/
+HJ http://oe.harrassowitz-library.com/
+HJ https://stebla.harrassowitz-library.com/
+HJ http://stebla.harrassowitz-library.com/
+HJ https://tl.harrassowitz-library.com/
+HJ http://tl.harrassowitz-library.com/
 DJ harrassowitz-verlag.de
