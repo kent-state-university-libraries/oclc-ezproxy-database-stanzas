@@ -1,24 +1,30 @@
-T Royal Society of Chemistry (OCLC IncludeFile updated 20221220)
-U http://pubs.rsc.org/
+Title Royal Society of Chemistry (updated 20240827)
+URL http://pubs.rsc.org/
 HJ cds.rsc.org
 HJ ebook.rsc.org
 HJ edu.rsc.org
 HJ eic.rsc.org
+HJ https://books.rsc.org
 HJ https://cds.rsc.org
 HJ https://edu.rsc.org
 HJ https://eic.rsc.org
+HJ https://historical-collection.rsc.org
 HJ https://marinlit.rsc.org
+HJ https://merckindex.rsc.org
 HJ https://pubs.rsc.org
 HJ https://rsc.org
 HJ https://www.rsc.org
+HJ books.rsc.org
+HJ historical-collection.rsc.org
 HJ marinlit.rsc.org
+HJ merckindex.rsc.org
 HJ pubs.rsc.org
 HJ rsc.org
 HJ www.rsc.org
 HJ xlink.rsc.org
 DJ rsc.org
 
-T Chemistry World (OCLC IncludeFile updated 20190207)
+T Chemistry World
 U https://www.chemistryworld.com/
 H https://www.chemistryworld.com
 H www.chemistryworld.com
