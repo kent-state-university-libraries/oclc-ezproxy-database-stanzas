@@ -1,20 +1,26 @@
-T Cairn (OCLC IncludeFile updated 20221014)
-U https://www.cairn.info/
+Title Cairn (updated 20240827)
+URL https://www.cairn.info/
+HJ cairn-int.info
+HJ cairn-mundo.info
+HJ cairn-sciences.info
+HJ cairn.info
+HJ droit.cairn.info
+HJ https://cairn-int.info
 HJ https://cairn-mundo.info
 HJ https://cairn-sciences.info
-HJ https://cairn-int.info
 HJ https://cairn.info
+HJ https://droit.cairn.info
+HJ https://shs.cairn.info
+HJ https://stm.cairn.info
+HJ https://www.cairn-int.info
 HJ https://www.cairn-mundo.info
 HJ https://www.cairn-sciences.info
-HJ https://www.cairn-int.info
-HJ www.cairn-mundo.info
+HJ shs.cairn.info
+HJ stm.cairn.info
 HJ www.cairn-int.info
-HJ www.cairn.info
+HJ www.cairn-mundo.info
 HJ www.cairn-sciences.info
-HJ cairn-sciences.info
-HJ cairn-mundo.info
-HJ cairn-int.info
-HJ cairn.info
+HJ www.cairn.info
 DJ cairn-sciences.info
 DJ cairn-mundo.info
 DJ cairn-int.info
