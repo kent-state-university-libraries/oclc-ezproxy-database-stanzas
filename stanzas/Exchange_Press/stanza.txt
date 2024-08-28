@@ -1,4 +1,6 @@
-T Exchange Press (Added 20220830)
-U https://www.exchangepress.com/catalog/edflicks/
+Title Exchange Press (updated 20240828)
+URL https://hub.exchangepress.com
+HJ http://hub.exchangepress.com
+HJ https://www.exchangepress.com
 HJ http://www.exchangepress.com
 DJ exchangepress.com
