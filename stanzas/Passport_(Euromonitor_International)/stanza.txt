@@ -2,7 +2,8 @@ AnonymousURL +https://www.euromonitor.com/*
 AnonymousURL +https://pro.fontawesome.com/*
 AnonymousURL +https://cdn.media.euromonitor.com/*
 AnonymousURL +https://microfrontend-passport.euromonitor.com/*
-Title Passport (Euromonitor International) (updated 20240802)
+AnonymousURL +https://download-portal.euromonitor.com/documents/*
+Title Passport (Euromonitor International) (Updated 20240829)
 HTTPHeader -request -process Access-Control-Allow-Origin
 HTTPHeader -request -process Access-Control-Expose-Headers
 MimeFilter text/html https://cdn.media.euromonitor.com/* html
