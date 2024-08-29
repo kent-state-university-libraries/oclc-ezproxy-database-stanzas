@@ -1,0 +1,17 @@
+HTTPMethod GET
+HTTPMethod POST
+HTTPMethod PUT
+HTTPMethod DELETE
+HTTPMethod OPTIONS
+AnonymousURL +https://intapi.sciendo.com/*
+Title Sciendo (updated 20240827)
+URL https://sciendo.com
+HJ https://sciendo.com
+HJ https://www.sciendo.com
+HJ https://intapi.sciendo.com
+HJ sciendo.com
+HJ www.sciendo.com
+HJ intapi.sciendo.com
+DJ sciendo.com
+DJ intapi.sciendo.com
+AnonymousURL -*
