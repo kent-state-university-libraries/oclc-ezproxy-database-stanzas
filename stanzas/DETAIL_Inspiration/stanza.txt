@@ -1,5 +1,6 @@
-T DETAIL Inspiration (updated 20231113)
-U https://www.detail.de/inspiration
+Title DETAIL Inspiration (updated 20240829)
+URL https://www.detail.de/inspiration
+HJ https://www.inspiration.detail.de
 HJ https://inspiration.detail.de
 HJ https://www.detail.de
 HJ inspiration.detail.de
