@@ -1,18 +1,18 @@
-Title IMAIOS (updated 20240730)
+Title IMAIOS (updated 20240906)
+HTTPHeader -request -process Authorization
+HTTPHeader -request -process Origin
+HTTPHeader -request -process X-Requested-With
+HTTPHeader -request -process x-im-proxy
+HTTPHeader -request -process x-im-powts
+HTTPHeader -request -process x-im-pownonce
+HTTPHeader -request -process x-im-powcounter
+HTTPHeader -request -process x-im-powdigest
 URL https://www.imaios.com
 HJ https://www.imaios.com
 HJ www.imaios.com
 DJ imaios.com
-NeverProxy i.imaios.com
-NeverProxy i0.imaios.com
-NeverProxy i1.imaios.com
-NeverProxy i2.imaios.com
-NeverProxy i3.imaios.com
-NeverProxy i4.imaios.com
-NeverProxy cdn1.imaios.com
-NeverProxy cdn2.imaios.com
-NeverProxy cdn3.imaios.com
-NeverProxy cdn4.imaios.com
+NeverProxy i*.imaios.com
+NeverProxy cdn*.imaios.com
 NeverProxy images.imaios.com
 NeverProxy static.imaios.com
 NeverProxy files.imaios.com
