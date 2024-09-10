@@ -1,4 +1,5 @@
-Title Cairn (updated 20240827)
+Title Cairn (updated 20240910)
+HTTPHeader -request -process X-Livewire
 URL https://www.cairn.info/
 HJ cairn-int.info
 HJ cairn-mundo.info
