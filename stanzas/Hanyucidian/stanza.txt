@@ -1,0 +1,10 @@
+AnonymousURL +https://www.hanyucidian.org/manifest.webmanifest
+Title Hanyucidian (updated 20240827)
+HTTPHeader -request -process Ajax-Request
+HTTPHeader -request -process Ajax-Referrer
+Url https://www.hanyucidian.org/
+HJ https://www.hanyucidian.org/
+HJ http://www.hanyucidian.org/
+DJ hanyucidian.org
+AnonymousURL -*
+NeverProxy static.hanyucidian.org
