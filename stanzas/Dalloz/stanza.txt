@@ -1,4 +1,4 @@
-Title Dalloz (OCLC IncludeFile Updated 20201126)
+Title Dalloz (20240916)
 HTTPHeader -request -process Book-Authorization
 HTTPHeader -request -process Accept-Encoding
 MimeFilter application/json .* javascript
@@ -15,9 +15,11 @@ HJ dalloz-revues.fr
 HJ dalloz.fr
 HJ editions-dalloz.fr
 HJ https://connexion.dalloz.fr
+HJ https://jurisprudence.lefebvre-dalloz.fr
 HJ https://secureidpga.dalloz.fr
-HJ https://www.jurisprudence.dalloz-avocats.fr
 HJ https://www.dalloz-bibliotheque.fr
+HJ https://www.jurisprudence.dalloz-avocats.fr
+HJ jurisprudence.lefebvre-dalloz.fr
 HJ prepa-dalloz.fr
 HJ www.dalloz-actualite.fr
 HJ www.dalloz-avocats.fr
@@ -31,7 +33,6 @@ HJ www.dalloz.fr
 HJ www.editions-dalloz.fr
 HJ www.jurisprudence.dalloz-avocats.fr
 HJ www.prepa-dalloz.fr
-DJ dalloz.fr
 DJ dalloz-actualite.fr
 DJ dalloz-avocats.fr
 DJ dalloz-bibliotheque.fr
@@ -40,7 +41,9 @@ DJ dalloz-enseignants.fr
 DJ dalloz-etudiant.fr
 DJ dalloz-formation.fr
 DJ dalloz-revues.fr
+DJ dalloz.fr
 DJ editions-dalloz.fr
+DJ lefebvre-dalloz.fr
 DJ prepa-dalloz.fr
 Find http:\/\/www
 Replace http://www
