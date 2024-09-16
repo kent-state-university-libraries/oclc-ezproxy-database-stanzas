@@ -1,4 +1,4 @@
-Title CABI Resources (OCLC IncludeFile updated 20231006)
+Title CABI Resources (updated 20240915)
 URL https://www.cabi.org/
 HJ https://cabi.org
 HJ https://www.cabi.org
@@ -20,3 +20,4 @@ HJ tourism.cabi.org
 HJ www.cabidigitallibrary.org
 DJ cabidigitallibrary.org
 Option Cookie
+Neverproxy cabi.scienceconnect.io
