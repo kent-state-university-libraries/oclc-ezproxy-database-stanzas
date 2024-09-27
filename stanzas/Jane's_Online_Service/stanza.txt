@@ -1,0 +1,25 @@
+Title Jane's Online Service (updated 20240927)
+MimeFilter application/json .* javascript
+URL https://customer.janes.com
+HJ asiap.janes.com
+HJ assets.janes.com
+HJ cdn.janes.com
+HJ customer.janes.com
+HJ developer.janes.com
+HJ emagazines.janes.com
+HJ gps.janes.com
+HJ https://asiap.janes.com
+HJ https://assets.janes.com
+HJ https://cdn.janes.com
+HJ https://developer.janes.com
+HJ https://emagazines.janes.com
+HJ https://gps.janes.com
+HJ https://intara-api.janes.com
+HJ https://intara.janes.com
+HJ https://janes.com
+HJ https://licensing.janes.com
+HJ intara-api.janes.com
+HJ intara.janes.com
+HJ janes.com
+HJ licensing.janes.com
+DJ janes.com

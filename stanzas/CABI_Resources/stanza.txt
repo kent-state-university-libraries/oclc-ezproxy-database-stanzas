@@ -1,8 +1,10 @@
-Title CABI Resources (updated 20240915)
+Title CABI Resources (updated 20240927)
 URL https://www.cabi.org/
-HJ https://cabi.org
-HJ https://www.cabi.org
 HJ cabi.org
+HJ cabi.scienceconnect.io
+HJ https://cabi.org
+HJ https://cabi.scienceconnect.io
+HJ https://www.cabi.org
 HJ www.cabi.org
 DJ cabi.org
 NeverProxy https://cdnjs.cloudflare.com
@@ -20,4 +22,3 @@ HJ tourism.cabi.org
 HJ www.cabidigitallibrary.org
 DJ cabidigitallibrary.org
 Option Cookie
-Neverproxy cabi.scienceconnect.io
