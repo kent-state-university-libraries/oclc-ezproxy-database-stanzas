@@ -1,5 +1,10 @@
-Title rangefindr.ca (updated 20210311)
-URL https://app.rangefindr.ca/query
-HJ https://app.rangefindr.ca
+Title Rangefindr (updated 20240930)
+HTTPHeader -request -process X-CSRF-Token
+HTTPHeader -request -process X-Key
+HTTPHeader -request -process X-Requested-With
+URL https://app.rangefindr.ca/
+HJ https://app.rangefindr.ca/
 HJ app.rangefindr.ca
-DJ app.rangefindr.ca
+HJ https://rangefindr.ca
+HJ rangefindr.ca
+DJ rangefindr.ca

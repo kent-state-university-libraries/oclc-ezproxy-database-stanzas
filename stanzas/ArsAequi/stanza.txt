@@ -1,7 +1,7 @@
 AnonymousURL +https://bzp04q7cwf-1.algolianet.com/*
 AnonymousURL +https://bzp04q7cwf-2.algolianet.com/*
 AnonymousURL +https://bzp04q7cwf-3.algolianet.com/*
-Title ArsAequi (updated 20240206)
+Title ArsAequi (updated 20240930)
 URL https://arsaequi.nl/home/
 HJ arsaequi.nl
 HJ https://arsaequi.nl
@@ -9,7 +9,6 @@ HJ https://bzp04q7cwf-1.algolianet.com
 HJ https://bzp04q7cwf-2.algolianet.com
 HJ https://bzp04q7cwf-3.algolianet.com
 HJ https://bzp04q7cwf-dsn.algolia.net
-HJ https://cdn.jsdelivr.net
 HJ https://juridischeuitgeverij.nl
 HJ https://www.arsaequi.nl
 HJ juridischeuitgeverij.nl
@@ -26,3 +25,4 @@ Replace concat(t,"-2-algolianet-com.^H
 Find concat(t,"-3.algolianet.com
 Replace concat(t,"-3-algolianet-com.^H
 AnonymousURL -*
+NeverProxy cdn.jsdelivr.net

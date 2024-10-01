@@ -1,4 +1,4 @@
-Title Morningstar Investing Center Formerly known as Morningstar Investment Research Center (updated 20231205)
+Title Morningstar Investing Center Formerly known as Morningstar Investment Research Center (updated 20240930)
 URL https://research.morningstar.com/ic/ip-sign-in
 HJ https://research.morningstar.com
 HJ research.morningstar.com
@@ -13,3 +13,4 @@ NeverProxy advtools.morningstar.com
 NeverProxy video.morningstar.com
 NeverProxy us-api.morningstar.com
 NeverProxy www.us-api.morningstar.com
+NeverProxy mo.morningstar.com
