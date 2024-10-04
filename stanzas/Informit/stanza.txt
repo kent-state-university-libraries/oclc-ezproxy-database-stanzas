@@ -1,4 +1,4 @@
-Title Informit Search (updated 20210402)
+Title Informit Search (updated 20241004)
 AnonymousURL -RE -CS +http://search\.informit\.org/.*/[A-Z0-9]+\.mp4
 URL https://search.informit.org
 HJ https://data.informit.org
@@ -14,4 +14,4 @@ Title Informit EduTV
 URL https://edutv.informit.com.au
 H http://edutv.informit.com.au
 DJ edutv.informit.com.au
-Neverproxy scienceconnect.io
+NeverProxy rmit.scienceconnect.io
