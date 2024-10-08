@@ -1,10 +1,14 @@
-Title Mohr Siebeck (updated 20210519)
-URL https://www.mohrsiebeck.com/en
+AnonymousURL +https://www.mohrsiebeck.com/_astro/*
+Title Mohr Siebeck (updated 20241008)
+HTTPHeader -response -edit Content-Security-Policy RewriteURL(https://cdn.mohrsiebeck.com)
+HTTPHeader -response -edit Content-Security-Policy RewriteURL(https://cmsapp.mohrsiebeck.com)
+HTTPHeader -response -edit Content-Security-Policy RewriteURL(https://app.mohrsiebeck.com)
+URL https://www.mohrsiebeck.com
 HJ https://mohrsiebeck.com
-HJ https://www.mohr.de
 HJ https://www.mohrsiebeck.com
 HJ mohrsiebeck.com
-HJ www.mohr.de
 HJ www.mohrsiebeck.com
 DJ mohrsiebeck.com
-DJ mohr.de
+Find "//app.mohrsiebeck.com
+Replace "//^sapp.mohrsiebeck.com^
+AnonymousURL -*
