@@ -1,8 +1,10 @@
 Option DomainCookieOnly
-Title Liverpool University Press (Updated 20231003)
+Title Liverpool University Press (updated 20241009)
 U https://www.liverpooluniversitypress.co.uk
 HJ https://liverpooluniversitypress.co.uk
+HJ https://lup.scienceconnect.io
 HJ liverpooluniversitypress.co.uk
+HJ lup.scienceconnect.io
 HJ www.liverpooluniversitypress.co.uk
 DJ liverpooluniversitypress.co.uk
 Option Cookie
