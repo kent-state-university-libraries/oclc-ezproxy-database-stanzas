@@ -1,7 +1,0 @@
-Title PolicyMap (updated 20241001)
-URL https://www.policymap.com
-HJ https://[SITEURL].policymap.com
-HJ [SITEURL].policymap.com
-HJ https://www.policymap.com
-HJ www.policymap.com
-DJ policymap.com
