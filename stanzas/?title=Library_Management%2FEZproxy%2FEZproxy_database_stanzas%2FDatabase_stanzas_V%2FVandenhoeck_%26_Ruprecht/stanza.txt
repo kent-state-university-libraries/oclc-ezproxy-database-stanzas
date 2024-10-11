@@ -1,0 +1,21 @@
+Title Vandenhoeck & Ruprecht (updated 20241011)
+URL https://www.vandenhoeck-ruprecht-verlage.com/
+HJ https://v-r.de
+HJ https://vandenhoeck-ruprecht-verlage.com
+HJ https://vandr.scienceconnect.io
+HJ https://vr-elibrary.de
+HJ https://www.v-r.de
+HJ https://www.vandenhoeck-ruprecht-verlage.com
+HJ https://www.vr-elibrary.de
+HJ v-r.de
+HJ vandenhoeck-ruprecht-verlage.com
+HJ vandenhoeck-ruprecht.de
+HJ vandr.scienceconnect.io
+HJ vr-elibrary.de
+HJ www.v-r.de
+HJ www.vandenhoeck-ruprecht-verlage.com
+HJ www.vandenhoeck-ruprecht.de
+HJ www.vr-elibrary.de
+DJ v-r.de
+DJ vr-elibrary.de
+DJ vandenhoeck-ruprecht-verlage.com

@@ -1,7 +1,12 @@
-Title World Scientific Publishing (updated 20181130)
+Title World Scientific Publishing (updated 20241011)
 URL https://www.worldscientific.com/
+HJ https://worldscientific.com
+HJ https://worldscinet.com
+HJ https://wspc.scienceconnect.io
+HJ https://www.worldscinet.com
 HJ worldscientific.com
 HJ worldscinet.com
+HJ wspc.scienceconnect.io
 HJ www.worldscientific.com
 HJ www.worldscinet.com
 DJ worldscientific.com

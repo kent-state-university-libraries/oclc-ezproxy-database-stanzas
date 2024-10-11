@@ -1,5 +1,5 @@
 # World Scientific Publishing
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/World_Scientific_Publishing](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/World_Scientific_Publishing) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/World_Scientific_Publishing](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/World_Scientific_Publishing) **
 
 ## Some of OCLC's notes for this stanza
 
