@@ -4,12 +4,11 @@ AnonymousURL +https://api2.sae.org/*
 AnonymousURL +https://dsa.fullsight.org/*
 AnonymousURL +https://identity.sae.org/*
 AnonymousURL +https://www.sae.org/restservices/*
-Title SAE MOBILUS Production (updated 20240930)
+Title SAE MOBILUS Production (updated 20241014)
 HTTPHeader -request -process X-Auth-Token
 HTTPHeader -response -process X-Auth-Token
 HTTPHeader -response -block Content-Security-Policy
 HTTPHeader -request -process Access-Control-Allow-Origin
-HTTPHeader -response Access-Control-Allow-Origin "*"
 URL https://saemobilus.sae.org
 HJ https://saemobilus.sae.org
 HJ http://saemobilus.sae.org
