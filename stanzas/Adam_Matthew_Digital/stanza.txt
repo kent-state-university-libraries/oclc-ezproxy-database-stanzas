@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20240916)
+Title Adam Matthew Digital (updated 20241014)
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://1980scultureandsociety.amdigital.co.uk
@@ -104,6 +104,7 @@ HJ https://www.shakespearesglobearchive.amdigital.co.uk
 HJ https://www.slavery.amdigital.co.uk
 HJ https://www.socialismonfilm.amdigital.co.uk
 HJ https://www.thenixonyears.amdigital.co.uk
+HJ https://www.theolympicmovement.amdigital.co.uk
 HJ https://www.thetransformationofshopping.amdigital.co.uk
 HJ https://www.tradecatalogues.amdigital.co.uk
 HJ https://www.travelwriting.amdigital.co.uk
@@ -113,8 +114,10 @@ HJ https://www.virginiacompanyarchives.amdigital.co.uk
 HJ https://www.womeninthenationalarchives.amdigital.co.uk
 HJ https://www.worldsfairs.amdigital.co.uk
 HJ https://www.indigenoushistoriesandcultures.amdigital.co.uk
+HJ https://theolympicmovement.amdigital.co.uk
 HJ resources.amdigital.co.uk
 HJ royalshakespearecompanyarchives.amdigital.co.uk
+HJ theolympicmovement.amdigital.co.uk
 HJ www.aap.amdigital.co.uk
 HJ www.africaandthenewimperialism.amdigital.co.uk
 HJ www.am-explorer.com
@@ -129,6 +132,7 @@ HJ www.grandtour.amdigital.co.uk
 HJ www.login.amdigital.co.uk
 HJ www.medievalfamilylife.amdigital.co.uk
 HJ www.migration.amdigital.co.uk
+HJ www.theolympicmovement.amdigital.co.uk
 HJ www.royalshakespearecompanyarchives.amdigital.co.uk
 HJ www.slavery.amdigital.co.uk
 HJ www.travelwriting.amdigital.co.uk

@@ -1,4 +1,4 @@
-Title Cairn (updated 20240910)
+Title Cairn (updated 20241015)
 HTTPHeader -request -process X-Livewire
 URL https://www.cairn.info/
 HJ cairn-int.info
@@ -26,3 +26,5 @@ DJ cairn-sciences.info
 DJ cairn-mundo.info
 DJ cairn-int.info
 DJ cairn.info
+Find "redirect":"https:\/\/shs.cairn.info\/
+Replace "redirect":"https://^Sshs.cairn.info^/
