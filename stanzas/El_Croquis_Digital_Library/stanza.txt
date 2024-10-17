@@ -1,14 +1,12 @@
 AnonymousURL +https://www.elcroquisdigital.com/api/*
-Title El Croquis Digital Library (updated 20240118)
+Title El Croquis Digital Library (updated 20241017)
 URL https://www.elcroquisdigital.com
-HJ https://elcroquisdigital.com/
-HJ elcroquisdigital.com
-HJ https://www.elcroquisdigital.com
-HJ www.elcroquisdigital.com
-HJ https://api-elcroquisdigital.com
 HJ api-elcroquisdigital.com
-HJ https://free-croquis-pro.s3.eu-west-3.amazonaws.com
-HJ free-croquis-pro.s3.eu-west-3.amazonaws.com
+HJ elcroquisdigital.com
+HJ https://api-elcroquisdigital.com
+HJ https://elcroquisdigital.com
+HJ www.elcroquisdigital.com
 DJ elcroquisdigital.com
 AnonymousURL -*
 NeverProxy documents-croquis-pro.s3.eu-west-3.amazonaws.com
+NeverProxy free-croquis-pro.s3.eu-west-3.amazonaws.com
