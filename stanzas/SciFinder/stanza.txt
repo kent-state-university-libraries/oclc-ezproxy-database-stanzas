@@ -1,5 +1,5 @@
 Option X-Forwarded-For
-Title SciFinder (updated 20210804)
+Title SciFinder (updated 20241021)
 HTTPMethod PUT
 HTTPHeader x-cas*
 HTTPHeader -request -process x-cas*
@@ -7,15 +7,21 @@ HTTPHeader X-PatSnap-Version
 HTTPHeader X-API-Version
 HTTPHeader X-PatSnap-From
 URL https://scifinder.cas.org/
-H https://scifinder-n.cas.org/
-H https://origin-scifinder.cas.org/
-H scifinder.cas.org
-H scifinder-n.cas.org
-H origin-scifinder.cas.org
-H https://sso.cas.org
-H sso.cas.org
-H chemport.cas.org
-H chemport-n.cas.org
-H content2.cas.org
-D cas.org
+HJ chemport-n.cas.org
+HJ chemport.cas.org
+HJ content2.cas.org
+HJ formulus.cas.org
+HJ https://chemport-n.cas.org
+HJ https://chemport.cas.org
+HJ https://formulus.cas.org
+HJ https://methods.cas.org
+HJ https://origin-scifinder.cas.org
+HJ https://scifinder-n.cas.org
+HJ https://sso.cas.org
+HJ methods.cas.org
+HJ origin-scifinder.cas.org
+HJ scifinder-n.cas.org
+HJ scifinder.cas.org
+HJ sso.cas.org
+DJ cas.org
 Option NoX-Forwarded-For

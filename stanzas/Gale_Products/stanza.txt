@@ -1,7 +1,7 @@
 HTTPMethod OPTIONS
 AnonymousURL -Options +https://appapi.chiltonlibrary.com/*
 AnonymousURL +https://appapi.chiltonlibrary.com/*
-Title Gale Products (updated 20240131)
+Title Gale Products (updated 20241021)
 HTTPHeader -request -process X-XSRF-TOKEN
 URL https://link.gale.com/apps/menu
 MimeFilter application/json .* javascript
@@ -9,6 +9,7 @@ MimeFilter text/plain .* javascript
 HJ auth.go.gale.com
 HJ bi.gale.com
 HJ chiltonlibrary.com
+HJ demographicsnow.gale.com
 HJ dnow.gale.com
 HJ find.gale.com
 HJ find.galegroup.com
@@ -18,25 +19,23 @@ HJ galepages.com
 HJ gdc.gale.com
 HJ gdc.galegroup.com
 HJ go.gale.com
-HJ link.gale.com
-HJ link.galegroup.com
-HJ lst.gale.com
-HJ lst.galegroup.com
-HJ natgeo.gale.com
-HJ sa.gale.com
-HJ tinyurl.gale.com
-HJ worldscholar.gale.com
-HJ infotrac.galegroup.com
-HJ demographicsnow.gale.com
+HJ go.galegroup.com
+HJ https://app.chiltonlibrary.com
+HJ https://appapi.chiltonlibrary.com
+HJ https://appcontent.chiltonlibrary.com
 HJ https://auth.go.gale.com
 HJ https://bi.gale.com
+HJ https://demographicsnow.gale.com
 HJ https://dnow.gale.com
 HJ https://find.gale.com
 HJ https://find.galegroup.com
 HJ https://galenet.gale.com
+HJ https://galenet.galegroup.com
 HJ https://gdc.gale.com
 HJ https://go.gale.com
+HJ https://go.galegroup.com
 HJ https://infotrac.gale.com
+HJ https://infotrac.galegroup.com
 HJ https://link.gale.com
 HJ https://link.galegroup.com
 HJ https://lst.gale.com
@@ -45,14 +44,17 @@ HJ https://misshumblebee.com
 HJ https://natgeo.gale.com
 HJ https://sa.gale.com
 HJ https://tinyurl.gale.com
-HJ https://www.galepages.com
 HJ https://worldscholar.gale.com
-HJ https://infotrac.galegroup.com
-HJ https://demographicsnow.gale.com
-HJ https://galenet.galegroup.com
-HJ https://app.chiltonlibrary.com
-HJ https://appcontent.chiltonlibrary.com
-HJ https://appapi.chiltonlibrary.com
+HJ https://www.galepages.com
+HJ infotrac.galegroup.com
+HJ link.gale.com
+HJ link.galegroup.com
+HJ lst.gale.com
+HJ lst.galegroup.com
+HJ natgeo.gale.com
+HJ sa.gale.com
+HJ tinyurl.gale.com
+HJ worldscholar.gale.com
 DJ gale.com
 DJ galegroup.com
 DJ galepages.com

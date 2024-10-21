@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20241014)
+Title Adam Matthew Digital (updated 20241021)
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://1980scultureandsociety.amdigital.co.uk
@@ -138,3 +138,5 @@ HJ www.slavery.amdigital.co.uk
 HJ www.travelwriting.amdigital.co.uk
 HJ www.indigenoushistoriesandcultures.amdigital.co.uk
 DJ amdigital.co.uk
+Find http://"+getPrefix()+".massobservation.amdigital.co.uk
+Replace http://"+getPrefix()+".^Pmassobservation.amdigital.co.uk^

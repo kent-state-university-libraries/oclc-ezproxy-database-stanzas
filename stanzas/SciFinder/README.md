@@ -1,5 +1,5 @@
 # SciFinder
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SciFinder](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SciFinder) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SciFinder](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SciFinder) **
 
 ## Some of OCLC's notes for this stanza
 
