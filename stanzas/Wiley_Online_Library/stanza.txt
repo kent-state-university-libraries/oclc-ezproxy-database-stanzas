@@ -1,3 +1,4 @@
+#File approved in OnePlace on 2024-10-20 23:28:03.920592, Stanza Version is 2598
 AnonymousURL +https://*.onlinelibrary.wiley.com/action/*
 Option DomainCookieOnly
 Option X-Forwarded-For
@@ -5,7 +6,7 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20240708)
+Title Wiley Online (OCLC IncludeFile updated 20241022)
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 HTTPHeader -request -process X-Requested-With
@@ -170,6 +171,7 @@ HJ https://tes.onlinelibrary.wiley.com
 HJ https://theoncologist.onlinelibrary.wiley.com
 HJ https://wchh.onlinelibrary.wiley.com
 HJ https://wildlife.onlinelibrary.wiley.com
+HJ https://wiley.scienceconnect.io
 HJ https://wileyonlinelibrary.com
 HJ https://wires.wiley.com
 HJ https://www.birpublications.org
@@ -223,6 +225,7 @@ HJ tes.onlinelibrary.wiley.com
 HJ theoncologist.onlinelibrary.wiley.com
 HJ wchh.onlinelibrary.wiley.com
 HJ wildlife.onlinelibrary.wiley.com
+HJ wiley.scienceconnect.io
 HJ wileyonlinelibrary.com
 HJ wires.wiley.com
 HJ www.birpublications.org

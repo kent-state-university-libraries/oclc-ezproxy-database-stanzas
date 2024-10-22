@@ -1,7 +1,7 @@
 HTTPMethod OPTIONS
 AnonymousURL -Options +https://appapi.chiltonlibrary.com/*
 AnonymousURL +https://appapi.chiltonlibrary.com/*
-Title Gale Products (updated 20241021)
+Title Gale Products (updated 20241022)
 HTTPHeader -request -process X-XSRF-TOKEN
 URL https://link.gale.com/apps/menu
 MimeFilter application/json .* javascript
@@ -31,6 +31,7 @@ HJ https://find.gale.com
 HJ https://find.galegroup.com
 HJ https://galenet.gale.com
 HJ https://galenet.galegroup.com
+HJ https://galepages.com
 HJ https://gdc.gale.com
 HJ https://go.gale.com
 HJ https://go.galegroup.com
@@ -55,6 +56,7 @@ HJ natgeo.gale.com
 HJ sa.gale.com
 HJ tinyurl.gale.com
 HJ worldscholar.gale.com
+HJ www.galepages.com
 DJ gale.com
 DJ galegroup.com
 DJ galepages.com
