@@ -1,0 +1,38 @@
+AnonymousURL +https://compassapi.hbpl.co.uk/api/*
+AnonymousURL +https://hbmdataapiv2.hbpl.co.uk/api/*
+AnonymousURL +https://hbmuserapiv2.hbpl.co.uk/api/*
+Title -hide Haymarket Media Group APIs (updated 20241010)
+U https://hbpl.co.uk
+HJ https://compassapi.hbpl.co.uk
+HJ https://hbmdataapiv2.hbpl.co.uk
+HJ https://hbmuserapiv2.hbpl.co.uk
+DJ hbpl.co.uk
+AnonymousURL -*
+
+Title DCP Online (updated 20210511)
+URL http://dcp-online.co.uk/DCP/
+HJ dcp-online.co.uk
+HJ https://dcp-online.co.uk
+HJ https://latest.dcp-online.co.uk
+HJ https://www.dcp-online.co.uk
+HJ latest.dcp-online.co.uk
+HJ www.dcp-online.co.uk
+DJ dcp-online.co.uk
+
+Title Compass (updated 20241010)
+URL https://www.compasssearch.co.uk/
+HJ compasssearch.co.uk
+HJ https://compasssearch.co.uk
+HJ https://qa.compasssearch.co.uk
+HJ https://www.compasssearch.co.uk
+HJ qa.compasssearch.co.uk
+HJ www.compasssearch.co.uk
+DJ compasssearch.co.uk
+
+Title Planning Resource (updated 20241010)
+URL https://www.planningresource.co.uk
+HJ https://planningresource.co.uk
+HJ https://www.planningresource.co.uk
+HJ planningresource.co.uk
+HJ www.planningresource.co.uk
+DJ planningresource.co.uk
