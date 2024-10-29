@@ -1,9 +1,15 @@
-Title Global Financial Data (updated 20241016)
-URL http://www.globalfinancialdata.com
+AnonymousURL +https://prod-apicore.globalfinancialdata.com*
+AnonymousURL +*.json
+Title Global Financial Data (updated 20241027)
+URL https://finaeon.globalfinancialdata.com
+HJ finaeon-beta.globalfinancialdata.com
 HJ finaeon.globalfinancialdata.com
 HJ globalfinancialdata.com
-HJ https://finaeon.globalfinancialdata.com
+HJ https://finaeon-beta.globalfinancialdata.com
 HJ https://globalfinancialdata.com
+HJ https://prod-apicore.globalfinancialdata.com
 HJ https://www.globalfinancialdata.com
+HJ prod-apicore.globalfinancialdata.com
 HJ www.globalfinancialdata.com
 DJ globalfinancialdata.com
+AnonymousURL -*
