@@ -1,0 +1,9 @@
+Title Saishin-no-Rinsho-WEB (added 20240923)
+HTTPHeader -request -process X-XSRF-TOKEN
+URL https://www.rinsho.net
+HJ https://www.rinsho.net
+HJ https://rinsho.net
+HJ https://www-stg.rinsho.net
+HJ www.rinsho.net
+HJ rinsho.net
+DJ rinsho.net
