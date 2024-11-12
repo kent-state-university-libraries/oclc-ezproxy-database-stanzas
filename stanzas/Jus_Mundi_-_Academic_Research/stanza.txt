@@ -1,0 +1,9 @@
+AnonymousURL +https://cdn.jusmundi.com/*
+Title Jus Mundi - Academic Research (updated 20241110)
+HTTPHeader -request -process Access-Control-Allow-Origin
+URL https://jusmundi.com/en/
+HJ http://jusmundi.com
+HJ http://cdn.jusmundi.com
+HJ https://cdn.jusmundi.com
+DJ jusmundi.com
+AnonymousURL -*

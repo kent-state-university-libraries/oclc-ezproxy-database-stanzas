@@ -1,12 +1,15 @@
 AnonymousURL +https://api.examine.com/*
 AnonymousURL +https://search.examine.com/indexes/content/*
-T Examine (updated 20231212)
-U https://examine.com
+AnonymousURL +https://i.examine.com/indexes/content/*
+Title Examine (updated 20241110)
+URL https://examine.com
 HJ https://examine.com
 HJ http://examine.com
 HJ https://www.examine.com
 HJ www.examine.com
 HJ https://api.examine.com
 HJ api.examine.com
+HJ https://i.examine.com
+HJ i.examine.com
 DJ examine.com
 AnonymousURL -*
