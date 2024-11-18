@@ -13,12 +13,13 @@ AnonymousURL +https://examenonline-service.thieme.de/baseparameter/*
 AnonymousURL +https://examenonline-service.thieme.de/sitzung/campus
 AnonymousURL +https://viamedici.thieme.de/api/e-module/examen-online/*
 AnonymousURL +https://authentication-service.thieme.de/*
-T Thieme (updated 2023-10-04)
+Title Thieme (20241116)
+HTTPHeader -request -process pool
 HTTPHeader -request -process v
 HTTPHeader -request -process erights
 HTTPHeader -request -process X-CSRF-TOKEN
 HTTPHeader -request -process X-Token
-U https://www.thieme-connect.com/products/all/home.html
+URL https://www.thieme-connect.com/products/all/home.html
 HJ https://www.thieme-connect.com
 HJ https://www.thieme-connect.de
 HJ www.thieme-connect.de
