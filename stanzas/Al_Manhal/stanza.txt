@@ -1,0 +1,7 @@
+Title Al Manhal (updated 20241118)
+URL https://platform.almanhal.com
+HJ cdn.almanhal.com
+HJ https://cdn.almanhal.com
+HJ platform.almanhal.com
+DJ cdn.almanhal.com
+DJ platform.almanhal.com
