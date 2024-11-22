@@ -1,8 +1,20 @@
-Title DETAIL Inspiration (updated 20240829)
-URL https://www.detail.de/inspiration
-HJ https://www.inspiration.detail.de
+AnonymousURL +https://admin.inspiration.detail.de/en/api/*
+AnonymousURL +https://admin.inspiration.detail.de/de/api/*
+AnonymousURL +https://data-*.detail.de/iomm/latest/*
+Title DETAIL Inspiration (updated 20241120)
+HTTPHeader -request -process detail-pdf-preview
+HTTPHeader -request -process RSC
+HTTPHeader -request -process X-Requested-With
+URL https://inspiration.detail.de
+HJ detail.de
+HJ https://detail.de
 HJ https://inspiration.detail.de
 HJ https://www.detail.de
+HJ https://www.inspiration.detail.de
 HJ inspiration.detail.de
 HJ www.detail.de
+HJ www.inspiration.detail.de
 DJ detail.de
+Find "//report.detail.de
+Replace "//^Sreport.detail.de^
+AnonymousURL -*
