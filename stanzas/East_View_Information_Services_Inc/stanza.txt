@@ -1,4 +1,4 @@
-Title East View Information Services Inc (updated 20240322)
+Title East View Information Services Inc (updated 20241125)
 HTTPHeader -request -process Bib-Token
 URL https://dlib.eastview.com/login
 HJ bib.eastview.com
@@ -6,16 +6,18 @@ HJ ccg.eastview.com
 HJ crg.eastview.com
 HJ dlib.eastview.com
 HJ eastview.com
+HJ gca.eastview.com
 HJ gpa.eastview.com
-HJ kodeks.eastview.com
 HJ https://bib.eastview.com
 HJ https://ccg.eastview.com
 HJ https://crg.eastview.com
 HJ https://dlib.eastview.com
 HJ https://eastview.com
+HJ https://gca.eastview.com
 HJ https://gpa.eastview.com
 HJ https://kodeks.eastview.com
 HJ https://www.eastview.com
+HJ kodeks.eastview.com
 HJ news.mosinfo.ru
 HJ online.eastview.com
 HJ www.eastview.com
