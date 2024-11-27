@@ -1,6 +1,7 @@
-Title Journal of Orthopaedic and Sports Physical Therapy (updated 20220627)
+Title Journal of Orthopaedic and Sports Physical Therapy (updated 20241127)
 URL https://www.jospt.org
 HJ https://jospt.org
+HJ https://jospt.scienceconnect.io
 HJ https://secure.movementsciencemedia.org
 HJ jospt.org
 HJ www.jospt.org
