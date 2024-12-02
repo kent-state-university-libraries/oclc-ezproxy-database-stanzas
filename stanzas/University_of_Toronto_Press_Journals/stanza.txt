@@ -1,8 +1,9 @@
-Title University of Toronto Press Journals (updated 20200731)
+Title University of Toronto Press Journals (updated 20241202)
 URL http://www.utpress.utoronto.ca
 HJ champlainsociety.utjournals.press
 HJ champlainsociety.utpjournals.press
 HJ https://champlainsociety.utpjournals.press
+HJ https://dictionary.doe.utoronto.ca
 HJ https://jmvfh.utpjournals.press
 HJ https://jps.library.utoronto.ca
 HJ https://jvme.utpjournals.press
@@ -11,8 +12,10 @@ HJ https://tapor.library.utoronto.ca
 HJ https://uoftbookstore.com
 HJ https://utorontopress.com
 HJ https://utpjournals.press
+HJ https://utppublishing.com
 HJ https://www.utpjournals.press
 HJ https://www.utpress.utoronto.ca
+HJ dictionary.doe.utoronto.ca
 HJ jmvfh.utjournals.press
 HJ jmvfh.utpjournals.press
 HJ jps.library.utoronto.ca
