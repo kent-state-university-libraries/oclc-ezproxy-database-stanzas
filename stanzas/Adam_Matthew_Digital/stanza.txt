@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20241110)
+Title Adam Matthew Digital (updated 20241203)
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://1980scultureandsociety.amdigital.co.uk
@@ -14,6 +14,7 @@ HJ https://www.aihc.amdigital.co.uk
 HJ https://www.am-explorer.com
 HJ https://www.amdigital.co.uk
 HJ https://www.americainworldwartwo.amdigital.co.uk
+HJ https://www.americancommitteeonafrica.amdigital.co.uk
 HJ https://www.americanconsumerculture.amdigital.co.uk
 HJ https://www.americanhistory.amdigital.co.uk
 HJ https://www.americanindiannewspapers.amdigital.co.uk

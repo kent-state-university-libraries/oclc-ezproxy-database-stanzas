@@ -1,0 +1,6 @@
+Title ecommerceDB (updated 20241203)
+URL https://tool.ecdb.com
+HJ https://tool.ecdb.com
+HJ http://tool.ecdb.com
+DJ ecdb.com
+DJ ecommercedb.com
