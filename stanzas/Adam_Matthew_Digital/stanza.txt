@@ -1,4 +1,4 @@
-Title Adam Matthew Digital (updated 20241203)
+Title Adam Matthew Digital (updated 20241213)
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://1980scultureandsociety.amdigital.co.uk
@@ -108,6 +108,7 @@ HJ https://www.thenixonyears.amdigital.co.uk
 HJ https://www.theolympicmovement.amdigital.co.uk
 HJ https://www.thetransformationofshopping.amdigital.co.uk
 HJ https://www.tradecatalogues.amdigital.co.uk
+HJ https://www.tradeinearlymodernlondon.amdigital.co.uk
 HJ https://www.travelwriting.amdigital.co.uk
 HJ https://www.victorianpopularculture.amdigital.co.uk
 HJ https://www.victoriansonfilm.amdigital.co.uk
