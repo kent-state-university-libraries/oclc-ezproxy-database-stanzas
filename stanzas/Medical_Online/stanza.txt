@@ -1,6 +1,15 @@
+HTTPMethod PATCH
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+Option CookiePassThrough
 AnonymousURL +https://bookend-view-app.keyring.net/*
 AnonymousURL +https://mp.medicalonline.jp/api/suggest/*
-Title Medical Online (updated 20240405)
+AnonymousURL +https://video.medicalonline.jp/api/*
+AnonymousURL -OPTIONS +https://auth.medicalonline.jp/*
+Title Medical Online (updated 20241223)
+HTTPHeader -request -process X-Xsrf-Token
+HTTPHeader -request -process X-Mol-Auth
+HTTPHeader -request -process X-Requested-With
 URL https://mol.medicalonline.jp/library
 HJ bookend-view-app.keyring.net
 HJ https://bookend-view-app.keyring.net
@@ -15,7 +24,24 @@ Find href=\"\/\/www.medicalonline.jp
 Replace href=\"\/\/^Swww.medicalonline.jp^
 Find cookieDomain: "medicalonline.jp"
 Replace cookieDomain: "^L"
+Find "medicalonline.jp"
+Replace "^H"
+Find 'medicalonline.jp'
+Replace '^H'
+Find ".medicalonline.jp"
+Replace ".^H"
+Find '.medicalonline.jp'
+Replace '.^H'
+Find "www.medicalonline.jp"
+Replace "^Swww.medicalonline.jp^"
+Find "mol.medicalonline.jp"
+Replace "^Smol.medicalonline.jp^"
+Find https:\/\/www.medicalonline.jp
+Replace https:\/\/^Swww.medicalonline.jp^
+Find https:\/\/dev.medicalonline.jp
+Replace https:\/\/^Sdev.medicalonline.jp^
 AnonymousURL -*
+Option Cookie
 
 ## Hidden Stanza for Medical Online
 Title -hide Medical Online Cross-Origin-JS

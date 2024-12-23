@@ -1,0 +1,22 @@
+Title Contexte (updated 20241223)
+HTTPHeader -request -process HX-Boosted
+HTTPHeader -request -process HX-Current-URL
+HTTPHeader -request -process HX-History-Restore-Request
+HTTPHeader -request -process HX-Prompt
+HTTPHeader -request -process HX-Request
+HTTPHeader -request -process HX-Target
+HTTPHeader -request -process HX-Trigger
+HTTPHeader -response -process HX-Trigger
+HTTPHeader -response -process HX-Trigger-After-Swap
+HTTPHeader -request -process HX-Trigger-Name
+URl https://www.contexte.com
+HJ https://www.contexte.com
+HJ www.contexte.com
+HJ https://scan.contexte.com
+HJ scan.contexte.com
+HJ https://about.contexte.com
+HJ about.contexte.com
+DJ contexte.com
+DJ cdn.com
+NeverProxy apps.contexte.com
+NeverProxy js.sentry.cdn.com

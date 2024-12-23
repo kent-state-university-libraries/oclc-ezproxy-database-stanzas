@@ -1,18 +1,10 @@
 AnonymousURL +*//feeds.proquest.com/*
-Title ProQuest (updated 20220804)
+Title ProQuest (updated 20241223)
 HTTPHeader -request -process X-Requested-With Host
 URL https://www.proquest.com/ip
-NeverProxy rss.proquest.com
-NeverProxy order.proquest.com
-NeverProxy flow.proquest.com
-NeverProxy media.proquest.com
-NeverProxy pq-static-content.proquest.com
-NeverProxy support.proquest.com
-NeverProxy ssolanding-search.proquest.com
-NeverProxy sso.proquest.com
-NeverProxy about.proquest.com
 HJ africanamericanheritage.proquest.com
 HJ congressional.proquest.com
+HJ online.culturegrams.com
 HJ datasets.proquest.com
 HJ dialog.proquest.com
 HJ digitalmicrofilm.proquest.com
@@ -49,9 +41,9 @@ HJ trials.proquest.com
 HJ wt3.proquest.com
 HJ www.proquest.com
 HJ www.proquestk12.com
-DJ umi.com
 HJ https://africanamericanheritage.proquest.com
 HJ https://congressional.proquest.com
+HJ https://online.culturegrams.com
 HJ https://datasets.proquest.com
 HJ https://dialog.proquest.com
 HJ https://digitalmicrofilm.proquest.com
@@ -93,6 +85,17 @@ DJ proquest.com
 DJ medicalevidencematters.com
 DJ conquestsystems.com
 DJ conquest-leg-insight.com
+DJ culturegrams.com
+DJ umi.com
 Find window.location.host=="congressional.proquest.com"
 Replace true
 AnonymousURL -*
+NeverProxy rss.proquest.com
+NeverProxy order.proquest.com
+NeverProxy flow.proquest.com
+NeverProxy media.proquest.com
+NeverProxy pq-static-content.proquest.com
+NeverProxy support.proquest.com
+NeverProxy ssolanding-search.proquest.com
+NeverProxy sso.proquest.com
+NeverProxy about.proquest.com
