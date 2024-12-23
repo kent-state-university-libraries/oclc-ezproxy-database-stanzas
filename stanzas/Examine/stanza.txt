@@ -1,15 +1,22 @@
 AnonymousURL +https://api.examine.com/*
-AnonymousURL +https://search.examine.com/indexes/content/*
 AnonymousURL +https://i.examine.com/indexes/content/*
-Title Examine (updated 20241110)
+AnonymousURL +https://search.examine.com/indexes/content/*
+Title Examine (updated 20241223)
+HTTPHeader -response -process Next-Router-State-Tree
+HTTPHeader -response -process Next-Router-Prefetch
+HTTPHeader -request -process Next-Action
+HTTPHeader -response -process Next-Action
+HTTPHeader -request -process Next-Url
+HTTPHeader -response -process Next-Url
+HTTPHeader -response -process Rsc
 URL https://examine.com
-HJ https://examine.com
-HJ http://examine.com
-HJ https://www.examine.com
-HJ www.examine.com
-HJ https://api.examine.com
-HJ api.examine.com
-HJ https://i.examine.com
-HJ i.examine.com
-DJ examine.com
+H https://examine.com
+H examine.com
+H https://api.examine.com
+H api.examine.com
+H https://i.examine.com
+H i.examine.com
+H https://www.examine.com
+H www.examine.com
+D examine.com
 AnonymousURL -*
