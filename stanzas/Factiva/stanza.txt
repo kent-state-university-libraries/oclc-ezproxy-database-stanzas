@@ -1,27 +1,29 @@
 ProxyHostnameEdit global.factiva.com$ global-factiva-com
-AnonymousURL +*//api.dowjones.com/*
 AnonymousURL +*//accounts.dowjones.com/*
+AnonymousURL +*//api.dowjones.com/*
+AnonymousURL +*//api-secure.wsj.net/*
 AnonymousURL +*//dj.factiva.com/*
 AnonymousURL +*//suggest.factiva.com/*
-Title Factiva (updated 20240724)
+Title Factiva (updated 20241223)
 HTTPHeader -request -process credentials
+HTTPHeader -request -process dylan2010.entitlementtoken
 HTTPHeader -request -process preferences
 HTTPHeader -request -process product
-HTTPHeader -request -process user
 HTTPHeader -request -process token
+HTTPHeader -request -process user
 URL https://global.factiva.com/en/sess/login.asp?xsid=[PLACE-XSID-HERE]
 HJ www.factiva.com
-DJ factiva.com
-DJ wsj.com
-DJ wsj.net
 DJ allthingsd.com
 DJ barrons.com
+DJ dowjones.com
 DJ efinancialnews.com
+DJ factiva.com
+DJ fins.com
 DJ marketwatch.com
 DJ smartmoney.com
+DJ wsj.com
+DJ wsj.net
 DJ wsjradio.com
-DJ dowjones.com
-DJ fins.com
 DJ wsjstudent.com
 DJ wsjwine.com
 Find targetsite=http://
@@ -30,7 +32,7 @@ Find name="landingPage" value="http://
 Replace name="landingPage" value="http://^A
 Find name="targetsite" value="http://
 Replace name="targetsite" value="http://^A
-NeverProxy widgets.dowjones.com
 NeverProxy types.factiva.com
 NeverProxy utilityhandlers.dowjones.com
+NeverProxy widgets.dowjones.com
 AnonymousURL -*
