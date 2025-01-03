@@ -1,5 +1,6 @@
 HTTPMethod PUT
 HTTPMethod OPTIONS
+HTTPMethod DELETE
 AnonymousURL -OPTIONS +https://authentication.thieme.de/*
 AnonymousURL -OPTIONS +https://authentication.taal.thieme.de/*
 AnonymousURL -OPTIONS +https://directory.taal.thieme.de/*
@@ -13,12 +14,12 @@ AnonymousURL +https://examenonline-service.thieme.de/baseparameter/*
 AnonymousURL +https://examenonline-service.thieme.de/sitzung/campus
 AnonymousURL +https://viamedici.thieme.de/api/e-module/examen-online/*
 AnonymousURL +https://authentication-service.thieme.de/*
-Title Thieme (20241116)
-HTTPHeader -request -process pool
+Title Thieme (updated 20250103)
 HTTPHeader -request -process v
 HTTPHeader -request -process erights
 HTTPHeader -request -process X-CSRF-TOKEN
 HTTPHeader -request -process X-Token
+HTTPHeader -request -process pool
 URL https://www.thieme-connect.com/products/all/home.html
 HJ https://www.thieme-connect.com
 HJ https://www.thieme-connect.de
@@ -107,6 +108,10 @@ HJ https://cne.thieme.de
 HJ cne.thieme.de
 HJ https://cme.thieme.de
 HJ cme.thieme.de
+HJ https://hebammen.thieme.de
+HJ hebammen.thieme.de
+HJ https://medone-vet.thieme.com
+HJ medone-vet.thieme.com
 DJ thieme-connect.com
 DJ profile.thieme.de
 DJ thieme.de
@@ -122,17 +127,17 @@ DJ shibboleth.thieme.de
 DJ authentication-broker-oauth2.taal.thieme.de
 Find "domain": ".thieme.de",
 Replace "domain": "^H",
-NeverProxy cdn.thieme.de
-NeverProxy cfs.thiemeteachingassistant.com
-NeverProxy examenonline-medone.thieme.de
-AnonymousURL -*
 Find &redirect_uri=https://
 Replace &redirect_uri=https://^A
-Find &tRedirectUrl=https://
-Replace &tRedirectUrl=https://^A
 Find ?redirect_uri=https://
 Replace ?redirect_uri=https://^A
 Find ?tRedirectUrl=https://
 Replace ?tRedirectUrl=https://^A
+Find &tRedirectUrl=https://
+Replace &tRedirectUrl=https://^A
 Find APP_URL: "https://
 Replace APP_URL: "https://^A
+NeverProxy cdn.thieme.de
+NeverProxy cfs.thiemeteachingassistant.com
+NeverProxy examenonline-medone.thieme.de
+AnonymousURL -*
