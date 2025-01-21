@@ -1,5 +1,7 @@
-Title WorldTradeLaw.net (updated 20160603)
-URL http://www.worldtradelaw.net
+Title WorldTradeLaw.net (updated 20250118)
+URL https://www.worldtradelaw.net
+HJ https://worldtradelaw.net
+HJ https://www.worldtradelaw.net
 HJ worldtradelaw.net
 HJ www.worldtradelaw.net
 DJ worldtradelaw.net
