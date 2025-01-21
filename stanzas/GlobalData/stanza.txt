@@ -1,4 +1,7 @@
-Title GlobalData (updated 20240913)
+AnonymousURL +https://assets.globaldata.com/*.ttf*
+AnonymousURL +https://assets.globaldata.com/*.woff*
+AnonymousURL +https://assets.globaldata.com/*.woff2*
+Title GlobalData (updated 20250118)
 URL https://login.globaldata.com/login/iplogin
 HJ ads.globaldata.com
 HJ apparel.globaldata.com
@@ -47,3 +50,4 @@ HJ tourism.globaldata.com
 DJ globaldata.com
 NeverProxy https://icassets.globaldata.com
 NeverProxy https://analytics.globaldata.com
+AnonymousURL -*

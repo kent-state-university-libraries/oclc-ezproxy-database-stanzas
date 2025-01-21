@@ -1,8 +1,12 @@
-T Neurosurgical Atlas (Added 20230516)
-U https://www.neurosurgicalatlas.com
+AnonymousURL +https://account.neurosurgicalatlas.com/api/*
+Title Neurosurgical Atlas (updated 20240118)
+URL https://www.neurosurgicalatlas.com
 HJ https://www.neurosurgicalatlas.com
 HJ www.neurosurgicalatlas.com
+HJ https://account.neurosurgicalatlas.com
+HJ account.neurosurgicalatlas.com
 HJ https://neurosurgicalatlas.com
 HJ neurosurgicalatlas.com
 DJ neurosurgicalatlas.com
+AnonymousURL -*
 NeverProxy www.atlasmeditech.com

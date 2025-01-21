@@ -1,0 +1,6 @@
+Title Media Education Foundation Films (updated 20250118)
+URL https://films.mediaed.org
+HJ films.mediaed.org
+DJ films.mediaed.org
+NeverProxy stream.cadmore.media
+NeverProxy cadmore.media
