@@ -1,13 +1,31 @@
-AnonymousURL +https://www.brief.science/api/*
-Title Brief.science (20250113)
+AnonymousURL +https://hsjy8pp8nr-1.algolianet.com/*
+AnonymousURL +https://hsjy8pp8nr-2.algolianet.com/*
+AnonymousURL +https://hsjy8pp8nr-3.algolianet.com/*
+Title Brief.science (20250123)
+HTTPHeader -request -process HX-Current-URL
+HTTPHeader -request -process HX-Request
+HTTPHeader -request -process HX-Trigger
+HTTPHeader -request -process HX-Target
+HTTPHeader -request -process X-NewRelic-ID
+HTTPHeader -request -process newrelic
+HTTPHeader -request -process traceparent
+HTTPHeader -request -process tracestate
 URL https://www.brief.science
 HJ https://www.brief.science
 HJ https://app.brief.science
+HJ https://hsjy8pp8nr-1.algolianet.com
+HJ https://hsjy8pp8nr-2.algolianet.com
+HJ https://hsjy8pp8nr-3.algolianet.com
+HJ https://hsjy8pp8nr-dsn.algolia.net
 DJ brief.science
-Find "//www.").concat(
-replace "//www-").concat(
-Find domain:"brief.science"
-replace domain:"^Sbrief.science^"
-Find "https://www.".concat(
-replace "https://www-".concat(
+Find concat(t,"-dsn.algolia.net
+Replace concat(t,"-dsn-algolia-net.^H
+Find concat(t,".algolia.net
+Replace concat(t,"-algolia-net^H
+Find concat(t,"-1.algolianet.com
+Replace concat(t,"-1-algolianet-com.^H
+Find concat(t,"-2.algolianet.com
+Replace concat(t,"-2-algolianet-com.^H
+Find concat(t,"-3.algolianet.com
+Replace concat(t,"-3-algolianet-com.^H
 AnonymousURL -*
