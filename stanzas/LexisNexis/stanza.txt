@@ -3,7 +3,7 @@ AnonymousURL +https://static.law360news.com/*
 PHE www.lexisnexis.com$ www-lexisnexis-com
 PHE www.nexis.com$ www-nexis-com
 Option CookiePassThrough
-Title Lexis Nexis (updated 20241208)
+Title Lexis Nexis (updated 20250127)
 HTTPMethod PUT
 HTTPMethod DELETE
 HTTPMethod PATCH
@@ -111,5 +111,7 @@ Find mq.set("rt", "http://
 Replace mq.set("rt", "http://^A
 Find if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1)
 Replace if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1 || forwardTo.indexOf("lexis-com") != -1 || forwardTo.indexOf("nexis-com") != -1)
+Find action:"https%3a%2f%2fsignin.lexisnexis.com
+Replace action:"https://signin.lexisnexis.com
 Option Cookie
 AnonymousURL -*
