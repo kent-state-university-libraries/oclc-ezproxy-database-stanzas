@@ -1,8 +1,9 @@
 AnonymousURL +https://middleware.boomportaal.nl/boom/services/rest/*
 AnonymousURL +https://pdfkit-budh.boom.nl/i/d/*
 AnonymousURL +https://pspdfkit.boomportaal.nl/*
-Title Boomportaal (updated 20220208)
+Title Boomportaal (updated 20250206)
 MimeFilter text/plain https://www.boomportaal.nl/header.* javascript
+HTTPHeader -response -edit Location RewriteURL(REReplace("!http://www\.boomportaal\.nl!g", RewriteURL("https://www.boomportaal.nl"), hh:value))
 HTTPHeader -response -block Content-Security-Policy
 HTTPHeader -response -block X-Frame-Options
 HTTPHeader -request -process PSPDFKit-Platform

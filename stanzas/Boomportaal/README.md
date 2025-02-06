@@ -1,5 +1,5 @@
 # Boomportaal
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Boomportaal](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Boomportaal) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Boomportaal](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Boomportaal) **
 
 ## Some of OCLC's notes for this stanza
 
