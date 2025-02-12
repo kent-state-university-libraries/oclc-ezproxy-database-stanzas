@@ -164,3 +164,4 @@ NeverProxy shibboleth.ebscohost.com
 NeverProxy signin.ebsco.zone
 NeverProxy vttts.rs.ebscohost.com
 NeverProxy widgets.ebscohost.com
+AddUserHeader
