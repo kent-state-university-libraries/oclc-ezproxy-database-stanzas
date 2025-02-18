@@ -1,7 +1,11 @@
-Title Interactive Media Bias Chart (updated 20250118)
+AnonymousURL +https://api.ipify.org/?format=json
+Title Interactive Media Bias Chart (updated 20250217)
 URL https://app.adfontesmedia.com/login
 HJ https://app.adfontesmedia.com
 HJ app.adfontesmedia.com
 HJ https://adfontesmedia.com
 HJ adfontesmedia.com
+HJ https://api.ipify.org
+HJ api.ipify.org
 DJ adfontesmedia.com
+AnonymousURL -*

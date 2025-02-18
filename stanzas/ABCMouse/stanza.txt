@@ -1,9 +1,10 @@
 AddUserHeader X-libraryCardNumber
 Option MetaEZproxyRewriting
-Title ABCMouse (updated 20201120)
+Title ABCMouse (updated 20250217)
 URL https://www.abcmouse.com/blh_ezproxy
 HJ https://www.abcmouse.com
 HJ www.abcmouse.com
 HJ abcmouse.com
 DJ abcmouse.com
 Option NoMetaEZproxyRewriting
+AddUserHeader

@@ -1,4 +1,3 @@
-#File approved in OnePlace on 2024-10-20 23:28:03.920592, Stanza Version is 2598
 AnonymousURL +https://*.onlinelibrary.wiley.com/action/*
 Option DomainCookieOnly
 Option X-Forwarded-For
@@ -6,7 +5,7 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (OCLC IncludeFile updated 20241022)
+Title Wiley Online (updated 20250217)
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 HTTPHeader -request -process X-Requested-With
@@ -187,6 +186,7 @@ HJ https://www.wileyonlinelibrary.com
 HJ https://www.wileyopenaccess.com
 HJ https://www3.interscience.wiley.com
 HJ https://zslpublications.onlinelibrary.wiley.com
+HJ https://bsssjournals.onlinelibrary.wiley.com
 HJ iaap-journals.onlinelibrary.wiley.com
 HJ ietresearch.onlinelibrary.wiley.com
 HJ ift.onlinelibrary.wiley.com/
@@ -241,6 +241,7 @@ HJ www.wileyopenaccess.com
 HJ www.wires.wiley.com
 HJ www3.interscience.wiley.com
 HJ zslpublications.onlinelibrary.wiley.com
+HJ bsssjournals.onlinelibrary.wiley.com
 DJ wiley.com
 DJ esajournals.org
 DJ wileyopenaccess.com

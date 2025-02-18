@@ -1,13 +1,13 @@
 HTTPMethod PUT
 HTTPMethod DELETE
-HTTPHeader CkApp-Request-Product
-HTTPHeader CK-Path
-HTTPHeader X-CkApp-Request-Locale
-HTTPHeader X-Ckm-Product
-HTTPHeader X-Ck-Request-Id
 ProxyHostnameEdit www.clinicalkey.com$ www-clinicalkey-com
 AnonymousURL +https://eolsapi.elsevier.com/api/*
-Title ClinicalKey (updated 20230501)
+Title ClinicalKey (updated 20250217)
+HTTPHeader -request -process CkApp-Request-Product
+HTTPHeader -request -process CK-Path
+HTTPHeader -request -process X-CkApp-Request-Locale
+HTTPHeader -request -process X-Ckm-Product
+HTTPHeader -request -process X-Ck-Request-Id
 MimeFilter application/json .* javascript
 URL https://www.clinicalkey.com
 HJ www.clinicalkey.com
@@ -22,7 +22,7 @@ DJ clinicalkey.com
 DJ clinicalkey.com.au
 HJ t.clinicalsolutions.elsevier.com
 DJ elsevier.com
+AnonymousURL -*
 NeverProxy cdn.clinicalkey.com
 NeverProxy jigsaw.elsevier.com
 NeverProxy clinicalkeymeded.elsevier.com
-AnonymousURL -*
