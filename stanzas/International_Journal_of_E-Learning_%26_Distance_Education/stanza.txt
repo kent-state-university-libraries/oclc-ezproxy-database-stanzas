@@ -1,0 +1,11 @@
+Title International Journal of E-Learning & Distance Education (updated 20250206)
+URL https://www.ijede.ca/index.php/jde
+HJ https://ijede.ca
+HJ https://www.ijede.ca
+HJ ijede.ca
+HJ www.ijede.ca
+DJ ijede.ca
+Find https%3A%2F%2Fijede.ca
+Replace https://ijede.ca
+Find https%3A%2F%2Fwww.ijede.ca
+Replace https://www.ijede.ca
