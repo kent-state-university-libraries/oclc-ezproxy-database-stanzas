@@ -1,15 +1,17 @@
-Title Cairn (updated 20241015)
+AnonymousURL +*.woff*
+AnonymousURL +https://shs.cairn.info/build/assets/*.js*
+Title Cairn (updated 20250224)
 HTTPHeader -request -process X-Livewire
 URL https://www.cairn.info/
+HJ cairn.info
 HJ cairn-int.info
 HJ cairn-mundo.info
 HJ cairn-sciences.info
-HJ cairn.info
 HJ droit.cairn.info
+HJ https://cairn.info
 HJ https://cairn-int.info
 HJ https://cairn-mundo.info
 HJ https://cairn-sciences.info
-HJ https://cairn.info
 HJ https://droit.cairn.info
 HJ https://shs.cairn.info
 HJ https://stm.cairn.info
@@ -18,13 +20,14 @@ HJ https://www.cairn-mundo.info
 HJ https://www.cairn-sciences.info
 HJ shs.cairn.info
 HJ stm.cairn.info
+HJ www.cairn.info
 HJ www.cairn-int.info
 HJ www.cairn-mundo.info
 HJ www.cairn-sciences.info
-HJ www.cairn.info
-DJ cairn-sciences.info
-DJ cairn-mundo.info
-DJ cairn-int.info
 DJ cairn.info
+DJ cairn-int.info
+DJ cairn-mundo.info
+DJ cairn-sciences.info
 Find "redirect":"https:\/\/shs.cairn.info\/
 Replace "redirect":"https://^Sshs.cairn.info^/
+AnonymousURL -*
