@@ -3,6 +3,10 @@
 
 ## Some of OCLC's notes for this stanza
 
+&nbsp; Note:&nbsp;This stanza was supplied by CAS and verified by CAS, OCLC has not verified the stanzas functionality.
+
+
+
 This page describes how to configure EZproxy to work with the web-based versions of SciFinder and/or SciFinder-n.
 
 &nbsp; Note:&nbsp;If you provide access to both SciFinder and SciFinder-n, then two starting URL's will be needed on your institution's site. To set a starting URL on your institution's site to SciFinder-n, replace the full URL after the EZproxy prefix for your institution with the host line: https://scifinder-n.cas.org/.

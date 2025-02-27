@@ -1,27 +1,34 @@
-Option X-Forwarded-For
-Title SciFinder (updated 20241021)
 HTTPMethod PUT
-HTTPHeader x-cas*
+Option DomainCookieOnly
+Option X-Forwarded-For
+Title SciFinder (updated 20250226)
 HTTPHeader -request -process x-cas*
-HTTPHeader X-PatSnap-Version
-HTTPHeader X-API-Version
-HTTPHeader X-PatSnap-From
+HTTPHeader -request -process x-cas*
+HTTPHeader -request -process X-PatSnap-Version
+HTTPHeader -request -process X-API-Version
+HTTPHeader -request -process X-PatSnap-From
+HTTPHeader -request -process referer-id
 URL https://scifinder.cas.org/
 HJ chemport-n.cas.org
 HJ chemport.cas.org
 HJ content2.cas.org
-HJ formulus.cas.org
 HJ https://chemport-n.cas.org
 HJ https://chemport.cas.org
-HJ https://formulus.cas.org
 HJ https://methods.cas.org
 HJ https://origin-scifinder.cas.org
 HJ https://scifinder-n.cas.org
+HJ https://biofinder.cas.org
 HJ https://sso.cas.org
 HJ methods.cas.org
 HJ origin-scifinder.cas.org
 HJ scifinder-n.cas.org
 HJ scifinder.cas.org
+HJ biofinder.cas.org
 HJ sso.cas.org
 DJ cas.org
 Option NoX-Forwarded-For
+Option Cookie
+NeverProxy formulus.cas.org
+NeverProxy accounts.cas.org
+NeverProxy next.stn.org
+NeverProxy stn.org
