@@ -1,7 +1,11 @@
-Title Unebook (updated 20220324)
+Title Unebook (updated 20250228)
 URL https://lectura.unebook.es
 HJ https://lectura.unebook.es
 HJ https://www.unebook.es
 HJ lectura.unebook.es
 HJ www.unebook.es
 DJ unebook.es
+Find :"cdn-lectura.unebook.es"
+Replace :"^Scdn-lectura.unebook.es^"
+Find :"https://cdn-lectura.unebook.es
+Replace :"https://^Scdn-lectura.unebook.es^
