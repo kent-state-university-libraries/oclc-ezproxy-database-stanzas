@@ -1,4 +1,17 @@
-Title ACF Streaming Service (updated 20210511)
-URL https://streaming.acf-film.com/
-HJ streaming.acf-film.com
+Title ACF Streaming (updated 20250228)
+URL https://www.acf-film.com
+HJ https://www.acf-film.com
+HJ https://acf-film.com
+HJ https://digitalcampus.swankmp.net/
+HJ digitalcampus.swankmp.net/
+HJ https://www.swank.com
+HJ www.swank.com
 DJ acf-film.com
+DJ swankmp.net
+DJ swank.com
+NeverProxy dc.swankmp.net
+NeverProxy wvlsmod.swankmp.net
+NeverProxy fairplay.swankmp.net
+NerverProxy pr.swankmp.com
+NeverProxy dmzproddigcampuslrs002.blob.core.windows.net
+NeverProxy cdn.swankidc.com
