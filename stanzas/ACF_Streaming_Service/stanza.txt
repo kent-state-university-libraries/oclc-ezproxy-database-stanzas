@@ -12,6 +12,6 @@ DJ swank.com
 NeverProxy dc.swankmp.net
 NeverProxy wvlsmod.swankmp.net
 NeverProxy fairplay.swankmp.net
-NerverProxy pr.swankmp.com
+NeverProxy pr.swankmp.com
 NeverProxy dmzproddigcampuslrs002.blob.core.windows.net
 NeverProxy cdn.swankidc.com
