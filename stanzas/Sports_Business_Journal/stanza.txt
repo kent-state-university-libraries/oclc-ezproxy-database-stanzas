@@ -1,0 +1,11 @@
+AnonymousURL +https://api.sportsbusinessjournal.com/*
+Title Sports Business Journal (updated 20250302)
+URL https://www.sportsbusinessjournal.com
+HJ https://www.sportsbusinessjournal.com
+HJ www.sportsbusinessjournal.com
+HJ https://sportsbusinessjournal.com
+HJ sportsbusinessjournal.com
+HJ https://api.sportsbusinessjournal.com
+HJ api.sportsbusinessjournal.com
+DJ sportsbusinessjournal.com
+AnonymousURL  -*

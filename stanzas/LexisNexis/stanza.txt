@@ -3,7 +3,7 @@ AnonymousURL +https://static.law360news.com/*
 PHE www.lexisnexis.com$ www-lexisnexis-com
 PHE www.nexis.com$ www-nexis-com
 Option CookiePassThrough
-Title Lexis Nexis (updated 20250127)
+Title Lexis Nexis (updated 20250302)
 HTTPMethod PUT
 HTTPMethod DELETE
 HTTPMethod PATCH
@@ -37,6 +37,8 @@ HJ https://nexis.com
 HJ nexis.com
 HJ https://nexisuni.com
 HJ nexisuni.com
+HJ https://nexis.lexisnexis.com/
+HJ nexis.lexisnexis.com/
 HJ https://plus.lexis.com
 HJ plus.lexis.com
 HJ https://w3.lexis.com
