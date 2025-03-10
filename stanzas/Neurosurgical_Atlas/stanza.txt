@@ -1,12 +1,12 @@
 AnonymousURL +https://account.neurosurgicalatlas.com/api/*
-Title Neurosurgical Atlas (updated 20240118)
-URL https://www.neurosurgicalatlas.com
-HJ https://www.neurosurgicalatlas.com
-HJ www.neurosurgicalatlas.com
-HJ https://account.neurosurgicalatlas.com
+Title Neurosurgical Atlas (updated 20250303)
+HTTPHeader -request -process Access-Control-Allow-Origin
+URL https://www.neurosurgicalatlas.com/
 HJ account.neurosurgicalatlas.com
+HJ https://account.neurosurgicalatlas.com
 HJ https://neurosurgicalatlas.com
 HJ neurosurgicalatlas.com
+HJ www.neurosurgicalatlas.com
 DJ neurosurgicalatlas.com
 AnonymousURL -*
 NeverProxy www.atlasmeditech.com

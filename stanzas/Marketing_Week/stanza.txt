@@ -1,7 +1,12 @@
-Title Marketing Week (updated 20191126)
+Title Marketing Week (updated 20250304)
 URL https://www.marketingweek.com/
-HJ https://www.marketingweek.com
+HJ https://marketingweek.co.uk
 HJ https://marketingweek.com
-HJ www.marketingweek.com
+HJ https://www.marketingweek.co.uk
+HJ https://www.marketingweek.com
+HJ marketingweek.co.uk
 HJ marketingweek.com
+HJ www.marketingweek.co.uk
+HJ www.marketingweek.com
+DJ marketingweek.co.uk
 DJ marketingweek.com
