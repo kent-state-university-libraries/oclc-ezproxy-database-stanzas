@@ -1,7 +1,14 @@
 AnonymousURL +https://assets.globaldata.com/*.ttf*
 AnonymousURL +https://assets.globaldata.com/*.woff*
 AnonymousURL +https://assets.globaldata.com/*.woff2*
-Title GlobalData (updated 20250118)
+AnonymousURL +https://assets.hc.globaldata.com/*.ttf*
+AnonymousURL +https://assets.hc.globaldata.com/*.woff*
+AnonymousURL +https://assets.hc.globaldata.com/*.woff2*
+Title GlobalData (updated 20250314)
+HTTPHeader -process -request Tableau-Viz-Location
+HTTPHeader -process -request Tableau-Viz-Path
+HTTPHeader -process -request X-Requested-With
+HTTPHeader -process -request X-XSRF-TOKEN
 URL https://login.globaldata.com/login/iplogin
 HJ ads.globaldata.com
 HJ apparel.globaldata.com
