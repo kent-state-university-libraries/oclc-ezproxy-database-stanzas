@@ -1,23 +1,23 @@
 AnonymousURL +https://hsjy8pp8nr-1.algolianet.com/*
 AnonymousURL +https://hsjy8pp8nr-2.algolianet.com/*
 AnonymousURL +https://hsjy8pp8nr-3.algolianet.com/*
-Title Brief.science (20250123)
+Title Briefeco (updated 20250320)
 HTTPHeader -request -process HX-Current-URL
 HTTPHeader -request -process HX-Request
-HTTPHeader -request -process HX-Trigger
 HTTPHeader -request -process HX-Target
-HTTPHeader -request -process X-NewRelic-ID
+HTTPHeader -request -process HX-Trigger
 HTTPHeader -request -process newrelic
 HTTPHeader -request -process traceparent
 HTTPHeader -request -process tracestate
-URL https://www.brief.science
-HJ https://www.brief.science
-HJ https://app.brief.science
+HTTPHeader -request -process X-NewRelic-ID
+URL https://www.brief.eco
+HJ https://app.brief.eco
 HJ https://hsjy8pp8nr-1.algolianet.com
 HJ https://hsjy8pp8nr-2.algolianet.com
 HJ https://hsjy8pp8nr-3.algolianet.com
 HJ https://hsjy8pp8nr-dsn.algolia.net
-DJ brief.science
+HJ https://www.brief.eco
+DJ brief.eco
 Find concat(t,"-dsn.algolia.net
 Replace concat(t,"-dsn-algolia-net.^H
 Find concat(t,".algolia.net
