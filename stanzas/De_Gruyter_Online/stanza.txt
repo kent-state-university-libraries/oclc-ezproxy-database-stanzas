@@ -1,7 +1,7 @@
 AnonymousURL +https://wp.aow.degruyter.com/wp-content/*
-Title De Gruyter (updated 20241231)
+Title De Gruyter (updated 20250328)
 HTTPHeader -request -process X-Requested-With
-URL https://www.degruyter.com
+URL https://www.degruyterbrill.com
 HJ https://aow.degruyter.com
 HJ https://apikeys.civiccomputing.com
 HJ https://bdt.degruyter.com
@@ -12,6 +12,7 @@ HJ https://cornellup.degruyter.com/
 HJ https://db.degruyter.com
 HJ https://db.saur.de
 HJ https://degruyter.com
+HJ https://degruyterbrill.com
 HJ https://hup.degruyter.com/
 HJ https://mco.degruyter.com/
 HJ https://penn.degruyter.com/
@@ -24,6 +25,7 @@ HJ https://wbis.degruyter.com
 HJ https://wp.aow.degruyter.com/
 HJ https://www.degruyter.com
 HJ https://www.degruyter.de
+HJ https://www.degruyterbrill.com
 HJ https://www.pschyrembel.de
 HJ https://www.rgz-rgst.degruyter.de
 HJ https://yaleup.degruyter.com/
@@ -38,8 +40,9 @@ HJ db.degruyter.com
 HJ db.saur.de
 HJ degruyter.com
 HJ degruyter.de
+HJ degruyterbrill.com
 HJ hup.degruyter.com
-HJ mco.degruyter.com/
+HJ mco.degruyter.com
 HJ princetonup.degruyter.com
 HJ penn.degruyter.com
 HJ rutgers.degruyter.com
@@ -50,11 +53,13 @@ HJ wbis.degruyter.com
 HJ wp.aow.degruyter.com/
 HJ www.degruyter.com
 HJ www.degruyter.de
+HJ www.degruyterbrill.com
 HJ www.rgz-rgst.degruyter.de
 HJ www.pschyrembel.de
 HJ yaleup.degruyter.com
 DJ civiccomputing.com
 DJ degruyter.com
+DJ degruyterbrill.com
 DJ pschyrembel.de
 DJ saur.de
 Find encodeURIComponent(document.location.hostname)
