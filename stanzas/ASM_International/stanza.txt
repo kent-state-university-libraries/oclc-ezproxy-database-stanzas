@@ -1,12 +1,18 @@
-T ASM International (updated 20220621)
-U https://dl.asminternational.org/
-HJ amp.asminternational.org
-HJ asminternational.org
-HJ dl.asminternational.org
-HJ https://amp.asminternational.org
+Title ASM International (20250331)
+URL https://dl.asminternational.org
 HJ https://dl.asminternational.org
+HJ https://amp.asminternational.org
+HJ https://api.mpds.io
+HJ https://asm.mpds.io
+HJ https://asminternational.org
 HJ https://matdata.asminternational.org
 HJ https://www.asminternational.org
+HJ dl.asminternational.org
+HJ amp.asminternational.org
+HJ asm.mpds.io
+HJ api.mpds.io
+HJ asminternational.org
 HJ matdata.asminternational.org
 HJ www.asminternational.org
 DJ asminternational.org
+DJ mpds.io

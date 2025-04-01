@@ -1,8 +1,14 @@
-Title Heritage Broadcasting Service (updated 20240221)
-Url https://www.uscreen-sso.com
-HJ https://www.uscreen-sso.com
-HJ http://www.uscreen-sso.com
+HTTPMethod OPTIONS
+AnonymousURL -Options +https://www.uscreen.io/*
+AnonymousURL +https://www.uscreen.io/*
+AnonymousURL +https://api.ipify.org/?format=json
+Title Heritage Broadcasting Service (updated 20250331)
+URL https://heritagetac.org
 HJ https://heritagetac.org
-HJ http://heritagetac.org
+HJ heritagetac.org
+HJ https://api.ipify.org
+HJ api.ipify.org
+HJ https://www.uscreen.io
+HJ www.uscreen.io
 DJ heritagetac.org
-DJ uscreen-sso.com
+AnonymousURL -*

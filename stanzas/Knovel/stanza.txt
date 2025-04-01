@@ -1,4 +1,4 @@
-T Knovel (updated 20220509)
+Title Knovel (updated 20250331)
 URL https://app.knovel.com/kn
 HJ http://app.knovel.com
 HJ https://app.knovel.com
@@ -6,6 +6,7 @@ HJ https://www.knovel.com
 HJ app.knovel.com
 DJ knovel.com
 NeverProxy content.knovel.com
+NeverProxy public.knovel.com
 
 Title -hide Elsevier Identity
 URL https://id.elsevier.com

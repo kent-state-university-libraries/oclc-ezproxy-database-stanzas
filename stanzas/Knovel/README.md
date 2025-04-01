@@ -1,5 +1,5 @@
 # Knovel
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Knovel](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Knovel) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Knovel](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Knovel) **
 
 ## Some of OCLC's notes for this stanza
 

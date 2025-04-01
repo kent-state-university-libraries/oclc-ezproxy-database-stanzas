@@ -1,4 +1,5 @@
-Title Proceedings of the National Academy of Sciences (updated 20241009)
+Cookie theproxy=ezproxy; domain=.pnas.org
+Title Proceedings of the National Academy of Sciences (updated 20250331)
 URL http://www.pnas.org
 HJ https://pnas-prod.literatumonline.com
 HJ anthropology.pnas.org
@@ -8,16 +9,15 @@ HJ https://anthropology.pnas.org
 HJ https://chemistry.pnas.org
 HJ https://frontmatter.pnas.org
 HJ https://physics.pnas.org
-HJ https://pnas.scienceconnect.io
 HJ https://sustainability.pnas.org
 HJ https://teachingresources.pnas.org
 HJ https://www.pnas.org
 HJ intl.pnas.org
 HJ physics.pnas.org
 HJ pnas.org
-HJ pnas.scienceconnect.io
 HJ sustainability.pnas.org
 HJ teachingresources.pnas.org
 DJ pnas.org
 DJ pnas-prod.literatumonline.com
 DJ literatumonline.com
+NeverProxy pnas.scienceconnect.io

@@ -1,12 +1,10 @@
-Title CABI Resources (updated 20241110)
+Title CABI Resources (updated 20250331)
 HTTPHeader -request -process AF_TOKEN
 HTTPHeader -request -process authToken
 HTTPHeader -request -process CONNECT_APP
 URL https://www.cabi.org/
 HJ cabi.org
-HJ cabi.scienceconnect.io
 HJ https://cabi.org
-HJ https://cabi.scienceconnect.io
 HJ https://www.cabi.org
 HJ www.cabi.org
 DJ cabi.org
@@ -25,3 +23,4 @@ HJ tourism.cabi.org
 HJ www.cabidigitallibrary.org
 DJ cabidigitallibrary.org
 Option Cookie
+NeverProxy cabi.scienceconnect.io

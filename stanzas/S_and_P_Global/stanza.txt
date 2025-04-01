@@ -2,7 +2,8 @@ Option CookiePassThrough
 AnonymousURL -Options +https://qt-iag-ciqplus.capitaliq.com/*
 AnonymousURL -Options +https://charting.capitaliq.com/*
 AnonymousURL -Options +https://iag-ciqplus.capitaliq.com/*
-T S&P Global (added 20231213)
+AnonymousURL +https://logging.capitaliq.com/*
+Title S&P Global (added 20250331)
 HTTPHeader -request -process X-CSRF-Token
 HTTPHeader -request -process com-gmi-*
 HTTPHeader -request -process SNL-*
