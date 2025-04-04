@@ -1,4 +1,4 @@
-Title Dalloz (20240916)
+Title Dalloz (updated 20250403)
 HTTPHeader -request -process Book-Authorization
 HTTPHeader -request -process Accept-Encoding
 MimeFilter application/json .* javascript
@@ -51,3 +51,4 @@ Find https:\/\/
 Replace https://
 Find "http:\/\/www.dalloz.fr\/
 Replace "http:\/\/^pwww.dalloz.fr^\/
+NeverProxy cf-statics.jurisprudence.lefebvre-dalloz.fr

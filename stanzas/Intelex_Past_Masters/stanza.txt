@@ -1,8 +1,14 @@
-Title InteLex Past Masters
-URL http://pm.nlx.com
-H crkn.nlx.com
-H library.nlx.com
-H nlx.com
-H trial.nlx.com
-H www.nlx.com
-D nlx.com
+Title InteLex Past Masters (updated 20250401)
+URL https://pm.nlx.com/
+HJ crkn.nlx.com
+HJ https://crkn.nlx.com
+HJ https://library.nlx.com
+HJ https://nlx.com
+HJ https://trial.nlx.com
+HJ https://www.nlx.com
+HJ library.nlx.com
+HJ nlx.com
+HJ pm.nlx.com
+HJ trial.nlx.com
+HJ www.nlx.com
+DJ nlx.com
