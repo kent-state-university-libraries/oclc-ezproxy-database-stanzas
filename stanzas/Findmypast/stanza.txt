@@ -1,9 +1,9 @@
 Option CookiePassThrough
 AnonymousURL +https://snowplow-collector.findmypast.com/*
 AnonymousURL -Options +https://www.findmypast.com/titan/marshal/*
-Title Findmypast US (updated 20250331)
+Title Findmypast US (updated 20250408)
 HTTPHeader -request -process X-IS-EZproxy
-URL https://www.thesocialhistoryarchive.com
+URL https://www.findmypast.com
 HJ https://www.findmypast.com
 HJ http://www.findmypast.com
 HJ https://findmypast.com
@@ -15,7 +15,7 @@ Option Cookie
 Option CookiePassThrough
 AnonymousURL +https://snowplow-collector.findmypast.co.uk/*
 AnonymousURL -Options +https://www.findmypast.com.au/titan/marshal/*
-Title Findmypast AU (updated 20250331)
+Title Findmypast AU (updated 20250404)
 HTTPHeader -request -process X-IS-EZproxy
 URL https://www.findmypast.com.au
 HJ https://www.findmypast.com.au
@@ -29,7 +29,7 @@ Option Cookie
 Option CookiePassThrough
 AnonymousURL +https://snowplow-collector.findmypast.co.uk/*
 AnonymousURL -Options +https://www.findmypast.ie/titan/marshal/*
-Title Findmypast IE (updated 20250331)
+Title Findmypast IE (updated 20250404)
 HTTPHeader -request -process X-IS-EZproxy
 URL https://www.findmypast.ie
 HJ https://www.findmypast.ie
