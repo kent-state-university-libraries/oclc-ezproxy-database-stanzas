@@ -1,4 +1,6 @@
-Title Physical Society of Japan (updated 20191113)
+Title Physical Society of Japan (updated 20250414)
 URL https://journals.jps.jp/
+HJ https://jps.scienceconnect.io
 HJ journals.jps.jp
+HJ jps.scienceconnect.io
 DJ jps.jp
