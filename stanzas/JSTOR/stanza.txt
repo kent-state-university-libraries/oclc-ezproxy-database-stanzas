@@ -1,9 +1,11 @@
 #This stanza is required to resolve the Cookie Banner popup solution IncludeFile databases/cookielaw.txt
+
+Option Cookie
 HTTPMethod PUT
 HTTPMethod PATCH
 HTTPMethod OPTIONS
 HTTPMethod DELETE
-Title JSTOR (updated 20221013)
+Title JSTOR (updated 20250421)
 HTTPHeader -request -process X-Requested-With
 URL http://www.jstor.org/
 HJ https://www.jstor.org
@@ -27,12 +29,15 @@ HJ https://about.jstor.org
 HJ https://plants.jstor.org
 HJ https://uk.jstor.org
 DJ jstor.org
+Option Cookie
 
-HTTPHeader -request -process X-Requested-With
+Option Cookie
 Title JSTOR Aluka
+HTTPHeader -request -process X-Requested-With
 URL http://www.aluka.org/
 HJ https://www.aluka.org
 HJ www.aluka.org
 HJ aluka.org
 HJ https://aluka.org
 DJ aluka.org
+Option Cookie

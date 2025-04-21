@@ -1,7 +1,11 @@
 # JSTOR
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JSTOR](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JSTOR) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JSTOR](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JSTOR) **
 
 ## Some of OCLC's notes for this stanza
+
+&nbsp; Note: The JSTOR stanza requires default EZproxy cookie handling.
+
+Do not include any other cookie handling directive with this stanza. Other cookie handling directives include:
 
 &nbsp; Note:&nbsp;EZproxy stand-alone users, please add the CookieLaw stanza above the JSTOR stanza to resolve the Cookie Banner pop-up issue.
 

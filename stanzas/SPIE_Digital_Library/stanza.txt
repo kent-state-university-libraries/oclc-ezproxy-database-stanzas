@@ -1,7 +1,12 @@
-Title SPIE Digital Library
+Title SPIE Digital Library (updated 20250421)
 URL https://www.spiedigitallibrary.org
+HJ https://www.spiedigitallibrary.org
 HJ www.spiedigitallibrary.org
+HJ https://datacoll.spie.org
 HJ datacoll.spie.org
+HJ https://login.spie.org
 HJ login.spie.org
+HJ https://oauth.spie.org
+HJ oauth.spie.org
 DJ spiedigitallibrary.org
 DJ spie.org

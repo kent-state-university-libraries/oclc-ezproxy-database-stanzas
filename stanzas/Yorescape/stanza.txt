@@ -1,0 +1,15 @@
+HTTPMethod OPTIONS
+AnonymousURL -OPTIONS +https://api.flyoverzone.com/
+AnonymousURL +https://api.flyoverzone.com/
+Title Yorescape (updated 20250417)
+HTTPHeader -request -process guid
+URL https://yorescape.com/
+HJ https://api.flyoverzone.com
+HJ api.flyoverzone.com
+DJ api.flyoverzone.com
+Find api.flyoverzone.com
+Replace ^sapi.flyoverzone.com^
+AnonymousURL -*
+NeverProxy firebasedynamiclinks.googleapis.com/
+NeverProxy d753e4ee-9b83-494f-b80a-707ad892989a.client-api.unity3dusercontent.com/
+NeverProxy 32874.playfabapi.com/

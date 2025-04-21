@@ -1,15 +1,33 @@
-Title EIU Viewpoint (updated 20210617)
+AnonymousURL +https://www.eiu.com/assets/*
+Title EIU Viewpoint (updated 20250414)
 URL https://viewpoint.eiu.com
-H https://viewpoint.eiu.com
+HJ https://viewpoint.eiu.com
+HJ viewpoint.eiu.com
 HJ https://portal.eiu.com
-HJ country.eiu.com
 HJ portal.eiu.com
+HJ https://country.eiu.com
+HJ country.eiu.com
+HJ https://search.eiu.com
 HJ search.eiu.com
+HJ https://data.eiu.com
 HJ data.eiu.com
+HJ https://graphics.eiu.com
 HJ graphics.eiu.com
+HJ https://gfs.eiu.com
 HJ gfs.eiu.com
+HJ https://pages.eiu.com
 HJ pages.eiu.com
+HJ https://service.eiu.com
 HJ service.eiu.com
+HJ https://viewswire.eiu.com
+HJ viewswire.eiu.com
+HJ https://intelligence.eiu.com
+HJ intelligence.eiu.com
 HJ https://eiu.com
+HJ https://eiu.brightspotcdn.com
+HJ eiu.brightspotcdn.com
+HJ https://www.eiu.com
+HJ www.eiu.com
 DJ eiu.com
+AnonymousURL -*
 NeverProxy https://cdn.design-system.economist.com
