@@ -1,0 +1,22 @@
+# When using ieeedigitallibrary.txt together with ieee.txt,
+# make sure ieee.txt is before ieeedigitallibrary.txt in config.txt
+
+AnonymousURL +https://application.ieeecomputer.org/csdl-website/production/*js
+AnonymousURL +https://application.ieeecomputer.org/csdl-search/production/*js
+Title IEEE Computer Society Digital Library Secure (updated 20250427)
+HTTPHeader -request -process Access-Control-Allow-Origin
+URL https://www.computer.org/
+HJ www.computer.org
+HJ csdl.computer.org
+HJ search.computer.org
+HJ ieeecomputersociety.org
+HJ doi.ieeecomputersociety.org
+HJ publications.computer.org
+HJ https://d20lqhyll7kadk.cloudfront.net
+HJ https://doi.ieeecomputersociety.org
+HJ https://publications.computer.org
+HJ https://application.ieeecomputer.org
+HJ application.ieeecomputer.org
+DJ ieeecomputer.org
+DJ computer.org
+AnonymousURL -*
