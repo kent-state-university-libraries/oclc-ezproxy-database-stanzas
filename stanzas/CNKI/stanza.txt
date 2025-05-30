@@ -1,11 +1,16 @@
 Option CookiePassThrough
 AnonymousURL +https://o.oversea.cnki.net/EcpApi_oversea/OLoginApi/IpLogin*
-AnonymousURL +https://o.oversea.cnki.net/ecpoversea/EcpApi_oversea/OLoginApi/IpLogin*
-AnonymousURL +https://o.oversea.cnki.net/ecpoversea/EcpApi_oversea/OLoginApi/IpLoginFlush*
-AnonymousURL +https://oversea.cnki.net/restapi/*
-AnonymousURL +https://recsys.oversea.cnki.net/RCDService/api/UserDataCenter/*
+AnonymousURL +https://o.oversea.cnki.net/ecpoversea/EcpApi_oversea/OLoginApi/*
 AnonymousURL +https://recsys.oversea.cnki.net/RCDService/api/UtilityOpenApi/*
-Title CNKI Main Page (updated 20240716)
+AnonymousURL +https://recsys.oversea.cnki.net/RCDService/api/UserDataCenter/*
+AnonymousURL +https://recsys.oversea.cnki.net/icnkiService/api/Biz/*
+AnonymousURL +https://kbsi.oversea.cnki.net/*
+AnonymousURL +https://oversea.cnki.net/restapi/*
+AnonymousURL +https://oversea.cnki.net/restapi/luban/*
+AnonymousURL +https://o.oversea.cnki.net/EcpAuth/Token/create_by_idenId*
+AnonymousURL +https://o.oversea.cnki.net/EcpOversea/EcpApi_OverSea/OUserInfo/receive_user_pack_right*
+AnonymousURL +https://o.oversea.cnki.net/EcpOversea/EcpApi_OverSea/OUserInfo/get_user_common_Info*
+Title CNKI Main Page (updated 20250430)
 HTTPHeader -response -edit location RewriteURL(REReplace("!https%3a%2f%2fo\.oversea\.cnki.\net!g", RewriteURL("https://o.oversea.cnki.net"), hh:value))
 HTTPHeader -request -process Appid
 HTTPHeader -request -process Clientid
@@ -16,9 +21,11 @@ URL https://oversea.cnki.net
 HJ aismart.oversea.cnki.net
 HJ ar.oversea.cnki.net
 HJ book.oversea.cnki.net
+HJ cajn.cnki.net
 HJ chn.oversea.cnki.net
 HJ cn.oversea.cnki.net
 HJ data.oversea.cnki.net
+HJ dysw.cnki.net
 HJ en.oversea.cnki.net
 HJ gongjushu.oversea.cnki.net
 HJ hd.oversea.cnki.net
@@ -30,24 +37,31 @@ HJ https://chn.oversea.cnki.net
 HJ https://cn.oversea.cnki.net
 HJ https://data.oversea.cnki.net
 HJ https://en.oversea.cnki.net
+HJ https://dysw.cnki.net
 HJ https://gongjushu.oversea.cnki.net
 HJ https://hd.oversea.cnki.net
 HJ https://kbsi.oversea.cnki.net
 HJ https://law.oversea.cnki.net
 HJ https://npcd.oversea.cnki.net
 HJ https://o.oversea.cnki.net
+HJ https://oi.cnki.net
 HJ https://oversea.cnki.net
+HJ https://ste.cnki.net
 HJ https://t.oversea.cnki.net
 HJ https://tra.oversea.cnki.net
+HJ https://web02.cnki.net
 HJ https://zhengbao.oversea.cnki.net
 HJ kbsi.oversea.cnki.net
 HJ law.oversea.cnki.net
 HJ npcd.oversea.cnki.net
 HJ o.oversea.cnki.net
+HJ oi.cnki.net
 HJ oversea.cnki.net
+HJ ste.cnki.net
 HJ t.oversea.cnki.net
 HJ tcm.oversea.cnki.net
 HJ tra.oversea.cnki.net
+HJ web02.cnki.net
 HJ zhengbao.oversea.cnki.net
 DJ cnki.net
 Find src='//o.oversea.cnki.net

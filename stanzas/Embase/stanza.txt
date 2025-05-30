@@ -1,0 +1,11 @@
+HTTPMethod PUT
+HTTPMethod DELETE
+Title Embase (updated 20250530)
+URL https://www.embase.com
+HJ embase.com
+HJ https://embase.com
+HJ https://www.embase.com
+HJ www.embase.com
+DJ embase.com
+HJ acw.elsevier.com
+NeverProxy static.embase.com

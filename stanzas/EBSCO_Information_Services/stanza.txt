@@ -10,15 +10,15 @@ AddUserHeader -base64 X-EBSCO-PROXY-Username
 Option MetaEZproxyRewriting
 AnonymousURL https://ppws.ebsco-content.com/*
 AnonymousURL +https://apis.ebsco.com/public/*
-Title EBSCOhost (updated 20250118)
+Title EBSCOhost (updated 20250530)
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process OPAQUE-TOKEN
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process X-EIS-FEATURE-FLAG
 HTTPHeader -request -process X-EIS-STSTOKEN
 URL https://search.ebscohost.com/login.aspx
-HJ  https://apis.ebsco.com
-HJ  apis.ebsco.com
+HJ https://apis.ebsco.com
+HJ apis.ebsco.com
 HJ https://connection.ebscohost.com
 HJ connection.ebscohost.com
 HJ https://discovery.ebsco.com
@@ -69,6 +69,8 @@ HJ https://research.ebsco.com
 HJ research.ebsco.com
 HJ https://resolver.ebscohost.com
 HJ resolver.ebscohost.com
+HJ https://resolver.ebsco.com
+HJ resolver.ebsco.com
 HJ https://search.ebscohost.com
 HJ search.ebscohost.com
 HJ https://search.epnet.com
@@ -121,6 +123,7 @@ DJ logon.ebsco.zone
 DJ netlibrary.com
 DJ ppws.ebsco-content.com
 DJ publications.ebsco.com
+DJ resolver.ebsco.com
 DJ research.ebsco.com
 DJ smartimagebase.com
 DJ teacherreference.com
@@ -138,18 +141,19 @@ AnonymousURL -*
 Option NoMetaEZproxyRewriting
 NeverProxy *.eoncontent.ebscohost.com
 NeverProxy *.footnotelibrary.com
+NeverProxy *.locate.ebsco.com
 NeverProxy app.rs.ebscohost.com
 NeverProxy app-na.readspeaker.com
 NeverProxy auth.ebsco.zone
 NeverProxy connect.ebsco.com
 NeverProxy content.ebscohost.com
+NeverProxy *.ebsco-assets.com
 NeverProxy ebscovideos.ebscohost.com
 NeverProxy epmedia.ebscohost.com
 NeverProxy imageserver.ebscohost.com
 NeverProxy imagesrvr.epnet.com
 NeverProxy ivotts.rs.ebscohost.com
 NeverProxy kg.ebscohost.com
-NeverProxy *.locate.ebsco.com
 NeverProxy login.ebsco.com
 NeverProxy media.rs.ebscohost.com
 NeverProxy neverproxy.ebsco.com

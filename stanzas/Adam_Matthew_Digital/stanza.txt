@@ -1,12 +1,14 @@
 Option CookiePassThrough
 AnonymousURL -OPTIONS +https://*.quartexcollections.com*
-Title Adam Matthew Digital (updated 20250427)
+Title Adam Matthew Digital (updated 20250530)
 HTTPHeader -request -process quartex-additionalauth
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://1980scultureandsociety.amdigital.co.uk
 HJ https://broadcastingamerica.amdigital.co.uk
+HJ https://resources.amdigital.co.uk
 HJ https://royalshakespearecompanyarchives.amdigital.co.uk
+HJ https://theolympicmovement.amdigital.co.uk
 HJ https://www.18thcjournals.amdigital.co.uk
 HJ https://www.1980scultureandsociety.amdigital.co.uk
 HJ https://www.aac.amdigital.co.uk
@@ -22,8 +24,8 @@ HJ https://www.americanconsumerculture.amdigital.co.uk
 HJ https://www.americanhistory.amdigital.co.uk
 HJ https://www.americanindiannewspapers.amdigital.co.uk
 HJ https://www.americanwest.amdigital.co.uk
-HJ https://www.amnestyinternationalhumanrights.amdigital.co.uk
 HJ https://www.amexplorer.amdigital.co.uk
+HJ https://www.amnestyinternationalhumanrights.amdigital.co.uk
 HJ https://www.amresearchmethods.amdigital.co.uk
 HJ https://www.amresearchskills.amdigital.co.uk
 HJ https://www.amscholar.amdigital.co.uk
@@ -57,8 +59,8 @@ HJ https://www.everydaylife.amdigital.co.uk
 HJ https://www.exploration.amdigital.co.uk
 HJ https://www.firstworldwar.amdigital.co.uk
 HJ https://www.foodanddrink.amdigital.co.uk
-HJ https://www.foreignofficefileschina.amdigital.co.uk
 HJ https://www.foreignofficeconsulatelegationchina.amdigital.co.uk
+HJ https://www.foreignofficefileschina.amdigital.co.uk
 HJ https://www.foreignofficefilesindia.amdigital.co.uk
 HJ https://www.foreignofficefilesjapan.amdigital.co.uk
 HJ https://www.foreignofficefilesmiddleeast.amdigital.co.uk
@@ -68,11 +70,13 @@ HJ https://www.gender.amdigital.co.uk
 HJ https://www.genderidentityandsocialchange.amdigital.co.uk
 HJ https://www.gildedage.amdigital.co.uk
 HJ https://www.globalcommodities.amdigital.co.uk
+HJ https://www.globalhistoryofepidemics.amdigital.co.uk
 HJ https://www.grandtour.amdigital.co.uk
 HJ https://www.hindicinema.amdigital.co.uk
 HJ https://www.indiaraj.amdigital.co.uk
-HJ https://www.indigenousnewspapersinnorthamerica.amdigital.co.uk
+HJ https://www.indigenoushistoriesandcultures.amdigital.co.uk
 HJ https://www.indigenoushistoriesandculturesinnorthamerica.amdigital.co.uk
+HJ https://www.indigenousnewspapersinnorthamerica.amdigital.co.uk
 HJ https://www.interwarculture.amdigital.co.uk
 HJ https://www.jewishlife.amdigital.co.uk
 HJ https://www.jwtadvertisingamerica.amdigital.co.uk
@@ -123,8 +127,6 @@ HJ https://www.virginiacompanyarchives.amdigital.co.uk
 HJ https://www.womeninthenationalarchives.amdigital.co.uk
 HJ https://www.womensvoicesandlifewriting.amdigital.co.uk
 HJ https://www.worldsfairs.amdigital.co.uk
-HJ https://www.indigenoushistoriesandcultures.amdigital.co.uk
-HJ https://theolympicmovement.amdigital.co.uk
 HJ resources.amdigital.co.uk
 HJ royalshakespearecompanyarchives.amdigital.co.uk
 HJ theolympicmovement.amdigital.co.uk
@@ -139,16 +141,18 @@ HJ www.archivesdirect.amdigital.co.uk
 HJ www.broadcastingamerica.amdigital.co.uk
 HJ www.empire.amdigital.co.uk
 HJ www.grandtour.amdigital.co.uk
+HJ www.indigenoushistoriesandcultures.amdigital.co.uk
 HJ www.login.amdigital.co.uk
 HJ www.medievalfamilylife.amdigital.co.uk
 HJ www.migration.amdigital.co.uk
-HJ www.theolympicmovement.amdigital.co.uk
 HJ www.royalshakespearecompanyarchives.amdigital.co.uk
 HJ www.slavery.amdigital.co.uk
+HJ www.theolympicmovement.amdigital.co.uk
 HJ www.travelwriting.amdigital.co.uk
-HJ www.indigenoushistoriesandcultures.amdigital.co.uk
 DJ amdigital.co.uk
 DJ quartexcollections.com
+Find https:\/\/resources.amdigital.co.uk\/
+Replace https://^sresources.amdigital.co.uk^/
 Find http://"+getPrefix()+".massobservation.amdigital.co.uk
 Replace http://"+getPrefix()+".^Pmassobservation.amdigital.co.uk^
 AnonymousURL -*

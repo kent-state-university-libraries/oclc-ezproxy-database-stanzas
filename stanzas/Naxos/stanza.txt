@@ -1,4 +1,4 @@
-Title Naxos Music Library (updated 20211026)
+Title Naxos Music Library (updated 20250530)
 URL https://[siteID].naxosmusiclibrary.com
 HJ [siteID].naxosmusiclibrary.com
 HJ [siteID].nml3.naxosmusiclibrary.com
@@ -7,10 +7,17 @@ HJ https://[siteID].nml3.naxosmusiclibrary.com
 HJ https://www.nml3.naxosmusiclibrary.com
 HJ www.nml3.naxosmusiclibrary.com
 DJ naxosmusiclibrary.com
-DJ www.naxosmusiclibrary.com
-NeverProxy cdn.naxosmusiclibrary.com
+## Naxos Music Library Images CDN Location
 NeverProxy cdn.naxos.com
+NeverProxy cdn.naxosmusiclibrary.com
+NeverProxy cdn2.naxos.com
+NeverProxy cdn2.naxosmusiclibrary.com
+## Naxos Music Library Audio CDN Location
 NeverProxy audiostream.naxosmusiclibrary.com
+NeverProxy audiostream2.naxosmusiclibrary.com
+NeverProxy videostream.naxosmusiclibrary.com
+NeverProxy videostream2.naxosmusiclibrary.com
+## Naxos Music Library Aux Audio CDN Location
 NeverProxy cp82361.edgefcs.net
 
 
@@ -19,35 +26,49 @@ URL https://[siteID].naxosspokenwordlibrary.com
 HJ [siteID].naxosspokenwordlibrary.com
 HJ https://[siteID].naxosspokenwordlibrary.com
 DJ naxosspokenwordlibrary.com
-DJ www.naxosspokenwordlibrary.com
-NeverProxy cdn.naxosspokenwordlibrary.com
-NeverProxy cdn.naxos.com
 NeverProxy audiostream.naxosspokenwordlibrary.com
+NeverProxy audiostream2.naxosspokenwordlibrary.com
+NeverProxy cdn.naxos.com
+NeverProxy cdn.naxosspokenwordlibrary.com
+NeverProxy cdn2.naxos.com
+NeverProxy cdn2.naxosspokenwordlibrary.com
 NeverProxy cp82361.edgefcs.net
+NeverProxy videostream.naxosspokenwordlibrary.com
+NeverProxy videostream2.naxosspokenwordlibrary.com
 
 
-Title Naxos Video Library
+Title Naxos VideoLibrary
 URL https://[siteID].naxosvideolibrary.com
 HJ [siteID].naxosvideolibrary.com
 HJ https://[siteID].naxosvideolibrary.com
+HJ https://www.naxosvideolibrary.com
+HJ www.naxosvideolibrary.com
 DJ naxosvideolibrary.com
-DJ www.naxosvideolibrary.com
+NeverProxy 80audiostream.naxosmusiclibrary.com
+NeverProxy audiostream.naxosmusiclibrary.com
+NeverProxy cdn.naxos.com
+NeverProxy cdn.naxosmusiclibrary.com
+NeverProxy cdn.naxosvideolibrary.com
+NeverProxy cdn2.naxos.com
+NeverProxy cp82361.edgefcs.net
+NeverProxy videostream-api.naxosvideolibrary.com
+NeverProxy videostream.naxosmusiclibrary.com
+NeverProxy videostream.naxosvideolibrary.com
+NeverProxy videostream2.naxosvideolibrary.com
+Find setTimeout("window.close();",1000);
+Replace setTimeout("window.close();",10000);
 AnonymousURL +/NVL_
 AnonymousURL +.wm
 AnonymousURL +.wma
 AnonymousURL +/stream_play.asp?
 AnonymousURL +/stream_play_mac.asp?
-Find setTimeout("window.close();",1000);
-Replace setTimeout("window.close();",10000);
 AnonymousURL -*
 
 
 Title Naxos Works Database
-URL https://[siteID].naxosworks.com
+U https://[siteID].naxosworks.com
 HJ [siteID].naxosworks.com
 HJ https://[siteID].naxosworks.com
 DJ naxosworks.com
-DJ www.naxosworks.com
 Find setTimeout("window.close();",1000);
 Replace setTimeout("window.close();",10000);
-AnonymousURL -*
