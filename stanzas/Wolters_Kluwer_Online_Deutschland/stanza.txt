@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title WoltersKluwer Online (updated 20220510)
+Title WoltersKluwer Online (updated 20250602)
 HTTPMethod DELETE
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process X-GWT-*
@@ -8,8 +8,9 @@ HTTPHeader -request -process X-CPID
 HTTPHeader -request -process productId
 HTTPHeader -request -process Tenant
 HTTPHeader -request -process ClientInfo.ClientId
+HTTPHeader -request -process X-CSRF-Token
 MimeFilter application/json .* javascript
-U https://research.wolterskluwer-online.de/
+URL https://research.wolterskluwer-online.de/
 HJ https://shop.wolterskluwer-online.de
 HJ https://login.wolterskluwer.eu
 HJ cdn.polyfill.io

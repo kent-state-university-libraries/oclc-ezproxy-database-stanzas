@@ -3,16 +3,19 @@ AnonymousURL +https://snowplow-collector.thesocialhistoryarchive.com/*
 AnonymousURL -Options +https://www.thesocialhistoryarchive.com/titan/marshal/*
 AnonymousURL +https://snowplow-collector.findmypast.co.uk*
 AnonymousURL +https://www.findmypast.co.uk/titan/marshal/*
-Title The Social History Archive (updated 20241027)
+Title The Social History Archive (updated 202500602)
 HTTPHeader -request -process X-IS-EZproxy
 URL https://www.thesocialhistoryarchive.com/whodis/auth/ip-login
 HJ https://www.findmypast.co.uk
-HJ http://www.thesocialhistoryarchive.com
-HJ http://www.findmypast.co.uk
-HJ https://thesocialhistoryarchive.com
 HJ https://findmypast.co.uk
-HJ http://thesocialhistoryarchive.com
-HJ http://findmypast.co.uk
+HJ https://search.thesocialhistoryarchive.com
+HJ https://thesocialhistoryarchive.com
+HJ https://www.thesocialhistoryarchive.com
+HJ www.thesocialhistoryarchive.com
+HJ search.thesocialhistoryarchive.com
+HJ www.findmypast.co.uk
+HJ findmypast.co.uk
+HJ thesocialhistoryarchive.com
 DJ thesocialhistoryarchive.com
 DJ findmypast.co.uk
 AnonymousURL -*

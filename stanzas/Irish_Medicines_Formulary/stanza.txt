@@ -1,0 +1,5 @@
+Title Irish Medicines Formulary (updated 20250602)
+URL https://online.imfmedia.ie/Ezproxy/
+HJ https://online.imfmedia.ie/Ezproxy/
+HJ online.imfmedia.ie
+DJ imfmedia.ie/

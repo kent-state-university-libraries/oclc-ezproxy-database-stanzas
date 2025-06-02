@@ -2,7 +2,7 @@ HTTPMethod PATCH
 Option CookiePassThrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
-Title Web of Science (Formerly Web of Knowledge) (updated 20230809)
+Title Web of Science (formerly Web of Knowledge) (updated 20250602)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process AWSEnv
@@ -14,13 +14,9 @@ HTTPHeader -request -process _abck
 URL http://www.webofscience.com
 HJ https://gateway.webofknowledge.com
 HJ https://images.webofknowledge.com
-HJ https://isiknowledge.com
-HJ https://www.isiknowledge.com
-HJ https://login.webofknowledge.com
 HJ https://www.researcherid.com
 HJ http://snowplow.apps.clarivate.com
 HJ https://snowplow.apps.clarivate.com
-HJ https://rss.webofknowledge.com
 HJ https://usagereports.webofscience.com
 HJ https://webofknowledge.com
 HJ https://www.webofknowledge.com
@@ -28,14 +24,11 @@ HJ https://www.webofscience.com
 HJ https://webofscience.com
 HJ gateway.webofknowledge.com
 HJ images.webofknowledge.com
-HJ isiknowledge.com
-HJ www.isiknowledge.com
 HJ usagereports.webofscience.com
 HJ webofknowledge.com
 HJ www.webofknowledge.com
 HJ webofscience.com
 HJ www.webofscience.com
-DJ isiknowledge.com
 DJ researcherid.com
 DJ webofscience.com
 DJ webofknowledge.com
@@ -55,7 +48,5 @@ Find noprox href="https://
 Replace noprox href="https://^A
 Find noprox src="https://
 Replace noprox src="https://^A
-Find access.clarivate.com
-Replace ^saccess.clarivate.com^
 AnonymousURL -*
 Option Cookie

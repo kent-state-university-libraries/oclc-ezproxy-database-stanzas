@@ -1,0 +1,11 @@
+Title Center for Research Libraries (updated 20250602)
+URL https://www.crl.edu
+HJ https://www.crl.edu/
+HJ https://catalog.crl.edu
+HJ https://dds.crl.edu
+HJ https://digitalcollections.crl.edu
+HJ www.crl.edu
+HJ catalog.crl.edu
+HJ dds.crl.edu
+HJ digitalcollections.crl.edu
+DJ crl.edu

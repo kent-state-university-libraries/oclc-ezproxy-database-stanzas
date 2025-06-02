@@ -1,7 +1,8 @@
-Title MarketLine Advantage (updated 20190409)
-URL http://advantage.marketline.com
-HJ advantage.marketline.com
+Title MarketLine Advantage (updated 20250602)
+URL https://advantage.marketline.com
 HJ https://advantage.marketline.com
+HJ advantage.marketline.com
 HJ https://new.marketline.com
 HJ new.marketline.com
 DJ marketline.com
+NeverProxy analytics.globaldata.com

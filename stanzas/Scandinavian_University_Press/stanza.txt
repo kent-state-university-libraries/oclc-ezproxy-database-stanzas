@@ -1,0 +1,14 @@
+Title Scandinavian University Press (updated 20250602)
+URL https://www.scup.com
+HJ www.idunn.no
+HJ idunn.no
+HJ https://www.scup.com
+HJ www.scup.com
+HJ scup.com
+DJ idunn.no
+DJ scup.com
+DJ sup.scienceconnect.io
+Find doi.org
+Replace ^Adoi.org
+Find dx.doi.org
+Replace ^Adx.doi.org
