@@ -1,5 +1,5 @@
 Option DomainCookieOnly
-Title SpringerLink (Updated OCLC IncludeFile 20230502)
+Title SpringerLink (updated 20250610)
 URL https://link.springer.com
 HJ aa.springer.de
 HJ adisonline.com
@@ -34,5 +34,7 @@ Find DOI: https://
 Replace DOI: https://^A
 Find DOI: https://
 Replace  DOI: https://^A
+Find springernature?redirect_uri=https://
+Replace springernature?redirect_uri=https://^A
 NeverProxy static-content.springer.com
 Option Cookie

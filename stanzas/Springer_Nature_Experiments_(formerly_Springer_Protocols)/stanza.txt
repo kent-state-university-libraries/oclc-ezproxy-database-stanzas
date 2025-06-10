@@ -1,0 +1,10 @@
+Title Springer Nature Experiments (updated 20250610)
+URL https://experiments.springernature.com
+HJ http://experiments.springernature.com
+HJ springernature.com
+DJ springernature.com
+Find name="redirectUri" value="https://
+Replace name="redirectUri" value="https://^A
+Find name="targetRedirectUri" value="https://
+Replace name="targetRedirectUri" value="https://^A
+Find
