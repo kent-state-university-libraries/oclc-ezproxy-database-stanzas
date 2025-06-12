@@ -1,7 +1,7 @@
-Title Medici TV EDU (updated 20250611)
+Title Medici TV EDU (updated 20250612)
 URL https://edu.medici.tv
 HJ edu.medici.tv
 DJ edu.medici.tv
-NeverProxy media.medici.tvÂ
+NeverProxy media.medici.tv
 NeverProxy lightmedias.medici.tv
 NeverProxy api.medici.tv
