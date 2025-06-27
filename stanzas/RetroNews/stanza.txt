@@ -1,21 +1,31 @@
-Title RetroNews (updated 20250224)
+AnonymousURL +https://retronews.b-cdn.net/*
+Title RetroNews (updated 20250627)
 HTTPHeader -request -process Next-Action
 HTTPHeader -request -process Next-Router-Prefetch
-HTTPHeader -request -process Next-Router-Segment-Prefetch
 HTTPHeader -request -process Next-Router-State-Tree
 HTTPHeader -request -process Next-Url
-HTTPHeader -request -process RSC
+HTTPHeader -request -process Rsc
+HTTPHeader -response -process Next-Action
+HTTPHeader -response -process Next-Router-Prefetch
+HTTPHeader -response -process Next-Router-State-Tree
+HTTPHeader -response -process Next-Url
+HTTPHeader -response -process Rsc
 URL https://www.retronews.fr/rn-api/proxy-login?token=[your_token]
-HJ api.retronews.fr
-HJ edu.retronews.fr
-HJ https://api.retronews.fr
-HJ https://edu.retronews.fr
-HJ https://retronews.fr
-HJ retronews.fr
-HJ www.retronews.fr
-DJ retronews.fr
+H api.retronews.fr
+H edu.retronews.fr
+H https://api.retronews.fr
+H https://edu.retronews.fr
+H https://retronews.b-cdn.net
+H https://retronews.fr
+H https://www.retronews.fr
+H retronews.b-cdn.net
+H retronews.fr
+H www.retronews.fr
+D retronews.b-cdn.net
+D retronews.fr
+AnonymousURL -*
 
-Title Stripe (updated 20250225)
+Title Stripe (Added 20250225)
 URL https://js.stripe.com/
 HJ api.stripe.com
 HJ b.stripecdn.com
