@@ -1,13 +1,16 @@
-Title Cambridge Core (OCLC IncludeFile updated 20230303)
+AnonymousURL +https://core-features.cambridge.org/proxy*
+Title Cambridge Core (updated 20250703)
 MimeFilter application/html .* html
 HTTPHeader -request -process X-Requested-With
 URL https://www.cambridge.org/core
 HJ africabibliography.cambridge.org
 HJ cambridge.org
-HJ hsus.cambridge.org
+HJ dib.cambridge.org
 HJ ebooks.cambridge.org
+HJ hsus.cambridge.org
 HJ https://africabibliography.cambridge.org
 HJ https://cambridge.org
+HJ https://dib.cambridge.org
 HJ https://hsus.cambridge.org
 HJ https://journals.cambridge.org
 HJ https://orlando.cambridge.org
@@ -15,6 +18,7 @@ HJ https://stahlonline.cambridge.org
 HJ https://universitypublishingonline.org
 HJ https://www.africabibliography.cambridge.org
 HJ https://www.cambridge.org
+HJ https://www.dib.cambridge.org
 HJ https://www.journals.cambridge.org
 HJ https://www.orlando.cambridge.org
 HJ https://www.stahlonline.cambridge.org
@@ -24,13 +28,11 @@ HJ stahlonline.cambridge.org
 HJ universitypublishingonline.org
 HJ www.africabibliography.cambridge.org
 HJ www.cambridge.org
+HJ www.dib.cambridge.org
 HJ www.journals.cambridge.org
 HJ www.orlando.cambridge.org
 HJ www.stahlonline.cambridge.org
-HJ dib.cambridge.org
-HJ https://dib.cambridge.org
-HJ https://www.dib.cambridge.org
-HJ www.dib.cambridge.org
 DJ cambridge.org
 Find globalNav('//www.cambridge.org/tools/packages/cambridge_themes/
 Replace globalNav('/tools/packages/cambridge_themes/
+AnonymousURL -*
