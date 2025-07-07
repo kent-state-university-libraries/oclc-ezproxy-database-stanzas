@@ -3,7 +3,7 @@ HTTPMethod DELETE
 HTTPMethod PUT
 AnonymousURL -OPTIONS +https://secure.astm.org/*
 AnonymousURL +https://compass.astm.org/*
-Title ASTM Compass 2.0 (updated 20250602)
+Title ASTM Compass 2.0 (updated 20250704)
 HTTPHeader -request -process x-okta-user-agent-extended
 HTTPHeader -request -process x-okta-request-id
 HTTPHeader -request -process XSRF-TOKEN "*"
@@ -11,11 +11,13 @@ HTTPHeader -request -process AuthMode "*"
 HTTPHeader -request -process RequestId "*"
 MimeFilter application/json .* javascript
 URL https://secure.astm.org/login?redirectUrl=aHR0cHM6Ly9jb21wYXNzLmFzdG0ub3Jn&newApproach=true
-HJ http://secure.astm.org
-HJ https://secure.astm.org
-HJ https://store.astm.org
+HJ astm.org
+HJ dl.astm.org
 HJ https://astm.org
-HJ http://astm.org
+HJ https://dl.astm.org
+HJ https://store.astm.org
+HJ secure.astm.org
+HJ store.astm.org
 DJ astm.org
 NeverProxy iam.astm.org
 NeverProxy compass.astm.org
