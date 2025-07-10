@@ -1,31 +1,27 @@
 Option DomainCookieOnly
-Title EndNote online and InCites (updated 20230307)
+Title EndNote online and InCites (updated 20250710)
 HTTPMethod DELETE
 HTTPMethod PUT
 BinaryTimeout 600
 ClientTimeout 600
 HTTPHeader -request -process X-1P-INC-SID
 MimeFilter application/json .* javascript
-URL http://www.myendnoteweb.com
+URL https://www.myendnoteweb.com
 HJ https://esi.clarivate.com
 HJ https://my.endnote.com
 HJ https://myorg.clarivate.com
 HJ https://incites.clarivate.com
 HJ https://www.myendnoteweb.com
 HJ https://jcr.clarivate.com
-HJ https://jcr3.clarivate.com
+HJ www.myendnoteweb.com
 HJ error.incites.clarivate.com
 HJ esi.clarivate.com
 HJ help.incites.clarivate.com
-HJ incites.isiknowledge.com
 HJ login.incites.clarivate.com
 HJ my.endnote.com
-HJ jcr3.clarivate.com
 HJ jcr.clarivate.com
 HJ myorg.clarivate.com
 DJ clarivate.com
 DJ endnote.com
 DJ myendnoteweb.com
-Find access.clarivate.com
-Replace ^saccess.clarivate.com^
 Option Cookie

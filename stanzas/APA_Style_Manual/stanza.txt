@@ -1,0 +1,13 @@
+Option MetaEZproxyRewriting
+Title APA Style Manual(updated 20250710)
+HTTPHeader -process -request X-CSRF-Token
+URL https://stylemanual.apa.org
+HJ stylemanual.apa.org
+HJ apa.org
+HJ http://stylemanual.apa.org
+HJ https://apa.org
+HJ https://sso.apa.org
+HJ sso.apa.org
+DJ apa.org
+NeverProxy pmistatic.apa.org
+Option NoMetaEZproxyRewriting

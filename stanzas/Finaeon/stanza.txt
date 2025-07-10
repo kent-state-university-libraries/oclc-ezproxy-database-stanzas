@@ -1,13 +1,16 @@
 AnonymousURL +https://prod-apicore.finaeon.com*
+AnonymousURL +https://apicore.finaeon.com*
 AnonymousURL +*.json
-Title Finaeon (updated 20241203)
+Title Finaeon (updated 20250710)
 URL https://app.finaeon.com
 HJ app.finaeon.com
 HJ finaeon.com
 HJ https://finaeon.com
 HJ https://prod-apicore.finaeon.com
+HJ https://apicore.finaeon.com
 HJ https://www.finaeon.com
 HJ prod-apicore.finaeon.com
+HJ apicore.finaeon.com
 HJ www.finaeon.com
 DJ finaeon.com
 AnonymousURL -*
