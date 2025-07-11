@@ -2,7 +2,7 @@ AnonymousURL +https://compassapi.hbpl.co.uk/api/*
 AnonymousURL +https://hbmdataapiv2.hbpl.co.uk/api/*
 AnonymousURL +https://hbmuserapiv2.hbpl.co.uk/api/*
 Title -hide Haymarket Media Group APIs (updated 20241010)
-U https://hbpl.co.uk
+URL https://hbpl.co.uk
 HJ https://compassapi.hbpl.co.uk
 HJ https://hbmdataapiv2.hbpl.co.uk
 HJ https://hbmuserapiv2.hbpl.co.uk
@@ -19,9 +19,11 @@ HJ latest.dcp-online.co.uk
 HJ www.dcp-online.co.uk
 DJ dcp-online.co.uk
 
-Title Compass (updated 20241010)
+Title Compass (updated 20250711)
 URL https://www.compasssearch.co.uk/
+HJ compass.shorthandstories.com
 HJ compasssearch.co.uk
+HJ https://compass.shorthandstories.com
 HJ https://compasssearch.co.uk
 HJ https://qa.compasssearch.co.uk
 HJ https://www.compasssearch.co.uk
