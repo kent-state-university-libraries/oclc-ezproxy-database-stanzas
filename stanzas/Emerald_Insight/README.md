@@ -1,5 +1,5 @@
 # Emerald Insight
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Emerald_Insight](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Emerald_Insight) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Emerald_Insight](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Emerald_Insight) **
 
 ## Some of OCLC's notes for this stanza
 

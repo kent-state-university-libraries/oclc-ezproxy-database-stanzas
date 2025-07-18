@@ -1,4 +1,7 @@
-Title Emerald (updated 20190624)
-URL https://www.emerald.com/insight
+Title Emerald (Updated 20250718)
+URL https://www.emerald.com
+HJ emerald.com
+HJ https://emerald.com
+HJ https://www.emerald.com
 HJ www.emerald.com
 DJ emerald.com
