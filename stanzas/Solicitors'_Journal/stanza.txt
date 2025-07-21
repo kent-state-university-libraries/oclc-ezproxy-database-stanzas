@@ -1,0 +1,8 @@
+Title Solicitors' Journal (updated 20250721)
+ByteServe https://www\.solicitorsjournal\.com/.*
+URL https://www.solicitorsjournal.com/
+HJ https://solicitorsjournal.com
+HJ https://www.solicitorsjournal.com
+HJ solicitorsjournal.com
+HJ www.solicitorsjournal.com
+DJ solicitorsjournal.com
