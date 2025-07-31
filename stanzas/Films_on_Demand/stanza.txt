@@ -1,0 +1,19 @@
+Title Films on Demand (updated 20250731)
+URL https://fod.infobase.com
+H fod.infobase.com
+H https://fod.infobase.com
+H access.infobase.com
+H https://access.infobase.com
+H avod.infobase.com
+H https://avod.infobase.com
+H cvod.infobase.com
+H https://cvod.infobase.com
+H digital.films.com
+H https://digital.films.com
+H https://avod.films.com
+H avod.films.com
+H https://secure.films.com
+H https://admin.infobase.com
+D infobase.com
+D films.com
+NeverProxy iden5.infobase.com

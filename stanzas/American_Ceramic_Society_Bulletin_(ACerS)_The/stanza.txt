@@ -1,0 +1,5 @@
+Title The American Ceramic Society Bulletin(ACerS) (updated 20250731)
+URL https://bulletin.ceramics.org
+HJ https://bulletin.ceramics.org
+HJ bulletin.ceramics.org
+DJ bulletin.ceramics.org
