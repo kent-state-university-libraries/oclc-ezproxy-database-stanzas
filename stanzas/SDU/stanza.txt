@@ -1,4 +1,10 @@
-Title SDU (updated 20241008)
+AnonymousURL +*.woff*
+AnonymousURL +*.woff2*
+AnonymousURL +*.ttf*
+Title SDU (updated 20250801)
+HTTPHeader -request -process baggage
+HTTPHeader -request -process sentry-trace
+HTTPHeader -request -process x-replace-path
 HTTPHeader -request -process Book-Authorization
 URL http://www.sdu.nl/
 HJ aanbestedingsrechtonline.sdu.nl
@@ -128,3 +134,4 @@ DJ ndsz.nl
 DJ sdu.nl
 DJ sdujurisprudentie.nl
 DJ vindburgerzaken.nl
+AnonymousURL -*
