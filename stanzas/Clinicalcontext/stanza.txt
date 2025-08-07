@@ -1,6 +1,9 @@
-T Clinicalcontext (updated 20230913)
+Title Clinicalcontext (updated 20250807)
 HTTPHeader -request -process X-Lcc-Organization-Id
 HTTPHeader -request -process X-Lcc-Site-Id
 URL https://clinicalcontext.lww.com
 HJ https://clinicalcontext.lww.com
+HJ https://login.wolterskluwer.com
+HJ https://oneid.wolterskluwer.com
 DJ clinicalcontext.lww.com
+DJ myprofile.wolterskluwer.com

@@ -1,0 +1,18 @@
+HTTPMethod OPTIONS
+AnonymousURL +https://fastapi.futuresnoops.com/*
+T Future Snoops (20250722)
+HTTPHeader -request -process X-API-Key
+HTTPHeader -request -process X-ApiKey
+U https://my.futuresnoops.com/
+HJ https://my.futuresnoops.com
+HJ https://beta.futuresnoops.com
+HJ https://fastapi.futuresnoops.com
+HJ https://futuresnoops.com
+HJ https://www.futuresnoops.com
+HJ beta.futuresnoops.com
+HJ fastapi.futuresnoops.com
+HJ futuresnoops.com
+HJ my.futuresnoops.com
+HJ www.futuresnoops.com
+DJ futuresnoops.com
+AnonymousURL -*

@@ -1,5 +1,5 @@
 # Modern Language Association
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Modern_Language_Association](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Modern_Language_Association) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Modern_Language_Association](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Modern_Language_Association) **
 
 ## Some of OCLC's notes for this stanza
 

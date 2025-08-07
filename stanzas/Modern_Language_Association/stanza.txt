@@ -1,4 +1,4 @@
-Title Modern Language Association (updated 20210920)
+Title Modern Language Association (updated 20250807)
 URL http://www.mla.org
 HJ mla.org
 HJ mlajournals.org
@@ -14,3 +14,7 @@ DJ mla.org
 DJ mlajournals.org
 Find https:\/\/
 Replace https://
+Find doi.org
+Replace ^Adoi.org
+Find dx.doi.org
+Replace ^Adx.doi.org

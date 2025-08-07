@@ -1,7 +1,7 @@
 HTTPMethod OPTIONS
-AnonymousURL -OPTIONS +https://api.flyoverzone.com/
-AnonymousURL +https://api.flyoverzone.com/
-Title Yorescape (updated 20250417)
+AnonymousURL -OPTIONS +https://api.flyoverzone.com/*
+AnonymousURL +https://api.flyoverzone.com/*
+Title Yorescape (updated 20250807)
 HTTPHeader -request -process guid
 URL https://yorescape.com/
 HJ https://api.flyoverzone.com

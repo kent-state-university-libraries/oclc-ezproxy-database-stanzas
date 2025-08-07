@@ -1,4 +1,4 @@
-Title AST Publications (OCLC IncludeFile updated 20231211)
+Title AST Publications (updated 20250801)
 URL https://astpublications.com
 HJ https://artsongtranspositions.com
 HJ http://artsongtranspositions.com
@@ -11,6 +11,11 @@ HJ https://artsonginstitutional.com
 HJ www.astpublications.com
 HJ www.artsongtranspositions.com
 HJ www.artsonginstitutional.com
+HJ https://www.astfree.com
+HJ www.astfree.com
+HJ https://astfree.com
+HJ astfree.com
+DJ astfree.com
 DJ astpublications.com
 DJ artsongtranspositions.com
 DJ artsonginstitutional.com
