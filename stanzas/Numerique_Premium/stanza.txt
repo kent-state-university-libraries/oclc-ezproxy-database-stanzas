@@ -1,9 +1,9 @@
-Title Numerique Premium  (updated 20240910)
+Cookie theproxy=ezproxy; domain=.numeriquepremium.com
+Title Numerique Premium (updated 20250714)
 URL https://www.numeriquepremium.com/
-HJ https://np.scienceconnect.io
 HJ https://numeriquepremium.com
-HJ np.scienceconnect.io
 HJ numeriquepremium.com
 HJ www.numeriquepremium.com
-DJ np.scienceconnect.io
 DJ numeriquepremium.com
+Option Cookie
+Neverproxy np.scienceconnect.io
