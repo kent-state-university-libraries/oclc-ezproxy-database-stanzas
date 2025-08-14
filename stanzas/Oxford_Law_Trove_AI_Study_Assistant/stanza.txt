@@ -1,0 +1,10 @@
+Title Oxford Law Trove AI Study Assistant (updated 20250814)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
+URL https://www.oxford-trove-ai-study-assistant.com
+HJ https://oxford-trove-ai-study-assistant.com
+HJ www.oxford-trove-ai-study-assistant.com
+HJ oxford-trove-ai-study-assistant.com
+DJ oxford-trove-ai-study-assistant.com
+NeverProxy oup3-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup-idp.sams-sigma.com
