@@ -1,4 +1,4 @@
-Title Regs4Ships (updated 20210511)
-URL http://dmr.regs4ships.com/latbd.cfm?LP=41D652EB79F20CA79A88C55A909983
+Title Regs4ships (updated 20250819)
+URL https://dmr.regs4ships.com/latbd.cfm?LP=[PLACE-LP-CODE-HERE]
 HJ dmr.regs4ships.com
 DJ regs4ships.com
