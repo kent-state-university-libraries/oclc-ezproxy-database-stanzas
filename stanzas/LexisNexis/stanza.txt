@@ -3,7 +3,7 @@ AnonymousURL +https://static.law360news.com/*
 PHE www.lexisnexis.com$ www-lexisnexis-com
 PHE www.nexis.com$ www-nexis-com
 Option CookiePassThrough
-Title Lexis Nexis (updated 20250302)
+Title Lexis Nexis (updated 20250821)
 HTTPMethod PUT
 HTTPMethod DELETE
 HTTPMethod PATCH
@@ -117,3 +117,5 @@ Find action:"https%3a%2f%2fsignin.lexisnexis.com
 Replace action:"https://signin.lexisnexis.com
 Option Cookie
 AnonymousURL -*
+NeverProxy pdc1c-userauthentication.route53.lexis.com
+NeverProxy authn-us.lexisnexis.com
