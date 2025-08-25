@@ -1,0 +1,9 @@
+Title MyHeritage (updated 20250825)
+URL https://records.myheritagelibraryedition.com/research
+HJ https://records.myheritagelibraryedition.com
+HJ records.myheritagelibraryedition.com
+HJ https://myheritagelibraryedition.com
+HJ https://trial.myheritagelibraryedition.com
+DJ myheritagelibraryedition.com
+Find https:\/\/trial.myheritagelibraryedition.com
+Replace https:\/\/^Strial.myheritagelibraryedition.com^
