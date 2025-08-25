@@ -3,12 +3,10 @@
 HTTPMethod DELETE
 HTTPMethod PUT
 Option CookiePassThrough
-Title Ovid HTTPS (OCLC IncludeFile updated 20230612)
+Title Ovid HTTPS (updated 20250825)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
-HJ access.ovid.com
-HJ https://access.ovid.com
 HJ acs.dc1.ovid.com
 HJ https://acs.dc1.ovid.com
 HJ acs.dc2.ovid.com
@@ -75,7 +73,6 @@ HJ pt.wkhealth.com
 HJ https://pt.wkhealth.com
 HJ stats.ovid.com
 HJ sumari-prod-1.srv.jbisumari.org
-HJ tools.ovid.com
 HJ watch.ondemand.org
 HJ https://watch.ondemand.org
 HJ app.jbisumari.org
@@ -105,4 +102,6 @@ Replace action="http://^A
 NeverProxy assets.ovid.com
 NeverProxy cdn.visiblebody.com
 NeverProxy demo.ovid.com
+NeverProxy tools.ovid.com
+NeverProxy access.ovid.com
 Option Cookie
