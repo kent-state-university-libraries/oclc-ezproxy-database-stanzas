@@ -1,5 +1,6 @@
+AnonymousURL +https://api.retronews.fr/*
 AnonymousURL +https://retronews.b-cdn.net/*
-Title RetroNews (updated 20250627)
+Title RetroNews (updated 20250826)
 HTTPHeader -request -process Next-Action
 HTTPHeader -request -process Next-Router-Prefetch
 HTTPHeader -request -process Next-Router-State-Tree
@@ -25,8 +26,8 @@ D retronews.b-cdn.net
 D retronews.fr
 AnonymousURL -*
 
-Title Stripe (Added 20250225)
-URL https://js.stripe.com/
+T Stripe (Added 20250225)
+U https://js.stripe.com/
 HJ api.stripe.com
 HJ b.stripecdn.com
 HJ checkout.stripe.com
