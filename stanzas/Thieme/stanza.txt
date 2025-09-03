@@ -14,7 +14,7 @@ AnonymousURL +https://examenonline-service.thieme.de/baseparameter/*
 AnonymousURL +https://examenonline-service.thieme.de/sitzung/campus
 AnonymousURL +https://viamedici.thieme.de/api/e-module/examen-online/*
 AnonymousURL +https://authentication-service.thieme.de/*
-Title Thieme (updated 20250103)
+Title Thieme (updated 20250903)
 HTTPHeader -request -process v
 HTTPHeader -request -process erights
 HTTPHeader -request -process X-CSRF-TOKEN
@@ -106,6 +106,10 @@ HJ https://ergolink.thieme.de
 HJ ergolink.thieme.de
 HJ https://cne.thieme.de
 HJ cne.thieme.de
+HJ https://praxis.thieme.de
+HJ praxis.thieme.de
+HJ https://roempp.thieme.com
+HJ roempp.thieme.com
 HJ https://cme.thieme.de
 HJ cme.thieme.de
 HJ https://hebammen.thieme.de
@@ -137,7 +141,7 @@ Find &tRedirectUrl=https://
 Replace &tRedirectUrl=https://^A
 Find APP_URL: "https://
 Replace APP_URL: "https://^A
+AnonymousURL -*
 NeverProxy cdn.thieme.de
 NeverProxy cfs.thiemeteachingassistant.com
 NeverProxy examenonline-medone.thieme.de
-AnonymousURL -*
