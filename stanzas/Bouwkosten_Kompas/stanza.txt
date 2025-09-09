@@ -2,7 +2,9 @@ Option CookiePassThrough
 AnonymousURL +https://api.calcsoft.nl/api/*
 AnonymousURL +https://api2.calcsoft.nl/signalr/*
 AnonymousURL +https://login.bouwkosten.nl/api/*
-Title Bouwkosten Kompas (updated 20240717)
+AnonymousURL +https://login.bouwkostenkompas.nl/api/*
+Title Bouwkosten Kompas (updated 20250909)
+HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process X-SignalR-User-Agent
 URL https://login.bouwkostenkompas.nl/Home/Login?returnUrl=https%3A%2F%2Fwww.bouwkostenkompas.nl
 HJ api.calcsoft.nl
@@ -17,5 +19,7 @@ HJ login.bouwkosten.nl
 HJ www.bouwkostenkompas.nl
 DJ bouwkostenkompas.nl
 DJ calcsoft.nl
+Find https:\u002F\u002Flogin.bouwkostenkompas.nl
+Replace https:\u002F\u002F^Slogin.bouwkostenkompas.nl^
 AnonymousURL -*
 Option Cookie
