@@ -2,10 +2,11 @@ AnonymousURL +https://search-predatory.cabells.com/*
 AnonymousURL +https://search-academic.cabells.com/*
 AnonymousURL +https://search-medicine.cabells.com/*
 AnonymousURL +https://auth.cabells.com/*
+AnonymousURL +https://ai-api.cabells.com/*
 AnonymousURL +https://contact.cabells.com/*
 AnonymousURL +https://signup-medicine.cabells.com/*
 AnonymousURL +https://usage.cabells.com/*
-Title Cabells Directories (updated 20250217)
+Title Cabells Directories (updated 20250909)
 HTTPHeader -request -process x-functions-key
 HTTPHeader -request -process SESSION_ID
 HTTPHeader -request -process USER_ID
@@ -15,6 +16,8 @@ HTTPHeader -response -process Accept-CH
 URL https://app.cabells.com
 HJ www2.cabells.com/
 HJ https://www2.cabells.com
+HJ https://ai-api.cabells.com
+HJ ai-api.cabells.com
 HJ https://journalytics-medicine.cabells.com
 HJ journalytics-medicine.cabells.com
 HJ https://medicine.cabells.com
