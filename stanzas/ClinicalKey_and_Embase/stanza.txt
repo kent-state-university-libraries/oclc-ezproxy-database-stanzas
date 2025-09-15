@@ -2,7 +2,8 @@ HTTPMethod PUT
 HTTPMethod DELETE
 ProxyHostnameEdit www.clinicalkey.com$ www-clinicalkey-com
 AnonymousURL +https://eolsapi.elsevier.com/api/*
-Title ClinicalKey (updated 20250217)
+AnonymousURL +https://www.clinicalkey.com/ui-origin/*
+Title ClinicalKey (updated 20250915)
 HTTPHeader -request -process CkApp-Request-Product
 HTTPHeader -request -process CK-Path
 HTTPHeader -request -process X-CkApp-Request-Locale
