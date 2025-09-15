@@ -1,15 +1,16 @@
-Title CPS (updated 20240405)
-URL https://cps.pharmacists.ca
-HJ https://cps.pharmacists.ca
+Title CPS (updated 20250915)
+URL https://cps.pharmacists.ca/
 HJ cps.pharmacists.ca
-HJ https://www.myrxtx.ca
-HJ www.myrxtx.ca
-HJ https://www.monrxtx.ca
-HJ www.monrxtx.ca
+HJ cps2.pharmacists.ca
+HJ https://cps2.pharmacists.ca
 HJ https://www.e-therapeutics.ca
+HJ https://www.monrxtx.ca
+HJ https://www.myrxtx.ca
 HJ www.e-therapeutics.ca
-DJ pharmacists.ca
-DJ myrxtx.ca
-DJ monrxtx.ca
+HJ www.monrxtx.ca
+HJ www.myrxtx.ca
 DJ e-therapeutics.ca
 DJ lexi.com
+DJ monrxtx.ca
+DJ myrxtx.ca
+DJ pharmacists.ca
