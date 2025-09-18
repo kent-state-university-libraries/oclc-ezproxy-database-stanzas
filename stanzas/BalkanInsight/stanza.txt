@@ -1,0 +1,15 @@
+Title BalkanInsight (updated 20250917)
+URL https://www.balkaninsight.com
+HJ balkaninsight.com
+HJ https://balkaninsight.com
+HJ https://www.balkaninsight.com
+HJ www.balkaninsight.com
+DJ balkaninsight.com
+Find src="//balkaninsight.com
+Replace src="//^Sbalkaninsight.com^
+Find https:\/\/balkaninsight.com
+Replace https:\/\/^Sbalkaninsight.com^
+Find ="//balkaninsight.com
+Replace ="//^Sbalkaninsight.com^
+Find , //balkaninsight.com
+Replace , //^Sbalkaninsight.com^

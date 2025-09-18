@@ -1,6 +1,8 @@
 AddUserHeader X-User
-Title VitalSource Resolver (updated 20220110)
+Title VitalSource Resolver (updated 20250917)
 URL https://resolver.vitalsource.com
+HJ developer.vitalsource.com
+HJ https://developer.vitalsource.com
 HJ https://resolver.vitalsource.com
 HJ resolver.vitalsource.com
 DJ vitalsource.com
