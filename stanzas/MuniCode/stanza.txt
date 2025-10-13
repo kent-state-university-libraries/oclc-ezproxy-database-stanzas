@@ -1,0 +1,5 @@
+AnonymousURL +https://library.municode.com/dist/*
+Title MuniCode (updated 20251013)
+HTTPHeader -request -process X-CSRF "1"
+URL https://library.municode.com
+AnonymousURL -*
