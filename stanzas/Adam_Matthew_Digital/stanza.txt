@@ -1,6 +1,7 @@
 Option CookiePassThrough
 AnonymousURL -OPTIONS +https://*.quartexcollections.com*
-Title Adam Matthew Digital (updated 20250710)
+AnonymousURL +https://frontend-api.quartexcollections.com/*
+Title Adam Matthew Digital (updated 20251014)
 HTTPHeader -request -process quartex-additionalauth
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
