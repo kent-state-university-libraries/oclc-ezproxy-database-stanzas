@@ -1,0 +1,21 @@
+Title IMAIOS Chinese Website (updated 20251014)
+HTTPHeader -request -process Authorization
+HTTPHeader -request -process Origin
+HTTPHeader -request -process X-Requested-With
+HTTPHeader -request -process x-im-proxy
+HTTPHeader -request -process x-im-powts
+HTTPHeader -request -process x-im-pownonce
+HTTPHeader -request -process x-im-powcounter
+HTTPHeader -request -process x-im-powdigest
+URL https://www.imaios.cn
+HJ https://www.imaios.cn
+HJ www.imaios.cn
+DJ imaios.cn
+NeverProxy i*.imaios.cn
+NeverProxy cdn*.imaios.cn
+NeverProxy static.imaios.cn
+NeverProxy files.imaios.cn
+NeverProxy support.imaios.com
+NeverProxy counter.imaios.cn
+NeverProxy dcm.imaios.cn
+NeverProxy sushi.imaios.cn
