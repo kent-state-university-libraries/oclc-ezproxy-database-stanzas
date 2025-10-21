@@ -1,0 +1,9 @@
+Title Library Pass (updated 20251021)
+ByteServe https://cstestauth2\.librarypass\.com/reader/image/.*
+ByteServe https://cstestauth2\.librarypass\.com/product_read_log.*
+URL https://cstestauth2.librarypass.com
+HJ https://cstestauth2.librarypass.com
+HJ cstestauth2.librarypass.com
+HJ https://login.librarypass.com
+HJ login.librarypass.com
+DJ librarypass.com
