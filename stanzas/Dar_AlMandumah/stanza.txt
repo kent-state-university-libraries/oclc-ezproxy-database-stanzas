@@ -1,0 +1,11 @@
+AddUserHeader EZP-User
+Title Dar AlMandumah (updated 20251021)
+URL https://search.mandumah.com
+HJ https://search.mandumah.com
+HJ https://content.mandumah.com
+HJ https://stats.mandumah.com
+HJ search.mandumah.com
+HJ content.mandumah.com
+HJ stats.mandumah.com
+DJ mandumah.com
+AddUserHeader

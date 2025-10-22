@@ -1,10 +1,14 @@
+HTTPMethod DELETE
+HTTPMethod PUT
+HTTPMethod PATCH
+HTTPMethod OPTIONS
 Option Cookie
 ProxyHostnameEdit healthlibrary.epnet.com$ healthlibrary-epnet-com
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 Option MetaEZproxyRewriting
 AnonymousURL https://ppws.ebsco-content.com/*
 AnonymousURL +https://apis.ebsco.com/public/*
-Title EBSCOhost (updated 20250805)
+Title EBSCOhost (updated 20251021)
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process OPAQUE-TOKEN
 HTTPHeader -request -process userIdentifier

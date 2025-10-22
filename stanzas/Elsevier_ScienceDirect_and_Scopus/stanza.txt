@@ -1,7 +1,8 @@
 # Elsevier ScienceDirect
 Cookie BROWSER_SUPPORTS_COOKIES=1;domain=.sciencedirect.com
 AnonymousURL +https://rss.sciencedirect.com/
-Title ScienceDirect (Updated 20230125)
+Title ScienceDirect (Updated 20251021)
+HTTPHeader -request -process authentication-service
 URL https://www.sciencedirect.com
 HJ https://www.sciencedirect.com
 HJ https://sciencedirect.com
@@ -40,18 +41,16 @@ HTTPMethod OPTIONS
 AnonymousURL +http://syndic8.scopus.com/*
 AnonymousURL +https://components.scopus.com/*
 AnonymousURL -OPTIONS +https://components.scopus.com/*
-Title Scopus (updated 20230911)
+Title Scopus (updated 20211122)
 MimeFilter text/uri-list .* javascript
 MimeFilter application/json .* javascript
 URL https://www.scopus.com/home.url
-HJ https://scopus.com
-HJ https://www.elsevier.com
 HJ https://www.scopus.com
 HJ https://www2.scopus.com
-HJ scopus.com
-HJ www.scopus.com
 HJ www2.scopus.com
+HJ https://www.elsevier.com
 DJ www.elsevier.com
+HJ www.scopus.com
 DJ scopus.com
 Find gsUrl%22%3A%22https%3A%2F%2Fwww.scopus.com%2F
 Replace gsUrl%22%3A%22https%3A%2F%2F^pwww.scopus.com^%2F

@@ -1,4 +1,9 @@
-Title Telos (updated 20191231)
-URL http://journal.telospress.com/
+Title Telos (updated 20251022)
+URL https://www.telospress.com/
+HJ https://journal.telospress.com
+HJ https://telospress.com
+HJ https://www.telospress.com
 HJ journal.telospress.com
-DJ journal.telospress.com
+HJ telospress.com
+HJ www.telospress.com
+DJ telospress.com
