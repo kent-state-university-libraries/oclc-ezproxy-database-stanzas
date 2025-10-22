@@ -1,4 +1,4 @@
-Title Library Pass (updated 20251021)
+Title LibraryPass (updated 20251021)
 ByteServe https://[LibraryDomain]\.librarypass\.com/reader/image/.*
 ByteServe https://[LibraryDomain]\.librarypass\.com/product_read_log.*
 URL https://[LibraryDomain].librarypass.com
