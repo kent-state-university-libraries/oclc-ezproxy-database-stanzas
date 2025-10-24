@@ -1,8 +1,7 @@
 # Elsevier ScienceDirect
 Cookie BROWSER_SUPPORTS_COOKIES=1;domain=.sciencedirect.com
 AnonymousURL +https://rss.sciencedirect.com/
-Title ScienceDirect (Updated 20251021)
-HTTPHeader -request -process authentication-service
+Title ScienceDirect (Updated 20251022)
 URL https://www.sciencedirect.com
 HJ https://www.sciencedirect.com
 HJ https://sciencedirect.com
@@ -28,11 +27,11 @@ Replace gsUrl%22%3A%22https%3A%2F%2F^swww.sciencedirect.com^%2F
 Find pdfurl%3D%22https%3A%2F%2Fwww.sciencedirect.com%2F
 Replace pdfurl%3D%22https%3A%2F%2F^swww.sciencedirect.com^%2F
 Find pdfurl="//www.sciencedirect.com/
-Replace pdfurl="//^swww.sciencedirect.com^/
+Replace pdfurl="//swww.sciencedirect.com/
 Find redirect_uri=https://
 Replace redirect_uri=https://^A
 Find "null/
-Replace "//^swww.sciencedirect.com^/
+Replace "//swww.sciencedirect.com/
 AnonymousURL -*
 
 #Elsevier Scopus
@@ -41,7 +40,8 @@ HTTPMethod OPTIONS
 AnonymousURL +http://syndic8.scopus.com/*
 AnonymousURL +https://components.scopus.com/*
 AnonymousURL -OPTIONS +https://components.scopus.com/*
-Title Scopus (updated 20211122)
+Title Scopus (updated 20251024)
+HTTPHeader -request -process authentication-service
 MimeFilter text/uri-list .* javascript
 MimeFilter application/json .* javascript
 URL https://www.scopus.com/home.url
@@ -55,7 +55,7 @@ DJ scopus.com
 Find gsUrl%22%3A%22https%3A%2F%2Fwww.scopus.com%2F
 Replace gsUrl%22%3A%22https%3A%2F%2F^pwww.scopus.com^%2F
 Find ["APP_DOMAIN"] = "www.scopus.com";
-Replace ["APP_DOMAIN"] = "^swww.scopus.com^";
+Replace ["APP_DOMAIN"] = "swww.scopus.com";
 Find redirect_uri=https://
 Replace redirect_uri=https://^A
 AnonymousURL -*
