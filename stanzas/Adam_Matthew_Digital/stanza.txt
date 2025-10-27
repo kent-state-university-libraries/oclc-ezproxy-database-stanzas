@@ -1,8 +1,9 @@
 Option CookiePassThrough
 AnonymousURL -OPTIONS +https://*.quartexcollections.com*
 AnonymousURL +https://frontend-api.quartexcollections.com/*
-Title Adam Matthew Digital (updated 20251015)
+Title Adam Matthew Digital (updated 20251027)
 HTTPHeader -request -process quartex-additionalauth
+HTTPHeader -response -block Content-Security-Policy
 URL http://www.login.amdigital.co.uk
 HJ broadcastingamerica.amdigital.co.uk
 HJ https://1980scultureandsociety.amdigital.co.uk
@@ -82,6 +83,7 @@ HJ https://www.indigenousnewspapersinnorthamerica.amdigital.co.uk
 HJ https://www.interwarculture.amdigital.co.uk
 HJ https://www.jewishlife.amdigital.co.uk
 HJ https://www.jwtadvertisingamerica.amdigital.co.uk
+HJ https://www.latinamericanhistories.amdigital.co.uk
 HJ https://www.lifeatsea.amdigital.co.uk
 HJ https://www.literarymanuscriptsberg.amdigital.co.uk
 HJ https://www.literarymanuscriptsleeds.amdigital.co.uk
