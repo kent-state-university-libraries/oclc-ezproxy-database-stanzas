@@ -1,0 +1,18 @@
+Title CSIRO Publishing ebooks and journals (updated 20251028)
+URL https://www.publish.csiro.au/journals
+HJ https://www.publish.csiro.au
+HJ www.publish.csiro.au
+HJ https://publish.csiro.au
+HJ publish.csiro.au
+HJ https://publishing.csiro.au
+HJ publishing.csiro.au
+HJ https://csiro.au
+HJ csiro.au
+HJ https://www.csiro.au
+HJ www.csiro.au
+HJ https://connectsci.au
+HJ connectsci.au
+DJ connectsci.au
+DJ csiro.au
+DJ publish.csiro.au
+NeverProxy composer.connectsci.au

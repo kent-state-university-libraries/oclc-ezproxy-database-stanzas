@@ -1,4 +1,4 @@
-Title JoVE (updated 20241203)
+Title JoVE (updated 20251028)
 URL https://www.jove.com/
 HJ https://www.jove.com
 HJ https://app.jove.com
@@ -10,3 +10,4 @@ DJ jove.com
 NeverProxy wp-content.jove.com
 NeverProxy cloudfront.jove.com
 NeverProxy cdn.jove.com
+NeverProxy help.jove.com

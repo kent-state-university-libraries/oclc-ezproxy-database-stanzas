@@ -1,0 +1,13 @@
+Option CookiePassThrough
+AnonymousURL +https://snowplow-collector.britishnewspaperarchive.co.uk/*
+Title British Newspaper Archive (updated 20251028)
+HTTPHeader -request -process X-IS-EZproxy
+HTTPHeader -request -process X-Requested-With
+URL https://www.britishnewspaperarchive.co.uk/
+HJ https://www.britishnewspaperarchive.co.uk/
+HJ www.britishnewspaperarchive.co.uk/
+HJ https:/britishnewspaperarchive.co.uk/
+HJ britishnewspaperarchive.co.uk/
+DJ britishnewspaperarchive.co.uk/
+AnonymousURL -*
+Option Cookie

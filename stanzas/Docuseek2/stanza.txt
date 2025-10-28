@@ -1,8 +1,47 @@
-Title Docuseek2 (updated 20191015)
+Title Docuseek2 (updated 20251028)
 HTTPHeader -Request -Process Accept-Encoding
 HTTPHeader -Request -Process X-requested-with
-URL http://docuseek2.com
+URL https://docuseek2.com
 HJ https://docuseek2.com
+HJ https://docuseek.com
+HJ https://pragda.docuseek2.com
+HJ https://gej.docuseek2.com
+HJ https://pl.docuseek2.com
+HJ https://pragda.docuseek.com
+HJ https://gej.docuseek.com
+HJ https://pl.docuseek.com
 HJ https://www.docuseek2.com
+HJ https://www.docuseek.com
+HJ https://www.pragda.docuseek2.com
+HJ https://www.gej.docuseek2.com
+HJ https://www.pl.docuseek2.com
+HJ https://www.pragda.docuseek.com
+HJ https://www.gej.docuseek.com
+HJ https://www.pl.docuseek.com
+HJ https://stream.pragda.com
+HJ https://epf.1stlook.net
+HJ https://bayview.1stlook.net
+HJ https://firstrun.1stlook.net
 HJ www.docuseek2.com
+HJ www.docuseek.com
+HJ www.pragda.docuseek2.com
+HJ www.gej.docuseek2.com
+HJ www.pl.docuseek2.com
+HJ www.pragda.docuseek.com
+HJ www.gej.docuseek.com
+HJ www.pl.docuseek.com
+HJ docuseek2.com
+HJ docuseek.com
+HJ pragda.docuseek2.com
+HJ gej.docuseek2.com
+HJ pl.docuseek2.com
+HJ pragda.docuseek.com
+HJ gej.docuseek.com
+HJ pl.docuseek.com
+HJ stream.pragda.com
+HJ epf.1stlook.net
+HJ bayview.1stlook.net
+HJ firstrun.1stlook.net
 DJ docuseek2.com
+DJ docuseek.com
+DJ 1stlook.net
