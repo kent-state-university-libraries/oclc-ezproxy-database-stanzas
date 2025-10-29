@@ -1,0 +1,46 @@
+HTTPMethod DELETE
+HTTPMethod OPTIONS
+HTTPMethod PATCH
+HTTPMethod PUT
+Title Sciencenow Faculty Opinions and Sciwheel (updated 20251028)
+ProxyHostnameEdit sciencenow.com$ sciencenow
+ProxyHostnameEdit sciwheel.com$ sciwheel
+ProxyHostnameEdit facultyopinions.com$ facultyopinions
+URL https://sciencenow.com
+HJ https://f1000.com
+HJ https://f1000workspace.com
+HJ https://facultyopinions.com
+HJ https://sciencenow.com
+HJ https://sciwheel.com
+HJ https://www.sciwheel.com
+HJ www.sciwheel.com
+HJ https://www.f1000.com
+HJ https://www.f1000workspace.com
+HJ https://www.facultyopinions.com
+HJ https://www.sciencenow.com
+HJ https://workspace.leanlibrary.com
+HJ f1000.com
+HJ f1000workspace.com
+HJ facultyopinions.com
+HJ sciencenow.com
+HJ sciwheel.com
+HJ www.f1000.com
+HJ www.f1000workspace.com
+HJ www.facultyopinions.com
+HJ www.sciencenow.com
+HJ workspace.leanlibrary.com
+HJ sciencenow.com
+DJ f1000.com
+DJ f1000workspace.com
+DJ facultyopinions.com
+DJ sciencenow.com
+DJ sciwheel.com
+DJ leanlibrary.com
+NeverProxy api.f1000.com
+NeverProxy api.sciwheel.com
+NeverProxy app.f1000.com
+NeverProxy app.sciwheel.com
+NeverProxy messaging.f1000.com
+NeverProxy messaging.sciwheel.com
+NeverProxy badge.facultyopinions.com
+NeverProxy messaging.workspace.leanlibrary.com here
