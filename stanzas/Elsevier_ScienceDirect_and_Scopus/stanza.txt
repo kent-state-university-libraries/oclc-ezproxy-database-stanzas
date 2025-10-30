@@ -27,11 +27,11 @@ Replace gsUrl%22%3A%22https%3A%2F%2F^swww.sciencedirect.com^%2F
 Find pdfurl%3D%22https%3A%2F%2Fwww.sciencedirect.com%2F
 Replace pdfurl%3D%22https%3A%2F%2F^swww.sciencedirect.com^%2F
 Find pdfurl="//www.sciencedirect.com/
-Replace pdfurl="//swww.sciencedirect.com/
+Replace pdfurl="//^swww.sciencedirect.com^/
 Find redirect_uri=https://
 Replace redirect_uri=https://^A
 Find "null/
-Replace "//swww.sciencedirect.com/
+Replace "//^swww.sciencedirect.com^/
 AnonymousURL -*
 
 #Elsevier Scopus
@@ -55,7 +55,7 @@ DJ scopus.com
 Find gsUrl%22%3A%22https%3A%2F%2Fwww.scopus.com%2F
 Replace gsUrl%22%3A%22https%3A%2F%2F^pwww.scopus.com^%2F
 Find ["APP_DOMAIN"] = "www.scopus.com";
-Replace ["APP_DOMAIN"] = "swww.scopus.com";
+Replace ["APP_DOMAIN"] = "^swww.scopus.com^";
 Find redirect_uri=https://
 Replace redirect_uri=https://^A
 AnonymousURL -*
