@@ -1,4 +1,4 @@
-Title LLMC Digital (updated 20210517)
+Title LLMC (updated 20251031)
 URL https://www.llmc.com
 HJ www.llmcdigital.com
 HJ llmcdigital.com
@@ -8,3 +8,4 @@ DJ llmc.com
 HJ www.llmcdigital.org
 HJ llmcdigital.org
 DJ llmcdigital.org
+HJ https://discover.llmc.com
