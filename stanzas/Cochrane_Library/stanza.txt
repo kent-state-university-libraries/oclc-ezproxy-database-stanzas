@@ -1,17 +1,26 @@
-Title Cochrane (Updated 20230717)
+AnonymousURL +https://data-test.cochrane.org/*.js*
+AnonymousURL +https://data-test.cochrane.org/search/picoconcepts*
+AnonymousURL +https://data-test.cochrane.org/pico-search?*
+Title Cochrane (updated 20251103)
 HTTPHeader -request -process X-Requested-With
-URL http://www.cochranelibrary.com/
+URL https://www.cochranelibrary.com/
 HJ cochrane.org
-HJ cochranelibrary-wiley.com
 HJ cochranelibrary.com
+HJ cochranelibrary-wiley.com
+HJ data.cochrane.org
+HJ data-test.cochrane.org
 HJ handbook.cochrane.org
 HJ https://cochrane.org
-HJ https://cochranelibrary-wiley.com
 HJ https://cochranelibrary.com
+HJ https://cochranelibrary-wiley.com
+HJ https://data.cochrane.org
+HJ https://data-test.cochrane.org
 HJ https://handbook.cochrane.org
 HJ https://revman.cochrane.org
 HJ https://thecochranelibrary.com
 HJ https://training.cochrane.org
+HJ https://training.cochrane.org/
+HJ https://wileypublishing.112.2o7.net
 HJ https://www.cochrane.org
 HJ https://www.cochranelibrary.com
 HJ https://www.thecochranelibrary.com
@@ -19,6 +28,7 @@ HJ https://www.wileyhealthlearning.com
 HJ revman.cochrane.org
 HJ thecochranelibrary.com
 HJ training.cochrane.org
+HJ wileypublishing.112.2o7.net
 HJ www.cochrane.org
 HJ www.cochranejournalclub.com
 HJ www.cochranelibrary.com
@@ -30,23 +40,20 @@ DJ cochranelibrary-wiley.com
 DJ thecochranelibrary.com
 DJ wiley.com
 DJ wileyhealthlearning.com
-HJ https://training.cochrane.org/
-HJ http://training.cochrane.org/
 NeverProxy https://login.cochrane.org
 NeverProxy https://training-noproxy.cochrane.org
-Neverproxy https://static.cochrane.org
 NeverProxy https://static.test.cochrane.org
-Neverproxy http://static.cochrane.org
 NeverProxy http://static.test.cochrane.org
-Neverproxy https://data.cochrane.org
-Neverproxy http://data.cochrane.org
-NeverProxy https://data.test.cochrane.org
-NeverProxy http://data.test.cochrane.org
 Find https://cochranelibrary#x2e;com
 Replace https://^scochranelibrary.com^
 Find https://cochranelibrary-wiley#x2e;com
 Replace https://^scochranelibrary-wiley.com^
 Find https://thecochranelibrary#x2e;com
 Replace https://^sthecochranelibrary.com^
+Find https://www.cochranelibrary.com
+Replace https://^swww.cochranelibrary.com^
+Find /pico-search?contentType=http://data.cochrane.org
+Replace /pico-search?contentType=http://^Adata.cochrane.org
 Find https&#x3a;&#x2f;&#x2f;www&#x2e;cochranelibrary&#x2e;com
 Replace https://^swww.cochranelibrary.com^
+AnonymousURL -*
