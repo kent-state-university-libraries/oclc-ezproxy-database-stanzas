@@ -41,7 +41,7 @@ AnonymousURL +http://syndic8.scopus.com/*
 AnonymousURL +https://components.scopus.com/*
 AnonymousURL -OPTIONS +https://components.scopus.com/*
 Title Scopus (updated 20251104)
-HTTPHeader -request -process authentication-service
+HTTPHeader -request -process authentication-source
 MimeFilter text/uri-list .* javascript
 MimeFilter application/json .* javascript
 URL https://www.scopus.com/home.url
