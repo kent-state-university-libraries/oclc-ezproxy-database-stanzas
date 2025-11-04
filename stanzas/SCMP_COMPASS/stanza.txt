@@ -1,8 +1,7 @@
 AnonymousURL +https://tech-newsroom-assets-prod.oss-cn-hongkong.aliyuncs.com/*
 AnonymousURL +https://www.scmp.com/*
 AnonymousURL +https://yp.scmp.com/*
-Title SCMP COMPASS (updated 20210422)
-HTTPHeader -response -edit Access-Control-Allow-Origin
+Title SCMP COMPASS (updated 20251104)
 MimeFilter application/json .* javascript
 URL https://compass.scmp.com
 HJ https://tech-newsroom-assets-prod.oss-cn-hongkong.aliyuncs.com

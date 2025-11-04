@@ -1,23 +1,23 @@
 # Elsevier ScienceDirect
 Cookie BROWSER_SUPPORTS_COOKIES=1;domain=.sciencedirect.com
 AnonymousURL +https://rss.sciencedirect.com/
-Title ScienceDirect (Updated 20251022)
+Title ScienceDirect (updated 20251104)
 URL https://www.sciencedirect.com
-HJ https://www.sciencedirect.com
-HJ https://sciencedirect.com
-HJ http://www.sciencedirect.com
-HJ sciencedirect.com
-HJ linkinghub.elsevier.com
-HJ https://linkinghub.elsevier.com
-HJ www.elsevier.com
 HJ admintool.elsevier.com
-HJ https://admintool.elsevier.com
-HJ online.tableau.com
 HJ help-admintool.elsevier.com
+HJ http://www.sciencedirect.com
+HJ https://admintool.elsevier.com
+HJ https://linkinghub.elsevier.com
+HJ https://sciencedirect.com
+HJ https://www.sciencedirect.com
+HJ linkinghub.elsevier.com
+HJ online.tableau.com
+HJ sciencedirect.com
 HJ tableau-admintool.elsevier.com
+HJ www.elsevier.com
+DJ els-cdn.com
 DJ sciencedirect.com
-DJ www.elsevier.com
-DJ *.els-cdn.com
+DJ elsevier.com
 Find value="http://
 Replace value="http://^A
 Find %22%3A%22https%3A%2F%2Fsciverse-shindig.elsevier.com%2F
@@ -40,24 +40,25 @@ HTTPMethod OPTIONS
 AnonymousURL +http://syndic8.scopus.com/*
 AnonymousURL +https://components.scopus.com/*
 AnonymousURL -OPTIONS +https://components.scopus.com/*
-Title Scopus (updated 20251024)
+Title Scopus (updated 20251104)
 HTTPHeader -request -process authentication-service
 MimeFilter text/uri-list .* javascript
 MimeFilter application/json .* javascript
 URL https://www.scopus.com/home.url
+HJ https://www.elsevier.com
 HJ https://www.scopus.com
 HJ https://www2.scopus.com
-HJ www2.scopus.com
-HJ https://www.elsevier.com
-DJ www.elsevier.com
 HJ www.scopus.com
+HJ www2.scopus.com
 DJ scopus.com
+DJ elsevier.com
 Find gsUrl%22%3A%22https%3A%2F%2Fwww.scopus.com%2F
 Replace gsUrl%22%3A%22https%3A%2F%2F^pwww.scopus.com^%2F
 Find ["APP_DOMAIN"] = "www.scopus.com";
 Replace ["APP_DOMAIN"] = "^swww.scopus.com^";
 Find redirect_uri=https://
 Replace redirect_uri=https://^A
+NeverProxy rum.scopus.com
 AnonymousURL -*
 
 Title -hide Elsevier Identity
