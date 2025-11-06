@@ -1,0 +1,12 @@
+Option CookiePassthrough
+AnonymousURL -OPTIONS +https://enterprise.ranenetwork.com/core-intel/*
+Title RANENETWORK (20251106)
+HTTPHeader -request -process X-CSRFToken
+HTTPHeader -request -process X-Request-From
+HTTPHeader -request -process Request-From
+URL https://enterprise.ranenetwork.com
+HJ https://enterprise.ranenetwork.com
+HJ enterprise.ranenetwork.com
+DJ enterprise.ranenetwork.com
+AnonymousURL -*
+Option Cookie

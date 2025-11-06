@@ -1,0 +1,20 @@
+HTTPMethod OPTIONS
+HTTPMethod PUT
+HTTPMethod PATCH
+HTTPMethod DELETE
+Title ClickView (updated 20251106)
+HTTPHeader -request -process x-route-prefix
+URL https://clickview.net
+HJ https://www.clickview.net
+HJ https://manage.clickview.net
+HJ https://analytics.clickview.net
+HJ https://tv.clickview.net
+HJ https://launch.clickview.net
+HJ https://auth.clickviewapp.com
+HJ clickview.net
+HJ auth.clickviewapp.com
+HJ manage.clickview.net
+HJ launch.clickview.net
+HJ analytics.clickview.net
+HJ tv.clickview.net
+DJ clickview.net
