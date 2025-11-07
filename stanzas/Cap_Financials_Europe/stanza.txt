@@ -1,0 +1,5 @@
+Title Cap Financials Europe (updated 20251107)
+HTTPheader -request -process X-Request-Id
+URL https://app.capfieurope.com
+HJ http://app.capfieurope.com
+DJ capfieurope.com
