@@ -1,34 +1,36 @@
 AnonymousURL +https://wp.aow.degruyter.com/wp-content/*
-Title De Gruyter (updated 20250328)
+Title De Gruyter (updated 20251110)
 HTTPHeader -request -process X-Requested-With
 URL https://www.degruyterbrill.com
 HJ https://aow.degruyter.com
 HJ https://apikeys.civiccomputing.com
 HJ https://bdt.degruyter.com
-HJ https://california.degruyter.com/
-HJ https://chicago.degruyter.com/
-HJ https://columbia.degruyter.com/
-HJ https://cornellup.degruyter.com/
+HJ https://california.degruyter.com
+HJ https://chicago.degruyter.com
+HJ https://columbia.degruyter.com
+HJ https://cornellup.degruyter.com
 HJ https://db.degruyter.com
 HJ https://db.saur.de
 HJ https://degruyter.com
 HJ https://degruyterbrill.com
-HJ https://hup.degruyter.com/
-HJ https://mco.degruyter.com/
-HJ https://penn.degruyter.com/
-HJ https://princetonup.degruyter.com/
-HJ https://rutgers.degruyter.com/
+HJ https://hup.degruyter.com
+HJ https://mco.degruyter.com
+HJ https://penn.degruyter.com
+HJ https://princetonup.degruyter.com
+HJ https://reference-global.com
+HJ https://rutgers.degruyter.com
 HJ https://tll.degruyter.com
-HJ https://toronto.degruyter.com/
-HJ https://transcript.degruyter.com/
+HJ https://toronto.degruyter.com
+HJ https://transcript.degruyter.com
 HJ https://wbis.degruyter.com
-HJ https://wp.aow.degruyter.com/
+HJ https://wp.aow.degruyter.com
 HJ https://www.degruyter.com
 HJ https://www.degruyter.de
 HJ https://www.degruyterbrill.com
 HJ https://www.pschyrembel.de
+HJ https://www.reference-global.com
 HJ https://www.rgz-rgst.degruyter.de
-HJ https://yaleup.degruyter.com/
+HJ https://yaleup.degruyter.com
 HJ aow.degruyter.com
 HJ apikeys.civiccomputing.com
 HJ bdt.degruyter.com
@@ -45,6 +47,7 @@ HJ hup.degruyter.com
 HJ mco.degruyter.com
 HJ princetonup.degruyter.com
 HJ penn.degruyter.com
+HJ reference-global.com
 HJ rutgers.degruyter.com
 HJ tll.degruyter.com
 HJ toronto.degruyter.com
@@ -54,6 +57,7 @@ HJ wp.aow.degruyter.com/
 HJ www.degruyter.com
 HJ www.degruyter.de
 HJ www.degruyterbrill.com
+HJ www.reference-global.com
 HJ www.rgz-rgst.degruyter.de
 HJ www.pschyrembel.de
 HJ yaleup.degruyter.com
