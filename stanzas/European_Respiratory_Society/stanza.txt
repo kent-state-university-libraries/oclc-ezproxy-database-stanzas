@@ -1,10 +1,12 @@
-Title European Respiratory Society (updated 20241110)
+Title European Respiratory Society (updated 20251112)
 URL https://publications.ersnet.org
-HJ publications.ersnet.org
 HJ https://idp.sams-sigma.com
+HJ publications.ersnet.org
 DJ publications.ersnet.org
+Find href=\u0022https:\/\/publications.ersnet.org
+Replace href=\u0022https:\/\/^Spublications.ersnet.org^
 
-Title European Respiratory Redirects (20241110)
+Title European Respiratory Redirects (updated 20220627)
 URL https://erj.ersjournals.com/
 HJ books.ersjournals.com
 HJ breathe.ersjournals.com
