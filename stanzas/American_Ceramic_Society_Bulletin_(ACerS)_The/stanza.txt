@@ -1,5 +1,13 @@
-Title The American Ceramic Society Bulletin(ACerS) (updated 20250731)
+AnonymousURL +https://yx2bmangqu1z8jckp-1.a1.typesense.net/multi_search?x-typesense-api-key*
+Title The American Ceramic Society Bulletin(ACerS) (updated 20251118)
 URL https://bulletin.ceramics.org
-HJ https://bulletin.ceramics.org
 HJ bulletin.ceramics.org
+HJ https://bulletin.ceramics.org
+HJ https://yx2bmangqu1z8jckp-1.a1.typesense.net
+HJ yx2bmangqu1z8jckp-1.a1.typesense.net
 DJ bulletin.ceramics.org
+Find https:\/\/
+Replace https://
+Find "node":"yx2bmangqu1z8jckp-1.a1.typesense.net"
+Replace "node":"^Syx2bmangqu1z8jckp-1.a1.typesense.net^"
+AnonymousURL -*
