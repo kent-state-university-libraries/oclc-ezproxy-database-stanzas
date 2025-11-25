@@ -1,7 +1,8 @@
-Title IndexPresse Business (updated 20250430)
+Title IndexPresse Business (updated 20251125)
 URL https://indexpresse.vercel.app/fr
 HJ https://indexpresse.vercel.app
 HJ https://www.indexpresse.vercel.app
 HJ indexpresse.vercel.app
 HJ www.indexpresse.vercel.app
 DJ indexpresse.vercel.app
+NeverProxy indexpresse-proxy.vercel.app
