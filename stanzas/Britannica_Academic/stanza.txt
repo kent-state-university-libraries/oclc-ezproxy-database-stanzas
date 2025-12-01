@@ -1,5 +1,5 @@
 AnonymousURL +https://questservice.eb.com/api/*
-Title Britannica - Academic (updated 20240411)
+Title Britannica - Academic (updated 20251201)
 URL https://academic.eb.com
 HJ academic.eb.com
 HJ america.eb.com
@@ -7,6 +7,7 @@ HJ archive.school.eb.com
 HJ escolar.eb.com
 HJ global.eb.com
 HJ https://individual.eb.com
+HJ https://quest.eb.com
 HJ https://school.eb.com
 HJ https://secure.eb.com
 HJ individual.eb.com
@@ -49,8 +50,8 @@ NeverProxy media-2.web.britannica.com
 NeverProxy media-3.web.britannica.com
 NeverProxy atlas.eb.com
 
-T Britannica - Consumer (updated 20240411)
-U https://britannica.com
+Title Britannica - Consumer (updated 20240411)
+URL https://britannica.com
 HJ britannica.com
 HJ eb.com
 HJ www.britannica.com
