@@ -1,0 +1,9 @@
+Title Beamafilm (updated 20251204)
+URL https://www.beamafilm.com/landing/[Library]
+HJ https://[Library].beamafilm.com
+HJ [Library].beamafilm.com
+HJ https://www.beamafilm.com
+HJ https://beamafilm.com
+HJ www.beamafilm.com
+HJ beamafilm.com
+DJ beamafilm.com
