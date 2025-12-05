@@ -1,5 +1,14 @@
-T Airiti Library (updated 20220524)
-U https://www.airitilibrary.com
+Title Airiti Library (updated 20251205)
+URL https://www.airitilibrary.com
 HJ https://www.airitilibrary.com
+HJ https://www.airitibooks.com
+HJ https://www.airitiaci.com
+HJ https://www.ainoscosearch.com
+HJ www.airitibooks.com
 HJ www.airitilibrary.com
+HJ www.airitiaci.com
+HJ www.ainoscosearch.com
+DJ airitibooks.com
 DJ airitilibrary.com
+DJ airitiaci.com
+DJ ainoscosearch.com

@@ -7,35 +7,44 @@ AnonymousURL +https://myaccount.nejm.org/mmssession/*
 AnonymousURL +https://api.nejmgroup.org/nejm-api/*
 AnonymousURL +https://examservice.nejm.org/ExamService/*
 AnonymousURL +https://cssjs.nejm.org/fonts/*
-Title NEJM Group (updated 20231211)
+AnonymousURL +https://fonts.nejmgroup-production.org/*
+AnonymousURL +https://widgets.nejm.org/*
+AnonymousURL +https://clinician.nejm.org/manifest.webmanifest
+AnonymousURL +https://clinician.nejm.org/_next/static/*
+Title NEJM Group (updated 20251205)
 HTTPHeader -request -process access-control-allow-origin
 HTTPHeader -request -process x-api-key
 HTTPHeader -request -process X-Requested-With
+HTTPHeader -response -block Content-Security-Policy
+HTTPHeader -request -edit User-Agent (hh:value . " EZProxy")
 URL https://www.nejm.org
-HJ catalyst.nejm.org
-HJ evidence.nejm.org
-HJ ai.nejm.org
+HJ https://www.nejm.org
 HJ https://catalyst.nejm.org
 HJ https://evidence.nejm.org
 HJ https://ai.nejm.org
+HJ https://clinician.nejm.org
 HJ https://knowledgeplus.nejm.org
 HJ https://libraryhub.nejm.org
 HJ https://myaccount.nejm.org
-HJ https://nejm.org
 HJ https://resident360.nejm.org
+HJ https://nejm.org
 HJ https://search.nejm.org
 HJ https://store.nejm.org
 HJ https://www.jwatch.org
 HJ https://www.nejmcareercenter.org
+HJ www.nejm.org
+HJ catalyst.nejm.org
+HJ evidence.nejm.org
+HJ ai.nejm.org
+HJ clinician.nejm.org
 HJ knowledgeplus.nejm.org
 HJ libraryhub.nejm.org
 HJ myaccount.nejm.org
-HJ nejm.org
 HJ resident360.nejm.org
+HJ nejm.org
 HJ search.nejm.org
 HJ store.nejm.org
 HJ www.jwatch.org
-HJ www.nejm.org
 HJ www.nejmcareercenter.org
 DJ jwatch.org
 DJ nejm.org
