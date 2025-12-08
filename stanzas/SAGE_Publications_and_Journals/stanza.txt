@@ -9,7 +9,7 @@
 # This method allows you to replace the file at a later date
 # without the need to integrate updates directly into config.txt/ezproxy.cfg
 #
-Title Sage Journals (updated 20230710)
+Title Sage Journals (updated 20251208)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process __RequestVerificationToken
 HTTPHeader -request -process X-XSRF-Token
@@ -35,6 +35,8 @@ HJ www.physiology.org
 HJ www.sagepub.co.uk
 HJ www.sagepub.com
 HJ campus.sagepub.com
+HJ https://cqpcollections.sagepub.com
+HJ cqpcollections.sagepub.com
 HJ cqpress.sagepub.com
 HJ https://cqpress.sagepub.com
 HJ https://campus.sagepub.com
@@ -66,12 +68,6 @@ DJ nybooks.com
 DJ physiology.org
 DJ sagepub.co.uk
 DJ sagepub.com
-NeverProxy widgets.sagepub.com
-NeverProxy widgetscdn.sagepub.com
-NeverProxy scpassetsrepcdn.sagepub.com
-NeverProxy scpassetscdn.sagepub.com
-NeverProxy scpassetsreplegcdn.sagepub.com
-NeverProxy scpassetslegcdn.sagepub.com
 Find https:\/\/classroom.sagepub.com
 Replace https:\/\/^Sclassroom.sagepub.com^
 Find url = "http://
@@ -80,6 +76,13 @@ Find url = "https://
 Replace url = "https://^A
 Find url = document.location.protocol + "//" + document.location.host
 Replace url = "https://journals.sagepub.com/"
+NeverProxy widgets.sagepub.com
+NeverProxy widgetscdn.sagepub.com
+NeverProxy scpassetsrepcdn.sagepub.com
+NeverProxy scpassetscdn.sagepub.com
+NeverProxy scpassetsreplegcdn.sagepub.com
+NeverProxy scpassetslegcdn.sagepub.com
+NeverProxy for srmiapi.sagepub.com
 
 Title Sage Publications (updated 20201207)
 HTTPHeader -request -process X-Requested-With
@@ -96,15 +99,7 @@ Replace "^pgoogle-analytics.com^
 Find url =  document.location.protocol + "//" + document.location.host
 Replace url =  "http://^Aonline.sagepub.com"
 
-Title Data Planet (updated 20210909)
-HTTPHeader -request -process X-XSRF-Token
-HTTPHeader -request -process __RequestVerificationToken
-URL https://dataplanet.sagepub.com
-HJ http://statisticaldatasets.data-planet.com
-HJ https://dataplanet.sagepub.com
-HJ https://dataplanet-auth.sagepub.com
-DJ data-planet.com
-#
+
 # The following Host lines are only required if you create
 # starting point URLs directly to specific SAGE journals.
 # You can omit the Host lines if you always enter SAGE through
