@@ -9,7 +9,7 @@
 # This method allows you to replace the file at a later date
 # without the need to integrate updates directly into config.txt/ezproxy.cfg
 #
-Title Sage Journals (updated 20251208)
+Title Sage Journals (updated 20251209)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process __RequestVerificationToken
 HTTPHeader -request -process X-XSRF-Token
@@ -82,7 +82,7 @@ NeverProxy scpassetsrepcdn.sagepub.com
 NeverProxy scpassetscdn.sagepub.com
 NeverProxy scpassetsreplegcdn.sagepub.com
 NeverProxy scpassetslegcdn.sagepub.com
-NeverProxy for srmiapi.sagepub.com
+NeverProxy srmiapi.sagepub.com
 
 Title Sage Publications (updated 20201207)
 HTTPHeader -request -process X-Requested-With
