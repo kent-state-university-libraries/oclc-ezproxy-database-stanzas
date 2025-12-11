@@ -1,6 +1,11 @@
-Title Blackstones Police Service (updated 20190410)
+Title Blackstones Police Service (updated 20251211)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://www.blackstonespoliceservice.com
+HJ https://www.blackstonespoliceservice.com
 HJ https://blackstonespoliceservice.com
 HJ blackstonespoliceservice.com
 HJ www.blackstonespoliceservice.com
 DJ blackstonespoliceservice.com
+NeverProxy oup-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup3-idp.sams-sigma.com

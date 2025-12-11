@@ -1,8 +1,13 @@
-Title Oxford Bibliographies (updated 20200120)
+Title Oxford Bibliographies (updated 20251211)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://www.oxfordbibliographies.com
+HJ https://www.oxfordbibliographies.com
 HJ https://oxfordbibliographies.com
 HJ www.oxfordbibliographies.com
 HJ oxfordbibliographies.com
 HJ oxfordbibliographiesonline.com
 HJ www.oxfordbibliographiesonline.com
 DJ oxfordbibliographies.com
+NeverProxy oup-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup3-idp.sams-sigma.com

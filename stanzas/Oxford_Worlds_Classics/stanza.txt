@@ -1,6 +1,11 @@
-Title Oxford Worlds Classics (updated 20201216)
+Title Oxford Worlds Classics (updated 20251211)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://www.oxfordworldsclassics.com
+HJ https://www.oxfordworldsclassics.com
 HJ www.oxfordworldsclassics.com
 HJ https://oxfordworldsclassics.com
 HJ oxfordworldsclassics.com
 DJ oxfordworldsclassics.com
+NeverProxy oup-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup3-idp.sams-sigma.com

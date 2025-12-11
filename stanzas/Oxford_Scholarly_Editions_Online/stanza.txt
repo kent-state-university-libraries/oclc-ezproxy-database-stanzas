@@ -1,6 +1,11 @@
-Title Oxford Scholarly Editions Online (updated 20190410)
+Title Oxford Scholarly Editions Online (updated 20251211)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://www.oxfordscholarlyeditions.com
+HJ https://www.oxfordscholarlyeditions.com
 HJ https://oxfordscholarlyeditions.com
 HJ www.oxfordscholarlyeditions.com
 HJ oxfordscholarlyeditions.com
 DJ oxfordscholarlyeditions.com
+NeverProxy oup-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup3-idp.sams-sigma.com
