@@ -1,6 +1,17 @@
-TITLE Oxford Dictionaries Premium
+Option CookiePassThrough
+HTTPMethod OPTIONS
+HTTPMethod PATCH
+HTTPMethod DELETE
+TITLE Oxford Dictionaries Premium (updated 20251211)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://premium.oxforddictionaries.com
+HJ https://premium.oxforddictionaries.com
 Domain premium.oxforddictionaries.com
 HJ premium.oxforddictionaries.com
 DJ ouptag.scholarlyiq.com
 DJ www.google-analytics.com
+Option Cookie
+NeverProxy cdn.privado.ai
+NeverProxy oup-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup3-idp.sams-sigma.com

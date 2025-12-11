@@ -1,7 +1,12 @@
-Title Oxford African American Studies Center (updated 20240319)
+Title Oxford African American Studies Center (updated 20251211)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 HTTPHeader -request -process X-Requested-With
 URL https://www.oxfordaasc.com/
+HJ https://www.oxfordaasc.com/
 HJ https://oxfordaasc.com
 HJ oxfordaasc.com
 HJ www.oxfordaasc.com
 DJ oxfordaasc.com
+NeverProxy oup-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup3-idp.sams-sigma.com

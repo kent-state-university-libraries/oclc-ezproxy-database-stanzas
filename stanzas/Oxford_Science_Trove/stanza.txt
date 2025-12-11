@@ -1,8 +1,11 @@
-Title Oxford Science Trove (Added 20230830)
+Title Oxford Science Trove (updated 20251211)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://oxfordsciencetrove.com
-HJ https://www.oxfordsciencetrove.com
 HJ https://oxfordsciencetrove.com
-HJ http://oxfordsciencetrove.com
+HJ https://www.oxfordsciencetrove.com
 HJ www.oxfordsciencetrove.com
 HJ oxfordsciencetrove.com
 DJ oxfordsciencetrove.com
+NeverProxy oup-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup3-idp.sams-sigma.com

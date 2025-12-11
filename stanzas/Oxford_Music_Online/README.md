@@ -1,5 +1,5 @@
 # Oxford Music Online
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Music_Online](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Music_Online) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Music_Online](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Music_Online) **
 
 ## Some of OCLC's notes for this stanza
 
