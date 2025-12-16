@@ -1,7 +1,21 @@
-Title Architectural Design (updated 20250825)
-URL https://archdesignjournal.com
+Title Architectural Design (updated 20251215)
+URL https://architecturaldesign-ad.com
+HJ https://architecturaldesign-ad.com
+HJ architecturaldesign-ad.com
 HJ https://archdesignjournal.com
+HJ archdesignjournal.com
 HJ https://www.archdesignjournal.com
 HJ www.archdesignjournal.com
-HJ archdesignjournal.com
+HJ https://assets.emagazines.com
+HJ assets.emagazines.com
+HJ https://digital.emagazines.com
+HJ digital.emagazines.com
+HJ https://library.emagazines.com
+HJ library.emagazines.com
+HJ https://link.emagazines.com
+HJ link.emagazines.com
+HJ https://www.architecturaldesign-ad.com
+HJ www.architecturaldesign-ad.com
 DJ archdesignjournal.com
+DJ architecturaldesign-ad.com
+DJ emagazines.com
