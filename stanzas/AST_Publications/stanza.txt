@@ -1,13 +1,14 @@
-Title AST Publications (updated 20250801)
-URL https://astpublications.com
+Title AST Publications (updated 20251217)
+URL https://artsonginstitutional.com
+HJ https://artsonginstitutional.com
+HJ https://www.artsonginstitutional.com
 HJ https://artsongtranspositions.com
 HJ http://artsongtranspositions.com
+HJ https://astpublications.com
 HJ http://astpublications.com
 HJ artsonginstitutional.com
 HJ https://www.astpublications.com
 HJ https://www.artsongtranspositions.com
-HJ https://www.artsonginstitutional.com
-HJ https://artsonginstitutional.com
 HJ www.astpublications.com
 HJ www.artsongtranspositions.com
 HJ www.artsonginstitutional.com
