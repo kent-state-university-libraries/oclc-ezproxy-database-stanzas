@@ -1,0 +1,16 @@
+Title IG Publishing eBook (updated 20251212)
+HTTPHeader -request -process X-Session-Id
+HTTPHeader -request -process X-Token
+URL https://portal.igpublish.com/
+HJ https://portal.igpublish.com
+HJ portal.igpublish.com
+HJ https://new.igpublish.com
+HJ new.igpublish.com
+DJ new.igpublish.com
+HJ https://bep.igpublish.com
+HJ bep.igpublish.com
+DJ igpublish.com
+NeverProxy 101.igpublish.com
+NeverProxy 101.igpublish.com:5000
+NeverProxy 81.igpublish.com
+NeverProxy 81.igpublish.com:5000
