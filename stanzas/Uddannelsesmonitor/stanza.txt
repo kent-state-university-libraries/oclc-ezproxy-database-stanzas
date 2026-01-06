@@ -1,0 +1,15 @@
+Title Uddannelsesmonitor (updated 20260106)
+ByteServe https://uddannelsesmonitor\.dk/.*
+HTTPHeader -request -process baggage
+HTTPHeader -request -process Next-Action
+HTTPHeader -request -process Next-Router-Prefetch
+HTTPHeader -request -process Next-Router-State-Tree
+HTTPHeader -request -process Next-Url
+HTTPHeader -request -process Rsc
+HTTPHeader -request -process sentry-trace
+URL https://uddannelsesmonitor.dk
+HJ https://uddannelsesmonitor.dk
+HJ https://www.uddannelsesmonitor.dk
+HJ uddannelsesmonitor.dk
+HJ www.uddannelsesmonitor.dk
+DJ uddannelsesmonitor.dk
