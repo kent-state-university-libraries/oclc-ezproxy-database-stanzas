@@ -1,0 +1,17 @@
+HTTPMethod PUT
+HTTPMethod PATCH
+HTTPMethod DELETE
+HTTPMethod OPTIONS
+AnonymousURL +*/_next/*
+Option MetaEZproxyRewriting
+Title Reference Global (updated 20260102)
+URL https://reference-global.com
+HJ https://reference-global.com
+HJ reference-global.com
+HJ https://cdn.reference-global.com
+HJ cdn.reference-global.com
+HJ https://api.reference-global.com
+HJ api.reference-global.com
+DJ reference-global.com
+AnonymousURL -*
+Option NoMetaEZproxyRewriting
