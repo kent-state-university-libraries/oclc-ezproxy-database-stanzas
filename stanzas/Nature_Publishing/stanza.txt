@@ -1,4 +1,4 @@
-Title Nature Publishing (updated 20211116)
+Title Nature Publishing (updated 20260106)
 URL https://www.nature.com
 HJ ajandrology.com
 HJ labanimal.com
@@ -33,3 +33,5 @@ DJ nexus.ensighten.com
 DJ npgjournals.com
 Find nexus.ensighten.com
 Replace ^pnexus.ensighten.com^
+Find iframe data-src="https://www.youtube.com/
+Replace iframe src="https://www.youtube.com/
