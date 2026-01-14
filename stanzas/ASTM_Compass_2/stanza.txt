@@ -1,9 +1,25 @@
+#ASTM Digital Library (place FIRST to avoid DJ conflicts)
+
+Title ASTM Digital Library (updated 20260114)
+HTTPMethod OPTIONS
+HTTPMethod DELETE
+HTTPMethod PUT
+URL https://dl.astm.org
+HJ dl.astm.org
+HJ https://dl.astm.org
+DJ dl.astm.org
+NeverProxy iam.astm.org
+NeverProxy cdn.jsdelivr.net
+NeverProxy authz.astm.org
+
+#ASTM Compass 2.0
+
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 AnonymousURL -OPTIONS +https://secure.astm.org/*
 AnonymousURL +https://compass.astm.org/*
-Title ASTM Compass 2.0 (updated 20250704)
+Title ASTM Compass 2.0 (updated 20260108)
 HTTPHeader -request -process x-okta-user-agent-extended
 HTTPHeader -request -process x-okta-request-id
 HTTPHeader -request -process XSRF-TOKEN "*"
@@ -12,21 +28,20 @@ HTTPHeader -request -process RequestId "*"
 MimeFilter application/json .* javascript
 URL https://secure.astm.org/login?redirectUrl=aHR0cHM6Ly9jb21wYXNzLmFzdG0ub3Jn&newApproach=true
 HJ astm.org
-HJ dl.astm.org
 HJ https://astm.org
-HJ https://dl.astm.org
 HJ https://store.astm.org
 HJ secure.astm.org
 HJ store.astm.org
 DJ astm.org
-NeverProxy iam.astm.org
-NeverProxy compass.astm.org
-NeverProxy v2compass.astm.org
-NeverProxy cdn.jsdelivr.net
 Find proxycl=https://
 Replace proxycl=https://^A
 Find www.astm.org
 Replace ^Swww.astm.org^
 Find store.astm.org
 Replace ^Sstore.astm.org^
+NeverProxy iam.astm.org
+NeverProxy compass.astm.org
+NeverProxy v2compass.astm.org
+NeverProxy cdn.jsdelivr.net
+NeverProxy authz.astm.org
 AnonymousURL -*

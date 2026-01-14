@@ -1,6 +1,6 @@
 AnonymousURL +https://ibaseptn.infobase.com/graphql
 AnonymousURL +https://learn360.infobase.com/Interactives/*
-Title Infobase (updated 20251208)
+Title Infobase (updated 20260114)
 URL https://access.infobase.com
 HJ https://access.infobase.com
 HJ https://login.infobase.com
@@ -16,8 +16,10 @@ HJ https://digital.films.com
 HJ https://ebooks.infobase.com
 HJ https://ebooks.infobaselearning.com
 HJ https://fcg.infobase.com
+HJ https://ffusa.infobase.com
 HJ https://fod.infobase.com
 HJ https://fofweb.infobase.com
+HJ https://jfk.infobase.com
 HJ https://streaming.factsonfile.com
 HJ https://icof.infobase.com
 HJ https://learn360.infobase.com
@@ -28,6 +30,7 @@ HJ https://online.infobase.com
 HJ https://online.infobaselearning.com
 HJ https://ptn.infobase.com
 HJ https://secure.films.com
+HJ https://themailbox.infobase.com
 HJ https://tsof.infobase.com
 HJ https://video.infobase.com
 HJ https://wak.infobaselearning.com
@@ -45,8 +48,6 @@ HJ credosource.infobase.com
 HJ search.credoreference.com
 HJ https://credoreference.com
 HJ credoreference.com
-HJ https://credosource.infobase.com
-HJ credosource.infobase.com
 HJ https://www.credoreference.com
 HJ www.credoreference.com
 HJ criterionondemand.com
@@ -56,9 +57,11 @@ HJ digital.films.com
 HJ ebooks.infobase.com
 HJ ebooks.infobaselearning.com
 HJ fcg.infobase.com
+HJ ffusa.infobase.com
 HJ fod.infobase.com
 HJ fofweb.com
 HJ fofweb.infobase.com
+HJ jfk.infobase.com
 HJ icof.infobase.com
 HJ learn360.infobase.com
 HJ login.infobase.com
@@ -70,6 +73,7 @@ HJ online.infobaselearning.com
 HJ ptn.infobase.com
 HJ secure.films.com
 HJ streaming.factsonfile.com
+HJ themailbox.infobase.com
 HJ tsof.infobase.com
 HJ video.infobase.com
 HJ wak.infobaselearning.com
