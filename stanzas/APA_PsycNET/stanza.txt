@@ -1,4 +1,4 @@
-Title APA PsycNET (updated 20240325)
+Title APA PsycNET (updated 20260121)
 URL https://psycnet.apa.org
 HJ https://content.apa.org
 HJ content.apa.org
@@ -25,5 +25,7 @@ HJ www.apa.org
 HJ www.psycinfo.com
 DJ apa.org
 DJ psycinfo.com
-NeverProxy https://static.apa.org
-NeverProxy https://cdnjs.cloudflare.com
+NeverProxy static.apa.org
+NeverProxy cdnjs.cloudflare.com
+NeverProxy mystatic1a.apa.org
+NeverProxy mystatic1b.apa.org

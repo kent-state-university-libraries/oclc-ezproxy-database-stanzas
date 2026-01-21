@@ -1,10 +1,15 @@
 Option X-Forwarded-For
 Option DomainCookieOnly
 AnonymousURL +http://staticieeexplore.ieee.org/*
+AnonymousURL +https://conference-api.ieee.org/conf/*
 AnonymousURL +https://staticieeexplore.ieee.org/*
-Title IEEE Xplore (OCLC IncludeFile updated 20220909)
+Title IEEE Xplore (20260121)
+HTTPHeader -request -process Access-Control-Request-Headers
+HTTPHeader -request -process x-api-key
 HTTPHeader -response -block Content-Security-Policy
 URL https://ieeexplore.ieee.org/
+HJ https://conference-api.ieee.org
+HJ https://conferences.ieee.org
 HJ https://innovate.ieee.org
 HJ https://m.ieeexplore.ieee.org
 HJ https://search.ieeexplore.ieee.org
@@ -24,6 +29,6 @@ DJ ieee.org
 AnonymousURL -*
 Option Cookie
 Option NoX-Forwarded-For
-NeverProxy iln.ieee.org
 NeverProxy ea.iln.ieee.org
+NeverProxy iln.ieee.org
 NeverProxy www.ieee.org

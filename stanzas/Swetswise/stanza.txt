@@ -1,0 +1,6 @@
+Title Swetswise (updated 20260121)
+URL http://www.swetswise.com
+Domain swetswise.com
+Host https://www.swetswise.com
+Find https://www.swetswise.com/shibboleth/
+Replace https://www-swetswise-com.^H/shibboleth/

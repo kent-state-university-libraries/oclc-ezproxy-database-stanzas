@@ -1,4 +1,12 @@
-Title New Left Review
-URL http://newleftreview.org/search
-Host www.newleftreview.org
-Domain newleftreview.org
+Title New Left Review (updated 20260121)
+URL http://newleftreview.org
+HJ www.newleftreview.org
+HJ newleftreview.org
+HJ https://newleftreview.org
+HJ https://www.newleftreview.org
+DJ newleftreview.org
+HJ newleftreview.es
+HJ https://newleftreview.es
+HJ www.newleftreview.es
+HJ https://www.newleftreview.es
+DJ newleftreview.es

@@ -1,5 +1,5 @@
-Title GEOPlugin (OCLC IncludeFile updated 20200423)
+Title GEOPlugin (updated 20260121)
 URL https://ssl.geoplugin.net
 Host https://ssl.geoplugin.net
 HJ ssl.geoplugin.net
-DJ geoplugin.ne
+DJ geoplugin.net
