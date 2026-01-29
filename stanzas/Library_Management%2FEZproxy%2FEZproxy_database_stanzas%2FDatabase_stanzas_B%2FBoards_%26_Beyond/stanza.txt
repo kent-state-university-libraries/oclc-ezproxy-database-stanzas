@@ -1,0 +1,12 @@
+AnonymousURL +https://api.boardsbeyond.com/*
+Title Boards & Beyond (updated 20260129)
+URL https://boardsbeyond.com
+HJ https://boardsbeyond.com
+HJ boardsbeyond.com
+HJ https://www.boardsbeyond.com
+HJ www.boardsbeyond.com
+DJ boardsbeyond.com
+AnonymousURL -*
+NeverProxy institution-api.boardsbeyond.com
+NeverProxy adminapi.boardsbeyond.com
+NeverProxy admin.api.boardsbeyond.aih.mh.com
