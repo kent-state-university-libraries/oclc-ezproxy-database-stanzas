@@ -1,7 +1,8 @@
+ByteServe ^https://www.cochranelibrary.com/en/advanced-search/pico$
 AnonymousURL +https://data-test.cochrane.org/*.js*
 AnonymousURL +https://data-test.cochrane.org/search/picoconcepts*
 AnonymousURL +https://data-test.cochrane.org/pico-search?*
-Title Cochrane (updated 20251103)
+Title Cochrane (updated 20260213)
 HTTPHeader -request -process X-Requested-With
 URL https://www.cochranelibrary.com/
 HJ cochrane.org

@@ -1,10 +1,15 @@
 Option DomainCookieOnly
-Title CPS (updated 20251125)
+AnonymousURL +https://cps2.pharmacists.ca/cpha-auth/*
+Title CPS (updated 20260212)
 URL https://cps2.pharmacists.ca
 HJ https://cps2.pharmacists.ca
 HJ https://cps.pharmacists.ca
+HJ https://hub.pharmacists.ca
 HJ cps2.pharmacists.ca
 HJ cps.pharmacists.ca
+HJ hub.pharmacists.ca
 DJ pharmacists.ca
 DJ lexi.com
+AnonymousURL -*
 Option Cookie
+NeverProxy ads.pharmacists.ca
