@@ -1,33 +1,77 @@
+HTTPMethod DELETE
+HTTPMethod PUT
+Option CookiePassThrough
+AnonymousURL +https://inspec-analytics-ui-api.theiet.org/*
 AnonymousURL +https://inspec-auth.theiet.org/*
-AnonymousURL +https://analytics-api.iet.org/*
-Title IET Inspec Analytics Standalone (updated 20210914)
+AnonymousURL +https://inspec-direct-api.theiet.org/*
+AnonymousURL +https://ietsso.b2clogin.com/*
+AnonymousURL +https://ietpb2cstorage.blob.core.windows.net/*
+AnonymousURL +https://inspec-direct.theiet.org/*
+AnonymousURL +https://inspec-analytics.theiet.org/*
+AnonymousURL +https://inspec-elastic-api.theiet.org/*
+AnonymousURL +https://inspec-globalassets-api.theiet.org/*
+AnonymousURL +https://ietp-web-app-global-assets.azurewebsites.net/*
+AnonymousURL +https://cc.cdn.civiccomputing.com/*
+AnonymousURL +https://inspec-shib.theiet.org/*
+Title IET Inspec Platform (updated 20260219)
 HTTPHeader -request -process X-Alt-Referer
 HTTPHeader -request -process Authorization
+HTTPHeader -request -process Ocp-Apim-Subscription-Key
+HTTPHeader -request -process Request-Key
+HTTPHeader -request -process X-CSRF-TOKEN
+HTTPHeader -request -process Package
 HTTPHeader -response -edit Access-Control-Allow-Origin "*"
 URL https://inspec-analytics-app.theiet.org/
-HJ https://inspec-analytics.theiet.org
 HJ https://inspec-analytics-app.theiet.org
-HJ inspec-analytics.theiet.org
 HJ inspec-analytics-app.theiet.org
+HJ https://inspec-analytics.theiet.org
+HJ inspec-analytics.theiet.org
+HJ https://inspec-direct-app.theiet.org
+HJ inspec-direct-app.theiet.org
+HJ https://inspec-analytics-ev.theiet.org
+HJ inspec-analytics-ev.theiet.org
+HJ https://inspec-direct.theiet.org
+HJ inspec-direct.theiet.org
 HJ https://inspec-auth.theiet.org
 HJ inspec-auth.theiet.org
-HJ https://analytics-api.iet.org
-HJ analytics-api.iet.org
+HJ https://inspec-analytics-ui-api.theiet.org
+HJ inspec-analytics-ui-api.theiet.org
+HJ https://ietpb2cstorage.blob.core.windows.net
+HJ ietpb2cstorage.blob.core.windows.net
+HJ https://ietsso.b2clogin.com
+HJ ietsso.b2clogin.com
+HJ https://inspec-direct-api.theiet.org
+HJ inspec-direct-api.theiet.org
+HJ https://inspec-elastic-api.theiet.org
+HJ inspec-elastic-api.theiet.org
+HJ https://inspec-globalassets-api.theiet.org
+HJ inspec-globalassets-api.theiet.org
+HJ https://ietp-web-app-global-assets.azurewebsites.net
+HJ ietp-web-app-global-assets.azurewebsites.net
+HJ https://cc.cdn.civiccomputing.com
+HJ cc.cdn.civiccomputing.com
+HJ https://inspec-shib.theiet.org
+HJ inspec-shib.theiet.org
+DJ inspec-direct-app.theiet.org
 DJ inspec-analytics-app.theiet.org
 DJ inspec-auth.theiet.org
-DJ analytics-api.iet.org
+DJ inspec-direct-api.theiet.org
+DJ inspec-analytics-ui-api.theiet.org
+DJ ietpb2cstorage.blob.core.windows.net
+DJ ietsso.b2clogin.com
+DJ inspec-direct.theiet.org
+DJ inspec-analytics.theiet.org
+DJ inspec-elastic-api.theiet.org
+DJ cc.cdn.civiccomputing.com
+DJ ietp-web-app-global-assets.azurewebsites.net
+DJ inspec-shib.theiet.org
 Find "issuer":"https://
 Replace "issuer":"https://^A
-AnonymousURL -*
-
-Title -hide Inspec Identity
-HTTPHeader -request -process Authorization
-HTTPHeader -request -process Package
-HTTPHeader -request -process X-Alt-Referer
-HTTPHeader -response -edit Access-Control-Allow-Origin "*"
-URL https://inspec-auth.theiet.org
-HJ https://inspec-auth.theiet.org
-HJ inspec-auth.theiet.org
-DJ inspec-auth.theiet.org
+Find (hostname == "ietsso.b2clogin.com")
+Replace ("ietsso.b2clogin.com" == "ietsso.b2clogin.com")
+Find document.location.hostname
+Replace "inspec-direct-app.theiet.org"
 Find redirect_uri=https://
 Replace redirect_uri=https://^A
+AnonymousURL -*
+Option Cookie
