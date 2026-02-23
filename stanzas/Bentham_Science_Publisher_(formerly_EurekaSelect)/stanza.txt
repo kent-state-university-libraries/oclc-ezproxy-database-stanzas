@@ -1,0 +1,19 @@
+Title Bentham Science Publisher (Previously Eurekaselect) (updated 20260223)
+URL https://www.benthamdirect.com
+HJ https://www.benthamdirect.com
+HJ www.benthamdirect.com
+HJ https://benthamdirect.com
+HJ benthamdirect.com
+HJ https://www.benthamscience.com
+HJ www.benthamscience.com
+HJ https://benthamscience.com
+HJ benthamscience.com
+HJ https://www.eurekaselect.com
+HJ https://eurekaselect.com
+HJ beta.eurekaselect.com
+HJ bsp-cms.eurekaselect.com
+HJ eurekaselect.com
+HJ www.eurekaselect.com
+DJ eurekaselect.com
+DJ benthamdirect.com
+DJ benthamscience.com
