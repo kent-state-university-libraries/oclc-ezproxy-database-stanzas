@@ -1,9 +1,9 @@
+Option CookiePassThrough
 ProxyHostnameEdit www.ncbi.nlm.nih.gov$ www-ncbi-nlm-nih-gov
 ProxyHostnameEdit pubmed.ncbi.nlm.nih.gov$ pubmed-ncbi-nlm-nih-gov
 AnonymousURL http://www.ncbi.nlm.nih.gov/corehtml/query/static/pubmedsearch.xml*
 AnonymousURL http://pubmed.ncbi.nlm.nih.gov/corehtml/query/static/pubmedsearch.xml*
-Option CookiePassThrough
-Title PubMed (updated 20211130)
+Title PubMed (updated 20260224)
 URL https://pubmed.ncbi.nlm.nih.gov/
 HJ https://www.ncbi.nlm.nih.gov/
 HJ https://pub.ncbi.nlm.nih.gov/
@@ -17,6 +17,11 @@ HJ https://www.pubmedcentral.nih.gov
 HJ ncbi.nlm.nih.gov
 HJ www.ncbi.nlm.nih.gov
 HJ pub.ncbi.nlm.nih.gov
+HJ blast.ncbi.nlm.nih.gov
+HJ druginfo.nlm.nih.gov
+HJ europepmc.org
+HJ eutils.ncbi.nlm.nih.gov
+HJ pubchem.ncbi.nlm.nih.gov
 HJ pubmed.ncbi.nlm.nih.gov
 HJ www.pubmedcentral.nih.gov
 DJ nih.gov
@@ -34,5 +39,6 @@ Find 'https://' + window.location.hostname
 Replace 'https://^spubmed.ncbi.nlm.nih.gov^'
 Find 'https://' + window.location.host +
 Replace 'https://^spubmed.ncbi.nlm.nih.gov^' +
-Option Cookie
 AnonymousURL -*
+Option Cookie
+NeverProxy cdn.ncbi.nlm.nih.gov

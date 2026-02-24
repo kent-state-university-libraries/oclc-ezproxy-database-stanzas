@@ -1,5 +1,5 @@
 # PubMed
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PubMed](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PubMed) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PubMed](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PubMed) **
 
 ## Some of OCLC's notes for this stanza
 
