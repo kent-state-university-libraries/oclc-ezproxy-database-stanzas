@@ -1,0 +1,5 @@
+Title GetFTR (updated 20260225)
+URL https://ct.prod.getft
+HJ https://ct.prod.getft
+HJ ct.prod.getft
+DJ getft.io
