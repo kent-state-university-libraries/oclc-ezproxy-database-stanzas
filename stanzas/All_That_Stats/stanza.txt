@@ -1,5 +1,6 @@
-T All That Stats
-U http://www.allthatstats.com
+Title All That Stats (updated 20260226)
+URL https://www.allthatstats.com/
 HJ allthatstats.com
+HJ https://allthatstats.com
 HJ www.allthatstats.com
 DJ allthatstats.com
