@@ -1,0 +1,8 @@
+Title Kweli TV (updated 20260226)
+URL https://www.kweli.tv/start
+HJ www.kweli.tv
+DJ kweli.tv
+DJ ottapi.ventunotech.com
+DJ ottapiupgrade.ventunotech.com
+Find https:\/\/
+Replace https://
