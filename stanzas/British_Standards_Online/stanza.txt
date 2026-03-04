@@ -1,7 +1,13 @@
-Title British Standards Online
-URL http://bsol.bsigroup.com/
-HJ https://bsol.bsigroup.com
+T British Standards Online (Updated 20260303)
+U https://bsol.bsigroup.com/
+HJ bsigroup.com
 HJ bsol.bsigroup.com
+HJ https://bsigroup.com
+HJ https://bsol.bsigroup.com
+HJ https://knowledge.bsigroup.com
+HJ https://www.bsigroup.com
+HJ knowledge.bsigroup.com
+HJ www.bsigroup.com
 DJ bsi-global.com
 DJ bsigroup.com
 Find &lt;Address>https://
