@@ -1,6 +1,8 @@
-Title [My Institution] WorldCat Discovery (updated 20210806)
+Title [My Institution] WorldCat Discovery
 HTTPHeader -request -process x-oclc-api-key
 HTTPHeader -request -process x-oclc-api-keyn
+HTTPHeader -request -process Oclc-Apin
+HTTPHeader -request -process Oclc-Apik
 URL https://[my institution].on.worldcat.org
 HJ [registry_id].on.worldcat.org
 DJ worldcat.org

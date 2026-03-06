@@ -1,5 +1,5 @@
 # OCLC WorldCat Discovery
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_WorldCat_Discovery](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_WorldCat_Discovery) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OCLC_WorldCat_Discovery](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OCLC_WorldCat_Discovery) **
 
 ## Some of OCLC's notes for this stanza
 
