@@ -1,5 +1,5 @@
 AnonymousURL +https://dotstat-search.oecd.org/api/search?tenant=oecd
-Title OECD iLibrary (updated 20240129)
+Title OECD iLibrary (updated 20260309)
 HTTPHeader -request -process X-Requested-With
 URL https://www.oecd-ilibrary.org/
 HJ data-explorer.oecd.org
@@ -52,4 +52,6 @@ NeverProxy data.oecd.org
 NeverProxy oecd.metastore.ingenta.com
 NeverProxy sdmx.oecd.org
 NeverProxy stats.oecd.org
+NeverProxy *.oecd.orgÂ
+NeverProxy *.oecd-ilibrary.org
 AnonymousURL -*
