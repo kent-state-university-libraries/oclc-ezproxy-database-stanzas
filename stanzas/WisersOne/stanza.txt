@@ -7,7 +7,7 @@ AnonymousURL +https://www.wisersone.com*
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
-Title WisersOne (updated 20200917)
+Title WisersOne (updated 20260309)
 URL https://www.wisersone.com/?gid=YourGID6&user=YourUser
 HTTPHeader -request -process Access-Control-Allow
 HJ login.wisers.net
@@ -19,6 +19,8 @@ HJ cnwe6.wisersone.com
 HJ hkwe6.wisersone.com
 HJ twwe6.wisersone.com
 HJ https://wisersone.com
+HJ datacenter.wisersone.com
+HJ https://datacenter.wisersone.com
 HJ https://wisenews.net
 HJ https://wisers.net
 HJ https://cnwe6.wisersone.com
@@ -27,5 +29,6 @@ HJ https://twwe6.wisersone.com
 DJ wisers.net
 DJ wisenews.net
 DJ wisersone.com
+NeverProxy ws.wisersone.com
 AnonymousURL -*
 Option Cookie

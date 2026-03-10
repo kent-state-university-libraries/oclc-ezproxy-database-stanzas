@@ -1,4 +1,21 @@
-Title MAISAKU
-URL https://dbs.g-search.or.jp/WMAI/WMAI_ipcu_login.html
+HTTPMethod OPTIONS
+AnonymousURL +https://maisaku.mainichi.jp/assets/favicon/*
+AnonymousURL -OPTIONS +https://api-maisaku.mainichi.jp/*
+Title Maisaku (updated 20260310)
+HTTPHeader X-Api-Key
+HTTPHeader X-Service-Id
+HTTPHeader Authorization
+URL https://maisaku.mainichi.jp/maisaku/login/
+HJ https://maisaku.mainichi.jp
+HJ https://api-maisaku.mainichi.jp
+HJ https://maisaku-data.mainichi.jp
+HJ https://maisaku-pdfs.mainichi.jp
+HJ https://dbs.g-search.or.jp
+HJ api-maisaku.mainichi.jp
+HJ maisaku.mainichi.jp
+HJ maisaku-data.mainichi.jp
+HJ maisaku-pdfs.mainichi.jp
 HJ dbs.g-search.or.jp
 DJ g-search.or.jp
+DJ maisaku.mainichi.jp
+AnonymousURL -*

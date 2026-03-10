@@ -1,5 +1,5 @@
 # WisersOne
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WisersOne](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WisersOne) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WisersOne](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WisersOne) **
 
 ## Some of OCLC's notes for this stanza
 
