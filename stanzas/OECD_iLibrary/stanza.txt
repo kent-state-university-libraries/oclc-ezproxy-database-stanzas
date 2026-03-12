@@ -52,6 +52,6 @@ NeverProxy data.oecd.org
 NeverProxy oecd.metastore.ingenta.com
 NeverProxy sdmx.oecd.org
 NeverProxy stats.oecd.org
-NeverProxy *.oecd.orgÂ
+NeverProxy *.oecd.org
 NeverProxy *.oecd-ilibrary.org
 AnonymousURL -*
