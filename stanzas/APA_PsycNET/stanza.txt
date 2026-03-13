@@ -1,13 +1,13 @@
 Option CookiePassThrough
 Option MetaEZproxyRewriting
-Title American Psychological Association (APA) (updated 20260310)
+Title American Psychological Association (APA) (updated 20260313)
 HTTPHeader -process -request X-CSRF-Token
 URL https://psycnet.apa.org
 HJ https://psycnet.apa.org
 HJ psycnet.apa.org
 HJ https://stylemanual.apa.org
 HJ stylemanual.apa.org
-URL https://academicwriter.apa.org
+HJ https://academicwriter.apa.org
 HJ academicwriter.apa.org
 HJ psycinfo.com
 HJ apa.org
