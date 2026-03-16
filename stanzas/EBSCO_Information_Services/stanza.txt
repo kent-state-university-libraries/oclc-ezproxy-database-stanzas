@@ -8,7 +8,7 @@ AddUserHeader -base64 X-EBSCO-PROXY-Username
 Option MetaEZproxyRewriting
 AnonymousURL https://ppws.ebsco-content.com/*
 AnonymousURL +https://apis.ebsco.com/public/*
-Title EBSCOhost (updated 2025121)
+Title EBSCOhost (updated 20260316)
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process OPAQUE-TOKEN
 HTTPHeader -request -process userIdentifier
@@ -164,6 +164,7 @@ NeverProxy sdc-edm.ebscohost.com
 NeverProxy sdc-evs.ebscohost.com
 NeverProxy shibboleth.ebscohost.com
 NeverProxy signin.ebsco.zone
+NeverProxy viewer.ebscohost.com
 NeverProxy vttts.rs.ebscohost.com
 NeverProxy widgets.ebscohost.com
 NeverProxy edm.ebscohost.com
