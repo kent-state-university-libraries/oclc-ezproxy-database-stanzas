@@ -1,5 +1,7 @@
-Title Jaypee Digital
-URL http://www.jaypeedigital.com/
+Title Jaypee Digital (updated 20260316)
+URL https://www.jaypeedigital.com
+HJ https://jaypeedigital.com
+HJ https://www.jaypeedigital.com
 HJ jaypeedigital.com
 HJ www.jaypeedigital.com
 DJ jaypeedigital.com
