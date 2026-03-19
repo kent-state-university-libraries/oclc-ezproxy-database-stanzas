@@ -1,0 +1,24 @@
+Title Retriever (updated 20260318)
+URL https://web.retriever-info.com/
+HJ app.retriever-info.com
+HJ https://app.retriever-info.com
+HJ https://retriever-info.com
+HJ https://retriever.dk
+HJ https://retrievergroup.com
+HJ https://web.retriever-info.com
+HJ https://www.retriever-info.com
+HJ https://www.retriever.dk
+HJ https://www.retrievergroup.com
+HJ retriever-info.com
+HJ retriever.dk
+HJ retrievergroup.com
+HJ web.retriever-info.com
+HJ www.retriever-info.com
+HJ www.retriever.dk
+HJ www.retrievergroup.com
+DJ retriever-info.com
+DJ retriever.dk
+DJ retrievergroup.com
+NeverProxy ws.retriever-info.com
+NeverProxy wsc.retriever-info.com
+NeverProxy port.retriever-info.com
