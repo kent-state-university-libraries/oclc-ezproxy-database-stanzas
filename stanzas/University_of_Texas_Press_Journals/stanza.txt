@@ -1,0 +1,7 @@
+Title University of Texas Press Journals (updated 20260320)
+URL https://utpress.utexas.edu
+HJ https://utpress.utexas.edu
+HJ https://www.utexaspressjournals.org
+HJ utexaspressjournals.org
+DJ utexaspressjournals.org
+DJ utpress.utexas.edu
