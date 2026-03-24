@@ -1,14 +1,8 @@
-HTTPMethod OPTIONS
-AnonymousURL -OPTIONS +https://assets.lovethework.com*
-AnonymousURL -OPTIONS +https://gemini-backend.lovethework.com*
-Title Love the Work (updated 20230612)
+Title The Work (updated 20260324)
 URL https://www.lovethework.com
-HJ https://lovethework.com
-HJ lovethework.com
-HJ www.lovethework.com
-HJ https://auth.lionscreativity.com
-HJ https://auth.canneslions.com
-DJ auth.lionscreativity.com
-DJ canneslions.com
-DJ lovethework.com
-AnonymousURL -*
+H https://www.lovethework.com
+H lovethework.com
+H www.lovethework.com
+H https://lovethework.com
+D lovethwork.com
+NeverProxy www.googletagmanager.com
