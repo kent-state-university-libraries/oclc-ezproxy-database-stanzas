@@ -1,0 +1,21 @@
+Option DomainCookieOnly
+AnonymousURL +https://ccmsfiles.tg.org.au/s*
+AnonymousURL +https://drtcccmsfiles.tg.org.au/*
+AnonymousURL +https://obesityccmsfiles.tg.org.au/*
+Title Therapeutic Guidelines (updated 20260331)
+URL https://app.tg.org.au/
+HJ https://app.tg.org.au
+HJ https://tgldcdp.tg.org.au
+HJ tgldcdp.tg.org.au
+HJ app.tg.org.au
+HJ https://dontrushtocrush.tg.org.au
+HJ dontrushtocrush.tg.org.au
+HJ https://drtcccmsfiles.tg.org.au
+HJ drtcccmsfiles.tg.org.au
+HJ https://obesid.tg.org.au
+HJ obesid.tg.org.au
+HJ https://obesityccmsfiles.tg.org.au
+HJ obesityccmsfiles.tg.org.au
+DJ tg.org.au
+AnonymousURL -*
+Option Cookie
