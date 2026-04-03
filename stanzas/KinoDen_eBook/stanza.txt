@@ -4,7 +4,7 @@ AnonymousURL +https://breader-api-v4-cxf0cpg2gfd4g5cj.japanwest-01.azurewebsites
 AnonymousURL +https://breadercontents.blob.core.windows.net/*
 AnonymousURL +https://bportal.blob.core.windows.net/*
 Option DomainCookieOnly
-Title KinoDen eBook (updated 20260327(仮))
+Title KinoDen eBook (updated 20260401)
 HTTPHeader -response -edit Access-Control-Allow-Origin "*"
 HTTPHeader -response -edit Access-Control-Allow-Origin RewriteURL(kinoden.kinokuniya.co.jp)
 URL https://kinoden.kinokuniya.co.jp/
