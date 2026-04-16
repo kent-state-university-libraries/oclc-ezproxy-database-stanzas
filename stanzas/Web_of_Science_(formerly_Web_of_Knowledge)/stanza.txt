@@ -2,7 +2,7 @@ HTTPMethod PATCH
 Option CookiePassThrough
 AnonymousURL +*.ttf*
 AnonymousURL +*.woff*
-Title Web of Science (Formerly Web of Knowledge) (updated 20250406)
+Title Web of Science (Formerly Web of Knowledge) (updated 20260416)
 HTTPHeader -request -process X-1P-WOS-SID
 HTTPHeader -request -process X-1P-WOS-No-Action
 HTTPHeader -request -process AWSEnv
@@ -12,28 +12,28 @@ HTTPHeader -request -process bm_mi
 HTTPHeader -request -process bm_sz
 HTTPHeader -request -process _abck
 URL http://www.webofscience.com
+HJ gateway.webofknowledge.com
+HJ http://ct.prod.getft.io
+HJ http://snowplow.apps.clarivate.com
+HJ https://ct.prod.getft.io
 HJ https://gateway.webofknowledge.com
 HJ https://images.webofknowledge.com
-HJ https://www.researcherid.com
-HJ http://snowplow.apps.clarivate.com
 HJ https://snowplow.apps.clarivate.com
 HJ https://usagereports.webofscience.com
 HJ https://webofknowledge.com
+HJ https://webofscience.com
+HJ https://www.researcherid.com
 HJ https://www.webofknowledge.com
 HJ https://www.webofscience.com
-HJ https://webofscience.com
-HJ gateway.webofknowledge.com
 HJ images.webofknowledge.com
 HJ usagereports.webofscience.com
 HJ webofknowledge.com
-HJ www.webofknowledge.com
 HJ webofscience.com
+HJ www.webofknowledge.com
 HJ www.webofscience.com
-HJ https://ct.prod.getft.io
-HJ http://ct.prod.getft.io
 DJ researcherid.com
-DJ webofscience.com
 DJ webofknowledge.com
+DJ webofscience.com
 Find value="http://
 Replace value="http://^A
 Find VALUE="http://
@@ -50,5 +50,7 @@ Find noprox href="https://
 Replace noprox href="https://^A
 Find noprox src="https://
 Replace noprox src="https://^A
+Find access.clarivate.com
+Replace ^Saccess.clarivate.com^
 AnonymousURL -*
 Option Cookie
