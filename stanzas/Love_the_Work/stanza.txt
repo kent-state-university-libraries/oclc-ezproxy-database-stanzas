@@ -1,8 +1,0 @@
-Title The Work (updated 20260324)
-URL https://www.lovethework.com
-H https://www.lovethework.com
-H lovethework.com
-H www.lovethework.com
-H https://lovethework.com
-D lovethwork.com
-NeverProxy www.googletagmanager.com
