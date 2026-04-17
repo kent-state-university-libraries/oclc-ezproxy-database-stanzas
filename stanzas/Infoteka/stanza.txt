@@ -1,0 +1,10 @@
+Title Infoteka (updated 20260417)
+HTTPHeader -request -process Bib-Token
+URL https://online.infoteka.com/login-by-ip
+HJ https://online.infoteka.com
+HJ online.infoteka.com
+HJ https://infoteka.com
+HJ infoteka.com
+HJ https://kodeks.infoteka.com
+HJ https://bib.infoteka.com
+DJ infoteka.com
