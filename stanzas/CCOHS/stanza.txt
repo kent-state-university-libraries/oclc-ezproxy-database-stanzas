@@ -1,6 +1,7 @@
 ProxyHostnameEdit ccohsid.ccohs.ca ccohsid-ccohs-ca
 Option DomainCookieOnly
-Title CCOHS (Updated 20230316)
+Title CCOHS (updated 20260420)
+HTTPHeader -response -edit X-*-Server Mid(RewriteURL(Join("","https://",hh:value)),8)
 URL https://www.ccohs.ca/ccinfoweb/asp/
 HJ https://ccinfoweb2.ccohs.ca
 HJ http://ccinfoweb2.ccohs.ca
