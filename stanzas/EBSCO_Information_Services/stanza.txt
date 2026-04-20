@@ -8,12 +8,13 @@ AddUserHeader -base64 X-EBSCO-PROXY-Username
 Option MetaEZproxyRewriting
 AnonymousURL https://ppws.ebsco-content.com/*
 AnonymousURL +https://apis.ebsco.com/public/*
-Title EBSCOhost (updated 20260316)
+Title EBSCOhost (updated 20260420)
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process OPAQUE-TOKEN
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process X-EIS-FEATURE-FLAG
 HTTPHeader -request -process X-EIS-STSTOKEN
+HTTPHeader -request -process Prefer
 URL https://search.ebscohost.com/login.aspx
 HJ https://apis.ebsco.com
 HJ apis.ebsco.com
