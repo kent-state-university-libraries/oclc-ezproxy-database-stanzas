@@ -1,7 +1,7 @@
 Option CookiePassThrough
 AnonymousURL -OPTIONS +https://*.quartexcollections.com*
 AnonymousURL +https://frontend-api.quartexcollections.com/*
-Title Adam Matthew Digital (updated 20251111)
+Title Adam Matthew Digital (updated 20260421)
 HTTPHeader -request -process quartex-additionalauth
 HTTPHeader -response -block Content-Security-Policy
 URL http://www.login.amdigital.co.uk
@@ -117,6 +117,7 @@ HJ https://search.amdigital.co.uk
 HJ https://www.servicenewspapers.amdigital.co.uk
 HJ https://www.sexandsexuality.amdigital.co.uk
 HJ https://www.shakespeareinperformance.amdigital.co.uk
+HJ https://www.shakespeareinsilentfilm.amdigital.co.uk
 HJ https://www.shakespearesglobearchive.amdigital.co.uk
 HJ https://www.slavery.amdigital.co.uk
 HJ https://www.socialismonfilm.amdigital.co.uk

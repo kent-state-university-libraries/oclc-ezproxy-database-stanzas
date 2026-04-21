@@ -1,4 +1,4 @@
-Title WARC (updated 20260421)
+Title The Work (updated 20260421)
 HTTPHeader -response -process Next-Router-State-Tree
 HTTPHeader -response -process Next-Router-Prefetch
 HTTPHeader -request -process Next-Action
@@ -6,9 +6,10 @@ HTTPHeader -response -process Next-Action
 HTTPHeader -request -process Next-Url
 HTTPHeader -response -process Next-Url
 HTTPHeader -response -process Rsc
-URL https://www.warc.com
-H warc.com
-H www.warc.com
-H https://warc.com
-D warc.com
+URL https://www.lovethework.com
+H https://www.lovethework.com
+H lovethework.com
+H www.lovethework.com
+H https://lovethework.com
+D lovethwork.com
 NeverProxy www.googletagmanager.com
