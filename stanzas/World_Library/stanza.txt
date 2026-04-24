@@ -1,7 +1,20 @@
-Title World Library (updated 20210719)
-URL https://database.worldlibrary.org/
-HJ database.worldlibrary.org
-HJ database-download.worldlibrary.org
+Title World Library (updated 20260424)
+HTTPHeader -request -process X-Session-Id
+HTTPHeader -request -process X-Token
+URL https://worldlibrary.ai/
+HJ https://worldlibrary.ai/
+HJ https://ai-service.igroupnet.com
+HJ https://reader.worldlibrary.ai
+HJ https://readercf.worldlibrary.ai
+HJ https://download.worldlibrary.ai
 HJ https://database.worldlibrary.org
 HJ https://database-download.worldlibrary.org
+HJ worldlibrary.ai
+HJ ai-service.igroupnet.com
+HJ reader.worldlibrary.ai
+HJ readercf.worldlibrary.ai
+HJ download.worldlibrary.ai
+HJ database.worldlibrary.org
+HJ database-download.worldlibrary.org
+DJ worldlibrary.ai
 DJ worldlibrary.org
