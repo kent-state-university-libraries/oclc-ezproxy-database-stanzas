@@ -1,0 +1,13 @@
+# Japanese Literature Web Library
+Title æ—¥æœ¬æ–‡å­¦Webå›³æ›¸é¤¨ (updated 20260424)
+HTTPHeader -request -process X-Authorization
+HTTPHeader -request -process X-Session-Tokens
+HTTPHeader -request -process X-Client-Version
+URL https://webtoshokan-t.kotenlibrary.com
+HJ https://webtoshokan-t.kotenlibrary.com
+HJ https://www.kotenlibrary.com
+HJ https://kotenlibrary.com
+HJ webtoshokan-t.kotenlibrary.com
+HJ www.kotenlibrary.com
+HJ kotenlibrary.com
+DJ kotenlibrary.com
