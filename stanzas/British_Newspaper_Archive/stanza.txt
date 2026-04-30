@@ -1,13 +1,21 @@
 Option CookiePassThrough
-AnonymousURL +https://snowplow-collector.britishnewspaperarchive.co.uk/*
-Title British Newspaper Archive (updated 20251117)
+AnonymousURL -Options +https://snowplow-collector.britishnewspaperarchive.com/*
+AnonymousURL -Options +https://www.britishnewspaperarchive.com/titan/marshal/*
+AnonymousURL +https://snowplow-collector.britishnewspaperarchive.com/*
+AnonymousURL +https://www.britishnewspaperarchive.com/manifest.json
+Title British Newspaper Archive (updated 20260429)
 HTTPHeader -request -process X-IS-EZproxy
-HTTPHeader -request -process X-Requested-With
-URL https://www.britishnewspaperarchive.co.uk/
-HJ britishnewspaperarchive.co.uk
+URL https://www.britishnewspaperarchive.com
+HJ https://www.britishnewspaperarchive.com
+HJ http://www.britishnewspaperarchive.com
+HJ https://britishnewspaperarchive.com
+HJ http://britishnewspaperarchive.com
 HJ https://britishnewspaperarchive.co.uk
+HJ britishnewspaperarchive.co.uk
 HJ https://www.britishnewspaperarchive.co.uk
 HJ www.britishnewspaperarchive.co.uk
+HJ https://d3nd02ak4v4ued.cloudfront.net
 DJ britishnewspaperarchive.co.uk
+DJ britishnewspaperarchive.com
 AnonymousURL -*
 Option Cookie
