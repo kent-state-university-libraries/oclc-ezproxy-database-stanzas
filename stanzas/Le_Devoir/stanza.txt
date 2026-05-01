@@ -1,0 +1,4 @@
+Title Le Devoir (updated 20260430)
+URL https://www.ledevoir.com/auth/institutional
+HJ https://www.ledevoir.com
+DJ www.ledevoir.com

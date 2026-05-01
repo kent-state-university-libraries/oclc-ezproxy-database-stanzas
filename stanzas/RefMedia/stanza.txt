@@ -1,0 +1,4 @@
+Title RefMedia (updated 20260430)
+URL https://edu.refmedia.ca/ext/ipauth
+HJ https://edu.refmedia.ca
+DJ edu.refmedia.ca
