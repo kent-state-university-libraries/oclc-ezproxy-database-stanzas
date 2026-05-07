@@ -1,0 +1,6 @@
+Title L'Actualite (updated 20260430)
+HTTPHeader -request -process X-Requested-With
+URL https://lactualite.com/
+HJ https://lactualite.com
+DJ lactualite.com
+DJ media.lactualite.com
