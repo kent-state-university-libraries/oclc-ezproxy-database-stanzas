@@ -1,9 +1,0 @@
-Title Projectr (updated 20260427)
-URL https://projectr.tv
-HJ projectr.tv
-HJ https://edu.projectr.tv
-HJ edu.projectr.tv
-DJ projectr.tv
-DJ edu.projectr.tv
-NeverProxy stream.cadmore.media
-NeverProxy cadmore.media
