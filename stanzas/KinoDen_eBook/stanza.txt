@@ -1,32 +1,28 @@
-AnonymousURL +https://breader-api-v2.azurewebsites.net/*
-AnonymousURL +https://breader-api-v4-s1-c6caehf4h7cscnfp.japanwest-01.azurewebsites.net/*
 AnonymousURL +https://breader-api-v4-cxf0cpg2gfd4g5cj.japanwest-01.azurewebsites.net/*
+AnonymousURL +https://api-v4.breader.cloud/*
 AnonymousURL +https://breadercontents.blob.core.windows.net/*
 AnonymousURL +https://bportal.blob.core.windows.net/*
 Option DomainCookieOnly
-Title KinoDen eBook (updated 20260401)
+Title KinoDen eBook (updated 20260507)
 HTTPHeader -response -edit Access-Control-Allow-Origin "*"
 HTTPHeader -response -edit Access-Control-Allow-Origin RewriteURL(kinoden.kinokuniya.co.jp)
 URL https://kinoden.kinokuniya.co.jp/
 HJ http://kinoden.kinokuniya.co.jp
 HJ http://bportal.blob.core.windows.net
-HJ http://breader-api-v2.azurewebsites.net
-HJ http://breader-api-v4-s1-c6caehf4h7cscnfp.japanwest-01.azurewebsites.net
 HJ http://breader-api-v4-cxf0cpg2gfd4g5cj.japanwest-01.azurewebsites.net
+HJ http://api-v4.breader.cloud
 HJ http://breadercontents.blob.core.windows.net
 HJ http://breader.cloud/book/
 HJ https://breader.cloud/book/
-HJ https://breader-api-v2.azurewebsites.net
-HJ https://breader-api-v4-s1-c6caehf4h7cscnfp.japanwest-01.azurewebsites.net
 HJ https://breader-api-v4-cxf0cpg2gfd4g5cj.japanwest-01.azurewebsites.net
+HJ https://api-v4.breader.cloud
 HJ https://breadercontents.blob.core.windows.net
 HJ https://bportal.blob.core.windows.net
 DJ kinokuniya.co.jp
 DJ msecnd.net
 DJ bportal.blob.core.windows.net
-DJ breader-api-v2.azurewebsites.net
-DJ breader-api-v4-s1-c6caehf4h7cscnfp.japanwest-01.azurewebsites.net
 DJ breader-api-v4-cxf0cpg2gfd4g5cj.japanwest-01.azurewebsites.net
+DJ api-v4.breader.cloud
 DJ breadercontents.blob.core.windows.net
 DJ ep-audiobook-breader-mediakind.japanwest.streaming.mediakind.com
 DJ breader.cloud
