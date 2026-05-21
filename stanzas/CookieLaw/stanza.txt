@@ -4,6 +4,14 @@ HTTPHeader -Request -process Sec-*
 HTTPHeader -Response -process CF-*
 HTTPHeader -Response -process Expect-CT
 URL https://cdn.cookielaw.org
+HJ https://cdn.cookielaw.org
+HJ cdn.cookielaw.org
+HJ https://cdn-ukwest.onetrust.com
+HJ cdn-ukwest.onetrust.com
+HJ https://geolocation.onetrust.com
+HJ geolocation.onetrust.com
+HJ https://privacyportal-uk.onetrust.com
+HJ privacyportal-uk.onetrust.com
 DJ cookielaw.org
 DJ cookiepro.com
 DJ onetrust.com
