@@ -10,7 +10,7 @@ AnonymousURL +https://my.heinonline.org/js/*
 AnonymousURL +https://heinonline.org/static/*
 AnonymousURL +https://heinonline.org/HeinDocs/*
 AnonymousURL +https://heinonline.org/HOL/MyHeinTestMyHein*
-Title HeinOnline test (updated 20260603)
+Title HeinOnline (updated 20260604)
 MimeFilter text/event-stream .* javascript
 MimeFilter ^$ https?://heinonline.org/HOL/.* javascript
 MimeFilter text/event-stream .* javascript
