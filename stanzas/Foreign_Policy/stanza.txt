@@ -1,5 +1,14 @@
-Title Foreign Policy (updated 20200409)
+AnonymousURL -OPTIONS +https://search.foreignpolicy.com/*
+AnonymousURL +https://search.foreignpolicy.com/*
+Title Foreign Policy (updated 20260604)
 URL https://foreignpolicy.com
-HJ http://foreignpolicy.com
+HJ foreignpolicy.com
+HJ https://archives.foreignpolicy.com
+HJ archives.foreignpolicy.com
+HJ https://search.foreignpolicy.com
+HJ search.foreignpolicy.com
 HJ foreignpolicy.com
 DJ foreignpolicy.com
+NeverProxy pianovx.foreignpolicy.com
+NeverProxy cdn.foreignpolicy.com
+AnonymousURL -*

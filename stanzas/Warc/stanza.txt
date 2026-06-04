@@ -1,4 +1,4 @@
-Title WARC (updated 20260421)
+Title WARC (updated 20260604)
 HTTPHeader -response -process Next-Router-State-Tree
 HTTPHeader -response -process Next-Router-Prefetch
 HTTPHeader -request -process Next-Action
@@ -11,4 +11,3 @@ H warc.com
 H www.warc.com
 H https://warc.com
 D warc.com
-NeverProxy www.googletagmanager.com

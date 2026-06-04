@@ -1,5 +1,5 @@
 # Foreign Policy
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Foreign_Policy](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Foreign_Policy) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Foreign_Policy](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Foreign_Policy) **
 
 ## Some of OCLC's notes for this stanza
 
