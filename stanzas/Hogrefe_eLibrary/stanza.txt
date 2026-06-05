@@ -1,11 +1,12 @@
-Title Hogrefe eLibrary (updated 20191212)
+Title Hogrefe eLibrary (Updated 20260605)
+HTTPHeader X-CSRF-Token
 HTTPHeader X-Requested-With
-URL https://elibrary.hogrefe.de/content/bibliothek
+URL https://elibrary.hogrefe.com
 HJ elibrary.hogrefe.com
 HJ elibrary.hogrefe.de
+HJ hogrefe.com
 HJ https://elibrary.hogrefe.com
 HJ https://elibrary.hogrefe.de
-HJ hogrefe.com
 DJ hogrefe.de
 Find href=\"https:\/\/elibrary.hogrefe.de
 Replace href=\"https:\/\/^Selibrary.hogrefe.de^

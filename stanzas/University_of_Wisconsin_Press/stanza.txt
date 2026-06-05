@@ -1,5 +1,5 @@
-Title University of Wisconsin Press (updated 20240112)
-URL http://www.uwpress.org/
+Title University of Wisconsin Press (updated 20260605)
+URL https://www.uwpress.org/
 HJ aa.uwpress.org
 HJ aoj.uwpress.org
 HJ cl.uwpress.org
@@ -32,5 +32,6 @@ HJ sca.uwpress.org
 HJ sub.uwpress.org
 HJ uwpress.org
 HJ uwpress.wisc.edu
+HJ www.uwpress.org
 HJ www.uwpress.wisc.edu
 DJ uwpress.org
