@@ -1,11 +1,32 @@
-Title Oxford Dictionary of National Biography (updated 20251211)
+Title Oxford Dictionary of National Biography (updated 20260608)
 HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://www.oxforddnb.com
 HJ https://www.oxforddnb.com
 HJ https://oxforddnb.com
 HJ www.oxforddnb.com
 HJ oxforddnb.com
+HJ https://www.googletagmanager.com
+HJ googletagmanager.com
+DJ googletagmanager.com
 DJ oxforddnb.com
+Find www.googletagmanager.com
+Replace ^Swww.googletagmanager.com^
+Find https://cdn-ukwest.onetrust.com
+Replace https://^Scdn-ukwest.onetrust.com^
+Find https://privacyportal-uk.onetrust.com
+Replace https://^Sprivacyportal-uk.onetrust.com^
+Find "https://privacyportal-uk.onetrust.com"
+Replace "https://^Sprivacyportal-uk.onetrust.com^"
+Find https://geolocation.onetrust.com
+Replace https://^Sgeolocation.onetrust.com^
+Find https://cdn.cookielaw.org
+Replace https://^Scdn.cookielaw.org^
+Find "https://cdn-ukwest.onetrust.com"
+Replace "https://^Scdn-ukwest.onetrust.com^"
+Find https:\/\/cdn-ukwest.onetrust.com
+Replace https:\/\/^Scdn-ukwest.onetrust.com^
+Find https:\/\/privacyportal-uk.onetrust.com
+Replace https:\/\/^Sprivacyportal-uk.onetrust.com^
 NeverProxy oup-idp.sams-sigma.com
 NeverProxy oup2-idp.sams-sigma.com
 NeverProxy oup3-idp.sams-sigma.com
