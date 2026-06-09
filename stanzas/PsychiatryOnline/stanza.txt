@@ -1,4 +1,5 @@
-Title PsychiatryOnline (American Journal of Psychiatry)
+Cookie theproxy=ezproxy; domain=.psychiatryonline.org
+Title PsychiatryOnline (American Journal of Psychiatry) (updated 20260609)
 URL https://psychiatryonline.org
 HJ psychiatryonline.org
 HJ www.psychiatryonline.org
@@ -22,3 +23,4 @@ HJ https://www.appi.org
 DJ psychiatryonline.com
 DJ psychiatryonline.org
 DJ appi.org
+NeverProxy app.scienceconnect.io
