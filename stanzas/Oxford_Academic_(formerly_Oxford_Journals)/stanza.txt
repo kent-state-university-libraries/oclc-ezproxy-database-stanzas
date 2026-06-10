@@ -1,5 +1,7 @@
+#This stanza is required to resolve the Cookie Banner popup solution IncludeFile databases/cookielaw.txt
+
 AnonymousURL +https://oup.silverchair-cdn.com/
-Title Oxford Academic (formerly Oxford Journals) (updated 20260604)
+Title Oxford Academic (formerly Oxford Journals) (updated 20260610)
 HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://academic.oup.com/
 HJ https://academic.oup.com

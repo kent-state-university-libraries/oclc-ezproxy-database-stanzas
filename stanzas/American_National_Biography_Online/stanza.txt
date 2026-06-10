@@ -1,4 +1,6 @@
-Title American National Biography Online (updated 20260604)
+#This stanza is required to resolve the Cookie Banner popup solution IncludeFile databases/cookielaw.txt
+
+Title American National Biography Online (updated 20260610)
 HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
 URL https://www.anb.org
 HJ https://www.anb.org
