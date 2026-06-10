@@ -1,7 +1,7 @@
 HTTPMethod OPTIONS
 AnonymousURL -Options +https://appapi.chiltonlibrary.com/*
 AnonymousURL +https://appapi.chiltonlibrary.com/*
-Title Gale Products (updated 20250825)
+Title Gale Products (updated 20260610)
 HTTPHeader -request -process X-XSRF-TOKEN
 URL https://link.gale.com/apps/menu
 MimeFilter text/plain .* javascript
@@ -65,6 +65,7 @@ NeverProxy apis.google.com
 NeverProxy careerprep.petersons.com
 NeverProxy cyber.gale.com
 NeverProxy gale.udemy.com
+NeverProxy www.getsetup.io
 NeverProxy sso.connect.pingidentity.com
 NeverProxy tcpr.petersons.com
 NeverProxy *.dezinersoftware.com

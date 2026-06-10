@@ -12,9 +12,11 @@ AnonymousURL +https://o.oversea.cnki.net/EcpAuth/Token/create_by_idenId*
 AnonymousURL +https://o.oversea.cnki.net/EcpOversea/EcpApi_OverSea/OUserInfo/receive_user_pack_right*
 AnonymousURL +https://o.oversea.cnki.net/EcpOversea/EcpApi_OverSea/OUserInfo/get_user_common_Info*
 AnonymousURL +https://t.oversea.cnki.net/restapi/kns8s-api/*
-AnonymousURL +https://t.oversea.cnki.net/applog/ *
+AnonymousURL +https://t.oversea.cnki.net/applog/*
 AnonymousURL +https://piccache.oversea.cnki.net/kdn/*
-Title The CNKI Main Page (updated 20260512)
+AnonymousURL +https://aicheck.oversea.cnki.net
+AnonymousURL +https://check.oversea.cnki.net
+Title The CNKI Main Page (updated 20260610)
 HTTPHeader -response -edit location RewriteURL(REReplace("!https%3a%2f%2fo\.oversea\.cnki.\net!g", RewriteURL("https://o.oversea.cnki.net"), hh:value))
 HTTPHeader -request -process Appid
 HTTPHeader -request -process Clientid
@@ -25,6 +27,10 @@ HTTPHeader -request -process Uniplatform
 HTTPHeader -request -process Platform
 HTTPHeader -request -process Version
 HTTPHeader -request -process Language
+HTTPHeader -request -process Accesstoken
+HTTPHeader -request -process Client-Uuid
+HTTPHeader -request -process Lang
+HTTPHeader -request -process Overseaflag
 URL https://oversea.cnki.net/
 HJ oversea.cnki.net
 HJ chn.oversea.cnki.net
@@ -45,6 +51,9 @@ HJ zhengbao.oversea.cnki.net
 HJ tcm.oversea.cnki.net
 HJ aidata.oversea.cnki.net
 HJ aipat.oversea.cnki.net
+HJ check.oversea.cnki.net
+HJ check.cnki.net
+HJ aicheck.oversea.cnki.net
 HJ piccache.oversea.cnki.net
 HJ kbsi.oversea.cnki.net
 HJ o.oversea.cnki.net
@@ -59,6 +68,7 @@ HJ local.cnki.net
 HJ oi.cnki.net
 HJ ste.cnki.net
 HJ web02.cnki.net
+HJ ac.oversea.cnki.net
 HJ https://oversea.cnki.net
 HJ https://chn.oversea.cnki.net
 HJ https://tra.oversea.cnki.net
@@ -79,6 +89,8 @@ HJ https://o.oversea.cnki.net
 HJ https://zhengbao.oversea.cnki.net
 HJ https://aidata.oversea.cnki.net/chn/chat
 HJ https://aipat.oversea.cnki.net/
+HJ https://check.oversea.cnki.net
+HJ https://ac.oversea.cnki.net
 DJ cnki.net
 Find src='//o.oversea.cnki.net
 Replace src='//^So.oversea.cnki.net^

@@ -4,10 +4,12 @@ AnonymousURL +https://twwe6.wisersone.com*
 AnonymousURL +https://cnwe6.wisersone.com*
 AnonymousURL -OPTIONS +https://www.wisersone.com*
 AnonymousURL +https://www.wisersone.com*
+AnonymousURL +https://api.wisersone.com*
+AnonymousURL +https://storage.wisersone.com*
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
-Title WisersOne (updated 20260309)
+Title WisersOne (OCLC IncludeFile updated 20260610)
 URL https://www.wisersone.com/?gid=YourGID6&user=YourUser
 HTTPHeader -request -process Access-Control-Allow
 HJ login.wisers.net
