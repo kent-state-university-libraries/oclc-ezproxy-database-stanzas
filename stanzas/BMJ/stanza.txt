@@ -1,8 +1,10 @@
 Option CookiePassThrough
-Title BMJ (updated 20260210)
+Title BMJ (Updated 20260611)
+ByteServe https://bjsm\.bmj\.com/.*
+ByteServe https://bmjopensem\.bmj\.com/.*
 ByteServe https://bmjpaedsopen\.bmj\.com/.*
 ByteServe https://rmdopen\.bmj\.com/.*
-URL http://journals.bmj.com
+URL https://journals.bmj.com
 HJ adc.bmj.com
 HJ adc.bmjjournals.com
 HJ aim.bmj.com
