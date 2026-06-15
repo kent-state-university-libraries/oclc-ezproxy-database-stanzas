@@ -1,7 +1,11 @@
-Title East View Information Services Inc (updated 20260424)
+AnonymousURL +https://api.maptiler.com*
+AnonymousURL +https://gpa.eastview.com/*js*
+Title East View Information Services Inc (updated 20260615)
+HTTPHeader -response -edit Content-Security-Policy RewriteURL(https://gpa.eastview.com)
 HTTPHeader -request -process Bib-Token
 URL https://dlib.eastview.com/login
 HJ ae.eastview.com
+HJ api.maptiler.com
 HJ bib.eastview.com
 HJ ccg.eastview.com
 HJ crg.eastview.com
@@ -10,6 +14,7 @@ HJ eastview.com
 HJ gca.eastview.com
 HJ gpa.eastview.com
 HJ https://ae.eastview.com
+HJ https://api.maptiler.com
 HJ https://bib.eastview.com
 HJ https://ccg.eastview.com
 HJ https://crg.eastview.com
