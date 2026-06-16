@@ -1,6 +1,6 @@
 AnonymousURL +https://api.maptiler.com*
 AnonymousURL +https://gpa.eastview.com/*js*
-Title East View Information Services Inc (updated 20260615)
+Title East View Information Services Inc (updated 20260616)
 HTTPHeader -response -edit Content-Security-Policy RewriteURL(https://gpa.eastview.com)
 HTTPHeader -request -process Bib-Token
 URL https://dlib.eastview.com/login
@@ -32,3 +32,4 @@ HJ online.eastview.com
 HJ www.eastview.com
 DJ eastview.com
 DJ mosinfo.ru
+AnonymousURL -*
