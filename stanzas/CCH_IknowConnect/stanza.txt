@@ -1,4 +1,4 @@
-T CCH IknowConnect (created 20230808)
+Title CCHIknowConnect (updated 20260617)
 MimeFilter application/json .* javascript
 HTTPHeader -request -process entinfo.Domainversion
 HTTPHeader -request -process Clientinfo.Frameworkversion
@@ -10,6 +10,9 @@ HTTPHeader -request -process Clientinfo.Runtimeversion
 HTTPHeader -request -process Clientinfo.Timezone
 HTTPHeader -request -process Productid
 HTTPHeader -request -process Tenant
+HTTPHeader -request -process X-CSRF-Token
+HTTPHeader -request -process x-agnt-user-token
+HTTPHeader -request -process X-Agnt-User-Token
 U https://iknowconnect.cch.com
 HJ https://iknowconnect.cch.com
 HJ iknowconnect.cch.com
