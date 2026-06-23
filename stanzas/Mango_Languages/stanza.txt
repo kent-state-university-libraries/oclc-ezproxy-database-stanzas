@@ -1,5 +1,5 @@
-Title Mango Languages
-URL https://connect.mangolanguages.com/[institution_name]/start
+Title Mango Languages (updated 20260622)
+URL https://connect.mangolanguages.com/[parameter]/start
 HJ connect.mangolanguages.com
 HJ https://libraries.mangolanguages.com
 HJ libraries.mangolanguages.com
