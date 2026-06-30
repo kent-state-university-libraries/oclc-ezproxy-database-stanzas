@@ -1,5 +1,7 @@
-Title Scholarly Digital Editions
-URL http://www.sd-editions.com
+Title Scholarly Digital Editions (updated 20260630)
+URL https://www.sd-editions.com/
+HJ https://sd-editions.com
+HJ https://www.sd-editions.com
 HJ sd-editions.com
 HJ www.sd-editions.com
 DJ sd-editions.com
