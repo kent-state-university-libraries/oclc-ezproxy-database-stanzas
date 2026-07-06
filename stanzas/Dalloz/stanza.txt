@@ -1,6 +1,6 @@
-Title Dalloz (updated 20250403)
+Title Dalloz (updated 20250706)
 HTTPHeader -request -process Book-Authorization
-HTTPHeader -request -process Accept-Encoding
+HTTPHeader -request -edit Accept-Encoding "deflate"
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 URL https://www.dalloz.fr/etudiants
