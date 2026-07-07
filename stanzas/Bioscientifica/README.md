@@ -1,5 +1,5 @@
 # Bioscientifica
-** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Bioscientifica](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Bioscientifica) **
+** This stanza needs manual review at [https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bioscientifica](https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bioscientifica) **
 
 ## Some of OCLC's notes for this stanza
 
