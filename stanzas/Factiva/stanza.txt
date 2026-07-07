@@ -3,15 +3,15 @@ AnonymousURL +*//api.dowjones.com/*
 AnonymousURL +*//accounts.dowjones.com/*
 AnonymousURL +*//dj.factiva.com/*
 AnonymousURL +*//suggest.factiva.com/*
-Title Factiva (2026-07-01)
+Title Factiva (updated 20260707)
 HTTPHeader -request -process credentials
 HTTPHeader -request -process preferences
 HTTPHeader -request -process product
 HTTPHeader -request -process user
 HTTPHeader -request -process token
-URL https://dj.factiva.com/home?xsid=[PLACE XSID HERE]
+URL https://dj.factiva.com/home?xsid=[PLACE-XSID-HERE]
 HJ dj.factiva.com
-HJ https://global.factiva.com/en/sess/login.asp?xsid=[PLACE XSID HERE]
+HJ https://global.factiva.com/en/sess/login.asp?xsid=[PLACE-XSID-HERE]
 HJ global.factiva.com
 HJ https://www.factiva.com
 HJ www.factiva.com

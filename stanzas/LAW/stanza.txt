@@ -1,0 +1,23 @@
+AnonymousURL -OPTIONS +https://grackle.law.com*
+Title LAW (updated 20260706)
+HTTPHeader -request -inject X-LAW-EZPROXY "true"
+URL https://www.law.com
+HJ https://b.law.com
+HJ b.law.com
+HJ https://www.law.com
+HJ www.law.com
+HJ dictionary.law.com
+HJ store.law.com
+HJ mediakit.alm.com
+HJ grackle.law.com
+HJ https://geoip.alm.com
+DJ law.com
+DJ alm.com
+DJ .law.com
+DJ grackle.law.com
+Find www.law.com
+Replace ^Swww.law.com^
+Find store.law.com
+Replace ^Sstore.law.com^
+AnonymousURL -*
+NeverProxy images.law.com

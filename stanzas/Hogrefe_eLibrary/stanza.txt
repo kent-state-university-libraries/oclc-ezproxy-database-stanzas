@@ -1,6 +1,6 @@
-Title Hogrefe eLibrary (Updated 20260605)
-HTTPHeader X-CSRF-Token
-HTTPHeader X-Requested-With
+Title Hogrefe eLibrary (Updated 20260707)
+HTTPHeader -request -process X-CSRF-Token
+HTTPHeader -request -process X-Requested-With
 URL https://elibrary.hogrefe.com
 HJ elibrary.hogrefe.com
 HJ elibrary.hogrefe.de
