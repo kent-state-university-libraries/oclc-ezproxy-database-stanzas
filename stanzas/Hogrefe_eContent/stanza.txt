@@ -1,12 +1,14 @@
-Title Hogrefe eContent (updated 20201109)
+Title Hogrefe eContent (updated 20260708)
+HTTPHeader -request -process X-CSRF-Token
+HTTPHeader -request -process X-Requested-With
 URL https://econtent.hogrefe.com
+HJ econtent.hogrefe-prod.literatumonline.com
 HJ econtent.hogrefe.com
+HJ hogrefe-prod.literatumonline.com
 HJ https://econtent.hogrefe.com
 HJ https://www.econtent.hogrefe.com
-HJ www.econtent.hogrefe.com
-HJ econtent.hogrefe-prod.literatumonline.com
-HJ hogrefe-prod.literatumonline.com
 HJ literatumonline.com
+HJ www.econtent.hogrefe.com
 HJ www.literatumonline.com
 DJ hogrefe.com
 DJ literatumonline.com
