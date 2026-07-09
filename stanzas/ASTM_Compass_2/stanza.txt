@@ -1,6 +1,6 @@
 #ASTM Digital Library (place FIRST to avoid DJ conflicts)
 
-Title ASTM Digital Library (updated 20260114)
+Title ASTM Digital Library (updated 20260709)
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
@@ -19,7 +19,7 @@ HTTPMethod DELETE
 HTTPMethod PUT
 AnonymousURL -OPTIONS +https://secure.astm.org/*
 AnonymousURL +https://compass.astm.org/*
-Title ASTM Compass 2.0 (updated 20260108)
+Title ASTM Compass 2.0 (updated 20260709)
 HTTPHeader -request -process x-okta-user-agent-extended
 HTTPHeader -request -process x-okta-request-id
 HTTPHeader -request -process XSRF-TOKEN "*"
@@ -33,8 +33,6 @@ HJ https://store.astm.org
 HJ secure.astm.org
 HJ store.astm.org
 DJ astm.org
-Find proxycl=https://
-Replace proxycl=https://^A
 Find www.astm.org
 Replace ^Swww.astm.org^
 Find store.astm.org
