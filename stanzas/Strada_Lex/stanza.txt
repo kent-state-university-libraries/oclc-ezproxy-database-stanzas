@@ -1,69 +1,72 @@
 AnonymousURL -CS +https://statics.stradalex.com/*
 AnonymousURL -CS -Options +https://larbiz-api.larciergroup.com/*
+AnonymousURL -CS -Options +https://larbiz-api.larcier-intersentia.com/*
 AnonymousURL -CS -Options +https://dbs.larciergroup.com/*
-AnonymousURL -CS -Options +https://strada-bff-api.larbiz-front-prod.aws.lsbit.be/*
-Title Strada Lex (updated 20240729)
+AnonymousURL -CS -Options +https://dbs.larcier-intersentia.com/*
+AnonymousURL -CS -Options +https://bff.stradalex.com/*
+Title Strada Lex (updated 20260709)
 URL https://www.stradalex.com
 HJ https://www.stradalex.com
 HJ https://dbs.larciergroup.com
+HJ https://dbs.larcier-intersentia.com
 HJ https://larbiz-api.larciergroup.com
+HJ https://larbiz-api.larcier-intersentia.com
 HJ https://auth.larcier-intersentia.com
 HJ https://access.stradalex.com
 HJ https://statics.stradalex.com
 HJ https://pca-vob.larcier-intersentia.com
 HJ https://stradalex.legal-monitr.com
-HJ https://strada-bff-api.larbiz-front-prod.aws.lsbit.be
-HJ stradalex.com
-HJ www.stradalex.com
+HJ https://bff.stradalex.com
 DJ stradalex.com
 DJ larciergroup.com
 DJ larcier-intersentia.com
 DJ legal-monitr.com
-DJ lsbit.be
 AnonymousURL -*
 
 AnonymousURL -CS +https://statics.stradalex.lu/*
 AnonymousURL -CS -Options +https://larbiz-api.larciergroup.com/*
+AnonymousURL -CS -Options +https://larbiz-api.larcier-intersentia.com/*
 AnonymousURL -CS -Options +https://dbs.larciergroup.com/*
-AnonymousURL -CS -Options +https://strada-bff-api.larbiz-front-prod.aws.lsbit.be/*
+AnonymousURL -CS -Options +https://dbs.larcier-intersentia.com/*
+AnonymousURL -CS -Options +https://bff.stradalex.lu/*
 Title Strada Lex Luxembourg
 URL https://www.stradalex.lu
 HJ https://www.stradalex.lu
 HJ https://dbs.larciergroup.com
+HJ https://dbs.larcier-intersentia.com
 HJ https://larbiz-api.larciergroup.com
+HJ https://larbiz-api.larcier-intersentia.com
 HJ https://auth.larcier-intersentia.com
 HJ https://access.stradalex.lu
 HJ https://statics.stradalex.lu
 HJ https://stradalex.legal-monitr.com
-HJ https://strada-bff-api.larbiz-front-prod.aws.lsbit.be
-HJ stradalex.lu
-HJ www.stradalex.lu
+HJ https://bff.stradalex.lu
 DJ stradalex.lu
 DJ larciergroup.com
 DJ larcier-intersentia.com
 DJ legal-monitr.com
-DJ lsbit.be
 AnonymousURL -*
 
 AnonymousURL -CS +https://statics.stradalex.eu/*
 AnonymousURL -CS -Options +https://larbiz-api.larciergroup.com/*
+AnonymousURL -CS -Options +https://larbiz-api.larcier-intersentia.com/*
 AnonymousURL -CS -Options +https://dbs.larciergroup.com/*
-AnonymousURL -CS -Options +https://strada-bff-api.larbiz-front-prod.aws.lsbit.be/*
+AnonymousURL -CS -Options +https://dbs.larcier-intersentia.com/*
+AnonymousURL -CS -Options +https://bff.stradalex.eu/*
 Title Strada Lex Europe
 URL https://www.stradalex.eu
 HJ https://www.stradalex.eu
 HJ https://dbs.larciergroup.com
+HJ https://dbs.larcier-intersentia.com
 HJ https://larbiz-api.larciergroup.com
+HJ https://larbiz-api.larcier-intersentia.com
 HJ https://auth.larcier-intersentia.com
 HJ https://access.stradalex.eu
 HJ https://statics.stradalex.eu
 HJ https://stradalex.legal-monitr.com
-HJ https://strada-bff-api.larbiz-front-prod.aws.lsbit.be
-HJ stradalex.eu
-HJ www.stradalex.eu
+HJ https://bff.stradalex.eu
 DJ stradalex.eu
 DJ larciergroup.com
 DJ larcier-intersentia.com
 DJ legal-monitr.com
-DJ lsbit.be
 AnonymousURL -*
