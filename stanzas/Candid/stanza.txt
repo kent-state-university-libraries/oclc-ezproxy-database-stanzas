@@ -1,0 +1,15 @@
+Title Candid (updated 20260710)
+HTTPHeader -request -process origin
+HTTPHeader -request -process referer
+HTTPHeader -request -process x-requested-with
+HTTPHeader -request -process JWT
+HTTPHeader -request -process authorization
+HTTPHeader -request -process content-type
+HTTPHeader -request -process accept
+URL https://app.candid.org/ipl
+HJ https://app.candid.org
+HJ app.candid.org
+HJ https://candid.org
+HJ candid.org
+DJ candid.org
+NeverProxy docs.candid.org
