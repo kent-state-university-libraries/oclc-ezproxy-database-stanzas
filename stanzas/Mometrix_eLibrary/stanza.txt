@@ -1,6 +1,0 @@
-Title Mometrix eLibrary (updated 20210218)
-URL https://portal.mometrixelibrary.com
-HJ https://portal.mometrixelibrary.com
-HJ https://users.mometrixelibrary.com
-DJ mometrixelibrary.com
-NeverProxy cdnjs.cloudflare.com
