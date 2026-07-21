@@ -1,0 +1,8 @@
+Title Social Law Library (updated 20260721)
+HTTPHeader -request -process RequestVerificationToken
+URL https://www.socialaw.com/secure
+HJ https://www.socialaw.com
+HJ www.socialaw.com
+HJ https://socialaw.com
+HJ socialaw.com
+DJ socialaw.com
