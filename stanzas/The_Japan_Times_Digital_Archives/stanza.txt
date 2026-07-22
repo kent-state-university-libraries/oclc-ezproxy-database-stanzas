@@ -1,5 +1,8 @@
-T The Japan Times Digital Archives (updated 20230626)
-U https://jt-archives.jp
+Title The Japan Times Archives (updated 20260722)
+URL https://digital-archives.japantimes.co.jp
+HJ https://digital-archives.japantimes.co.jp
+HJ digital-archives.japantimes.co.jp
 HJ https://jt-archives.jp
-HJ http://jt-archives.jp
+HJ jt-archives.jp
 DJ jt-archives.jp
+DJ digital-archives.japantimes.co.jp

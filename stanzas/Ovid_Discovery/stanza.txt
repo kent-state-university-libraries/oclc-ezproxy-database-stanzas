@@ -1,0 +1,19 @@
+Title Ovid Discovery (updated 20260722)
+HTTPHeader X-Requested-With
+URL https://[institutionurl].ovidds.com
+HJ [institutionurl].ovidds.com
+HJ [institutionurl].oviddslite.com
+HJ https://clinicaledge.oviddslite.com
+HJ clinicaledge.oviddslite.com
+HJ https://nursingedge.oviddslite.com
+HJ nursingedge.oviddslite.com
+HJ oviddslite.com
+HJ ovidds.com
+HJ https://ovidcn.ovidds.com
+HJ ovidcn.ovidds.com
+HJ https://ovides.ovidds.com
+HJ ovides.ovidds.com
+HJ https://ovidfr.ovidds.com
+HJ ovidfr.ovidds.com
+DJ ovidds.com
+DJ oviddslite.com
