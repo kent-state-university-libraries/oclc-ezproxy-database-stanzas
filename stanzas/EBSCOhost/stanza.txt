@@ -1,24 +1,28 @@
 #this seems to now be required before any EBSCOhost stanza to prevent linking issues
 Option DomainCookieOnly
 Title -hide EBSCO LinkSource
-URL http://linksource.ebsco.com
+URL https://linksource.ebsco.com
 HJ linksource.ebsco.com
 HJ https://linksource.ebsco.com
 Option Cookie
 #
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (updated 20201215)
+Title EBSCOhost (updated 20211217)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
-URL http://search.ebscohost.com/login.aspx
+URL https://search.ebscohost.com/login.aspx
 HJ https://search.ebscohost.com
 HJ https://resolver.ebscohost.com
 HJ https://www.ebscohost.com
 HJ https://openurl.ebscohost.com
-HJ https://logon.ebsco.zone
 HJ logon.ebsco.zone
+HJ https://logon.ebsco.zone
 DJ logon.ebsco.zone
+DJ apis.ebsco.com
+DJ api.ebsco.io
+DJ ebscois-live.apigee.net
+DJ ebsco.babelscape.com
 HJ https://m-eon-search.ebscohost.com
 HJ ebsco.smartimagebase.com
 HJ eds.a.ebscohost.com
@@ -26,10 +30,13 @@ HJ eds.b.ebscohost.com
 HJ eds.c.ebscohost.com
 HJ eds.d.ebscohost.com
 HJ eds.e.ebscohost.com
+HJ eds.p.ebscohost.com
+HJ eds.s.ebscohost.com
 HJ ehis.ebscohost.com
 HJ connection.ebscohost.com
 HJ eoncontent.ebscohost.com
 HJ m.ebscohost.com
+HJ https://openurl.ebsco.com
 HJ openurl.ebscohost.com
 HJ resolver.ebscohost.com
 HJ search.ebscohost.mobi
@@ -40,6 +47,8 @@ HJ web.b.ebscohost.com
 HJ web.c.ebscohost.com
 HJ web.d.ebscohost.com
 HJ web.e.ebscohost.com
+HJ web.p.ebscohost.com
+HJ web.s.ebscohost.com
 HJ web.ebscohost.com
 HJ www.netlibrary.com
 HJ exports.ebscohost.com
@@ -47,6 +56,8 @@ HJ therapy.ebscohost.com
 HJ support.ebscohost.com
 HJ flipster.ebsco.com
 HJ e.ebsco.com
+HJ video.ebscohost.com
+HJ https://video.ebscohost.com
 DJ ppws.ebsco-content.com
 DJ ebscohost.com
 DJ ebscohost.mobi
@@ -54,10 +65,14 @@ DJ epnet.com
 HJ support.ebsco.com
 HJ www.ebsconet.com
 DJ ebsco.com
+DJ discovery.ebsco.com
 DJ netlibrary.com
 DJ smartimagebase.com
 HJ www.teacherreference.com
 DJ teacherreference.com
+HJ https://publications.ebsco.com/
+HJ publications.ebsco.com
+DJ publications.ebsco.com
 HJ www.europeanamericana.com
 Find proxy.cfm?url=http://
 Replace proxy.cfm?url=http://^A
@@ -84,5 +99,12 @@ NeverProxy ivotts.rs.ebscohost.com
 NeverProxy widgets.ebscohost.com
 NeverProxy connect.ebsco.com
 NeverProxy signin.ebsco.zone
+NeverProxy imagesrvr.epnet.com
+NeverProxy shibboleth.ebscohost.com
+NeverProxy auth.ebsco.zone
+NeverProxy kg.ebscohost.com
+NeverProxy pdc-evs.ebscohost.com
+NeverProxy sdc-evs.ebscohost.com
+NeverProxy app-na.readspeaker.com
 AnonymousURL -*
 AddUserHeader
