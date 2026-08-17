@@ -5,7 +5,7 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20260203)
+Title Wiley Online (updated 20260728)
 MimeFilter application/json .* javascript
 MimeFilter text/plain .* javascript
 HTTPHeader -request -process X-Requested-With
@@ -49,6 +49,7 @@ HJ ascpt.onlinelibrary.wiley.com
 HJ asi.onlinelibrary.wiley.com
 HJ asistdl.onlinelibrary.wiley.com
 HJ aslopubs.onlinelibrary.wiley.com
+HJ asme.onlinelibrary.wiley.com
 HJ asmepublications.onlinelibrary.wiley.com
 HJ aspenjournals.onlinelibrary.wiley.com
 HJ associationofanaesthetists-publications.onlinelibrary.wiley.com
@@ -113,6 +114,7 @@ HJ https://ascpt.onlinelibrary.wiley.com
 HJ https://asi.onlinelibrary.wiley.com
 HJ https://asistdl.onlinelibrary.wiley.com
 HJ https://aslopubs.onlinelibrary.wiley.com
+HJ https://asme.onlinelibrary.wiley.com
 HJ https://asmepublications.onlinelibrary.wiley.com
 HJ https://aspenjournals.onlinelibrary.wiley.com
 HJ https://associationofanaesthetists-publications.onlinelibrary.wiley.com
@@ -185,7 +187,7 @@ HJ https://sfamjournals.onlinelibrary.wiley.com
 HJ https://shmpublications.onlinelibrary.wiley.com
 HJ https://sid.onlinelibrary.wiley.com
 HJ https://sigmapubs.onlinelibrary.wiley.com
-HJ https://sms.onlinelibrary.wiley.com
+HJ https://sms.onlinelibrary.wiley.com 
 HJ https://spssi.onlinelibrary.wiley.com
 HJ https://srcd.onlinelibrary.wiley.com
 HJ https://stemcellsjournals.onlinelibrary.wiley.com
@@ -249,7 +251,7 @@ HJ setac.onlinelibrary.wiley.com
 HJ sfamjournals.onlinelibrary.wiley.com
 HJ shmpublications.onlinelibrary.wiley.com
 HJ sid.onlinelibrary.wiley.com
-HJ sms.onlinelibrary.wiley.com
+HJ sms.onlinelibrary.wiley.com 
 HJ spssi.onlinelibrary.wiley.com
 HJ srcd.onlinelibrary.wiley.com
 HJ stemcellsjournals.onlinelibrary.wiley.com

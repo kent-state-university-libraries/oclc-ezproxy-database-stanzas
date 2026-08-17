@@ -16,7 +16,7 @@ AnonymousURL +https://t.oversea.cnki.net/applog/*
 AnonymousURL +https://piccache.oversea.cnki.net/kdn/*
 AnonymousURL +https://aicheck.oversea.cnki.net
 AnonymousURL +https://check.oversea.cnki.net
-Title The CNKI Main Page (updated 20260610)
+Title The CNKI Main Page (updated 20260731)
 HTTPHeader -response -edit location RewriteURL(REReplace("!https%3a%2f%2fo\.oversea\.cnki.\net!g", RewriteURL("https://o.oversea.cnki.net"), hh:value))
 HTTPHeader -request -process Appid
 HTTPHeader -request -process Clientid
@@ -92,6 +92,7 @@ HJ https://aipat.oversea.cnki.net/
 HJ https://check.oversea.cnki.net
 HJ https://ac.oversea.cnki.net
 DJ cnki.net
+Option AllowSendGZip
 Find src='//o.oversea.cnki.net
 Replace src='//^So.oversea.cnki.net^
 Find IncludeCss('//o.oversea.cnki.net

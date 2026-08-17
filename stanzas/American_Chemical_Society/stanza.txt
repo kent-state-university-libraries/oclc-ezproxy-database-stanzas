@@ -1,0 +1,18 @@
+Title American Chemical Society (updated 20260805)
+URL http://pubs.acs.org
+HJ acs.org
+HJ cen.acs.org
+HJ https://cen.acs.org
+HJ cenglobal.acs.org
+HJ https://cenglobal.acs.org
+HJ https://pubs.acs.org
+HJ pubs.acs.org
+HJ https://c2.cen.acs.org 
+HJ c2.cen.acs.org 
+HJ https://experience.tinypass.com
+HJ www.acs.org
+HJ www.chemistry.org
+HJ www.pubs.acs.org
+DJ acs.org
+Find hostprod="pubs.acs.org"
+Replace hostprod="^ppubs.acs.org^"

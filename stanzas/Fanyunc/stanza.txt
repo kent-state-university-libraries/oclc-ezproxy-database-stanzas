@@ -1,5 +1,9 @@
-Title fanyunc (Added 20220902)
-URL http://fanyun.dhcdb.com.tw/
+Title Fanyun Historical Archives (updated 20260812)
+URL https://fanyun.hunteq.com/fanyunc/fanyuntp_m
+HJ https://fanyun.hunteq.com
+HJ fanyun.hunteq.com
+HJ http://fanyun.dhcdb.com.tw
 HJ fanyun.dhcdb.com.tw
-HJ https://fanyun.dhcdb.com.tw/
+HJ https://fanyun.dhcdb.com.tw
 DJ fanyun.dhcdb.com.tw
+DJ hunteq.com

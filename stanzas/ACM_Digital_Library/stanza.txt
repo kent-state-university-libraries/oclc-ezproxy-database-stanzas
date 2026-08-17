@@ -1,17 +1,17 @@
 Option X-Forwarded-For
-Title ACM Digital Library (updated 20211019)
-URL http://dl.acm.org
-HJ https://dl.acm.org
-HJ https://dlnext.acm.org
-HJ https://www.acm.org
-HJ dlnext.acm.org
+Title ACM Digital Library (updated 20260804)
+URL https://dl.acm.org
 HJ acm.org
 HJ acmtecs.acm.org
 HJ books.acm.org
 HJ cacm.acm.org
 HJ campus.acm.org
 HJ delivery.acm.org
+HJ dlnext.acm.org
 HJ doi.acm.org
+HJ https://dl.acm.org
+HJ https://dlnext.acm.org
+HJ https://www.acm.org
 HJ interactions.acm.org
 HJ jacm.acm.org
 HJ jdiq.acm.org
@@ -30,8 +30,8 @@ HJ tiis.acm.org
 HJ tissec.acm.org
 HJ tist.acm.org
 HJ tmis.acm.org
-HJ tochi.acm.org
 HJ toce.acm.org
+HJ tochi.acm.org
 HJ tocl.acm.org
 HJ tocs.acm.org
 HJ toct.acm.org
@@ -55,7 +55,10 @@ HJ www.acm.org
 HJ www.jea.acm.org
 HJ xrds.acm.org
 DJ acm.org
+Find <input name="idp" type="hidden" value="https://
+Replace <input name="idp" type="hidden" value="https://^A
+Find form action="https&#x3a;&#x2f;&#x2f;dl.acm.org&#x2f;action&#x2f;saml2post" method="post">
+Replace form action="https://dl.acm.org/action/saml2post" method="post">
 Option NoX-Forwarded-For
-NeverProxy idp.acm.org
 NeverProxy acm-prod-streaming.literatumonline.com
 NeverProxy acm-prod-cdn.literatumonline.com
