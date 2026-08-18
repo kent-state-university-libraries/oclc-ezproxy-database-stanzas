@@ -1,3 +1,6 @@
+This repository is expected to transition to a private repository in the coming months. Users should therefore consider alternative solutions for their needs, including the University of Saskatchewan Library’s GitHub repository, usask-library/ezproxy-stanzas, or other suitable alternatives.
+Please plan accordingly, as continued public access to this repository is not guaranteed after the transition.
+
 # oclc-ezproxy-database-stanzas
 
 This repository contains EZProxy Database Stanzas provided by OCLC at [https://help.oclc.org/Library_Management/EZproxy/Database_stanzas](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas).
