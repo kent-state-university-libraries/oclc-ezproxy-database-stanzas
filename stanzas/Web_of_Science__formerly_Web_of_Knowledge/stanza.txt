@@ -1,0 +1,48 @@
+HTTPMethod PATCH
+Option CookiePassThrough
+AnonymousURL +.ttf
+AnonymousURL +.woff
+AnonymousURL -Options +https://exports.www.webofscience.com/*
+AnonymousURL -Options +https://exports-eu.www.webofscience.com/*
+Title Web of Science (formerly Web of Knowledge) (updated 20260821)
+HTTPHeader -request -process X-1P-WOS-SID
+HTTPHeader -request -process X-1P-WOS-No-Action
+URL http://www.webofscience.com
+HJ https://router.webofscience.com
+HJ https://gateway.webofknowledge.com
+HJ https://www.researcherid.com
+HJ https://webofknowledge.com
+HJ https://www.webofknowledge.com
+HJ https://www.webofscience.com
+HJ https://webofscience.com
+HJ gateway.webofknowledge.com
+HJ www.researcherid.com
+HJ webofknowledge.com
+HJ www.webofknowledge.com
+HJ webofscience.com
+HJ www.webofscience.com
+HJ router.webofscience.com
+HJ webofknowledge.com
+DJ researcherid.com
+DJ webofscience.com
+DJ webofknowledge.com
+Find value="http://
+Replace value="http://^A
+Find VALUE="http://
+Replace VALUE="http://^A
+Find rurl=http://
+Replace rurl=http://^A
+Find return_url=http://
+Replace return_url=http://^A
+Find "CIT.GATEWAY_URL">gateway.webofknowledge.com
+Replace "CIT.GATEWAY_URL">^pgateway.webofknowledge.com^  
+Find value='gateway.webofknowledge.com/gateway/Gateway.cgi'
+Replace value='^pgateway.webofknowledge.com^/gateway/Gateway.cgi'
+Find noprox href="https://
+Replace noprox href="https://^A
+Find noprox src="https://
+Replace noprox src="https://^A
+Find access.clarivate.com
+Replace ^Saccess.clarivate.com^
+AnonymousURL -*
+Option Cookie
