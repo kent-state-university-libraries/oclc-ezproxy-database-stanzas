@@ -1,0 +1,7 @@
+Title Contemporary Chinese Newspaper Full-Text Database (20260827)
+URL https://www.yunyuejia.net/
+HJ https://www.yunyuejia.net
+HJ https://images.yunyuejia.net
+HJ images.yunyuejia.net 
+Find http://cos.ap-beijing.myqcloud.com
+Replace https://cos.ap-beijing.myqcloud.com

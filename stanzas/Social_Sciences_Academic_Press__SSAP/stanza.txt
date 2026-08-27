@@ -1,0 +1,26 @@
+Title Social Sciences Academic Press (SSAP) (updated 20260827)
+URL https://www.pishu.com.cn
+HJ https://www.pishu.com.cn
+HJ www.pishu.com.cn
+HJ https://www.ydylcn.com
+HJ www.ydylcn.com
+HJ https://www.jianpincn.com
+HJ www.jianpincn.com
+HJ https://www.crggcn.com
+HJ www.crggcn.com
+HJ https://www.jingjinjicn.com
+HJ www.jingjinjicn.com
+HJ https://www.jikan.com.cn
+HJ www.jikan.com.cn
+HJ https://www.ruralchina.cn
+HJ www.ruralchina.cn
+HJ https://www.ssap.com.cn
+HJ www.ssap.com.cn
+DJ pishu.com.cn
+DJ ydylcn.com
+DJ jianpincn.com
+DJ crggcn.com
+DJ jingjinjicn.com
+DJ jikan.com.cn
+DJ ruralchina.cn
+DJ ssap.com.cn
