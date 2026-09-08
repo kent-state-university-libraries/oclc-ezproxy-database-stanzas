@@ -1,7 +1,12 @@
-Title Artists Information Group
-URL https://www.a-n.co.uk/
+Title Artists Information Group (updated 20260903)
+URL https://www.artistsnow.com/
 HJ a-n.co.uk
+HJ artistsnow.com
 HJ https://a-n.co.uk
+HJ https://artistsnow.com
 HJ https://www.a-n.co.uk
+HJ https://www.artistsnow.com
 HJ www.a-n.co.uk
+HJ www.artistsnow.com
 DJ a-n.co.uk
+DJ artistsnow.com

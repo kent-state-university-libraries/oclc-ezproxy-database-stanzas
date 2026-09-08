@@ -3,10 +3,11 @@ AnonymousURL +https://api.calcsoft.nl/api/*
 AnonymousURL +https://api2.calcsoft.nl/signalr/*
 AnonymousURL +https://login.bouwkosten.nl/api/*
 AnonymousURL +https://login.bouwkostenkompas.nl/api/*
-Title Bouwkosten Kompas (updated 20260119)
+AnonymousURL +https://signin.bouwkosten.nl/connect*
+Title Bouwkosten Kompas (updated 20260908)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process X-SignalR-User-Agent
-URL https://login.bouwkostenkompas.nl/Home/Login?returnUrl=https%3A%2F%2Fwww.bouwkostenkompas.nl
+URL https://www.bouwkostenkompas.nl/
 HJ api.calcsoft.nl
 HJ api2.calcsoft.nl
 HJ bouwkostenkompas.nl
@@ -14,9 +15,11 @@ HJ https://api.calcsoft.nl
 HJ https://api2.calcsoft.nl
 HJ https://bouwkostenkompas.nl
 HJ https://login.bouwkosten.nl
+HJ https://signin.bouwkosten.nl
 HJ https://view.genially.com
 HJ https://www.bouwkostenkompas.nl
 HJ login.bouwkosten.nl
+HJ signin.bouwkosten.nl
 HJ view.genially.com
 HJ www.bouwkostenkompas.nl
 DJ bouwkostenkompas.nl
@@ -24,5 +27,7 @@ DJ calcsoft.nl
 DJ genially.com
 Find https:\u002F\u002Flogin.bouwkostenkompas.nl
 Replace https:\u002F\u002F^Slogin.bouwkostenkompas.nl^
+Find redirectUri:window.location.origin+"/",postLogoutRedirectUri:window.location.origin+"/"
+Replace redirectUri:"https://^Awww.bouwkostenkompas.nl/",postLogoutRedirectUri:"https://^Awww.bouwkostenkompas.nl/"
 AnonymousURL -*
 Option Cookie
