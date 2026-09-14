@@ -9,6 +9,4 @@ The lines between DJ static.pubmed.gov and the Find/Replace lines are for linkin
 
 The linking lines for EBSCOhost that appeared in earlier definitions of PubMed were removed since the standard definition for EBSCOhost contains everything needed to insure that links from PubMed to EBSCOhost will be handled correctly.
 
-A Hosted EZproxy Include File is available for this resource. Hosted EZproxy customers will receive automatic updates with OCLC&rsquo;s latest version of this stanza. Note: Hosted EZproxy customers in the Americas using self-service may reference the Include File by adding the following line to config.txt:
-
-&nbsp;
+ 
