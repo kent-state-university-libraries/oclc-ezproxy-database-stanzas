@@ -8,7 +8,7 @@ AnonymousURL +https://recsysbeta.oversea.cnki.net/RCDService/api/UserDataCenter/
 AnonymousURL +https://kbsi.oversea.cnki.net/*
 AnonymousURL +https://oversea.cnki.net/restapi/*
 AnonymousURL +https://oversea.cnki.net/restapi/luban/*
-AnonymousURL +https://o.oversea.cnki.net/EcpAuth/Token/create_by_idenId*
+AnonymousURL +https://o.oversea.cnki.net/EcpAuth/Token/create_by_idenId
 AnonymousURL +https://o.oversea.cnki.net/EcpOversea/EcpApi_OverSea/OUserInfo/receive_user_pack_right*
 AnonymousURL +https://o.oversea.cnki.net/EcpOversea/EcpApi_OverSea/OUserInfo/get_user_common_Info*
 AnonymousURL +https://t.oversea.cnki.net/restapi/kns8s-api/*
@@ -16,8 +16,26 @@ AnonymousURL +https://t.oversea.cnki.net/applog/*
 AnonymousURL +https://piccache.oversea.cnki.net/kdn/*
 AnonymousURL +https://aicheck.oversea.cnki.net
 AnonymousURL +https://check.oversea.cnki.net
-Title The CNKI Main Page (updated 20260731)
-HTTPHeader -response -edit location RewriteURL(REReplace("!https%3a%2f%2fo\.oversea\.cnki.\net!g", RewriteURL("https://o.oversea.cnki.net"), hh:value))
+AnonymousURL +https://o.oversea.cnki.net/barnew/*
+AnonymousURL +https://o.oversea.cnki.net/newOverseaLogin/*
+AnonymousURL +https://thinker.oversea.cnki.net/wbfd-api/*
+AnonymousURL +https://oversea.cnki.net/restapi/kreader-api/*
+AnonymousURL +https://t.oversea.cnki.net/restapi/kreader-api/*
+AnonymousURL +https://tra.oversea.cnki.net/restapi/kreader-api/*
+AnonymousURL +https://ai.oversea.cnki.net/restapi/kreader-api/*
+AnonymousURL +https://aismart.oversea.cnki.net/restapi/kreader-api/*
+AnonymousURL +https://restapi/kreader-api/v1/auth/*
+AnonymousURL +https://kreader2/*
+AnonymousURL +https://oversea.cnki.net/restapi/kreader-api/v1/pdf/*
+AnonymousURL +https://t.oversea.cnki.net/restapi/kreader-api/v1/pdf/*
+Title The CNKI Main Page (20260916)
+ByteServe https://oversea\.cnki\.net/restapi/kreader-api/v1/pdf/segmentstream.*
+ByteServe https://oversea\.cnki\.net/restapi/kreader-api/v1/pdf/img.*
+ByteServe https://t\.oversea\.cnki\.net/restapi/kreader-api/v1/pdf/segmentstream.*
+ByteServe https://t\.oversea\.cnki\.net/restapi/kreader-api/v1/pdf/img.*
+ByteServe https://o\.oversea\.cnki\.net/barnew/.*segmentstream.*
+ByteServe https://bar\.oversea\.cnki\.net/.*segmentstream.*
+HTTPHeader -response -edit location RewriteURL(REReplace("!https%3a%2f%2fo\.oversea\.cnki\.net!g", RewriteURL("https://o.oversea.cnki.net"), hh:value))
 HTTPHeader -request -process Appid
 HTTPHeader -request -process Clientid
 HTTPHeader -request -process Signature
@@ -31,7 +49,7 @@ HTTPHeader -request -process Accesstoken
 HTTPHeader -request -process Client-Uuid
 HTTPHeader -request -process Lang
 HTTPHeader -request -process Overseaflag
-URL https://oversea.cnki.net/
+URL https://oversea.cnki.net
 HJ oversea.cnki.net
 HJ chn.oversea.cnki.net
 HJ tra.oversea.cnki.net
