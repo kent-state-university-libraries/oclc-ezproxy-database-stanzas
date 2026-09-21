@@ -1,4 +1,4 @@
-Title CABI Resources (updated 20250331)
+Title CABI Resources (updated 20260918)
 HTTPHeader -request -process AF_TOKEN
 HTTPHeader -request -process authToken
 HTTPHeader -request -process CONNECT_APP
@@ -8,10 +8,10 @@ HJ https://cabi.org
 HJ https://www.cabi.org
 HJ www.cabi.org
 DJ cabi.org
-NeverProxy https://cdnjs.cloudflare.com
-NeverProxy https://cdn.cabi.org
 NeverProxy https://api.cabi.org
-
+NeverProxy https://cdn.cabi.org
+NeverProxy https://cdnjs.cloudflare.com
+NeverProxy https://help.cabi.org 
 
 Option DomainCookieOnly
 Title CABI digital library
