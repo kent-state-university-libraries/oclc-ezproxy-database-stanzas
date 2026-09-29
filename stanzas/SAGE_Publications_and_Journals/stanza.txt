@@ -1,5 +1,5 @@
 # This file is sage.txt as of 2017-06-07.
-#
+# 
 # If you download this file directly into the directory where
 # EZproxy is installed, you can reference it from config.txt/ezproxy.cfg
 # by adding the line:
@@ -9,13 +9,17 @@
 # This method allows you to replace the file at a later date
 # without the need to integrate updates directly into config.txt/ezproxy.cfg
 #
-Title Sage Journals (updated 20260515)
+AnonymousURL +https://cdn.cqpresscollections.sagepub.com/*
+Title Sage Journals (updated 20260928)
+ByteServe https://cdn\.cqpresscollections\.sagepub\.com/.*\.pmtiles
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process __RequestVerificationToken
 HTTPHeader -request -process X-XSRF-Token
 URL https://journals.sagepub.com
 HJ advance.sagepub.com/
 HJ au.sagepub.com
+HJ https://cdn.cqpresscollections.sagepub.com
+HJ cdn.cqpresscollections.sagepub.com
 HJ businessresearcher.sagepub.com
 HJ data.sagepub.com
 HJ in.sagepub.com
@@ -63,6 +67,7 @@ HJ https://el.sagepub.com
 DJ cnpereading.com
 DJ corwin.com
 DJ cqpress.com
+DJ cqpresscollections.sagepub.com
 DJ methodspace.com
 DJ nybooks.com
 DJ physiology.org
@@ -76,6 +81,7 @@ Find url = "https://
 Replace url = "https://^A
 Find url = document.location.protocol + "//" + document.location.host
 Replace url = "https://journals.sagepub.com/"
+AnonymousURL -*
 NeverProxy widgets.sagepub.com
 NeverProxy widgetscdn.sagepub.com
 NeverProxy scpassetsrepcdn.sagepub.com
