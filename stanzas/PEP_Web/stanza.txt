@@ -1,17 +1,28 @@
 Option CookiePassThrough
-Title PEP Web (updated 20220715)
-HTTPHeader -request -process X-*
-HTTPHeader -request -process Accept-Encoding
-HTTPHeader -request -process Access-Control-Allow-Origin
+Title PEP (updated 20260929)
+HTTPHeader -request -inject PEP-Proxy-Host (server:url:http =~ "@^http://([^:]+)@", re:1)
+HTTPHeader -request -process RSC
+HTTPHeader -response -process RSC
+HTTPHeader -request -process Next-Action
+HTTPHeader -response -process Next-Action
+HTTPHeader -request -process Next-Url
+HTTPHeader -response -process Next-Url
+HTTPHeader -request -process Next-Router-*
+HTTPHeader -response -process Next-Router-*
 HTTPHeader -request -process Origin
-U https://pep-web.org
-HJ https://www.pep-web.org
-HJ www.pep-web.org
-HJ https://api.pep-web.org
-HJ https://pads.pep-web.org
-HJ api.pep-web.org
-HJ pads.pep-web.org
-HJ pep-web.org
-DJ pep-web.org
+HTTPHeader -request -process X-*
+HTTPHeader -response -process X-Action-*
+HTTPHeader -response -process X-Nextjs-*
+HTTPHeader -request -process Access-Control-Request-*
+HTTPHeader -response -process Access-Control-*
+URL https://pep-web.org
+H https://www.pep-web.org
+H https://api.pep-web.org
+H https://pads.pep-web.org
+H www.pep-web.org
+H api.pep-web.org
+H pads.pep-web.org
+D pep-web.org
 NeverProxy assets.pep-web.org
+NeverProxy cms.pep-web.org
 Option Cookie
