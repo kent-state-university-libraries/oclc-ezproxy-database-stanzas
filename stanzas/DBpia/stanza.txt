@@ -1,0 +1,6 @@
+Title DBpia (updated 20261001)
+ByteServe https://www\.dbpia\.co\.kr/pdf/pdfView.*
+URL http://www.dbpia.co.kr
+HJ https://www.dbpia.co.kr
+HJ www.dbpia.co.kr
+DJ dbpia.co.kr

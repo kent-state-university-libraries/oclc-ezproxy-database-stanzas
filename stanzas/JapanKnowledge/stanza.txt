@@ -1,3 +1,9 @@
-Title Japan Knowledge
-URL http://japanknowledge.com/library/
+Title Japan Knowledge(updated 20260930)
+URL https://japanknowledge.com/library/
+HJ https://japanknowledge.com
+HJ https://portal.japanknowledge.com
+HJ https://suggest.japanknowledge.com
+HJ portal.japanknowledge.com  
+HJ suggest.japanknowledge.com
+HJ japanknowledge.com
 DJ japanknowledge.com
