@@ -1,8 +1,22 @@
-Title Newsbank/Readex Databases (updated 20220628)
+Title Newsbank/Readex Databases (updated 20261002)
 MimeFilter application/octet-stream .* javascript
+HTTPHeader -request -inject x-ezproxy-server EZPROXY
+HTTPHeader -request -process traceparent
+HTTPHeader -request -process tracestate
+HTTPHeader -response -process Next-Router-State-Tree
+HTTPHeader -response -process Next-Router-Prefetch
+HTTPHeader -request -process Next-Action
+HTTPHeader -response -process Next-Action
+HTTPHeader -request -process Next-Url
+HTTPHeader -response -process Next-Url
+HTTPHeader -response -process Rsc
 URL https://infoweb.newsbank.com
 HJ docs.newsbank.com
 HJ https://docs.newsbank.com
+HJ arthur.newsbank.com
+HJ https://arthur.newsbank.com
+HJ auth.newsbank.com
+HJ https://auth.newsbank.com
 HJ https://newsbank.com
 HJ https://opac.newsbank.com
 HJ https://products.newsbank.com
@@ -33,3 +47,5 @@ NeverProxy app-eas.readspeaker.com
 NeverProxy rstts-eas.readspeaker.com
 NeverProxy vttts-eas.readspeaker.com
 NeverProxy media-eas.readspeaker.com
+NeverProxy 189097220475.collect.observeinc.com
+NeverProxy telemetry.newsbank.com
