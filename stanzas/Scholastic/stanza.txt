@@ -1,5 +1,5 @@
 Option CookiePassThrough
-Title Scholastic (Updated 20240919)
+Title Scholastic (updated 20261005)
 URL https://digital.scholastic.com
 HJ https://digital.scholastic.com
 HJ scholastic.com
