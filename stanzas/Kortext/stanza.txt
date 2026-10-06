@@ -1,0 +1,5 @@
+Title Kortext IP (updated 20261006)
+URL https://read.kortext.com/api/identity/v1/ezproxy/callback
+HJ read.kortext.com
+HJ https://read.kortext.com
+NeverProxy app.kortext.com
