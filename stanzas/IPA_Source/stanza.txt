@@ -1,5 +1,7 @@
-Title IPA Source (updated 20250710)
-URL https://www.ipasource.com
-HJ https://www.ipasource.com
-HJ www.ipasource.com
-DJ ipasource.com
+Title IPA Source (updated 20261007)     
+URL https://www.ipasource.com     
+HJ https://www.ipasource.com     
+HJ www.ipasource.com     
+DJ ipasource.com  
+Find www.ipasource.com  
+Replace ^Swww.ipasource.com^
