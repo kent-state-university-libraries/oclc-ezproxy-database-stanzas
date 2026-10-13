@@ -1,9 +1,11 @@
-Title Grant Connect (updated 20210511)
-URL https://app.beta.grantconnect.ca
-HJ app.beta.grantconnect.ca
-HJ https://beta.grantconnect.ca
-HJ beta.grantconnect.ca
-HJ https://www.beta.grantconnect.ca
-HJ https://www.alpha.grantconnect.ca
+AnonymousURL -OPTIONS +https://api.grantconnect.ca*
+AnonymousURL +https://api.grantconnect.ca*
+Title Grant Connect (updated 20261009)
+URL https://grantconnect.ca/search
+HJ grantconnect.ca
 HJ https://grantconnect.ca
+HJ https://connexionsubvention.ca
+HJ http://connexionsubvention.ca
+DJ connexionsubvention.ca
 DJ grantconnect.ca
+AnonymousURL -*

@@ -1,3 +1,6 @@
-Title Mathematical Sciences Publishers
+Title Mathematical Sciences Publishers (updated 20261009)
 URL https://msp.org
+HJ https://journals.msp.org
+HJ journals.msp.org
+HJ msp.org
 DJ msp.org
