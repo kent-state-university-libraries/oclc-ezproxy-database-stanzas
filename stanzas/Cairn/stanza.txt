@@ -1,6 +1,6 @@
 AnonymousURL +*.woff*
 AnonymousURL +https://shs.cairn.info/build/assets/*.js*
-Title Cairn (OCLC IncludeFile updated 20260518)
+Title Cairn (updated 20261015)
 HTTPHeader -request -process X-Livewire
 HTTPHeader -response -process accept-ch
 URL https://www.cairn.info/
@@ -29,6 +29,8 @@ DJ cairn-int.info
 DJ cairn-mundo.info
 DJ cairn-sciences.info
 DJ cairn.info
+Find "redirect":"https:\/\/droit.cairn.info\/
+Replace "redirect":"https://^Sdroit.cairn.info^/
 Find "redirect":"https:\/\/shs.cairn.info\/
 Replace "redirect":"https://^Sshs.cairn.info^/
 Find redirect":"https:\/\/stm.cairn.info\/
