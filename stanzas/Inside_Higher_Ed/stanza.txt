@@ -1,4 +1,4 @@
-Title Inside Higher Ed (updated 20260803)
+Title Inside Higher Ed (updated 20261019)
 URL https://www.insidehighered.com
 HJ https://www.insidehighered.com
 HJ www.insidehighered.com
@@ -6,6 +6,7 @@ HJ https://insidehighered.com
 HJ insidehighered.com
 HJ c2.piano.io
 HJ https://c2.piano.io
-HJ experience.tinypass.com
 HJ https://experience.tinypass.com
+HJ experience.tinypass.com
 DJ insidehighered.com
+NeverProxy cdn.piano.io
