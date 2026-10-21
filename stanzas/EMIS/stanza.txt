@@ -1,7 +1,19 @@
-Title EMIS
-URL https://www.emis.com
+Title EMIS (updated 20261021)
+URL https://isimarkets.com/emis/
+HJ auth.emis.com
+HJ cas.emis.com
+HJ emis.com
 HJ https://auth.emis.com
+HJ https://cas.emis.com
+HJ https://emis.com
+HJ https://isimarkets.com
+HJ https://www.emis.com
+HJ https://www.isimarkets.com
+HJ isimarkets.com
+HJ www.emis.com
+HJ www.isimarkets.com
 DJ emis.com
+DJ isimarkets.com
 NeverProxy https://static-emis.emis.com
 NeverProxy https://cdn.emis.com
 NeverProxy https://*.cdn.emis.com
