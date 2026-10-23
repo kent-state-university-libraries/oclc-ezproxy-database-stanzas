@@ -1,5 +1,14 @@
-T British Standards Online (Updated 20260303)
-U https://bsol.bsigroup.com/
+Title British Standards Online (updated 20261023)
+ByteServe https://knowledge\.bsigroup\.com/products/.*
+HTTPHeader -Request -Process Baggage
+HTTPHeader -Request -Process Next-Action
+HTTPHeader -Request -Process Next-Router-Prefetch
+HTTPHeader -Request -Process Next-Router-State-Tree
+HTTPHeader -Request -Process Next-Url
+HTTPHeader -Request -Process Rsc
+HTTPHeader -Request -Process Sentry-Trace
+HTTPHeader -Request -Process X-CSRF-Token
+URL https://bsol.bsigroup.com/
 HJ bsigroup.com
 HJ bsol.bsigroup.com
 HJ https://bsigroup.com
@@ -10,13 +19,13 @@ HJ knowledge.bsigroup.com
 HJ www.bsigroup.com
 DJ bsi-global.com
 DJ bsigroup.com
-Find &lt;Address>https://
-Replace &lt;Address>https://^A
-Find &lt;Audience>https://
-Replace &lt;Audience>https://^A
-Find &lt;Attribute Name=&quot;http://
-Replace &lt;Attribute Name=&quot;http://^A
+Find <Address>https://
+Replace <Address>https://^A
+Find <Audience>https://
+Replace <Audience>https://^A
+Find <Attribute Name=&quot;http://
+Replace <Attribute Name=&quot;http://^A
 Find a:OriginalIssuer=&quot;https://
 Replace a:OriginalIssuer=&quot;https://^A
-Find &lt;AuthnContextClassRef>http://
-Replace &lt;AuthnContextClassRef>http://^A
+Find <AuthnContextClassRef>http://
+Replace <AuthnContextClassRef>http://^A
