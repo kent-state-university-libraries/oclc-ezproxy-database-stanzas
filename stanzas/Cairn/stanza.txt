@@ -1,6 +1,7 @@
+Option CookiePassThrough
 AnonymousURL +*.woff*
 AnonymousURL +https://shs.cairn.info/build/assets/*.js*
-Title Cairn (updated 20261015)
+Title Cairn (updated 20261027)
 HTTPHeader -request -process X-Livewire
 HTTPHeader -response -process accept-ch
 URL https://www.cairn.info/
@@ -36,3 +37,4 @@ Replace "redirect":"https://^Sshs.cairn.info^/
 Find redirect":"https:\/\/stm.cairn.info\/
 Replace redirect":"https://^Sstm.cairn.info^/
 AnonymousURL -*
+Option Cookie
