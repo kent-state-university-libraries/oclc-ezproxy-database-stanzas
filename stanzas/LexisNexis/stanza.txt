@@ -3,100 +3,100 @@ AnonymousURL +https://static.law360news.com/*
 PHE www.lexisnexis.com$ www-lexisnexis-com
 PHE www.nexis.com$ www-nexis-com
 Option CookiePassThrough
-Title Lexis Nexis (updated 20250821)
-HTTPMethod PUT
+Title Lexis Nexis (updated 20261102)
 HTTPMethod DELETE
 HTTPMethod PATCH
-HTTPHeader -request -unrewrite X-LN-PreviousRequestId
-HTTPHeader -request -unrewrite X-RequestedWith
+HTTPMethod PUT
+HTTPHeader -request -process X-NewRelic-ID
 HTTPHeader -request -unrewrite X-LN-CurrentRequestId
-HTTPHeader -request -unrewrite X-RE-Ref
-HTTPHeader -request -unrewrite X-UA-Compatible
 HTTPHeader -request -unrewrite X-LN-InstanceId
 HTTPHeader -request -unrewrite X-LN-PageMode
-HTTPHeader -request -process X-NewRelic-ID
-HTTPHeader -response -process X-LN-PreviousRequestId
-HTTPHeader -response -process X-RequestedWith
+HTTPHeader -request -unrewrite X-LN-PreviousRequestId
+HTTPHeader -request -unrewrite X-RequestedWith
+HTTPHeader -request -unrewrite X-RE-Ref
+HTTPHeader -request -unrewrite X-UA-Compatible
+HTTPHeader -response -process X-AspNetMvc-Version
 HTTPHeader -response -process X-LN-CurrentRequestId
-HTTPHeader -response -process X-RE-Ref
-HTTPHeader -response -process X-UA-Compatible
 HTTPHeader -response -process X-LN-InstanceId
 HTTPHeader -response -process X-LN-PageMode
-HTTPHeader -response -process X-AspNetMvc-Version
+HTTPHeader -response -process X-LN-PreviousRequestId
+HTTPHeader -response -process X-RequestedWith
+HTTPHeader -response -process X-RE-Ref
+HTTPHeader -response -process X-UA-Compatible
 URL http://www.lexisnexis.com/
-HJ https://advance.lexis.com
 HJ advance.lexis.com
+HJ https://advance.lexis.com
 HJ https://dniaeeyvroj2l.cloudfront.net
 HJ https://lexisadvancequicklaw.ca
-HJ lexisadvancequicklaw.ca
 HJ https://lexisnexis.co.za
-HJ lexisnexis.co.za
 HJ https://mylexisnexis.co.za
-HJ mylexisnexis.co.za
 HJ https://nexis.com
-HJ nexis.com
-HJ https://nexisuni.com
-HJ nexisuni.com
 HJ https://nexis.lexisnexis.com/
-HJ nexis.lexisnexis.com/
+HJ https://nexisuni.com
 HJ https://plus.lexis.com
-HJ plus.lexis.com
-HJ https://w3.lexis.com
-HJ w3.lexis.com
-HJ https://w3.nexis.com
-HJ w3.nexis.com
-HJ https://web.lexis-nexis.com
-HJ web.lexis-nexis.com
-HJ https://web.lexisnexis.com
-HJ web.lexisnexis.com
-HJ https://www.lexis.com
-HJ www.lexis.com
-HJ https://www.lexis-nexis.com
-HJ www.lexis-nexis.com
-HJ https://www.lexis360intelligence.fr
-HJ www.lexis360intelligence.fr
-HJ https://www.lexisnexis.co.za
-HJ www.lexisnexis.co.za
-HJ https://www.lexisnexis.com
-HJ www.lexisnexis.com
-HJ https://www.lexisnexis.fr
-HJ www.lexisnexis.fr
-HJ https://www.mylexisnexis.co.za
-HJ www.mylexisnexis.co.za
-HJ https://www.nexis.com
-HJ www.nexis.com
-HJ https://www.nexisuni.com
-HJ www.nexisuni.com
-HJ https://www.totalpatentone.com
-HJ www.totalpatentone.com
-HJ https://www.law360.com
-HJ www.law360.com
-HJ https://www.law360.ca
-HJ www.law360.ca
-HJ https://www.law360.co.uk
-HJ www.law360.co.uk
 HJ https://static.law360news.com
+HJ https://w3.lexis.com
+HJ https://w3.nexis.com
+HJ https://web.lexisnexis.com
+HJ https://web.lexis-nexis.com
+HJ https://www.law360.ca
+HJ https://www.law360.co.uk
+HJ https://www.law360.com
+HJ https://www.lexis.com
+HJ https://www.lexis360intelligence.fr
+HJ https://www.lexisnexis.co.za
+HJ https://www.lexisnexis.com
+HJ https://www.lexis-nexis.com
+HJ https://www.lexisnexis.fr
+HJ https://www.mylexisnexis.co.za
+HJ https://www.nexis.com
+HJ https://www.nexisuni.com
+HJ https://www.totalpatentone.com
+HJ lexisadvancequicklaw.ca
+HJ lexisnexis.co.za
+HJ mylexisnexis.co.za
+HJ nexis.com
+HJ nexis.lexisnexis.com/
+HJ nexisuni.com
+HJ plus.lexis.com
 HJ static.law360news.com
-DJ lexis-nexis.com
-DJ lexis360intelligence.fr
+HJ w3.lexis.com
+HJ w3.nexis.com
+HJ web.lexisnexis.com
+HJ web.lexis-nexis.com
+HJ www.law360.ca
+HJ www.law360.co.uk
+HJ www.law360.com
+HJ www.lexis.com
+HJ www.lexis360intelligence.fr
+HJ www.lexisnexis.co.za
+HJ www.lexisnexis.com
+HJ www.lexis-nexis.com
+HJ www.lexisnexis.fr
+HJ www.mylexisnexis.co.za
+HJ www.nexis.com
+HJ www.nexisuni.com
+HJ www.totalpatentone.com
+DJ law360.ca
+DJ law360.co.uk
+DJ law360.com
 DJ lexis.com
+DJ lexis360intelligence.fr
 DJ lexisadvancequicklaw.ca
 DJ lexisnexis.co.za
 DJ lexisnexis.com
+DJ lexis-nexis.com
 DJ lexisnexis.fr
 DJ mylexisnexis.co.za
 DJ nexis.com
 DJ nexisuni.com
 DJ plus.lexis.com
-DJ law360.com
-DJ law360.ca
-DJ law360.co.uk
 Find location.hostname
 Replace location.host
 Find = "www.lexisnexis.com"
 Replace = "^pwww.lexisnexis.com^"
-Find &unix=http://
-Replace &unix=http://^A
+Find &amp;unix=http://
+Replace &amp;unix=http://^A
 Find GetCookie("LNAUTH")
 Replace "LNAUTH-IP"
 Find NAME="_PRIORREFERER" VALUE="http://
@@ -115,7 +115,9 @@ Find if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") !
 Replace if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1 || forwardTo.indexOf("lexis-com") != -1 || forwardTo.indexOf("nexis-com") != -1)
 Find action:"https%3a%2f%2fsignin.lexisnexis.com
 Replace action:"https://signin.lexisnexis.com
+Find name="RequestURL" id="RequestURL" value='https://
+Replace name="RequestURL" id="RequestURL" value='https://^A
 Option Cookie
 AnonymousURL -*
-NeverProxy pdc1c-userauthentication.route53.lexis.com
 NeverProxy authn-us.lexisnexis.com
+NeverProxy pdc1c-userauthentication.route53.lexis.com
