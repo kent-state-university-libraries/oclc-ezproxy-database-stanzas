@@ -1,29 +1,55 @@
 HTTPMethod PUT
 HTTPMethod DELETE
+HTTPMethod PATCH
+HTTPMethod OPTIONS
+ProxyHostnameEdit ai.clinicalkey.com$ ai-clinicalkey-com
 ProxyHostnameEdit www.clinicalkey.com$ www-clinicalkey-com
 AnonymousURL +https://eolsapi.elsevier.com/api/*
 AnonymousURL +https://www.clinicalkey.com/ui-origin/*
-Title ClinicalKey (updated 20250915)
+AnonymousURL +https://access.identity.elsevier.com/*
+AnonymousURL +https://sso-resources.healthcare.elsevier.com/assets/*
+Title ClinicalKey (updated 20261102)
+HTTPHeader -request -process authentication-source
+HTTPHeader -request -process rsc
+HTTPHeader -request -process next-action
+HTTPHeader -request -process next-url
+HTTPHeader -request -process next-router-state-tree
+HTTPHeader -request -process next-router-prefetch
+HTTPHeader -request -process next-router-segment-prefetch
+HTTPHeader -request -process x-nextjs-data
 HTTPHeader -request -process CkApp-Request-Product
 HTTPHeader -request -process CK-Path
 HTTPHeader -request -process X-CkApp-Request-Locale
 HTTPHeader -request -process X-Ckm-Product
 HTTPHeader -request -process X-Ck-Request-Id
+HTTPHeader -request -process applicationid
+HTTPHeader -request -process Authorization
+HTTPHeader -request -unrewrite Origin
+MimeFilter text/uri-list .* javascript
 MimeFilter application/json .* javascript
 URL https://www.clinicalkey.com
+HJ https://www.clinicalkey.com
 HJ www.clinicalkey.com
-HJ www.clinicalkey.es
-HJ www.clinicalkey.com.au
-HJ www2.clinicalkey.com
+HJ https://ai.clinicalkey.com
+HJ ai.clinicalkey.com
 HJ https://www2.clinicalkey.com
+HJ www2.clinicalkey.com
 HJ https://www.clinicalkey.es
+HJ www.clinicalkey.es
 HJ https://www.clinicalkey.com.au
-DJ clinicalkey.es
-DJ clinicalkey.com
-DJ clinicalkey.com.au
+HJ www.clinicalkey.com.au
 HJ t.clinicalsolutions.elsevier.com
+DJ clinicalkey.com
+DJ clinicalkey.es
+DJ clinicalkey.com.au
+DJ ai.clinicalkey.com
 DJ elsevier.com
+Find redirect_uri=https://
+Replace redirect_uri=https://^A
+Find redirect_uri=https%3A%2F%2F
+Replace redirect_uri=https%3A%2F%2F^A
 AnonymousURL -*
 NeverProxy cdn.clinicalkey.com
+NeverProxy cdn-student.clinicalkey.com
 NeverProxy jigsaw.elsevier.com
 NeverProxy clinicalkeymeded.elsevier.com
