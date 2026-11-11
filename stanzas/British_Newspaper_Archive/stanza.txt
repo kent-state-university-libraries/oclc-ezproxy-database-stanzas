@@ -3,18 +3,18 @@ AnonymousURL -Options +https://snowplow-collector.britishnewspaperarchive.com/*
 AnonymousURL -Options +https://www.britishnewspaperarchive.com/titan/marshal/*
 AnonymousURL +https://snowplow-collector.britishnewspaperarchive.com/*
 AnonymousURL +https://www.britishnewspaperarchive.com/manifest.json
-Title British Newspaper Archive (updated 20260429)
+Title British Newspaper Archive (updated 20261111)
 HTTPHeader -request -process X-IS-EZproxy
-URL https://www.britishnewspaperarchive.com
-HJ https://www.britishnewspaperarchive.com
-HJ http://www.britishnewspaperarchive.com
-HJ https://britishnewspaperarchive.com
-HJ http://britishnewspaperarchive.com
-HJ https://britishnewspaperarchive.co.uk
+HTTPHeader -request -process Next-Action
+URL https://www.britishnewspaperarchive.com/
 HJ britishnewspaperarchive.co.uk
+HJ britishnewspaperarchive.com
+HJ https://britishnewspaperarchive.co.uk
+HJ https://britishnewspaperarchive.com
+HJ https://d3nd02ak4v4ued.cloudfront.net
 HJ https://www.britishnewspaperarchive.co.uk
 HJ www.britishnewspaperarchive.co.uk
-HJ https://d3nd02ak4v4ued.cloudfront.net
+HJ www.britishnewspaperarchive.com
 DJ britishnewspaperarchive.co.uk
 DJ britishnewspaperarchive.com
 AnonymousURL -*
