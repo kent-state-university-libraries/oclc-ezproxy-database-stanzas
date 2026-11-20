@@ -1,9 +1,17 @@
-HTTPHeader authtoken
 AnonymousURL +https://api.academy.incision.care/*
-Title Incision (updated 20200903)
+AnonymousURL +https://eu-api.assist.incision.care/*
+AnonymousURL +https://us-api.assist.incision.care/*
+Title Incision (updated 20261119)
+HTTPHeader -request -process authtoken
+HTTPHeader -request -process Authorization
 URL https://academy.incision.care/
-HJ https://api.academy.incision.care
-HJ api.academy.incision.care
 HJ academy.incision.care
+HJ api.academy.incision.care
+HJ eu-api.assist.incision.care
+HJ https://api.academy.incision.care
+HJ https://eu-api.assist.incision.care
+HJ https://us-api.assist.incision.care
+HJ us-api.assist.incision.care
 DJ academy.incision.care
+DJ assist.incision.care
 AnonymousURL -*
