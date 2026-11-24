@@ -1,0 +1,5 @@
+Title UrbanNext Lexicon (updated 20261124)
+URL https://urbannext.net
+HJ http://urbannext.net
+DJ urbannext.net
+NeverProxy vimeo.com

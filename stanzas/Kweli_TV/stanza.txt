@@ -1,8 +1,11 @@
-Title Kweli TV (updated 20260226)
+AnonymousURL -OPTIONS +https://kwelitv.api1.revidd.video*
+Title Kweli TV (updated 20261123)
 URL https://www.kweli.tv/start
+HJ https://www.kweli.tv
+HJ https://kwelitv.api1.revidd.video
+HJ https://kwelitv.store1.revidd.video
 HJ www.kweli.tv
+HJ kwelitv.api1.revidd.video
+HJ kwelitv.store1.revidd.video
 DJ kweli.tv
-DJ ottapi.ventunotech.com
-DJ ottapiupgrade.ventunotech.com
-Find https:\/\/
-Replace https://
+AnonymousURL -*
