@@ -1,0 +1,15 @@
+Title Anatomy Learning (updated 20261124)
+URL https://browser.anatomylearning.com/?autologin=1
+HJ https://browser.anatomylearning.com
+HJ browser.anatomylearning.com
+HJ https://anatomylearning.com
+HJ anatomylearning.com
+HJ https://3danatomylearning.com/
+HJ 3danatomylearning.com
+HJ https://mods.anatomylearning.com
+HJ mods.anatomylearning.com
+HJ https://mods2.anatomylearning.com
+HJ mods2.anatomylearning.com
+HJ https://mods3.anatomylearning.com
+HJ mods3.anatomylearning.com
+DJ anatomylearning.com
